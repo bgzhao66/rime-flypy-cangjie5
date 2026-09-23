@@ -646,7 +646,7 @@ def get_sorted_flypyquick5_dict(words, get_frequency = get_frequency_default):
 # Augment the common words when there are conflicts by appending the first character's Cangjie code to the FlypyQuick5 code.
 # which are not most frequent ones.
 # word_codes: a nested dictionary of length, code, word and frequency
-def augment_common_words(word_codes, builtin_dicts = [dict()], lengths = [1, 2, 3, 4], preemptive=True):
+def augment_common_words(word_codes, builtin_dicts = [dict()], lengths = [1, 2, 3, 4, 5, 6, 7], preemptive=True):
     builtin_codes = dict()
     for builtin_dict in builtin_dicts:
         for length in builtin_dict:
