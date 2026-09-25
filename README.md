@@ -1,7 +1,7 @@
-# RIME flypy-quick5 -- 「雙拼倉頡」輸入法方案
+# RIME flypy-cangjie5 -- 「雙拼倉頡」輸入法方案
 
 ## 說明
-<code>flypy-quick5</code> 是一個基於雙拼和倉頡的音形輸入法方案，設計目標是讓用戶能夠簡單、快速、準確地統一輸入各種文體的海量漢語字詞，包括但不限於現代文、古詩文、和文言文等等。
+<code>flypy-cangjie5</code> 是一個基於雙拼和倉頡的音形輸入法方案，設計目標是讓用戶能夠簡單、快速、準確地統一輸入各種文體的海量漢語字詞，包括但不限於現代文、古詩文、和文言文等等。
 
 本方案的核心原則是**確定性編碼**：在碼表覆蓋範圍內，每一個合法編碼串都唯一對應一個詞條；沒有候選歧義，不需要數字鍵選詞，熟練後可以完全盲打。也就是說，用戶輸入的不是「一組候選」，而是「一個確定的詞」。
 
@@ -56,8 +56,8 @@ default.custom.yaml 文件為用戶重要配置文件，其中 schema_list 字�
 
 ### 輸入法碼表
 ```
-flypy_quick5.schema.yaml
-flypy_quick5*.dict.yaml
+flypy_cangjie5.schema.yaml
+flypy_cangjie5*.dict.yaml
 ```
 
 ### 通用方式

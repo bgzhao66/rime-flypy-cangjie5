@@ -2,7 +2,7 @@
 # encoding: utf-8
 
 ---
-name: flypy_quick5
+name: flypy_cangjie5
 version: "0.1"
 sort: by_weight
 max_phrase_length: 10
@@ -25,11 +25,11 @@ encoder:
     - length_equal: 7
       formula: "AaAbBaBbCaCbDaDbEaEbFaFbGaGb"
 import_tables:
-  - flypy_quick5_phrase
-  - flypy_quick5_abbrev
-  - flypy_quick5_abbrevextra
-  - flypy_quick5_extra0
-  - flypy_quick5_extra1
+  - flypy_cangjie5_phrase
+  - flypy_cangjie5_abbrev
+  - flypy_cangjie5_abbrevextra
+  - flypy_cangjie5_extra0
+  - flypy_cangjie5_extra1
 ...
 
 吖	aalr	13035

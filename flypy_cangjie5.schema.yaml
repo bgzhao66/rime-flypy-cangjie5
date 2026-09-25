@@ -2,7 +2,7 @@
 # encoding: utf-8
 
 schema:
-  schema_id: flypy_quick5
+  schema_id: flypy_cangjie5
   name: 雙拼倉頡
   version: "0.30"
   author:
@@ -63,7 +63,7 @@ speller:
   #max_code_length: 5  # 五碼頂字上屏
 
 translator:
-  dictionary: flypy_quick5
+  dictionary: flypy_cangjie5
   enable_charset_filter: true
   enable_sentence: true
   enable_encoder: true
