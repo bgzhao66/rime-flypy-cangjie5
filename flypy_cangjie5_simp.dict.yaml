@@ -2,7 +2,7 @@
 # encoding: utf-8
 
 ---
-name: flypy_quick5_simp
+name: flypy_cangjie5_simp
 version: "0.1"
 sort: by_weight
 max_phrase_length: 10
@@ -25,11 +25,11 @@ encoder:
     - length_equal: 7
       formula: "AaAbBaBbCaCbDaDbEaEbFaFbGaGb"
 import_tables:
-  - flypy_quick5_simp_phrase
-  - flypy_quick5_simp_abbrev
-  - flypy_quick5_simp_abbrevextra
-  - flypy_quick5_simp_extra0
-  - flypy_quick5_simp_extra1
+  - flypy_cangjie5_simp_phrase
+  - flypy_cangjie5_simp_abbrev
+  - flypy_cangjie5_simp_abbrevextra
+  - flypy_cangjie5_simp_extra0
+  - flypy_cangjie5_simp_extra1
 ...
 
 吖	aalr	13035

@@ -2,7 +2,7 @@
 # encoding: utf-8
 
 schema:
-  schema_id: flypy_quick5_simp
+  schema_id: flypy_cangjie5_simp
   name: 双拼仓颉
   version: "0.30"
   author:
@@ -61,7 +61,7 @@ speller:
   #max_code_length: 5  # 五码顶字上屏
 
 translator:
-  dictionary: flypy_quick5_simp
+  dictionary: flypy_cangjie5_simp
   enable_charset_filter: true
   enable_sentence: true
   enable_encoder: true
