@@ -1,6 +1,6 @@
 export PYTHONHASHSEED=0
 
-PRIMARY_NAME = flypy_quick5_simp
+PRIMARY_NAME = flypy_cangjie5_simp
 
 .SILENT:
 all:
