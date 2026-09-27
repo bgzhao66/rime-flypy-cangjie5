@@ -430,17 +430,23 @@ def get_initial_or_finals_cangjie5(word, mode):
 # Returns a list of FlypyQuick5 sequences for the given word and Pinyin sequence.
 #  [("flypyquick5_seq1", freq1), ("flypyquick5_seq2", freq2), ...]
 
-def get_frequency_default(word, code):
-    return get_freq_of_word(word, code, kWordsFreq)
+# Get frequency with optional extra words info
+def get_frequency_default(word, code, extra_words=None):
+    freq = get_freq_of_word(word, code, kWordsFreq)
+    if extra_words and word in extra_words:
+        extra_freq, extra_pos = extra_words[word]
+        if extra_freq > 0:
+            return (freq[0], extra_freq)
+    return freq
 
-def get_flypyquick5_seq(word, pinyin_seq, get_frequency = get_frequency_default):
+def get_flypyquick5_seq(word, pinyin_seq, get_frequency = get_frequency_default, extra_words=None):
     """Convert a word and its Pinyin sequence to FlypyQuick5 sequences."""
     try:
         toneless_seq = get_toneless_pinyin_seq(pinyin_seq)
         flypys = pinyin_to_shuangpin_seq(toneless_seq)
     except ValueError as e:
         raise ValueError(f"Error converting Pinyin to Shuangpin for word '{word}', '{pinyin_seq}'")
-    freq = get_frequency(word, ' '.join(toneless_seq))
+    freq = get_frequency(word, ' '.join(toneless_seq), extra_words)
 
     # mode
     assert len(word) >= 1
@@ -459,12 +465,12 @@ def get_flypyquick5_seq(word, pinyin_seq, get_frequency = get_frequency_default)
 # words: a dictionary of word and a list of pinyin code sequences, e.g. {'word': [['py1', 'py2'], ['py3', 'py4']]}
 # return a dictionary of word and a list of FlypyQuick5 sequences, e.g. {'word': [("flypyquick5_seq1", freq1), ("flypyquick5_seq2", freq2), ...]}
 
-def get_flypyquick5_dict(words, get_frequency = get_frequency_default):
+def get_flypyquick5_dict(words, get_frequency = get_frequency_default, extra_words=None):
     flypyquick5_dict = dict()
     for word in words.keys():
         for pinyin_seq in words[word]:
             try:
-                flypyquick5_seq = get_flypyquick5_seq(word, pinyin_seq, get_frequency)
+                flypyquick5_seq = get_flypyquick5_seq(word, pinyin_seq, get_frequency, extra_words)
                 if word not in flypyquick5_dict:
                     flypyquick5_dict[word] = []
                 for seq, freq in flypyquick5_seq:
@@ -638,6 +644,11 @@ def print_word_codes(word_codes, outfile=sys.stdout, freq_base=0, max_length=7):
 # return a nested dictionary of length, code, word and frequency
 def get_sorted_flypyquick5_dict(words, get_frequency = get_frequency_default):
     words_dict = get_flypyquick5_dict(words, get_frequency)
+    sorted_dict = sort_by_length_and_code(words_dict)
+    return sorted_dict
+
+def get_sorted_flypyquick5_dict_with_extra(words, get_frequency = get_frequency_default, extra_words=None):
+    words_dict = get_flypyquick5_dict(words, get_frequency, extra_words)
     sorted_dict = sort_by_length_and_code(words_dict)
     return sorted_dict
 
@@ -1042,8 +1053,15 @@ def main():
     input_tables = [args.name + t for t in [phrase_suffix, abbrev_suffix, abbrevextra_suffix]]
 
     if not args.test:
-        toneless_phrases = get_sorted_flypyquick5_dict(kTonelessPinyinPhrases)
-        characters = get_sorted_flypyquick5_dict(convert_to_nested_dict(kCharacterCodes))
+        # Load extra words from input_files if provided
+        extra_words = None
+        if args.input_files:
+            extra_words = dict()
+            for input_file in args.input_files:
+                extra_words = get_words_from_file(input_file, extra_words)
+
+        toneless_phrases = get_sorted_flypyquick5_dict_with_extra(kTonelessPinyinPhrases, get_frequency_default, extra_words)
+        characters = get_sorted_flypyquick5_dict_with_extra(convert_to_nested_dict(kCharacterCodes), get_frequency_default, extra_words)
         used_codes = set()
         # Abbreviate codes for the most frequent words
         abbreviated_dicts = get_abbreviated_dict_for(toneless_phrases, characters, used_codes)
@@ -1082,8 +1100,8 @@ def main():
         print(f"Total {len(words)} extra words read from input files.")
         extra_dict = get_pinyin_seq_for_words(words)
 
-        get_frequency = lambda word, code: words[word] if word in words else (0, -sys.maxsize+1)
-        sorted_extra_dict = get_sorted_flypyquick5_dict(extra_dict, get_frequency)
+        get_frequency = lambda word, code, extra: words[word] if word in words else (0, -sys.maxsize+1)
+        sorted_extra_dict = get_sorted_flypyquick5_dict_with_extra(extra_dict, get_frequency)
 
         # Abbreviate codes for the most frequent extra words
         append_used_codes(used_codes, [augmented_characters, augmented_phrases])
