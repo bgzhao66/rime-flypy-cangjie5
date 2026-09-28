@@ -208,14 +208,22 @@ kStandardCodes = get_standard_code_from_file(STANDARD_CHINESE)
 # Merge kStandardCodes and kPinyinCodes, then return the new dictionary
 def merge_character_codes():
     codes = dict()
+    codes_nonstandard = dict()
     for word in kStandardCodes:
         codes[word] = copy.deepcopy(kStandardCodes[word])
     for word in kPinyinCodes:
         if word not in codes:
             codes[word] = copy.deepcopy(kPinyinCodes[word])
-    return codes
+        else:
+            py_extra= []
+            for py in kPinyinCodes[word]:
+                if not py in codes[word]:
+                    py_extra.append(py)
+            if len(py_extra) > 0:
+                codes_nonstandard[word] = py_extra
+    return codes, codes_nonstandard
 
-kCharacterCodes = merge_character_codes()
+kCharacterCodes, kCharacterCodesNonstandard = merge_character_codes()
 
 # Get pinyin phrase from a file with format "word: py1 py2 ..."
 # return a dictionary of word and a list of pinyin code sequences, e.g. {'word': [['py1', 'py2'], ['py3', 'py4']]}
@@ -652,7 +660,22 @@ def get_sorted_flypyquick5_dict_with_extra(words, get_frequency = get_frequency_
     sorted_dict = sort_by_length_and_code(words_dict)
     return sorted_dict
 
-# Obsolete function
+# Merge a list of dict as {length => {code => {word => (freq, sec)}}} into target_dict
+def merge_character_dicts(target_dict, char_dicts):
+    for char_dict in char_dicts:
+        for length in char_dict:
+            for code in char_dict[length]:
+                for word in char_dict[length][code]:
+                    freq = char_dict[length][code][word]
+                    if length not in target_dict:
+                        target_dict[length] = dict()
+                    if code not in target_dict[length]:
+                        target_dict[length][code] = dict()
+                    if word not in target_dict[length][code]:
+                        target_dict[length][code][word] = (0, -sys.maxsize + 1)
+                    target_dict[length][code][word] = max(freq, target_dict[length][code][word])
+    return target_dict
+
 # Augment the common words when there are conflicts by appending the first character's Cangjie code to the FlypyQuick5 code.
 # which are not most frequent ones.
 # word_codes: a nested dictionary of length, code, word and frequency
@@ -1060,12 +1083,15 @@ def main():
             for input_file in args.input_files:
                 extra_words = get_words_from_file(input_file, extra_words)
 
-        toneless_phrases = get_sorted_flypyquick5_dict_with_extra(kTonelessPinyinPhrases, get_frequency_default, extra_words)
-        characters = get_sorted_flypyquick5_dict_with_extra(convert_to_nested_dict(kCharacterCodes), get_frequency_default, extra_words)
+        fn_encode = lambda nested_dict : get_sorted_flypyquick5_dict_with_extra(nested_dict, get_frequency_default, extra_words)
+        toneless_phrases = fn_encode(kTonelessPinyinPhrases)
+        characters = fn_encode(convert_to_nested_dict(kCharacterCodes))
+        characters_nonstandard = fn_encode(convert_to_nested_dict(kCharacterCodesNonstandard))
         used_codes = set()
         # Abbreviate codes for the most frequent words
         abbreviated_dicts = get_abbreviated_dict_for(toneless_phrases, characters, used_codes)
         # Augment characters
+        characters = merge_character_dicts(characters, [characters_nonstandard])
         augmented_characters = augment_common_words(characters, abbreviated_dicts)
         # Augment phrases
         augmented_phrases = augment_common_words(toneless_phrases, abbreviated_dicts)
