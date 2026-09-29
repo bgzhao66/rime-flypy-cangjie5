@@ -894,8 +894,8 @@ class TestShuangpin(unittest.TestCase):
                      ("你好", ["nǐ", "hǎo"], "nihcdo"),
                      ("长臂猿", ["cháng", "bì", "yuán"], "ihbiyrvp"),
                      ("世界地圖", ["shì", "jiè", "dì", "tú"], "uijpditu"),
-                     ("中華人民共和國", ["zhōng", "huá", "rén", "mín", "gòng", "hé", "guó"], "vshxrfmbm"),
-                     ("中華人民共和國國歌", ["zhōng", "huá", "rén", "mín", "gòng", "hé", "guó", "guo", "ge"], "vshxrfmbgogeo")]
+                     ("中華人民共和國", ["zhōng", "huá", "rén", "mín", "gòng", "hé", "guó"], "vshxrfmbgshego"),
+                     ("中華人民共和國國歌", ["zhōng", "huá", "rén", "mín", "gòng", "hé", "guó", "guo", "ge"], "vshxrfmbgshegogoge")]
         for word, pinyin_seq, expected_seq in testcases:
             flypyquick5_seq = get_flypyquick5_seq(word, pinyin_seq)
             self.assertTrue(len(flypyquick5_seq) > 0)
