@@ -41923,3 +41923,25 @@ U+32385: chì  # 𲎅
 U+32386: tóng  # 𲎆
 U+32388: méng  # 𲎈
 U+32389: mò  # 𲎉
+#
+UNICODE: bin # 蠙
+UNICODE: bi # 毞
+UNICODE: di # 條
+UNICODE: gu # 杚
+UNICODE: gui # 嶲
+UNICODE: huo # 彠
+UNICODE: chu # 泏
+UNICODE: ji # 磼
+UNICODE: jia # 鴐
+UNICODE: jia # 脥
+UNICODE: ke # 衉
+UNICODE: kuo # 彍
+UNICODE: mie # 礣
+UNICODE: mei # 謎
+UNICODE: nong # 鬞
+UNICODE: peng # 捀
+UNICODE: ta # 佗
+UNICODE: tuo # 梲
+UNICODE: shai # 籭
+UNICODE: yue # 泧
+UNICODE: za  # 桚
