@@ -79543,8 +79543,8 @@ sort: by_weight
 鴻基地產	hsjidiij	916
 宏基電腦	hsjidmnc	37
 宏基國際	hsjigoji	35
-宏基集團	hsjijitra	36
-鴻基集團	hsjijitrb	33
+宏基集團	hsjijitr	36
+鴻基集團	hsjijitra	33
 鴻基實業	hsjiuiye	33
 鴻基新城	hsjixbig	1253
 弘基學校	hsjixtjn	95
@@ -79688,6 +79688,7 @@ sort: by_weight
 紅旗大橋	hsqiddqn	121
 紅旗廣場	hsqiglih	112
 紅旗超市	hsqiicui	162
+宏碁集團	hsqijitr	727
 紅旗傢俱	hsqijxju	40
 紅旗快餐	hsqikkcj	35
 紅旗連鎖	hsqilmso	11241
@@ -97042,7 +97043,7 @@ sort: by_weight
 吹著小風	ivvuxnfg	40
 吹響號角	ivxlhcjn	1031
 吹響號角	ivxlhcjt	1031
-搥胸頓足	ivxsdyzua	0
+搥胸頓足	ivxsdyzub	0
 垂楊柳店	ivyhlqdm	36
 垂於將來	ivyujlld	151
 錘子手機	ivziuzji	15376
@@ -100057,6 +100058,7 @@ sort: by_weight
 近衛師團	jbwwuitr	81
 僅為示意	jbwwuiyi	83
 近衛忠輝	jbwwvshv	41
+近衛文麿	jbwwwfmi	473
 金衛星獎	jbwwxkjl	40
 金衛醫療	jbwwyiln	349
 金新鼎邦	jbxbdkbh	61
@@ -104797,6 +104799,7 @@ sort: by_weight
 技術資源	jivuziyr	49500
 技術總監	jivuzsjm	14740
 技術走向	jivuzzxl	426
+脊椎側彎	jivvcewj	720
 脊椎關節	jivvgrjp	53
 脊椎骨的	jivvgude	100
 脊椎骨的	jivvgudi	100
@@ -120986,7 +120989,7 @@ sort: by_weight
 開膛破肚	kdthpodu	1110
 開堂歃血	kdthuaxp	0
 開堂歃血	kdthuaxt	0
-愷悌君子	kdtijyzi	0
+愷悌君子	kdtijyzia	0
 開庭通知	kdtktsvi	545
 開庭時間	kdtkuijm	54
 開拓電子	kdtodmzi	469
@@ -127158,7 +127161,6 @@ sort: by_weight
 垃圾發電	lajifadm	12573
 垃圾焚化	lajiffhx	39
 垃圾分揀	lajiffjm	407
-垃圾分類	lajifflw	15637
 垃圾分選	lajiffxr	87
 垃圾合同	lajigets	888
 垃圾廣告	lajiglgc	121
@@ -127174,7 +127176,6 @@ sort: by_weight
 垃圾填埋	lajitmmd	1749
 垃圾填埋	lajitmmj	1749
 垃圾時間	lajiuijm	16185
-垃圾食物	lajiuiwu	1006
 垃圾睡眠	lajiuvmm	34
 垃圾債券	lajivdqr	1892
 垃圾債券	lajivdxr	1892
@@ -128763,8 +128764,6 @@ sort: by_weight
 樂壇地位	letjdiww	127
 樂壇盛事	letjigui	60
 樂壇盛事	letjugui	60
-樂亭大鼓	letkdagu	82
-樂亭大鼓	letkddgu	82
 樂天百貨	letmbdho	1092
 樂天飯店	letmfjdm	33
 樂天購物	letmgzwu	84
@@ -155927,7 +155926,6 @@ sort: by_weight
 年鑑學派	nmjmxtpd	39
 粘膠短纖	nmjndrqm	6617
 粘膠短纖	nmjndrxm	6617
-捻腳捻手	nmjnnmuz	0
 年屆不惑	nmjpbuho	0
 粘結磁體	nmjpciti	303
 粘接技術	nmjpjiuu	208
@@ -162868,8 +162866,8 @@ sort: by_weight
 菩薩十地	pusauidi	295
 菩薩顯靈	pusaxmlk	70
 菩薩造像	pusazcxl	35
-曝腮龍門	pusdlsmf	0
-曝鰓龍門	pusdlsmfa	0
+曝腮龍門	pusdlsmfa	0
+曝鰓龍門	pusdlsmfb	0
 普桑轎車	pushjnie	517
 普桑轎車	pushjnju	517
 普斯卡斯	pusikasi	133
@@ -182377,7 +182375,6 @@ sort: by_weight
 尿素甲醛	svsujxqr	52
 歲歲清明	svsvqkmk	72
 歲歲添金	svsvtmjb	1629
-睢睢盱盱	svsvxuxu	0
 隨他們去	svtamfqu	32
 隨它去吧	svtaquba	99
 隨堂筆記	svthbiji	10
@@ -251590,7 +251587,6 @@ sort: by_weight
 嬉戲飛車	xixifwie	93
 嬉戲飛車	xixifwju	93
 細細觀察	xixigria	524
-恓恓惶惶	xixihlhla	0
 恓恓插插	xixiiaia	0
 西西里人	xixilirf	77
 西西里小	xixilixn	131
@@ -264135,7 +264131,7 @@ sort: by_weight
 隱蔽自己	ybbiziji	355
 因病返貧	ybbkfjpb	1431
 飲冰食蘗	ybbkuibi	0
-飲冰食蘗	ybbkuibob	0
+飲冰食蘗	ybbkuiboa	0
 因病致貧	ybbkvipb	3181
 因病臥床	ybbkwoil	141
 音部記號	ybbujihc	0
@@ -280230,8 +280226,6 @@ sort: by_weight
 樂壇盛事	yttjigui	60
 樂壇盛事	yttjugui	60
 月壇西街	yttjxijp	79
-樂亭大鼓	yttkdagu	82
-樂亭大鼓	yttkddgu	82
 越聽越有	yttkytyz	37
 樂天百貨	yttmbdho	1092
 樂天飯店	yttmfjdm	33
@@ -292007,7 +292001,7 @@ sort: by_weight
 作品人物	zopbrfwu	39
 作品入圍	zopbruww	635
 作品題材	zopbticd	326
-作品質量	zopbvill	877
+作品質量	zopbvilla	877
 作品形式	zopbxkui	211
 作品解讀	zopbxpdu	49
 作品解讀	zopbxpdz	49
@@ -298900,8 +298894,7 @@ sort: by_weight
 半人馬酋長	bjrfmaqqih	139
 半人馬酋長	bjrfmaqqvh	139
 半人馬星座	bjrfmaxkzo	76
-般若波羅密	bjrobolomi	504
-般若波羅蜜	bjrobolomia	101
+般若波羅蜜	bjrobolomi	101
 半素食族群	bjsuuizuqy	0
 坂田派出所	bjtmpdiuso	57
 半透明物體	bjtzmkwuti	43
@@ -333478,7 +333471,6 @@ sort: by_weight
 拉籌伯大學	laizbodaxt	260
 拉籌伯大學	laizboddxt	260
 垃圾焚化廠	lajiffhxih	161
-垃圾焚化爐	lajiffhxlu	0
 垃圾粉碎機	lajiffsvji	46
 垃圾焚燒廠	lajiffucih	6693
 垃圾焚燒爐	lajiffuclu	1146
@@ -333509,8 +333501,6 @@ sort: by_weight
 垃圾掩埋場	lajiyjmjih	76
 垃圾運輸車	lajiyyuuie	473
 垃圾運輸車	lajiyyuuju	473
-垃圾子母車	lajizimuie	0
-垃圾子母車	lajizimuju	0
 辣椒紅色素	lajnhssesu	132
 辣椒紅色素	lajnhsudsu	132
 辣椒炒月餅	lajnicytbk	80
@@ -350077,7 +350067,7 @@ sort: by_weight
 三里屯一中	sjlityyivs	163
 三菱歐藍德	sjlkouljde	1026
 三菱帕傑羅	sjlkpajplo	1105
-三〇一條款	sjlkyitnkra	0
+三〇一條款	sjlkyitnkr	0
 散落的貨物	sjlodehowu	107
 散落的零件	sjlodelkjm	42
 散落的文件	sjlodewfjm	33
@@ -407080,6 +407070,7 @@ sort: by_weight
 建業住宅集團	jmyevuvdjitr	44
 咸陽師範學院	jmyhuifjxtyr	42
 咸陽市公安局	jmyhuigsanju	180
+簡易爆炸裝置	jmyibcvavlvi	1057
 見義勇為公民	jmyiyswwgsmb	60
 見義勇為模範	jmyiyswwmofj	326
 見義勇為模範	jmyiyswwmufj	326
@@ -412779,7 +412770,6 @@ sort: by_weight
 免維護蓄電池	mmwwhuxudmii	307
 面向服務架構	mmxlfuwujxgz	173
 面向全體學生	mmxlqrtixtug	33
-嘸蝦米輸入法	mmxxmiuurufa	248
 綿羊末日行動	mmyhmorihgds	37
 綿羊末日行動	mmyhmorihhds	37
 綿羊末日行動	mmyhmorixkds	37
