@@ -168,7 +168,7 @@ def get_command_args():
     parser.add_argument("--extra_table", help="Print extra words into file", action="store_true")
     parser.add_argument("--difference", help="Difference the set against the builtin phrases", action="store_true")
     parser.add_argument("--show-nonstandard", help="Print non-standard pronunciations of characters", action="store_true")
-    parser.add_argument("--no-purge-inconsistent", help="Do not purge inconsistent phrases", action="store_true")
+    parser.add_argument("--no-strict-purging", help="Do not purge phrases strictly", action="store_true")
     parser.add_argument("--test", help="Run unit tests", action="store_true")
 
     parser.add_argument("input_files", nargs='*', help="The list of extra input files", default=[])
@@ -224,7 +224,7 @@ def get_pinyin_code_from_files(files):
 kPinyinCodes = get_pinyin_code_from_files(PINYIN_CODES)
 kStandardCodes = get_standard_code_from_file(STANDARD_CHINESE)
 
-# Merge kStandardCodes and kPinyinCodes, then return the new dictionary
+# Merge kStandardCodes and kPinyinCodes, then return the new dictionary as {char => [py1, py2,...]}
 def merge_character_codes():
     codes = dict()
     codes_nonstandard = dict()
@@ -278,15 +278,16 @@ def is_consistent(word, word_code, strict=True):
     if len(word) != len(word_code):
         return False
     for i in range(len(word)):
-        if word[i] not in kCharacterCodes:
+        if word[i] not in kCharacterCodes and (not strict or word[i] not in kCharacterCodesNonstandard):
             return False
-        if strict and word_code[i] not in kCharacterCodes[word[i]]:
+        candidate_pys = []
+        if word[i] in kCharacterCodes:
+            candidate_pys += kCharacterCodes[word[i]]
+        if not strict and word[i] in kCharacterCodesNonstandard:
+            candidate_pys += kCharacterCodesNonstandard[word[i]]
+        toneless = get_toneless_pinyin(word_code[i])
+        if toneless not in get_toneless_pinyin_seq(candidate_pys):
             return False
-        if not strict:
-            toneless = get_toneless_pinyin(word_code[i])
-            if toneless not in get_toneless_pinyin_seq(kCharacterCodes[word[i]]):
-                return False
-            return True
     return True
 
 # Purge inconsistent phrases
@@ -303,9 +304,8 @@ def purge_inconsistent_phrases(words, strict=True):
     return res
 
 def get_pinyin_phrases_filtered():
-    if kArgs.no_purge_inconsistent:
-        return get_pinyin_phrases()
-    return purge_inconsistent_phrases(get_pinyin_phrases(), strict=False)
+    strict = not kArgs.no_strict_purging
+    return purge_inconsistent_phrases(get_pinyin_phrases(), strict=strict)
 
 kPinyinPhrases = get_pinyin_phrases_filtered()
 
@@ -924,8 +924,8 @@ class TestShuangpin(unittest.TestCase):
     def test_is_consistent(self):
         self.assertTrue(is_consistent("你好", ["ni", "hao"], strict=False))
         self.assertFalse(is_consistent("你好", ["ni", "hao", "shi"]))
-        self.assertTrue(is_consistent("世界", ["shi", "jie"], strict=False))
-        self.assertFalse(is_consistent("世界", ["shi", "jie"], strict=True))
+        self.assertTrue(is_consistent("括號", ["gua", "hao"], strict=False))
+        self.assertFalse(is_consistent("括號", ["gua", "hao"], strict=True))
 
     def test_purge_inconsistent_phrases(self):
         phrases = {
