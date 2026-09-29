@@ -158,6 +158,23 @@ STANDARD_CHINESE = "standard_chinese.txt"
 PINYIN_CODES = ["pinyin.txt"]
 PINYIN_PHRASES = ["pinyin_phrase.txt"]
 
+def get_command_args():
+    parser = argparse.ArgumentParser(description="Convert Pinyin with diacritics to Shuangpin (Xiaohe scheme).")
+    parser.add_argument("--name", help="Name of the current tables", required = False)
+    parser.add_argument("--chinese_code", help="Print chinese code into file", action="store_true")
+    parser.add_argument("--phrase", help="Print pinyin phrase into file", action="store_true")
+    parser.add_argument("--abbreviate", help="Print abbreviated codes into file", action="store_true")
+    parser.add_argument("--extra_table", help="Print extra words into file", action="store_true")
+    parser.add_argument("--difference", help="Difference the set against the builtin phrases", action="store_true")
+    parser.add_argument("--show-nonstandard", help="Print non-standard pronunciations of characters", action="store_true")
+    parser.add_argument("--no-purge-inconsistent", help="Do not purge inconsistent phrases", action="store_true")
+    parser.add_argument("--test", help="Run unit tests", action="store_true")
+
+    parser.add_argument("input_files", nargs='*', help="The list of extra input files", default=[])
+    return parser.parse_args()
+
+kArgs = get_command_args()
+
 # get chinese code from a file with format "pinyin: word1 word2 ..."
 def get_standard_code_from_file(file):
     words = dict()
@@ -284,7 +301,12 @@ def purge_inconsistent_phrases(words, strict=True):
                 res[word].append(pinyin_seq)
     return res
 
-kPinyinPhrases = purge_inconsistent_phrases(get_pinyin_phrases(), strict=False)
+def get_pinyin_phrases_filtered():
+    if kArgs.no_purge_inconsistent:
+        return get_pinyin_phrases()
+    return purge_inconsistent_phrases(get_pinyin_phrases(), strict=False)
+
+kPinyinPhrases = get_pinyin_phrases_filtered()
 
 # Step 4: Get frequency-sorted Chinese dictionary
 
@@ -1056,41 +1078,27 @@ class TestShuangpin(unittest.TestCase):
 
 # Steo 8: Command-line interface
 def main():
-    parser = argparse.ArgumentParser(description="Convert Pinyin with diacritics to Shuangpin (Xiaohe scheme).")
-    parser.add_argument("--name", help="Name of the current tables", required = False)
-    parser.add_argument("--chinese_code", help="Print chinese code into file", action="store_true")
-    parser.add_argument("--phrase", help="Print pinyin phrase into file", action="store_true")
-    parser.add_argument("--abbreviate", help="Print abbreviated codes into file", action="store_true")
-    parser.add_argument("--extra_table", help="Print extra words into file", action="store_true")
-    parser.add_argument("--difference", help="Difference the set against the builtin phrases", action="store_true")
-    parser.add_argument("--show_nonstandard", help="Print non-standard pronunciations of characters", action="store_true")
-    parser.add_argument("--test", help="Run unit tests", action="store_true")
-
-    parser.add_argument("input_files", nargs='*', help="The list of extra input files", default=[])
-    args = parser.parse_args()
-
-    args.name = args.name.strip() if args.name else ''
-
+    kArgs.name = kArgs.name.strip() if kArgs.name else ''
     phrase_suffix = "_phrase"
     abbrev_suffix = "_abbrev"
     extra_suffix = "_extra"
     abbrevextra_suffix = "_abbrevextra"
     file_suffix = ".dict.yaml"
     path = "../"
-    input_tables = [args.name + t for t in [phrase_suffix, abbrev_suffix, abbrevextra_suffix]]
+    input_tables = [kArgs.name + t for t in [phrase_suffix, abbrev_suffix, abbrevextra_suffix]]
 
-    if args.show_nonstandard:
+    if kArgs.show_nonstandard:
         for word, pys in kCharacterCodesNonstandard.items():
             pystr = ",".join(pys)
             print(f"UNICODE: {pystr} # {word}")
         sys.exit(0)
 
-    if not args.test:
+    if not kArgs.test:
         # Load extra words from input_files if provided
         extra_words = None
-        if args.input_files:
+        if kArgs.input_files:
             extra_words = dict()
-            for input_file in args.input_files:
+            for input_file in kArgs.input_files:
                 extra_words = get_words_from_file(input_file, extra_words)
 
         fn_encode = lambda nested_dict : get_sorted_flypyquick5_dict_with_extra(nested_dict, get_frequency_default, extra_words)
@@ -1106,8 +1114,8 @@ def main():
         # Augment phrases
         augmented_phrases = augment_common_words(toneless_phrases, abbreviated_dicts)
 
-    if args.phrase:
-        name = args.name + phrase_suffix
+    if kArgs.phrase:
+        name = kArgs.name + phrase_suffix
         filename = path + name + file_suffix
         with open(filename, 'w', encoding='utf-8') as f:
             # Print Pinyin phrases
@@ -1115,8 +1123,8 @@ def main():
             print_word_codes(augmented_phrases, f)
         print(f"Pinyin phrases written to {name + file_suffix}")
 
-    if args.abbreviate:
-        name = args.name + abbrev_suffix
+    if kArgs.abbreviate:
+        name = kArgs.name + abbrev_suffix
         filename = path + name + file_suffix
         with open(filename, 'w', encoding='utf-8') as f:
             # Print abbreviated codes for most frequent words
@@ -1125,11 +1133,11 @@ def main():
                 print_word_codes(abbreviated_dict, f)
         print(f"Abbreviated codes written to {name + file_suffix}")
 
-    if args.input_files and args.extra_table:
+    if kArgs.input_files and kArgs.extra_table:
         words = dict()
-        for input_file in args.input_files:
+        for input_file in kArgs.input_files:
             words = get_words_from_file(input_file, words)
-        if args.difference:
+        if kArgs.difference:
             for w in kTonelessPinyinPhrases.keys():
                 if w in words:
                     del words[w]
@@ -1152,7 +1160,7 @@ def main():
         extra_tables = []
         for i in range(len(boundaries)):
             upper = boundaries[i]
-            name = args.name + extra_suffix + str(i)
+            name = kArgs.name + extra_suffix + str(i)
             extra_tables.append(name)
 
             augmented_dict_part = dict()
@@ -1172,8 +1180,8 @@ def main():
         # Update input_tables
         input_tables.extend(extra_tables)
 
-    if args.abbreviate and args.input_files and args.extra_table:
-        name = args.name + abbrevextra_suffix
+    if kArgs.abbreviate and kArgs.input_files and kArgs.extra_table:
+        name = kArgs.name + abbrevextra_suffix
         filename = path + name + file_suffix
         with open(filename, 'w', encoding='utf-8') as f:
             # Print abbreviated codes for most frequent words
@@ -1182,8 +1190,8 @@ def main():
                 print_word_codes(abbreviated_dict, f)
         print(f"Abbreviated extra codes written to {name + file_suffix}")
 
-    if args.chinese_code:
-        name = args.name
+    if kArgs.chinese_code:
+        name = kArgs.name
         filename = path + name + file_suffix
         with open(filename, 'w', encoding='utf-8') as f:
             # Print Chinese character codes
@@ -1191,7 +1199,7 @@ def main():
             print_word_codes(augmented_characters, f, freq_base=10000)
         print(f"Chinese character codes written to {name + file_suffix}")
 
-    if args.test:
+    if kArgs.test:
         # Run unit tests
         unittest.main(argv=[sys.argv[0]], exit=False)
 
