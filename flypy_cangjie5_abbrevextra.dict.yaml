@@ -255,7 +255,6 @@ sort: by_weight
 奧胖	aoph	1816
 奧平	aopk	737
 奧珀	aopo	375
-傲群	aoqy	63
 奧日	aori	109
 奧瑞	aorv	741
 熬著	aovc	229
@@ -1593,7 +1592,6 @@ sort: by_weight
 俄薩	eesa	62
 阿拓	eeta	41
 阿滕	eetg	5853
-惡訊	eexy	430
 阿贊	eezj	37
 阿宗	eezs	112
 嗯對	egdv	63
@@ -2357,7 +2355,6 @@ sort: by_weight
 行區	hhou	2340
 行卡	hhqx	8843
 杭瑞	hhrv	261
-航太	hhtd	988
 行聽	hhtk	1029
 航頭	hhtz	691
 行紹	hhuc	154
@@ -2622,8 +2619,6 @@ sort: by_weight
 茶村	iacy	302
 查恩	iaen	211
 查高	iagc	384
-茶行	iahg	944
-茶行	iahh	944
 查環	iahr	145
 查黑	iahw	219
 差會	iakk	536
@@ -2843,7 +2838,6 @@ sort: by_weight
 創鴻	ilhs	4656
 窗後	ilhz	276
 創車	ilie	85
-窗帘	ilif	2840
 闖軍	iljy	461
 闖卡	ilka	13
 創會	ilkk	2452
@@ -2878,14 +2872,11 @@ sort: by_weight
 穿黃	irhl	1572
 穿黑	irhw	6727
 串種	iris	48
-船錨	irmc	499
 喘滿	irmj	34
-船木	irmu	281
 傳能	irng	450
 穿暖	irnr	44
 船配	irpw	542
 傳切	irqp	1430
-川穹	irqs	99
 穿裙	irqy	1334
 衝奧	isao	1940
 衝榜	isbh	1787
@@ -3793,8 +3784,6 @@ sort: by_weight
 冷波	lgbo	44
 冷存	lgcy	310
 冷刀	lgdc	37
-冷度	lgdo	124
-冷度	lgdu	124
 冷飯	lgfj	2018
 冷號	lghc	6092
 冷和	lghe	338
@@ -3974,7 +3963,6 @@ sort: by_weight
 連贊	lmzj	385
 了阿	lnaa	43286
 廖愛	lnai	49
-廖安	lnan	105
 了嗷	lnao	33
 廖斌	lnbb	1131
 廖村	lncy	46
@@ -4014,7 +4002,7 @@ sort: by_weight
 了查	lnva	2194
 了珍	lnvf	1509
 廖文	lnwf	767
-了解	lnxp	51026
+聊些	lnxp	755
 廖秀	lnxq	81
 了喲	lnyo	739
 廖雲	lnyy	210
@@ -4737,7 +4725,6 @@ sort: by_weight
 每增	mwzg	10293
 沒醉	mwzv	140
 某筆	mzbi	3464
-謀兵	mzbk	55
 牟叢	mzcs	81
 某翠	mzcv	40
 某村	mzcy	6736
@@ -4760,6 +4747,8 @@ sort: by_weight
 某玲	mzlk	64
 繆隆	mzls	68
 繆敏	mzmb	51
+冇乜	mzmp	43
+冇乜	mznp	43
 牟青	mzqk	101
 某群	mzqy	334
 繆榮	mzrs	216
@@ -5195,7 +5184,6 @@ sort: by_weight
 念文	nmwf	194
 念宣	nmxr	66
 尿白	nnbd	70
-尿袋	nndd	420
 尿鈣	nngd	322
 鳥畫	nnhx	149
 鳥翅	nnii	50
@@ -5410,7 +5398,6 @@ sort: by_weight
 女峰	nvfg	109
 女匪	nvfw	281
 女歡	nvhr	82
-女廚	nviu	73
 女金	nvjb	227
 女爵	nvjt	346
 女靠	nvkc	76
@@ -5880,7 +5867,6 @@ sort: by_weight
 潑點	podm	504
 破盾	pody	146
 樸洪	pohs	41
-潑猴	pohz	174
 破窗	poil	1838
 破圈	pojr	351
 破卡	poka	181
@@ -5951,7 +5937,6 @@ sort: by_weight
 陪您	pwnb	1103
 陪妳	pwnd	35
 沛凝	pwnk	51
-配票	pwpn	1467
 培泉	pwqr	64
 佩蓉	pwrs	204
 佩託	pwto	55
@@ -7032,7 +7017,6 @@ sort: by_weight
 蘇卡	suka	448
 蘇墾	sukf	50
 蘇坎	sukj	108
-蘇曠	sukl	131
 縮卵	sulr	13
 素能	sung	752
 蘇農	suns	482
@@ -7563,7 +7547,6 @@ sort: by_weight
 退隊	tvdv	1003
 忒惡	tvee	205
 褪黑	tvhw	207
-推窗	tvil	649
 退卡	tvka	11736
 推民	tvmb	139
 推滿	tvmj	58
@@ -8025,7 +8008,6 @@ sort: by_weight
 刷個	uxge	1442
 刷光	uxgl	282
 刷好	uxhc	562
-耍狠	uxhf	821
 刷車	uxie	338
 刷街	uxjp	173
 刷就	uxjq	345
@@ -8673,6 +8655,7 @@ sort: by_weight
 我領	wolk	47
 我冇	womc	39
 我魔	womo	62
+我冇	womz	39
 我奶	wond	261
 沃寧	wonk	155
 沃諾	wono	2631
@@ -8798,7 +8781,6 @@ sort: by_weight
 謝廣	xpgl	1261
 謝海	xphd	1825
 謝炯	xpjs	51
-歇會	xpkk	317
 斜挎	xpkx	1180
 血耐	xpnd	47
 邪能	xpng	155
@@ -10034,7 +10016,6 @@ sort: by_weight
 愛炫	aixri	652
 愛訊	aixyj	97
 挨訓	aixyl	51
-艾約	aiyci	75
 艾約	aiycm	75
 愛要	aiycv	1121
 艾耶	aiyel	222
@@ -10062,7 +10043,7 @@ sort: by_weight
 安冰	anbke	44
 安波	anboe	3043
 庵埠	anbuj	93
-干貝	anbwc	115
+安貝	anbwc	102
 安北	anbwp	831
 暗槽	ancca	65
 安策	anceb	410
@@ -10305,7 +10286,6 @@ sort: by_weight
 奧慶	aoqke	62
 奧喬	aoqnr	53
 傲群	aoqyq	63
-襖裙	aoqyr	45
 奧日	aoria	109
 奧瑞	aorvb	741
 奧銳	aorvu	212
@@ -10411,7 +10391,6 @@ sort: by_weight
 壩會	bakka	106
 八輛	ballb	15
 罷練	balmf	371
-扒了	balnn	442
 巴柳	balql	53
 八秒	bamnh	434
 八魔	bamoi	36
@@ -10942,7 +10921,6 @@ sort: by_weight
 奔著	bfvca	14416
 笨珍	bfvfh	68
 本震	bfvfv	173
-本長	bfvhv	934
 本徵	bfvik	912
 本莊	bfvlg	80
 奔著	bfvoa	14416
@@ -11714,7 +11692,6 @@ sort: by_weight
 博帥	boukb	50
 博率	boukj	80
 薄霜	boulu	64
-卜樹	bouui	131
 柏順	bouyc	122
 播著	bovca	641
 波至	bovig	189
@@ -11761,7 +11738,6 @@ sort: by_weight
 波韻	boyyc	102
 博允	boyyu	41
 博遊	boyzd	231
-薄油	boyzw	171
 波仔	bozdd	682
 柏資	bozic	50
 博姿	boziv	578
@@ -12233,7 +12209,6 @@ sort: by_weight
 北杏	bwxkr	315
 備些	bwxpm	13
 北宣	bwxrm	165
-備詢	bwxya	771
 被訓	bwxyl	1605
 北巡	bwxyv	89
 被押	bwyal	6166
@@ -14734,7 +14709,6 @@ sort: by_weight
 得敏	dembk	252
 地滅	dempf	81
 德穆	demuh	165
-地目	demuu	897
 德媒	demwd	53
 德奈	dendf	116
 地扭	denqg	647
@@ -15174,7 +15148,6 @@ sort: by_weight
 當洗	dhxiu	553
 當響	dhxla	48
 當孝	dhxnd	60
-擋修	dhxqh	128
 當夏	dhxxe	848
 當雅	dhyag	203
 當業	dhyed	2058
@@ -15241,7 +15214,6 @@ sort: by_weight
 地種	diisg	1978
 地矗	diium	362
 地瞅	diizf	146
-滌盡	dijbt	420
 弔頸	dijkc	18
 地揀	dijmf	33
 提劫	dijps	140
@@ -16072,7 +16044,6 @@ sort: by_weight
 多澤	dozej	94
 多茲	dozii	88
 碟啊	dpaar	37
-疊詞	dpcir	110
 爹的	dpdii	1570
 跌掉	dpdnj	1043
 碟給	dpgwr	61
@@ -16291,7 +16262,6 @@ sort: by_weight
 董彬	dsbbh	298
 董斌	dsbbm	609
 東奔	dsbft	151
-東比	dsbip	314
 東碧	dsbir	52
 董辦	dsbjj	850
 董伯	dsboa	246
@@ -16640,6 +16610,7 @@ sort: by_weight
 都蠻	dumji	323
 杜萬	dumob	313
 杜慕	dumup	33
+都冇	dumzb	192
 都南	dunaj	343
 度呢	dunep	316
 毒男	dunjs	153
@@ -16862,7 +16833,6 @@ sort: by_weight
 對推	dvtvg	19902
 對殺	dvuae	1678
 對啥	dvuar	45
-對折	dvuel	350
 對神	dvufl	6920
 隊史	dvuik	55795
 對勢	dvuis	296
@@ -16871,7 +16841,6 @@ sort: by_weight
 對刷	dvuxn	622
 堆渣	dvvam	93
 對扎	dvvau	924
-對折	dvvel	350
 對爭	dvvgd	2484
 對站	dvvjr	1533
 隊屬	dvvui	376
@@ -17099,6 +17068,7 @@ sort: by_weight
 都蠻	dzmji	323
 鬥魔	dzmoi	75
 都默	dzmok	1595
+都冇	dzmzb	192
 竇某	dzmzd	1286
 都納	dznab	4336
 都南	dznaj	343
@@ -17429,7 +17399,6 @@ sort: by_weight
 阿絮	eexuf	74
 阿虛	eexum	40
 阿霞	eexxe	1646
-惡訊	eexyj	430
 扼壓	eeyag	319
 俄亞	eeyam	139
 惡曜	eeycg	282
@@ -19657,7 +19626,6 @@ sort: by_weight
 肝臭	gjxqk	43
 幹選	gjxrc	44
 幹雄	gjxsg	52
-幹訓	gjxyl	92
 趕鴨	gjyaf	143
 幹呀	gjyah	39
 幹銀	gjybv	403
@@ -20142,7 +20110,6 @@ sort: by_weight
 國鷹	goykf	129
 過喲	goyoi	53
 國源	goyrf	442
-郭樂	goytd	91
 郭躍	goytg	25738
 國粵	goyts	95
 郭悅	goytu	485
@@ -20438,7 +20405,6 @@ sort: by_weight
 供他	gstad	152
 公天	gstmk	216
 公鐵	gstpg	1271
-攻占	gstpr	1071
 龔爽	gsulk	355
 工數	gsuok	1099
 工數	gsuuk	1099
@@ -20811,7 +20777,6 @@ sort: by_weight
 刮著	gxvca	334
 掛證	gxvgt	237
 掛紙	gxvip	57
-寡佔	gxvjr	364
 刮著	gxvoa	334
 刮著	gxvua	334
 瓜形	gxxkh	58
@@ -20820,7 +20785,6 @@ sort: by_weight
 寡宿	gxxqa	64
 颳雪	gxxtm	253
 瓜亞	gxyam	61
-寡欲	gxyuo	33
 寡語	gxyur	162
 滾啊	gyaar	41
 滾草	gyccj	70
@@ -21542,7 +21506,6 @@ sort: by_weight
 合遝	hetaf	55
 何韜	hetcx	229
 和藤	hetge	563
-赫提	hetio	150
 和坦	hetjm	5020
 和託	hetop	22918
 何妥	hetov	174
@@ -21879,7 +21842,6 @@ sort: by_weight
 行鎖	hhsoc	107
 杭蘇	hhsud	225
 行素	hhsuf	44
-航太	hhtdi	988
 航體	hhtit	506
 行聽	hhtkp	1029
 航通	hhtsb	3665
@@ -23146,7 +23108,6 @@ sort: by_weight
 胡怡	huyir	2258
 胡彥	huyjh	2813
 弧影	huykh	33
-雇員	huyrc	969
 胡嶽	huytk	34
 胡育	huyub	103
 胡玉	huyui	560
@@ -23163,7 +23124,6 @@ sort: by_weight
 和咱	huzju	801
 和佐	huzom	1094
 和琢	huzoo	274
-和縱	huzso	5762
 胡總	huzsp	1668
 和族	huzuk	615
 回阿	hvaar	1132
@@ -23988,8 +23948,6 @@ sort: by_weight
 查費	iafwc	192
 茶膏	iagcb	260
 查高	iagcr	384
-茶行	iahgn	944
-茶行	iahhn	944
 查環	iahrv	145
 查賄	iahvb	256
 查黑	iahwf	219
@@ -24066,7 +24024,6 @@ sort: by_weight
 差位	iawwt	202
 查危	iawwu	841
 茶溪	iaxik	51
-茶行	iaxkn	944
 插線	iaxme	372
 茶歇	iaxpo	1436
 查約	iayci	47
@@ -24556,7 +24513,6 @@ sort: by_weight
 襯得	ifdwi	2191
 陳都	ifdzl	134
 陳豆	ifdzt	1116
-陳阿	ifeer	1099
 陳爾	iferk	229
 陳二	iferm	877
 陳奉	iffgq	35
@@ -24830,7 +24786,6 @@ sort: by_weight
 成兒	igeru	778
 成發	igfae	3478
 成豐	igfgt	320
-程放	igfhk	150
 程凡	igfji	449
 成灌	iggrg	569
 成貴	iggvc	431
@@ -25515,7 +25470,6 @@ sort: by_weight
 創華	ilhxj	1871
 窗後	ilhze	276
 創車	iliej	85
-窗帘	ilifb	2840
 創成	iligs	561
 床床	ilild	396
 窗窗	ilile	368
@@ -25533,7 +25487,6 @@ sort: by_weight
 創樂	illed	92
 窗裡	illig	683
 創力	illis	1132
-窗櫺	illkr	580
 創了	illnn	220
 床模	ilmuk	650
 創美	ilmwk	898
@@ -25640,10 +25593,8 @@ sort: by_weight
 川魯	irlua	84
 傳雷	irlww	69
 穿露	irlzr	732
-船錨	irmcw	499
 喘滿	irmjb	34
 傳明	irmkb	296
-船木	irmud	281
 傳能	irngp	450
 傳你	irnif	1
 船難	irnjg	659
@@ -25656,7 +25607,6 @@ sort: by_weight
 川汽	irqin	386
 傳切	irqph	1430
 船拳	irqrq	35
-川穹	irqsn	99
 穿裙	irqyr	1334
 川泰	irtde	305
 傳圖	irtuw	954
@@ -26441,7 +26391,6 @@ sort: by_weight
 荊荊	jkjkn	368
 精漿	jkjle	269
 敬鑒	jkjmc	75
-精鍊	jkjmf	1605
 精膠	jkjnh	50
 景結	jkjpr	115
 靚家	jkjxo	117
@@ -27087,7 +27036,6 @@ sort: by_weight
 久和	jqhur	728
 九劃	jqhxn	304
 就穿	jqirh	178
-酒種	jqisg	863
 就充	jqisu	7153
 九醬	jqjlw	36
 舊件	jqjmq	1005
@@ -27142,7 +27090,6 @@ sort: by_weight
 糾誤	jqwuk	69
 九鑫	jqxbc	5923
 就洗	jqxiu	44
-舊型	jqxkg	1299
 舊鞋	jqxpg	574
 酒協	jqxps	223
 酒飲	jqybo	1007
@@ -27327,7 +27274,6 @@ sort: by_weight
 舉肌	jujin	43
 巨濟	jujix	89
 車靜	jujkd	61
-舉荐	jujmd	444
 車堅	jujmg	43
 鞠建	jujmq	61
 車捷	jujpo	40
@@ -27374,7 +27320,6 @@ sort: by_weight
 車普	jupua	240
 巨瀑	jupue	38
 車配	jupwu	2686
-鋸琴	juqbn	456
 巨擎	juqkq	768
 車強	juqli	437
 巨牆	juqlw	41
@@ -27409,7 +27354,6 @@ sort: by_weight
 巨帥	juukb	90
 車雙	juule	333
 巨爽	juulk	40
-巨碩	juuoc	42
 車數	juuok	1618
 巨鼠	juuuv	567
 劇說	juuvu	173
@@ -29543,7 +29487,6 @@ sort: by_weight
 磷的	lbdii	1406
 林彈	lbdjj	69
 臨石	lbdjr	87
-林定	lbdko	126
 林店	lbdmr	78
 林鐸	lbdoj	263
 林端	lbdrb	152
@@ -29852,7 +29795,6 @@ sort: by_weight
 老集	lcjid	104
 老雞	lcjig	835
 落肩	lcjmb	17
-老叫	lcjnl	11
 老傑	lcjpd	59
 老車	lcjuj	3858
 勞科	lckej	95
@@ -30012,7 +29954,6 @@ sort: by_weight
 來吉	ldjir	493
 賴靜	ldjkd	324
 賴經	ldjkm	177
-賴勁	ldjks	344
 來劍	ldjmn	151
 來句	ldjur	205
 來佳	ldjxg	104
@@ -30310,7 +30251,6 @@ sort: by_weight
 樂相	lexlu	396
 樂現	lexmu	282
 樂銷	lexnb	120
-了解	lexpq	51026
 樂協	lexps	47
 樂修	lexqh	65
 樂秀	lexqs	202
@@ -30365,9 +30305,7 @@ sort: by_weight
 冷刀	lgdch	37
 冷彈	lgdjj	46
 冷電	lgdmu	164
-冷度	lgdoe	124
 冷端	lgdrb	64
-冷度	lgdue	124
 冷堆	lgdvg	532
 冷噸	lgdyc	165
 冷飯	lgfje	2018
@@ -31120,7 +31058,6 @@ sort: by_weight
 凌鷹	lkykf	130
 〇〇	lkyrr	658
 凌永	lkyse	47
-靈樂	lkytd	76
 領寓	lkyub	103
 靈慾	lkyup	491
 靈佑	lkyzr	95
@@ -31649,7 +31586,6 @@ sort: by_weight
 撩洗	lnxmu	105
 廖曉	lnxnu	894
 聊些	lnxpm	755
-了解	lnxpq	51026
 廖秀	lnxqs	81
 了宣	lnxrm	4232
 廖學	lnxtd	430
@@ -32210,7 +32146,7 @@ sort: by_weight
 劉軒	lqxrj	386
 劉胥	lqxub	133
 劉徐	lqxud	128
-游俠	lqxxo	1086
+劉俠	lqxxo	680
 劉訓	lqxyl	113
 劉雅	lqyag	2052
 六頁	lqyec	28
@@ -32240,7 +32176,6 @@ sort: by_weight
 亂燉	lrdyk	1597
 亂抖	lrdzj	70
 亂翻	lrfjm	682
-亂蓋	lrget	273
 亂給	lrgwr	28
 亂紅	lrhsm	35
 亂唱	lriha	70
@@ -32624,7 +32559,6 @@ sort: by_weight
 魯帕	lupaa	115
 陸頻	lupbc	49
 陸品	lupbr	108
-路跑	lupcu	6727
 魯派	lupdv	140
 魯鵬	lupgf	590
 魯蓬	lupgj	945
@@ -33284,7 +33218,6 @@ sort: by_weight
 婁老	lzlcp	115
 婁利	lzlin	77
 露梁	lzlld	49
-漏列	lzlpn	40
 樓路	lzlur	126
 漏率	lzlvj	99
 露瑪	lzmaf	138
@@ -34976,7 +34909,6 @@ sort: by_weight
 免下	mmxxy	286
 棉業	mmyed	2378
 綿樂	mmytd	296
-面允	mmyyu	184
 免郵	mmyzl	951
 面仔	mmzdd	33
 緬族	mmzuk	191
@@ -35701,7 +35633,6 @@ sort: by_weight
 美系	mwjif	9746
 美極	mwjim	403
 美晶	mwjka	56
-梅勁	mwjks	91
 沒將	mwjli	1077
 美獎	mwjlk	486
 美減	mwjmr	127
@@ -35851,6 +35782,7 @@ sort: by_weight
 謀奪	mzdoi	35
 某段	mzdre	2777
 某東	mzdsw	1517
+冇得	mzdwi	284
 牟恩	mzenp	34
 繆鳳	mzfgf	33
 某峰	mzfgj	199
@@ -35881,7 +35813,11 @@ sort: by_weight
 繆隆	mzlsm	68
 繆敏	mzmbk	51
 某明	mzmkb	1461
+冇乜	mzmpn	43
+冇乜	mzmps	43
 牟楠	mznjj	275
+冇乜	mznpn	43
+冇乜	mznps	43
 某期	mzqib	1797
 牟青	mzqkb	101
 某群	mzqyq	334
@@ -37218,7 +37154,6 @@ sort: by_weight
 年阿	nmeer	1012
 念恩	nmenp	79
 念放	nmfhk	35
-念佛	nmfun	121
 念稿	nmgcb	28
 年歌	nmgeo	402
 念公	nmgsi	245
@@ -37294,7 +37229,6 @@ sort: by_weight
 念茲	nmzii	35
 尿白	nnbda	70
 尿杯	nnbwf	411
-尿袋	nnddv	420
 鳥的	nndii	3857
 尿多	nndoi	577
 尿斗	nndzj	332
@@ -37307,7 +37241,6 @@ sort: by_weight
 尿臭	nnizk	89
 鳥科	nnkej	62
 尿了	nnlen	1312
-尿療	nnlnf	4265
 尿了	nnlnn	1312
 鳥毛	nnmcu	242
 鳥名	nnmkr	69
@@ -37685,7 +37618,6 @@ sort: by_weight
 暖心	nrxbp	11867
 暖箱	nrxlu	485
 暖雪	nrxtm	46
-農保	nsbcd	4942
 弄爆	nsbce	43
 農布	nsbub	82
 弄不	nsbuf	92
@@ -37739,7 +37671,6 @@ sort: by_weight
 弄熟	nsuuf	171
 弄熟	nsuzf	171
 弄著	nsvca	413
-農宅	nsvdp	710
 弄著	nsvua	413
 農穩	nswfp	126
 農旺	nswhg	616
@@ -37828,7 +37759,6 @@ sort: by_weight
 女貴	nvgvc	211
 女豪	nvhco	69
 女歡	nvhro	82
-女廚	nviui	73
 女金	nvjbc	227
 女幾	nvjii	56
 女經	nvjkm	684
@@ -38144,7 +38074,6 @@ sort: by_weight
 歐盛	ouugt	1300
 偶上	ouuhm	73
 偶是	ouuio	299
-區石	ouuir	1106
 歐數	ouuok	81
 區水	ouuve	2517
 歐債	ouvdc	4714
@@ -39575,7 +39504,6 @@ sort: by_weight
 樸惠	pohvp	46
 破魂	pohyi	38
 坡後	pohze	79
-潑猴	pohzk	174
 破拆	poidy	7669
 巿場	poihh	3161
 破廠	poihk	96
@@ -39862,7 +39790,6 @@ sort: by_weight
 陪妳	pwndf	35
 沛凝	pwnko	51
 裴娜	pwnol	109
-配票	pwpnf	1467
 裴裴	pwpwv	381
 配氣	pwqid	1433
 配汽	pwqin	103
@@ -39996,7 +39923,6 @@ sort: by_weight
 秦特	qbtei	42
 秦唐	qbthr	173
 親題	qbtic	87
-侵占	qbtpr	916
 秦少	qbuch	303
 秦邵	qbucl	239
 秦紹	qbucr	101
@@ -40118,10 +40044,8 @@ sort: by_weight
 起賣	qimdc	761
 其麥	qimde	272
 其麥	qimdi	272
-期勉	qimms	326
 齊萬	qimob	70
 起模	qimuk	238
-奇拿	qinaq	439
 起呢	qinep	386
 饑溺	qinim	217
 奇男	qinjs	48
@@ -40141,7 +40065,6 @@ sort: by_weight
 契入	qiruh	90
 起肉	qirzo	122
 奇薩	qisam	39
-起私	qisii	347
 氣似	qisio	239
 齊頌	qissc	37
 齊穗	qisvp	47
@@ -40407,7 +40330,6 @@ sort: by_weight
 千貝	qmbwc	139
 千杯	qmbwf	634
 乾擦	qmcaf	405
-淒慘	qmcjh	927
 錢攢	qmcrc	128
 乾醋	qmcua	430
 前崔	qmcvg	101
@@ -40447,7 +40369,6 @@ sort: by_weight
 乾吃	qmiin	114
 前輟	qmioe	328
 錢湧	qmiss	265
-淒楚	qmiuo	61
 錢晶	qmjka	882
 錢靜	qmjkd	243
 錢堅	qmjmg	72
@@ -40742,7 +40663,6 @@ sort: by_weight
 切傷	qpuhh	196
 切制	qpvin	336
 怯戰	qpvji	624
-竊占	qpvjr	268
 切朱	qpvud	397
 切完	qpwju	728
 且午	qpwuj	143
@@ -43459,7 +43379,6 @@ sort: by_weight
 森系	sfjif	842
 森吉	sfjir	40
 森記	sfjiu	53
-洒家	sfjxo	525
 森恐	sfksp	59
 森麥	sfmde	849
 森麥	sfmdi	849
@@ -44080,7 +43999,6 @@ sort: by_weight
 松禾	sshed	1565
 宋漢	sshjo	179
 宋歡	sshro	178
-松環	sshrv	83
 宋洪	sshsc	225
 宋泓	sshsi	846
 送紅	sshsm	6636
@@ -44467,7 +44385,6 @@ sort: by_weight
 雖曾	svcga	2008
 雖大	svdak	4796
 雖大	svddk	4796
-尿袋	svddv	420
 髓的	svdii	750
 雖短	svdrt	2472
 雖對	svdvi	2594
@@ -45141,7 +45058,6 @@ sort: by_weight
 臺韓	tdhjq	243
 太火	tdhof	2963
 臺和	tdhor	628
-汰換	tdhrk	841
 泰宏	tdhsi	196
 太紅	tdhsm	641
 臺呼	tdhud	276
@@ -46511,7 +46427,7 @@ sort: by_weight
 拖落	tolcr	98
 拓樂	toled	659
 妥了	tolnn	138
-牠們	tomfn	2491
+託門	tomfn	136
 託納	tonab	414
 駝奶	tonds	83
 託品	topbr	240
@@ -46549,11 +46465,9 @@ sort: by_weight
 鐵存	tpcyd	118
 鐵達	tpdaq	505
 鐵刀	tpdch	104
-占地	tpded	779
 鐵凳	tpdgn	40
 鐵雕	tpdng	309
 貼都	tpdul	178
-鐵鎚	tpdvr	386
 鐵墩	tpdyk	43
 鐵盾	tpdyu	74
 貼都	tpdzl	178
@@ -46582,18 +46496,15 @@ sort: by_weight
 貼後	tphze	494
 鐵禪	tpijj	84
 鐵衝	tpisn	79
-鐵鎚	tpivr	386
 鐵脊	tpjib	58
 鐵系	tpjif	364
 鐵機	tpjii	228
 鐵警	tpjkr	2845
-鐵鍊	tpjmf	730
 鐵檢	tpjmo	254
 貼膠	tpjnh	356
 鐵姐	tpjpm	44
 鐵卷	tpjru	49
 鐵具	tpjuc	69
-占據	tpjuo	8127
 貼假	tpjxe	344
 鐵龜	tpjyu	119
 鐵卡	tpkay	128
@@ -46605,7 +46516,6 @@ sort: by_weight
 鐵梨	tplid	148
 鐵藍	tpljt	61
 鐵量	tpllg	230
-鐵鍊	tplmf	730
 鐵聯	tplmt	745
 鐵羅	tplog	388
 鐵旅	tplvv	300
@@ -46646,7 +46556,6 @@ sort: by_weight
 鐵爪	tpvco	130
 鐵鐘	tpvsg	535
 鐵鑄	tpvui	240
-鐵鎚	tpvvr	386
 鐵爪	tpvxo	130
 鐵肘	tpvzi	1032
 鐵王	tpwhg	822
@@ -46699,7 +46608,6 @@ sort: by_weight
 團氿	trjqn	187
 團家	trjxo	119
 團客	trker	2690
-團康	trkhe	381
 團林	trlbd	69
 團來	trldo	2301
 團聯	trlmt	876
@@ -47013,9 +46921,6 @@ sort: by_weight
 褪黑	tvhwf	207
 推持	tviii	83
 推床	tvild	155
-推窗	tvile	649
-推窗	tvilk	649
-推窗	tviln	649
 推傳	tviri	255
 推擊	tvjiq	1409
 腿精	tvjkb	12
@@ -48132,7 +48037,6 @@ sort: by_weight
 上啥	uhuar	41
 尚色	uhudu	71
 尚奢	uhuea	280
-商乘	uhugp	252
 上勝	uhugs	1364
 商單	uhujj	107
 上帥	uhukb	215
@@ -48504,7 +48408,6 @@ sort: by_weight
 單員	ujyrc	217
 山永	ujyse	73
 單勇	ujyss	238
-山岳	ujytu	177
 單玉	ujyui	293
 閃孕	ujyyd	110
 膳雜	ujzag	90
@@ -49268,7 +49171,6 @@ sort: by_weight
 刷個	uxger	1442
 刷光	uxglu	282
 刷好	uxhcd	562
-耍狠	uxhfv	821
 刷車	uxiej	338
 耍劍	uxjmn	122
 刷街	uxjpn	173
@@ -49811,7 +49713,6 @@ sort: by_weight
 趙竹	vcvuh	139
 趙術	vcvun	120
 爪爪	vcvxo	84
-照准	vcvyg	16
 罩外	vcwdy	143
 朝屋	vcwug	173
 趙為	vcwwf	197
@@ -50692,7 +50593,6 @@ sort: by_weight
 志燮	vixpe	61
 致些	vixpm	70
 止歇	vixpo	309
-滯血	vixpt	218
 指券	vixrh	72
 致炫	vixri	34716
 直尋	vixyi	780
@@ -50721,7 +50621,6 @@ sort: by_weight
 佔大	vjdak	553
 佔稻	vjdcx	205
 佔大	vjddk	553
-占地	vjded	779
 站等	vjdgi	5071
 詹迪	vjdiw	274
 佔石	vjdjr	350
@@ -50885,7 +50784,6 @@ sort: by_weight
 展興	vjxkc	61
 佔〇	vjxkr	1
 展翔	vjxlm	88
-展顯	vjxmc	219
 佔小	vjxnc	511
 展葉	vjxpd	35
 戰宿	vjxqa	74
@@ -51145,7 +51043,6 @@ sort: by_weight
 卓拉	volat	139
 捉來	voldo	235
 卓樂	voled	349
-桌曆	volia	466
 卓利	volin	52
 卓領	volkc	43
 卓靈	volko	42
@@ -51623,7 +51520,6 @@ sort: by_weight
 朱頡	vuxpc	48
 著鞋	vuxpg	301
 朱偰	vuxpk	48
-注解	vuxpq	1307
 朱秀	vuxqs	1186
 諸雄	vuxsg	323
 主穴	vuxtc	370
@@ -51853,7 +51749,6 @@ sort: by_weight
 周嘉	vzjxr	451
 周君	vzjyr	857
 周卡	vzkay	242
-週考	vzkcs	581
 周楷	vzkda	56
 周愷	vzkdt	368
 周克	vzkeu	557
@@ -52781,7 +52676,6 @@ sort: by_weight
 玩會	wjkka	132
 萬坤	wjkyl	332
 萬朗	wjlhb	70
-彎了	wjlnn	272
 萬祿	wjlue	32
 萬律	wjlvq	94
 玩累	wjlwf	1184
@@ -52795,7 +52689,6 @@ sort: by_weight
 萬苗	wjmnw	58
 萬魔	wjmoi	325
 萬南	wjnaj	476
-頑逆	wjniu	209
 腕女	wjnvv	64
 萬帕	wjpaa	138
 婉嬪	wjpbc	40
@@ -52946,6 +52839,7 @@ sort: by_weight
 我魔	womoi	62
 我摸	womok	47
 我妹	womwd	574
+我冇	womzb	39
 我奶	wonds	261
 沃寧	wonkn	155
 沃諾	wonor	2631
@@ -53164,7 +53058,6 @@ sort: by_weight
 五呎	wuyko	325
 吳瀛	wuykv	75
 五曰	wuyta	163
-吳樂	wuytd	419
 吳昀	wuyym	45
 吳悠	wuyzp	456
 五紮	wuzaf	265
@@ -53573,7 +53466,6 @@ sort: by_weight
 習某	ximzd	241
 系南	xinaj	1096
 西涅	xinpg	8590
-戲虐	xintm	320
 希努	xinus	57
 僖嬪	xipbc	37
 西排	xipdy	132
@@ -53786,7 +53678,6 @@ sort: by_weight
 性說	xkuou	1221
 興順	xkuyc	393
 姓趙	xkvcb	65
-星照	xkvcf	590
 省肇	xkvcq	37
 性擇	xkvdj	76
 姓鄭	xkvgl	20
@@ -54423,7 +54314,6 @@ sort: by_weight
 謝晶	xpjka	240
 葉靜	xpjkd	2157
 葉勁	xpjks	2191
-葉漿	xpjle	220
 謝姜	xpjlv	57
 葉堅	xpjmg	75
 葉劍	xpjmn	338
@@ -54572,7 +54462,6 @@ sort: by_weight
 謝錫	xpxih	201
 鞋襲	xpxiv	192
 謝興	xpxkc	928
-蠍型	xpxkg	139
 葉香	xpxla	85
 血項	xpxlc	52
 葉翔	xpxlm	240
@@ -56625,7 +56514,7 @@ sort: by_weight
 巖地	yjded	177
 沿堤	yjdio	53
 顏淡	yjdjf	129
-巖石	yjdjr	2330
+閆石	yjdjr	815
 言頂	yjdkc	462
 唁弔	yjdnl	102
 嚴督	yjduu	218
@@ -56698,7 +56587,6 @@ sort: by_weight
 嚥著	yjvoa	550
 言眾	yjvso	39
 言終	yjvsy	137
-煙斗	yjvuj	223
 眼軸	yjvzw	253
 言萬	yjwjb	42
 殷衛	yjwwn	568
@@ -57349,7 +57237,6 @@ sort: by_weight
 越爽	ytulk	97
 月鼠	ytuuv	43
 樂說	ytuvu	1130
-越順	ytuyc	2272
 躍著	ytvca	547
 嶽寨	ytvdd	34
 越政	ytvgk	636
@@ -57513,7 +57400,6 @@ sort: by_weight
 於特	yutei	3131
 於甜	yutmm	261
 於湉	yutmr	5181
-魚拓	yutor	147
 於統	yutsu	886
 羽色	yuudu	78
 餘乘	yuugp	296
@@ -57745,7 +57631,6 @@ sort: by_weight
 有咁	yzhjm	35
 由鴻	yzhsf	340
 遊尺	yzieo	227
-游塵	yzifg	371
 友臣	yzifl	59
 右丞	yzigm	36
 尤盛	yzigt	235
@@ -60151,7 +60036,6 @@ sort: by_weight
 愛護學	aihux	64
 璦琿區	aihyo	370
 璦琿區	aihyq	370
-璦琿縣	aihyx	300
 愛吵架	aiicj	62
 愛車行	aiiex	53
 愛車族	aiiez	216
@@ -61753,7 +61637,6 @@ sort: by_weight
 薄板的	bcbjd	80
 薄板廠	bcbji	78
 包辦了	bcbjl	94
-包班制	bcbjv	261
 薄餅店	bcbkd	44
 薄變厚	bcbmh	45
 報表集	bcbnj	40
@@ -62175,7 +62058,6 @@ sort: by_weight
 包傳輸	bcvru	11
 鮑傳友	bcvry	51
 保重點	bcvsd	1497
-包種茶	bcvsi	462
 寶珠峰	bcvuf	48
 抱著頭	bcvut	897
 抱住我	bcvuw	828
@@ -62280,8 +62162,6 @@ sort: by_weight
 伯伯們	bdbom	79
 擺佈而	bdbue	34
 擺不開	bdbuk	338
-擺不平	bdbup	1237
-百步蛇	bdbuu	387
 百倍的	bdbwd	1795
 伯貝克	bdbwk	44
 白貝利	bdbwl	437
@@ -62731,7 +62611,6 @@ sort: by_weight
 白小青	bdxnq	430
 白孝文	bdxnw	48
 百葉捲	bdxpj	265
-百葉捲	bdxpq	265
 白秀珠	bdxqv	307
 白秀雄	bdxqx	116
 白旋風	bdxrf	267
@@ -69431,7 +69310,6 @@ sort: by_weight
 大阿訇	daaah	73
 大愛啊	daaia	309
 答案吧	daanb	1057
-答案卷	daanj	324
 大案子	daanz	252
 大把人	dabar	416
 打把傘	dabas	96
@@ -69562,7 +69440,6 @@ sort: by_weight
 大法好	dafah	128
 大發明	dafam	16
 大法庭	dafat	405
-大份的	daffd	25
 大分類	daffl	369
 大分區	daffo	73
 大風的	dafgd	812
@@ -69722,7 +69599,6 @@ sort: by_weight
 大池子	daiiz	340
 大鏟島	daijd	190
 達產率	daijl	877
-大產權	daijq	2856
 達產率	daiju	877
 大單位	daijw	1701
 大創意	daily	16
@@ -69735,7 +69611,6 @@ sort: by_weight
 大沖撞	daisv	80
 大蟲子	daisz	112
 大廚帽	daium	50
-打近角	dajbj	963
 大金門	dajbm	104
 大禁區	dajbo	147
 大金融	dajbr	164
@@ -69794,7 +69669,7 @@ sort: by_weight
 大快樂	dakkl	166
 大塊煤	dakkm	58
 大塊肉	dakkr	213
-大會師	dakku	166
+大會山	dakku	40
 大快樂	dakky	166
 大狂歡	daklh	19
 打孔石	daksd	42
@@ -69847,7 +69722,7 @@ sort: by_weight
 大流感	dalqg	159
 大陸海	dalqh	1822
 大陸區	dalqo	433
-大陸片	dalqp	100
+大陸派	dalqp	93
 大陸區	dalqq	433
 達柳斯	dalqs	1326
 大流通	dalqt	37848
@@ -70096,7 +69971,6 @@ sort: by_weight
 大腿肌	datvj	4501
 大腿上	datvu	365
 大屯路	datyl	483
-大頭寶	datzb	161
 大頭鯉	datzl	33
 大頭娃	datzw	48
 大頭仔	datzz	57
@@ -70641,7 +70515,6 @@ sort: by_weight
 戴博士	ddbou	66
 戴伯勳	ddbox	34
 大博弈	ddboy	2851
-大脖子	ddboz	318
 大別墅	ddbpu	898
 大步村	ddbuc	51
 大步跑	ddbup	117
@@ -71017,7 +70890,7 @@ sort: by_weight
 大回復	ddhvf	68
 大回朝	ddhvi	221
 大惠民	ddhvm	80
-大會師	ddhvu	166
+大會山	ddhvu	40
 大回朝	ddhvv	221
 大彗星	ddhvx	216
 大黑邊	ddhwb	43
@@ -71241,7 +71114,7 @@ sort: by_weight
 大塊煤	ddkkm	58
 大塊肉	ddkkr	213
 大塊土	ddkkt	137
-大會師	ddkku	166
+大會山	ddkku	40
 大快樂	ddkky	166
 大狂歡	ddklh	19
 貸款方	ddkrf	9300
@@ -71331,9 +71204,8 @@ sort: by_weight
 大陸海	ddlqh	1822
 大陸籍	ddlqj	483
 大陸區	ddlqo	433
-大陸片	ddlqp	100
+大陸派	ddlqp	93
 大陸區	ddlqq	433
-大陸熱	ddlqr	83
 大流通	ddlqt	37848
 大陸生	ddlqu	620
 大陸營	ddlqy	47
@@ -71699,7 +71571,6 @@ sort: by_weight
 大統一	ddtsy	241
 戴兔耳	ddtue	52
 歹徒們	ddtum	230
-大突破	ddtup	11211
 代土影	ddtuy	46
 大兔子	ddtuz	524
 大腿部	ddtvb	988
@@ -71824,7 +71695,6 @@ sort: by_weight
 大直徑	ddvij	1856
 大隻佬	ddvil	246
 大致是	ddviu	1116
-大製作	ddviz	595
 大戰艦	ddvjj	97
 大戰中	ddvjv	445
 大戰役	ddvjy	1024
@@ -71979,7 +71849,6 @@ sort: by_weight
 大學賽	ddxts	147
 大學時	ddxtu	9310
 大學者	ddxtv	540
-大學問	ddxtw	2046
 大學學	ddxtx	8653
 大學一	ddxty	3654
 大學子	ddxtz	185
@@ -72114,7 +71983,6 @@ sort: by_weight
 德本漢	debfh	53
 德比日	debir	105
 德比希	debix	2405
-地板操	debjc	171
 地板價	debjj	1151
 地板流	debjl	713
 地板木	debjm	35
@@ -72346,6 +72214,7 @@ sort: by_weight
 地默唸	demod	51
 地默唸	demon	51
 德穆斯	demus	47
+地母神	demuu	32
 地美化	demwh	51
 德梅洛	demwl	197
 德納芙	denaf	143
@@ -72538,7 +72407,7 @@ sort: by_weight
 得需要	dexuy	137
 地下的	dexxd	6449
 地下根	dexxg	44
-地下化	dexxh	390
+地下湖	dexxh	101
 地下人	dexxr	613
 地下生	dexxu	372
 地下站	dexxv	579
@@ -73143,7 +73012,6 @@ sort: by_weight
 迪拜市	dibdu	444
 迪拜遊	dibdy	219
 迪比克	dibik	50
-地板操	dibjc	171
 地板木	dibjm	35
 地變革	dibmg	91
 地表的	dibnd	868
@@ -73855,7 +73723,6 @@ sort: by_weight
 石鴻俊	djhsj	270
 石洪喜	djhsx	84
 石虎村	djhuc	48
-石斛蘭	djhul	305
 石虎塘	djhut	50
 單和雙	djhuu	38
 單戶型	djhux	572
@@ -74566,7 +74433,6 @@ sort: by_weight
 丁凱文	dkkdw	40
 丁克女	dkken	36
 丁克森	dkkes	1355
-丁克族	dkkez	456
 定會有	dkkky	34
 丁奎嶺	dkkvl	94
 丁拉基	dklaj	328
@@ -74985,7 +74851,6 @@ sort: by_weight
 點鼠標	dmuub	533
 點水果	dmuvg	448
 點著的	dmvcd	289
-點著了	dmvcl	90
 點著的	dmved	289
 電真空	dmvfk	104
 電針儀	dmvfy	33
@@ -75005,7 +74870,6 @@ sort: by_weight
 唸咒語	dmvzy	51
 滇文化	dmwfh	98
 點文件	dmwfj	35
-電蚊香	dmwfx	1001
 電玩店	dmwjd	245
 電玩城	dmwji	2015
 電玩廳	dmwjt	35
@@ -75014,7 +74878,6 @@ sort: by_weight
 電信股	dmxbg	1051
 電信通	dmxbt	668
 電信商	dmxbu	1630
-電線桿	dmxmh	285
 點效率	dmxnl	33
 點效率	dmxnu	33
 電效應	dmxny	68
@@ -75044,7 +74907,6 @@ sort: by_weight
 店員們	dmyym	916
 點右鍵	dmyzj	98
 電遊室	dmyzu	90
-電宰廠	dmzdi	102
 滇藏線	dmzhx	404
 電子能	dmzin	460
 電子態	dmzit	107
@@ -75242,7 +75104,6 @@ sort: by_weight
 調蓄池	dnxui	363
 調一次	dnyic	36
 調一調	dnyid	53
-吊衣架	dnyij	283
 調一下	dnyix	273
 弔唁的	dnyjd	631
 調用的	dnysd	836
@@ -75593,7 +75454,6 @@ sort: by_weight
 多刷刷	douxu	127
 剁手族	douzz	774
 多陣性	dovfx	712
-多指症	doviv	228
 多賺點	dovrd	1508
 多重彩	dovsc	48
 多重數	dovsu	132
@@ -76907,7 +76767,6 @@ sort: by_weight
 都上傳	duuhv	15
 都市的	duuid	5285
 杜師傅	duuif	486
-都是很	duuih	31950
 都市圈	duuiq	10922
 都市文	duuiw	344
 都是在	duuiz	110344
@@ -78511,7 +78370,6 @@ sort: by_weight
 恩戈格	engeg	161
 恩蓋莫	engem	50
 恩甘定	engjd	66
-恩給制	engwv	1
 恩科諾	enken	116
 恩科西	enkex	42
 恩孔卡	enksk	57
@@ -79042,7 +78900,6 @@ sort: by_weight
 法內爾	fanwe	928
 發泡的	fapcd	96
 發泡體	fapct	374
-法拍屋	fapdw	557
 發片日	fapmr	363
 發票單	fapnd	242
 發票日	fapnr	64
@@ -79140,7 +78997,6 @@ sort: by_weight
 發長文	favhw	81
 法制的	favid	1846
 發執照	faviv	74
-發展村	favjc	1200
 發展好	favjh	6100
 發展圖	favjt	334
 發著抖	favod	20
@@ -80223,7 +80079,6 @@ sort: by_weight
 房王網	fhwhw	154
 放完電	fhwjd	56
 房屋長	fhwui	161
-房屋稅	fhwuu	425
 房屋業	fhwuy	1288
 方為安	fhwwa	67
 防偽標	fhwwb	439
@@ -80377,7 +80232,6 @@ sort: by_weight
 犯法的	fjfad	1470
 反諷的	fjfgd	475
 反封鎖	fjfgs	233
-反方向	fjfhx	4505
 泛泛的	fjfjd	1089
 翻翻樂	fjfjl	91
 範範之	fjfjv	46
@@ -81513,7 +81367,6 @@ sort: by_weight
 飛行量	fwhgl	401
 飛行夢	fwhgm	874
 飛行卡	fwhgq	92
-飛行傘	fwhgs	129
 飛行艇	fwhgt	128
 飛行師	fwhgu	206
 非行政	fwhgv	9477
@@ -81528,7 +81381,6 @@ sort: by_weight
 飛行量	fwhhl	401
 飛行夢	fwhhm	874
 飛行卡	fwhhq	92
-飛行傘	fwhhs	129
 飛行艇	fwhht	128
 非行政	fwhhv	9477
 飛行系	fwhhx	175
@@ -81794,7 +81646,6 @@ sort: by_weight
 非昔日	fwxir	174
 飛行課	fwxkk	117
 飛行量	fwxkl	401
-飛行傘	fwxks	129
 費翔翻	fwxlf	141
 飛翔鳥	fwxln	37
 肺腺癌	fwxma	683
@@ -82086,7 +81937,6 @@ sort: by_weight
 高飛的	gcfwd	268
 高飛狗	gcfwg	32
 高飛行	gcfwh	132
-郜飛機	gcfwj	475
 高費率	gcfwl	526
 高飛之	gcfwv	35
 高沸物	gcfww	64
@@ -84433,7 +84283,6 @@ sort: by_weight
 光纖的	glqmd	915
 光纖環	glqmh	70
 光纖數	glqmu	143
-光纖維	glqmw	391
 廣橋涼	glqnl	65
 光圈環	glqrh	222
 廣渠路	glqul	2373
@@ -84910,7 +84759,6 @@ sort: by_weight
 郭露文	golzw	582
 郭媽媽	gomam	496
 郭麻日	gomar	85
-國民車	gombi	816
 國民謀	gombm	41
 國貿店	gomcd	850
 國貿站	gomcv	1096
@@ -89104,8 +88952,6 @@ sort: by_weight
 賀若氏	herov	151
 和若曦	herox	552
 和軟文	herrw	146
-核融合	hersg	440
-核融合	hersh	440
 和如皋	herug	79
 和瑞德	hervd	36
 和瑞恩	herve	490
@@ -90761,7 +90607,6 @@ sort: by_weight
 壞了的	hklnd	1357
 壞了呢	hklnn	24
 懷卵量	hklrl	40
-划龍舟	hklsv	1725
 壞媽媽	hkmam	96
 淮南道	hknad	63
 淮南站	hknav	62
@@ -94470,7 +94315,6 @@ sort: by_weight
 和若曦	hurox	552
 胡若愚	huroy	835
 和軟文	hurrw	146
-核融合	hursg	440
 胡榮強	hursq	58
 和如皋	hurug	79
 呼入量	hurul	184
@@ -94862,6 +94706,7 @@ sort: by_weight
 和英美	huykm	462
 和瑩瑩	huyky	49
 和園博	huyrb	239
+和園參	huyrc	33
 和遠海	huyrh	304
 胡遠江	huyrj	406
 胡元坤	huyrk	53
@@ -95215,7 +95060,6 @@ sort: by_weight
 匯通路	hvtsl	230
 會推出	hvtvi	16761
 回頭兒	hvtze	288
-回頭書	hvtzu	138
 回頭轉	hvtzv	63
 匯投資	hvtzz	1650
 回韶山	hvucu	182
@@ -96054,7 +95898,6 @@ sort: by_weight
 華子魚	hxziy	1063
 華仔則	hxziz	88
 畫作品	hxzop	1309
-劃座位	hxzow	138
 化作用	hxzoy	460
 化組合	hxzug	263
 化組合	hxzuh	263
@@ -97630,7 +97473,6 @@ sort: by_weight
 陳飛虎	iffwh	137
 陳飛龍	iffwl	806
 陳斐然	iffwr	34
-塵肺症	iffwv	196
 陳高峰	ifgcf	61
 陳改戶	ifgdh	80
 陳改玲	ifgdl	52
@@ -98650,7 +98492,6 @@ sort: by_weight
 城南市	ignju	433
 程念慈	ignmc	144
 程念高	ignmg	34
-成年禮	ignml	1132
 成年型	ignmx	89
 承諾的	ignod	74030
 承諾額	ignoe	348
@@ -100381,7 +100222,6 @@ sort: by_weight
 重婚者	ishyv	64
 重柴油	isidy	114
 重程序	isigx	101
-充場面	isihm	406
 重場戲	isihx	509
 充斥著	isiiv	2862
 重闡述	isiju	52
@@ -100943,7 +100783,6 @@ sort: by_weight
 礎知識	iuviu	671
 礎知識	iuviv	671
 處置組	iuviz	1269
-出狀況	iuvlk	532
 出專輯	iuvrj	323
 出眾的	iuvsd	32421
 初中海	iuvsh	55
@@ -102369,7 +102208,6 @@ sort: by_weight
 紀立軍	jilij	178
 吉利人	jilir	41
 籍立委	jiliw	46
-機靈的	jilkd	1294
 吉靈漢	jilkh	194
 計量行	jillh	288
 奇梁洞	jillt	54
@@ -102951,6 +102789,7 @@ sort: by_weight
 經金溪	jkjbx	46
 景景景	jkjkj	71
 經江寧	jkjln	46
+精簡風	jkjmf	50
 經檢查	jkjmi	10645
 經檢查	jkjmv	10645
 經檢驗	jkjmy	5275
@@ -107759,7 +107598,6 @@ sort: by_weight
 開香檳	kdxlb	58
 開箱機	kdxlj	103
 開箱子	kdxlz	600
-開先例	kdxml	248
 開學後	kdxth	503
 開學了	kdxtl	2538
 開學前	kdxtq	375
@@ -108791,7 +108629,6 @@ sort: by_weight
 快電子	kkdmz	95
 塊多的	kkdod	218
 快多了	kkdol	1
-快動作	kkdsz	159
 會讀書	kkduu	197
 會得到	kkdwd	31754
 快得像	kkdwx	12
@@ -110036,7 +109873,6 @@ sort: by_weight
 拉季奇	lajiq	1014
 垃圾屋	lajiw	166
 垃圾魚	lajiy	523
-拉警報	lajkb	451
 拉鏡頭	lajkt	33
 辣醬面	lajlm	70
 拉鍊門	lajmm	309
@@ -110872,7 +110708,6 @@ sort: by_weight
 老怪物	lcgkw	38
 老廣東	lcgld	130
 老廣州	lcglv	514
-撈過界	lcgoj	203
 老果園	lcgoy	79
 老關東	lcgrd	41
 老公啊	lcgsa	17
@@ -114373,6 +114208,7 @@ sort: by_weight
 瞭解的	lnxpd	34414
 瞭解了	lnxpl	4664
 瞭解你	lnxpn	5578
+瞭解其	lnxpq	326
 瞭解他	lnxpt	15087
 瞭解網	lnxpw	1462
 瞭解學	lnxpx	2458
@@ -115182,7 +115018,6 @@ sort: by_weight
 劉冠麟	lqgrl	358
 劉冠南	lqgrn	303
 六冠王	lqgrw	2404
-硫磺谷	lqgsg	211
 陸恭蕙	lqgsh	53
 柳谷書	lqguu	71
 劉桂花	lqgvh	64
@@ -115974,7 +115809,6 @@ sort: by_weight
 卵黃素	lrhls	729
 亂花的	lrhxd	63
 卵巢瘤	lricl	80
-亂集團	lrjit	135
 欒菊傑	lrjuj	71
 欒克軍	lrkej	101
 亂倫的	lrlyd	258
@@ -116210,7 +116044,6 @@ sort: by_weight
 龍天勇	lstmy	43
 籠統講	lstsj	59
 龍洞堡	lstsp	485
-龍圖智	lstuv	350
 龍頭包	lstzb	77
 龍頭石	lstzd	277
 龍頭房	lstzf	11608
@@ -116942,7 +116775,6 @@ sort: by_weight
 呂冰洋	lvbky	34
 綠標車	lvbni	603
 綠標車	lvbnj	603
-鋁箔包	lvbob	334
 旅博會	lvbok	1330
 綠博園	lvboy	750
 呂布的	lvbud	858
@@ -117467,7 +117299,6 @@ sort: by_weight
 雷同於	lwtsy	107
 類推的	lwtvd	38
 雷少東	lwucd	63
-鐳射燈	lwued	215
 鐳射膜	lwuem	101
 鐳射紙	lwuev	117
 鐳射眼	lwuey	128
@@ -121038,7 +120869,6 @@ sort: by_weight
 無明顯	momkx	563
 無面目	mommm	402
 無麵人	mommr	34
-無冕王	mommw	497
 萬萬不	momob	1199
 莫無情	momoq	95
 陌陌上	momou	633
@@ -123184,7 +123014,7 @@ sort: by_weight
 南太行	natdh	172
 那太監	natdj	54
 南臺寺	natds	35
-南臺灣	natdw	980
+南太務	natdw	58
 南泰熙	natdx	1452
 南臺月	natdy	37
 納特爾	natee	93
@@ -123469,7 +123299,6 @@ sort: by_weight
 腦栓通	ncurt	340
 鬧水荒	ncuvh	92
 腦受損	ncuzs	81
-腦中樞	ncvsu	210
 硇洲島	ncvzd	91
 腦形成	ncxki	42
 腦血流	ncxpl	507
@@ -124762,7 +124591,6 @@ sort: by_weight
 難討好	njtch	94
 南臺島	njtdd	54
 南臺寺	njtds	35
-南臺灣	njtdw	980
 南臺月	njtdy	37
 南特市	njteu	50
 南塘街	njthj	37
@@ -125182,7 +125010,6 @@ sort: by_weight
 尿不出	nnbui	10
 尿不盡	nnbuj	344
 尿布臺	nnbut	324
-尿布疹	nnbuv	774
 尿道的	nndcd	337
 尿等待	nndgd	121
 尿滴瀝	nndil	42
@@ -125296,7 +125123,6 @@ sort: by_weight
 捏了捏	nplnn	127
 聶磊案	nplwa	95
 聶磊涉	nplwu	202
-捏麵人	npmmr	821
 聶梅生	npmwu	6032
 聶日明	nprim	134
 囁嚅著	npruv	26
@@ -125433,7 +125259,6 @@ sort: by_weight
 牛肉滑	nqrzh	39
 牛肉切	nqrzq	791
 牛肉粥	nqrzv	72
-牛肉餡	nqrzx	612
 牛思道	nqsid	121
 牛飼料	nqsil	79
 牛飼養	nqsiy	134
@@ -125507,7 +125332,6 @@ sort: by_weight
 牛仔帽	nqzdm	853
 牛仔網	nqzdw	348
 牛仔靴	nqzdx	158
-牛仔酷	nqzik	172
 牛仔帽	nqzim	853
 牛仔式	nqziu	66
 牛仔網	nqziw	348
@@ -125645,7 +125469,6 @@ sort: by_weight
 農民城	nsmbi	392
 農民家	nsmbj	1595
 農民會	nsmbk	1246
-農民曆	nsmbl	354
 農民式	nsmbu	144
 農民學	nsmbx	426
 農忙期	nsmhj	46
@@ -125665,7 +125488,6 @@ sort: by_weight
 農群華	nsqyh	106
 濃肉湯	nsrzt	98
 弄死了	nssil	326
-農索堡	nssob	58
 濃縮的	nssod	2251
 濃縮池	nssoi	167
 濃縮的	nssud	2251
@@ -130067,7 +129889,6 @@ sort: by_weight
 氣惱的	qincd	232
 齊尼奇	qinij	364
 齊尼奇	qiniq	364
-七娘媽	qinlm	319
 七娘山	qinlu	143
 七年來	qinml	4525
 祈年門	qinmm	37
@@ -130745,7 +130566,6 @@ sort: by_weight
 強風化	qlfgh	66
 強風中	qlfgv	156
 強反差	qlfjc	61
-強反差	qlfji	61
 強輻射	qlfuu	767
 搶高點	qlgcd	41
 強高模	qlgcm	96
@@ -132218,7 +132038,6 @@ sort: by_weight
 全天的	qrtmd	4058
 全天均	qrtmj	285
 全天通	qrtmt	313
-全天遊	qrtmy	132
 全貼合	qrtph	7300
 全通過	qrtsg	320
 全圖形	qrtux	66
@@ -132302,7 +132121,6 @@ sort: by_weight
 權限的	qrxmd	4944
 全線長	qrxmi	510
 權限集	qrxmj	221
-權限內	qrxmn	15
 全線速	qrxms	289
 全賢武	qrxmw	85
 權曉輝	qrxnh	337
@@ -134964,7 +134782,6 @@ sort: by_weight
 入十三	ruuis	57
 如是問	ruuiw	77
 汝山谷	ruujg	106
-如山之	ruujv	471
 入睡後	ruuvh	68
 入水口	ruuvk	528
 乳汁的	ruvid	983
@@ -135960,7 +135777,6 @@ sort: by_weight
 四行詩	sihgu	48
 四行詩	sihhu	48
 嘶喊著	sihjv	11
-四壞球	sihkq	49
 斯和波	sihob	76
 似火的	sihod	606
 司和行	sihoh	214
@@ -136211,7 +136027,6 @@ sort: by_weight
 斯圖卡	situq	178
 私攝影	siuey	33
 死神賽	siufs	392
-四神湯	siuft	552
 私生飯	siugf	988
 死生也	siugy	71
 思上進	siuhj	33
@@ -136407,7 +136222,6 @@ sort: by_weight
 三國吳	sjgow	75
 三關口	sjgrk	467
 三管輪	sjgrl	63
-三冠王	sjgrw	31205
 三工區	sjgso	56
 三公園	sjgsy	116
 三股的	sjgud	53
@@ -137812,7 +137626,6 @@ sort: by_weight
 尿不盡	svbuj	344
 雖不能	svbun	4244
 雖不是	svbuu	7822
-尿布疹	svbuv	774
 碎瓷片	svcip	200
 隨從們	svcsm	170
 隋存毅	svcyy	269
@@ -141958,7 +141771,6 @@ sort: by_weight
 鐵箅子	tpbiz	59
 鐵板路	tpbjl	311
 鐵板麵	tpbjm	235
-占便宜	tpbmy	832
 占卜的	tpbod	291
 貼布告	tpbug	43
 鐵不鐵	tpbut	15
@@ -142050,7 +141862,6 @@ sort: by_weight
 鐵拍板	tppdb	75
 鐵皮房	tppif	677
 鐵皮人	tppir	131
-占便宜	tppmy	832
 鐵騎兵	tpqib	59
 鐵騎後	tpqih	43
 鐵七局	tpqij	33
@@ -142073,7 +141884,6 @@ sort: by_weight
 貼身衣	tpufy	123
 鐵生溝	tpugg	76
 貼商標	tpuhb	95
-占上風	tpuhf	363
 鐵獅玉	tpuiy	64
 鐵山靠	tpujk	44
 鐵帥李	tpukl	330
@@ -142412,7 +142222,6 @@ sort: by_weight
 童夢瑤	tsmgy	102
 同曼聯	tsmjl	1515
 童明康	tsmkk	383
-同命鳥	tsmkn	379
 童名謙	tsmkq	5420
 同摩爾	tsmoe	61
 桐木村	tsmuc	66
@@ -142436,8 +142245,6 @@ sort: by_weight
 通勤圈	tsqbq	329
 通勤通	tsqbt	60
 通勤族	tsqbz	459
-通氣閥	tsqif	118
-通氣系	tsqij	75
 通氣塞	tsqis	61
 同情的	tsqkd	2242
 同慶號	tsqkh	74
@@ -143153,7 +142960,6 @@ sort: by_weight
 投訴件	tzsuj	707
 頭疼病	tztgb	68
 頭疼事	tztgu	354
-偷聽器	tztkq	72
 頭條吧	tztnb	58
 頭條網	tztnw	136
 頭痛的	tztsd	5094
@@ -145804,7 +145610,6 @@ sort: by_weight
 時紅秀	uihsx	293
 石虎村	uihuc	48
 似乎長	uihui	379
-石斛蘭	uihul	305
 史和平	uihup	338
 似乎有	uihuy	49828
 實惠多	uihvd	657
@@ -146641,7 +146446,6 @@ sort: by_weight
 山林湖	ujlbh	56
 山林場	ujlbi	147
 禪林山	ujlbu	130
-單老師	ujlcu	138
 善樂施	ujleu	33
 山裡村	ujlic	44
 山裡來	ujlil	122
@@ -147578,7 +147382,6 @@ sort: by_weight
 數號碼	uuhcm	197
 數很多	uuhfd	265
 舒紅兵	uuhsb	254
-疏洪道	uuhsd	291
 舒洪水	uuhsu	49
 贖回的	uuhvd	57335
 贖回潮	uuhvi	2307
@@ -148295,7 +148098,6 @@ sort: by_weight
 刷卡費	uxkaf	747
 刷卡族	uxkaz	549
 刷喇叭	uxlab	81
-耍老千	uxlcq	322
 耍龍燈	uxlsd	109
 刷綠漆	uxluq	156
 刷綠漆	uxlvq	156
@@ -152524,7 +152326,6 @@ sort: by_weight
 戰本賽	vjbfs	119
 佔必文	vjbiw	83
 粘板岩	vjbjy	244
-占便宜	vjbmy	832
 占卜的	vjbod	291
 占卜的	vjbud	291
 佔哺乳	vjbur	167
@@ -153120,7 +152921,6 @@ sort: by_weight
 著手勢	vouzu	195
 著手做	vouzz	1249
 卓著的	vovcd	1165
-著著急	vovcj	127
 卓朝陽	vovcy	127
 卓著的	voved	1165
 卓長立	vovhl	145
@@ -159641,7 +159441,6 @@ sort: by_weight
 微小區	wwxno	58
 蔚小平	wwxnp	106
 為消遣	wwxnq	58
-維謝格	wwxpg	50
 為解決	wwxpj	369
 威脅說	wwxpu	60
 威脅我	wwxpw	221
@@ -160470,7 +160269,6 @@ sort: by_weight
 西部人	xibur	498
 西部網	xibuw	7955
 洗不洗	xibux	23
-西北土	xibwt	80
 茜草科	xicck	19
 洗菜工	xicdg	44
 西菜園	xicdy	37
@@ -161354,7 +161152,6 @@ sort: by_weight
 興盛園	xkugy	91
 行商的	xkuhd	692
 行商品	xkuhp	505
-形上學	xkuhx	53
 性上癮	xkuhy	59
 省事兒	xkuie	923
 興實業	xkuiy	342
@@ -162914,7 +162711,6 @@ sort: by_weight
 小黃牛	xnhln	119
 蕭煌奇	xnhlq	2240
 小黃人	xnhlr	8319
-小火球	xnhoq	44
 小火煨	xnhow	629
 蕭喚雲	xnhry	100
 蕭洪恩	xnhse	114
@@ -163435,7 +163231,6 @@ sort: by_weight
 小臭臭	xnxqi	184
 小臭臭	xnxqx	184
 小漩渦	xnxrg	13
-小選區	xnxrq	117
 小漩渦	xnxrw	13
 小萱萱	xnxrx	104
 梟雄傳	xnxsi	301
@@ -163810,7 +163605,6 @@ sort: by_weight
 歇會吧	xpkkb	57
 協會的	xpkkd	33881
 協會化	xpkkh	60
-協會長	xpkki	651
 協會長	xpkkv	651
 協會性	xpkkx	108
 協會員	xpkky	943
@@ -164086,7 +163880,6 @@ sort: by_weight
 寫著呢	xpvcn	41
 葉兆平	xpvcp	59
 謝朝陽	xpvcy	4418
-謝寨村	xpvdc	50
 斜著的	xpved	204
 寫著呢	xpven	41
 謝哲青	xpveq	32
@@ -165052,7 +164845,6 @@ sort: by_weight
 薛守紀	xtuzj	59
 薛兆平	xtvcp	46
 學者們	xtvem	4792
-薛振源	xtvfy	607
 薛長林	xtvhl	36
 薛長銳	xtvhr	1664
 薛長勇	xtvhy	51
@@ -166262,7 +166054,6 @@ sort: by_weight
 詢證函	xyvgh	857
 熏蒸室	xyvgu	238
 熏製的	xyvid	281
-蕈狀雲	xyvly	209
 燻豬肉	xyvur	57
 詢問部	xywfb	135
 詢問的	xywfd	4590
@@ -170246,6 +170037,7 @@ sort: by_weight
 閻仲川	yjvsi	35
 嚴重嗎	yjvsm	203
 閆仲秋	yjvsq	111
+演主角	yjvuj	702
 炎術師	yjvuu	128
 眼外肌	yjwdj	126
 沿外牆	yjwdq	100
@@ -170475,7 +170267,6 @@ sort: by_weight
 英尺長	ykiiv	1285
 鷹窗穴	ykilx	32
 應崇福	ykisf	147
-迎春杯	ykiyb	151
 迎春閣	ykiyg	60
 應酬族	ykizz	127
 應盡的	ykjbd	11169
@@ -170508,7 +170299,6 @@ sort: by_weight
 迎來第	ykldd	14978
 迎來香	ykldx	45
 應立即	yklij	22414
-硬裡子	ykliz	248
 英靈殿	yklkd	256
 英靈們	yklkm	282
 影靈衣	yklky	43
@@ -171171,7 +170961,6 @@ sort: by_weight
 袁詠琳	yrysl	350
 遠與近	yryuj	55
 袁雲華	yryyh	58
-園遊會	yryzh	704
 原油船	yryzi	370
 園遊券	yryzx	66
 遠優於	yryzy	97
@@ -174195,7 +173984,6 @@ sort: by_weight
 又傳來	yzvrl	83
 有專門	yzvrm	2795
 有專人	yzvrr	408
-有賺頭	yzvrt	449
 右轉向	yzvrx	1727
 有專業	yzvry	1085
 釉中彩	yzvsc	84
@@ -179362,7 +179150,6 @@ sort: by_weight
 愛花的	aihxdi	101
 璦琿區	aihyou	370
 璦琿區	aihyqu	370
-璦琿縣	aihyxm	300
 愛吵架	aiicjx	62
 愛車行	aiiehg	53
 愛車行	aiiehh	53
@@ -182377,7 +182164,6 @@ sort: by_weight
 薄板廠	bcbjih	78
 包辦了	bcbjle	94
 包辦了	bcbjln	94
-包班制	bcbjvi	261
 炮兵部	bcbkbu	39
 薄餅店	bcbkdm	44
 薄變厚	bcbmhz	45
@@ -183336,7 +183122,6 @@ sort: by_weight
 包傳輸	bcvruu	11
 鮑傳友	bcvryz	51
 保重點	bcvsdm	1497
-包種茶	bcvsia	462
 鮑仲良	bcvsll	94
 鮑忠武	bcvswu	177
 報中心	bcvsxb	258
@@ -183608,10 +183393,8 @@ sort: by_weight
 伯伯們	bdbomf	79
 擺佈而	bdbuer	34
 擺不開	bdbukd	338
-擺不平	bdbupk	1237
 百步梯	bdbuti	137
 百步沙	bdbuua	94
-百步蛇	bdbuue	387
 百步走	bdbuzz	435
 百倍的	bdbwde	1795
 百倍的	bdbwdi	1795
@@ -184047,7 +183830,6 @@ sort: by_weight
 白禮頓	bdlidy	208
 百里風	bdlifg	452
 白裡泛	bdlifj	48
-百里侯	bdlihz	288
 伯力城	bdliig	43
 百麗春	bdliiy	79
 佰利聯	bdlilm	6523
@@ -184482,7 +184264,6 @@ sort: by_weight
 柏忠春	bdvsiy	36
 白種男	bdvsnj	37
 白忠義	bdvsyi	82
-白煮蛋	bdvudj	399
 擺著呢	bdvune	131
 擺著呢	bdvuni	131
 白晝的	bdvzde	178
@@ -191702,7 +191483,6 @@ sort: by_weight
 貝爾比	bwerbi	162
 貝兒多	bwerdo	72
 貝爾頓	bwerdy	146
-北二高	bwergc	262
 北二巷	bwerhh	49
 貝爾卡	bwerka	787
 貝爾肯	bwerkf	109
@@ -197289,7 +197069,6 @@ sort: by_weight
 大愛城	daaiig	74
 大愛臺	daaitd	270
 答案吧	daanba	1057
-答案卷	daanjr	324
 大案子	daanzi	252
 大八卦	dabagx	106
 大壩基	dabaji	41
@@ -197553,7 +197332,6 @@ sort: by_weight
 大石路	dadjlu	233
 大石門	dadjmf	61
 大石站	dadjvj	50
-打彈珠	dadjvu	472
 大石窩	dadjwo	58
 大單位	dadjww	1701
 大石下	dadjxx	36
@@ -197677,7 +197455,6 @@ sort: by_weight
 大法庭	dafatk	405
 大發生	dafaug	158
 大份的	daffde	25
-大份的	daffdi	25
 大分裂	dafflp	243
 大分類	dafflw	369
 大分區	daffou	73
@@ -198025,7 +197802,6 @@ sort: by_weight
 大回朝	dahvic	221
 大惠民	dahvmb	80
 大毀滅	dahvmp	54
-大會師	dahvui	166
 大會山	dahvuj	40
 大回朝	dahvvc	221
 大彗星	dahvxk	216
@@ -198134,7 +197910,6 @@ sort: by_weight
 大蟾蜍	daijiu	39
 達產期	daijji	996
 達產率	daijlv	877
-達產期	daijqi	996
 大產權	daijqr	2856
 達產率	daijuk	877
 大鏟灣	daijwj	389
@@ -198250,7 +198025,6 @@ sort: by_weight
 大叫著	dajnvo	83
 大教主	dajnvu	263
 大角灣	dajnwj	70
-大腳丫	dajnya	165
 大腳印	dajnyb	226
 大角羊	dajnyh	240
 大交易	dajnyi	7048
@@ -198317,7 +198091,7 @@ sort: by_weight
 大家管	dajxgr	135
 大家歸	dajxgv	81
 大家臣	dajxif	47
-大家長	dajxih	2012
+大家唱	dajxih	704
 大家吃	dajxii	3703
 大家衝	dajxis	207
 大家聚	dajxju	2191
@@ -198383,7 +198157,6 @@ sort: by_weight
 大塊煤	dakkmw	58
 大塊肉	dakkrz	213
 大塊土	dakktu	137
-大會師	dakkui	166
 大會山	dakkuj	40
 大快樂	dakkyt	166
 大狂歡	daklhr	19
@@ -198545,9 +198318,7 @@ sort: by_weight
 大流量	dalqll	5025
 大陸區	dalqou	433
 大陸派	dalqpd	93
-大陸片	dalqpm	100
 大陸區	dalqqu	433
-大陸熱	dalqre	83
 達柳斯	dalqsi	1326
 大柳塔	dalqta	281
 大陸團	dalqtr	538
@@ -198579,9 +198350,7 @@ sort: by_weight
 大陸劇	daluju	241
 大陸區	daluou	433
 大陸派	dalupd	93
-大陸片	dalupm	100
 大陸區	daluqu	433
-大陸熱	dalure	83
 達魯薩	dalusa	87
 大陸團	dalutr	538
 大陸生	daluug	620
@@ -199058,7 +198827,6 @@ sort: by_weight
 大彈簧	datjhl	63
 打坦克	datjke	310
 大探索	datjso	288
-打彈珠	datjvu	472
 大探險	datjxm	125
 打聽的	datkde	244
 打聽的	datkdi	244
@@ -199118,7 +198886,6 @@ sort: by_weight
 大統一	datsyi	241
 大土地	datude	629
 大土地	datudi	629
-大突破	datupo	11211
 大兔子	datuzi	524
 大腿部	datvbu	988
 大腿的	datvde	3771
@@ -199132,7 +198899,6 @@ sort: by_weight
 大屯路	datylu	483
 大頭寶	datzbc	161
 大頭棒	datzbh	41
-大頭兵	datzbk	38
 大頭的	datzde	1831
 大頭的	datzdi	1831
 大頭佛	datzfo	61
@@ -199286,7 +199052,6 @@ sort: by_weight
 大收穫	dauzhu	1805
 打手掌	dauzvh	41
 大手指	dauzvi	35
-打手心	dauzxb	33
 達扎吉	davaji	34
 大柵門	davamf	42
 達扎寺	davasi	57
@@ -199629,7 +199394,6 @@ sort: by_weight
 大學說	daxtuv	55
 大學者	daxtve	540
 大學站	daxtvj	110
-大學問	daxtwf	2046
 大學西	daxtxi	207
 大學學	daxtxt	8653
 大學一	daxtyi	3654
@@ -200527,7 +200291,6 @@ sort: by_weight
 大博文	ddbowf	47
 戴伯勳	ddboxy	34
 大博弈	ddboyi	2851
-大脖子	ddbozi	318
 大別墅	ddbpuu	898
 大步村	ddbucy	51
 逮不到	ddbudc	24
@@ -201112,7 +200875,6 @@ sort: by_weight
 大和島	ddhodc	164
 大夥的	ddhode	1043
 大夥的	ddhodi	1043
-大伙兒	ddhoer	696
 大活佛	ddhofo	153
 大活佛	ddhofu	153
 戴和根	ddhogf	125
@@ -201187,7 +200949,6 @@ sort: by_weight
 戴慧莉	ddhvli	281
 大惠民	ddhvmb	80
 大毀滅	ddhvmp	54
-大會師	ddhvui	166
 大會山	ddhvuj	40
 大回朝	ddhvvc	221
 大彗星	ddhvxk	216
@@ -201442,7 +201203,6 @@ sort: by_weight
 大教主	ddjnvu	263
 大角灣	ddjnwj	70
 大覺醒	ddjnxk	54
-大腳丫	ddjnya	165
 大腳印	ddjnyb	226
 大角羊	ddjnyh	240
 大交易	ddjnyi	7048
@@ -201511,7 +201271,7 @@ sort: by_weight
 大家管	ddjxgr	135
 大家歸	ddjxgv	81
 大家臣	ddjxif	47
-大家長	ddjxih	2012
+大家唱	ddjxih	704
 大家吃	ddjxii	3703
 大家衝	ddjxis	207
 大家期	ddjxji	5517
@@ -201529,7 +201289,6 @@ sort: by_weight
 大家食	ddjxui	285
 大家說	ddjxuo	14068
 大家說	ddjxuv	14068
-大家長	ddjxvh	2012
 大家文	ddjxwf	301
 大家網	ddjxwh	504
 大家玩	ddjxwj	2291
@@ -201584,7 +201343,6 @@ sort: by_weight
 大塊煤	ddkkmw	58
 大塊肉	ddkkrz	213
 大塊土	ddkktu	137
-大會師	ddkkui	166
 大會山	ddkkuj	40
 大快樂	ddkkyt	166
 大狂歡	ddklhr	19
@@ -201747,9 +201505,7 @@ sort: by_weight
 大流量	ddlqll	5025
 大陸區	ddlqou	433
 大陸派	ddlqpd	93
-大陸片	ddlqpm	100
 大陸區	ddlqqu	433
-大陸熱	ddlqre	83
 大柳塔	ddlqta	281
 大陸團	ddlqtr	538
 大流通	ddlqts	37848
@@ -201782,10 +201538,8 @@ sort: by_weight
 大路面	ddlumm	71
 大陸區	ddluou	433
 大陸派	ddlupd	93
-大陸片	ddlupm	100
 大路坡	ddlupo	659
 大陸區	ddluqu	433
-大陸熱	ddlure	83
 大陸團	ddlutr	538
 大陸生	ddluug	620
 大陸上	ddluuh	350
@@ -202303,7 +202057,6 @@ sort: by_weight
 大土地	ddtude	629
 戴兔耳	ddtuer	52
 歹徒們	ddtumf	230
-大突破	ddtupo	11211
 代土影	ddtuyk	46
 大兔子	ddtuzi	524
 大腿部	ddtvbu	988
@@ -202319,7 +202072,6 @@ sort: by_weight
 大屯路	ddtylu	483
 大頭寶	ddtzbc	161
 大頭棒	ddtzbh	41
-大頭兵	ddtzbk	38
 帶頭的	ddtzde	2498
 帶頭的	ddtzdi	2498
 大頭佛	ddtzfo	61
@@ -202572,7 +202324,6 @@ sort: by_weight
 帶徵銀	ddviyb	1
 大支援	ddviyr	38
 戴志勇	ddviys	194
-大製作	ddvizo	595
 大戰艦	ddvjjm	97
 大戰爭	ddvjvg	233
 大戰中	ddvjvs	445
@@ -202903,7 +202654,6 @@ sort: by_weight
 大學說	ddxtuv	55
 大學者	ddxtve	540
 大學站	ddxtvj	110
-大學問	ddxtwf	2046
 大學西	ddxtxi	207
 大學學	ddxtxt	8653
 大學一	ddxtyi	3654
@@ -203178,7 +202928,6 @@ sort: by_weight
 德本漢	debfhj	53
 德比日	debiri	105
 德比希	debixi	2405
-地板操	debjcc	171
 地板價	debjjp	1151
 地板價	debjjx	1151
 地板流	debjlq	713
@@ -203863,7 +203612,6 @@ sort: by_weight
 地下的	dexxdi	6449
 地下根	dexxgf	44
 地下湖	dexxhu	101
-地下化	dexxhx	390
 地下人	dexxrf	613
 地下生	dexxug	372
 地下站	dexxvj	579
@@ -204122,7 +203870,6 @@ sort: by_weight
 等幾年	dgjinm	41
 等級品	dgjipb	609
 登記上	dgjiuh	10
-登記時	dgjiui	3815
 登機閘	dgjiva	89
 登記照	dgjivc	293
 登記賬	dgjivh	109
@@ -204881,7 +204628,6 @@ sort: by_weight
 迪拜遊	dibdyz	219
 迪比克	dibike	50
 滴鼻液	dibiye	79
-地板操	dibjcc	171
 地板價	dibjjp	1151
 地板價	dibjjx	1151
 地板流	dibjlq	713
@@ -204896,7 +204642,6 @@ sort: by_weight
 地標級	dibnji	383
 地表面	dibnmm	98
 地標式	dibnui	933
-低標準	dibnvy	5427
 地標性	dibnxk	2696
 迪伯倫	diboly	39
 底部的	dibude	17863
@@ -205550,7 +205295,6 @@ sort: by_weight
 地球的	diqqde	14831
 地球的	diqqdi	14831
 地球化	diqqhx	58
-地球時	diqqui	621
 地球位	diqqww	58
 地球學	diqqxt	47
 地區部	diqubu	4117
@@ -206004,7 +205748,6 @@ sort: by_weight
 地下的	dixxdi	6449
 地下根	dixxgf	44
 地下湖	dixxhu	101
-地下化	dixxhx	390
 地下生	dixxug	372
 地下站	dixxvj	579
 地下線	dixxxm	649
@@ -206501,7 +206244,6 @@ sort: by_weight
 單核的	djhude	165
 石湖蕩	djhudh	132
 單核的	djhudi	165
-石斛蘭	djhulj	305
 石胡荽	djhusv	257
 石虎塘	djhuth	50
 單和雙	djhuul	38
@@ -207788,7 +207530,6 @@ sort: by_weight
 丁凱文	dkkdwf	40
 丁克女	dkkenv	36
 丁克森	dkkesf	1355
-丁克族	dkkezu	456
 定會有	dkkkyz	34
 丁奎嶺	dkkvlk	94
 丁拉基	dklaji	328
@@ -208429,8 +208170,6 @@ sort: by_weight
 靛藍的	dmljde	41
 靛藍的	dmljdi	41
 電纜管	dmljgr	93
-電纜車	dmljie	33
-電纜車	dmljju	33
 電纜皮	dmljpi	110
 電纜盤	dmljpj	156
 電纜長	dmljvh	74
@@ -208635,7 +208374,6 @@ sort: by_weight
 唸咒語	dmvzyu	51
 滇文化	dmwfhx	98
 點文件	dmwfjm	35
-電蚊香	dmwfxl	1001
 槙文彥	dmwfyj	130
 電玩店	dmwjdm	245
 電玩城	dmwjig	2015
@@ -208660,7 +208398,6 @@ sort: by_weight
 典型病	dmxkbk	66
 典型地	dmxkdi	1221
 癲癇的	dmxmdi	647
-電線桿	dmxmhj	285
 點效率	dmxnlv	33
 點效率	dmxnuk	33
 電效應	dmxnyk	68
@@ -208723,7 +208460,6 @@ sort: by_weight
 店員們	dmyymf	916
 點右鍵	dmyzjm	98
 電遊室	dmyzui	90
-電宰廠	dmzdih	102
 滇藏線	dmzhxm	404
 電子本	dmzibf	230
 電子波	dmzibo	62
@@ -208916,7 +208652,6 @@ sort: by_weight
 雕刻工	dnkegs	174
 雕刻畫	dnkehx	348
 雕刻出	dnkeiu	483
-雕刻匠	dnkejl	315
 弔客眉	dnkemw	131
 雕刻牌	dnkepd	42
 雕刻上	dnkeuh	134
@@ -209092,7 +208827,6 @@ sort: by_weight
 調蓄池	dnxuii	363
 調一次	dnyici	36
 調一調	dnyidn	53
-吊衣架	dnyijx	283
 刁亦男	dnyinj	5393
 調一調	dnyitn	53
 調一下	dnyixx	273
@@ -209737,7 +209471,6 @@ sort: by_weight
 多整點	dovgdm	15
 度支部	dovibu	41
 多汁的	dovidi	1310
-多指症	dovivg	228
 多賺點	dovrdm	1508
 多重彩	dovscd	48
 多重的	dovsde	2608
@@ -215171,8 +214904,6 @@ sort: by_weight
 恩戈格	engege	161
 恩蓋莫	engemo	50
 恩甘定	engjdk	66
-恩給制	engwvi	1
-恩給制	enjivi	1
 恩科諾	enkeno	116
 恩科西	enkexi	42
 恩孔卡	enkska	57
@@ -215339,7 +215070,6 @@ sort: by_weight
 而獲利	erholi	1419
 二環線	erhrxm	1088
 而轟動	erhsds	311
-兒化音	erhxyb	381
 耳後的	erhzde	274
 耳後的	erhzdi	274
 而後者	erhzve	28332
@@ -216086,7 +215816,6 @@ sort: by_weight
 發泡的	fapcdi	96
 發泡灸	fapcjq	45
 發泡體	fapcti	374
-法拍屋	fapdwu	557
 發片日	fapmri	363
 發票單	fapndj	242
 發票後	fapnhz	27
@@ -218646,7 +218375,6 @@ sort: by_weight
 房屋長	fhwuih	161
 房屋局	fhwuju	638
 房屋署	fhwuuu	176
-房屋稅	fhwuuv	425
 房屋長	fhwuvh	161
 房屋中	fhwuvs	2749
 房屋業	fhwuye	1288
@@ -219012,7 +218740,6 @@ sort: by_weight
 反諷的	fjfgde	475
 反諷的	fjfgdi	475
 反封鎖	fjfgso	233
-反方向	fjfhxl	4505
 泛泛的	fjfjde	1089
 泛泛的	fjfjdi	1089
 範範範	fjfjfj	184
@@ -221625,7 +221352,6 @@ sort: by_weight
 飛行夢	fwhgmg	874
 飛行旗	fwhgqi	33
 飛行卡	fwhgqx	92
-飛行傘	fwhgsj	129
 飛行艇	fwhgtk	128
 飛行師	fwhgui	206
 非行政	fwhgvg	9477
@@ -221650,7 +221376,6 @@ sort: by_weight
 飛行夢	fwhhmg	874
 飛行旗	fwhhqi	33
 飛行卡	fwhhqx	92
-飛行傘	fwhhsj	129
 飛行艇	fwhhtk	128
 非行政	fwhhvg	9477
 飛行鐘	fwhhvs	128
@@ -222147,7 +221872,6 @@ sort: by_weight
 非我們	fwwomf	482
 費沃斯	fwwosi	8207
 廢物堆	fwwudv	139
-廢五金	fwwujb	260
 廢物庫	fwwuku	73
 飛舞著	fwwuvc	22
 飛舞著	fwwuve	22
@@ -222182,7 +221906,6 @@ sort: by_weight
 飛行類	fwxklw	114
 飛行夢	fwxkmg	874
 飛行卡	fwxkqx	92
-飛行傘	fwxksj	129
 飛行艇	fwxktk	128
 非行政	fwxkvg	9477
 飛行鐘	fwxkvs	128
@@ -222770,7 +222493,6 @@ sort: by_weight
 高飛狗	gcfwgz	32
 高飛行	gcfwhg	132
 高飛行	gcfwhh	132
-郜飛機	gcfwji	475
 高費率	gcfwlv	526
 高費率	gcfwuk	526
 高飛之	gcfwvi	35
@@ -224663,7 +224385,6 @@ sort: by_weight
 葛建中	gejmvs	46
 葛建偉	gejmww	119
 合焦點	gejndm	89
-箇舊縣	gejqxm	197
 隔絕的	gejtde	1486
 隔絕的	gejtdi	1486
 歌劇的	gejude	2021
@@ -227224,7 +226945,6 @@ sort: by_weight
 光纖環	glqmhr	70
 光纖數	glqmuo	143
 光纖數	glqmuu	143
-光纖維	glqmww	391
 廣橋涼	glqnll	65
 光圈環	glqrhr	222
 廣渠路	glqulu	2373
@@ -227380,7 +227100,6 @@ sort: by_weight
 光線是	glxmui	380
 光纖數	glxmuo	143
 光纖數	glxmuu	143
-光纖維	glxmww	391
 光現象	glxmxl	131
 光效高	glxngc	104
 光效率	glxnlv	99
@@ -228146,7 +227865,6 @@ sort: by_weight
 過硫酸	golqsr	49
 國六條	golqtn	5300
 國隆府	golsfu	57
-划龍舟	golsvz	1725
 鍋爐艙	goluch	43
 過路村	golucy	40
 鍋爐島	goludc	82
@@ -228176,8 +227894,6 @@ sort: by_weight
 國民的	gombde	9622
 國民的	gombdi	9622
 國民隊	gombdv	979
-國民車	gombie	816
-國民車	gombju	816
 國民謀	gombmz	41
 國民社	gombue	47
 郭敏貞	gombvf	49
@@ -229379,7 +229095,6 @@ sort: by_weight
 官至江	grvijl	37
 關志傑	grvijp	35
 管制局	grviju	563
-管制品	grvipb	378
 管制期	grviqi	320
 關志強	grviql	34
 關之前	grviqm	74
@@ -236697,8 +236412,6 @@ sort: by_weight
 賀若氏	herovi	151
 和若曦	heroxi	552
 和軟文	herrwf	146
-核融合	hersge	440
-核融合	hershe	440
 赫榮亮	hersll	36
 和如皋	herugc	79
 和瑞德	hervde	36
@@ -239994,7 +239707,6 @@ sort: by_weight
 壞了呢	hklnne	24
 壞了呢	hklnni	24
 懷卵量	hklrll	40
-划龍舟	hklsvz	1725
 壞媽媽	hkmama	96
 淮南道	hknadc	63
 淮南站	hknavj	62
@@ -247775,8 +247487,6 @@ sort: by_weight
 和若曦	huroxi	552
 胡若愚	huroyu	835
 和軟文	hurrwf	146
-核融合	hursge	440
-核融合	hurshe	440
 胡榮強	hursjl	58
 胡榮強	hursql	58
 胡蓉蓉	hursrs	160
@@ -249532,7 +249242,6 @@ sort: by_weight
 匯通路	hvtslu	230
 會推出	hvtviu	16761
 回頭兒	hvtzer	288
-回頭書	hvtzuu	138
 回頭轉	hvtzvr	63
 回頭望	hvtzwh	132
 回頭香	hvtzxl	49
@@ -250562,7 +250271,6 @@ sort: by_weight
 劃龍船	hxlsir	50
 華隆儲	hxlsiu	164
 華龍路	hxlslu	106
-划龍舟	hxlsvz	1725
 花弄影	hxlsyk	49
 華倫達	hxlyda	37
 華倫蒂	hxlydi	68
@@ -251077,7 +250785,6 @@ sort: by_weight
 華子魚	hxziyu	1063
 華仔則	hxzize	88
 畫作品	hxzopb	1309
-劃座位	hxzoww	138
 化作用	hxzoys	460
 化組合	hxzuge	263
 化組合	hxzuhe	263
@@ -253727,7 +253434,6 @@ sort: by_weight
 陳飛虎	iffwhu	137
 陳飛龍	iffwls	806
 陳斐然	iffwrj	34
-塵肺症	iffwvg	196
 陳飛舟	iffwvz	77
 陳飛宇	iffwyu	86
 陳高峰	ifgcfg	61
@@ -256531,7 +256237,6 @@ sort: by_weight
 程念高	ignmgc	34
 成年期	ignmji	1107
 成年了	ignmle	320
-成年禮	ignmli	1132
 成年了	ignmln	320
 成年犬	ignmqr	84
 成年型	ignmxk	89
@@ -259817,7 +259522,6 @@ sort: by_weight
 重婚者	ishyve	64
 重柴油	isidyz	114
 重程序	isigxu	101
-充場面	isihmm	406
 重場戲	isihxi	509
 充斥著	isiivc	2862
 充斥著	isiive	2862
@@ -260885,7 +260589,6 @@ sort: by_weight
 出徵收	iuviuz	164
 礎知識	iuvivi	671
 處置組	iuvizu	1269
-出狀況	iuvlkl	532
 初裝修	iuvlxq	98
 涂壯勳	iuvlxy	146
 出專輯	iuvrji	323
@@ -264509,7 +264212,6 @@ sort: by_weight
 系領導	jilkdc	219
 系領帶	jilkdd	354
 機靈的	jilkde	1294
-機靈的	jilkdi	1294
 吉靈漢	jilkhj	194
 計量的	jillde	40745
 計量的	jilldi	40745
@@ -264912,7 +264614,6 @@ sort: by_weight
 給人家	jirfjx	1
 幾人看	jirfkj	37
 給人們	jirfmf	16525
-級任制	jirfvi	121
 級任務	jirfwu	621
 即日到	jiridc	302
 祭日的	jiride	100
@@ -268986,7 +268687,6 @@ sort: by_weight
 減震墊	jmvfdm	145
 見真情	jmvfqk	16
 減震筒	jmvfts	172
-見真章	jmvfvh	1470
 簡政強	jmvgjl	91
 見證了	jmvgle	1779
 見證了	jmvgln	1779
@@ -275951,7 +275651,6 @@ sort: by_weight
 開香檳	kdxlbk	58
 開箱機	kdxlji	103
 開箱子	kdxlzi	600
-開先例	kdxmli	248
 開小號	kdxnhc	212
 開銷戶	kdxnhu	138
 開曉勝	kdxnug	863
@@ -277931,7 +277630,6 @@ sort: by_weight
 塊多的	kkdodi	218
 快多了	kkdole	1
 快多了	kkdoln	1
-快動作	kkdszo	159
 會讀書	kkduuu	197
 會得到	kkdwdc	31754
 快得像	kkdwxl	12
@@ -279229,7 +278927,6 @@ sort: by_weight
 哭喊著	kuhjve	121
 哭喊著	kuhjvo	121
 哭喊著	kuhjvu	121
-苦茶油	kuiayz	122
 褲衩子	kuiazi	138
 苦橙葉	kuigxp	40
 苦橙葉	kuigye	40
@@ -280019,7 +279716,6 @@ sort: by_weight
 剌激性	lajixk	66
 拉吉亞	lajiya	38
 垃圾魚	lajiyu	523
-拉警報	lajkbc	451
 拉鏡頭	lajktz	33
 辣醬面	lajlmm	70
 拉鍊門	lajmmf	309
@@ -281089,7 +280785,6 @@ sort: by_weight
 臨時度	lbuidu	128
 磷石膏	lbuigc	1056
 臨時冠	lbuigr	118
-臨時會	lbuihv	52283
 林世華	lbuihx	36
 臨時車	lbuiie	516
 臨時單	lbuiij	116
@@ -281098,7 +280793,6 @@ sort: by_weight
 臨時救	lbuijq	964
 臨時車	lbuiju	516
 林世家	lbuijx	41
-臨時會	lbuikk	52283
 臨時區	lbuiou	62
 臨時橋	lbuiqn	43
 臨時區	lbuiqu	62
@@ -281647,7 +281341,6 @@ sort: by_weight
 老廣東	lcglds	130
 老廣告	lcglgc	73
 老廣州	lcglvz	514
-撈過界	lcgojp	203
 老郭家	lcgojx	70
 老果園	lcgoyr	79
 老官村	lcgrcy	35
@@ -285230,7 +284923,6 @@ sort: by_weight
 梨品種	lipbis	59
 禮品酒	lipbjq	346
 李品科	lipbke	1305
-禮品書	lipbuu	36
 禮品展	lipbvj	303
 梨品種	lipbvs	59
 李鵬飛	lipgfw	763
@@ -291483,7 +291175,6 @@ sort: by_weight
 硫磺的	lqgsde	366
 硫磺的	lqgsdi	366
 六工段	lqgsdr	53
-硫磺谷	lqgsgu	211
 陸恭蕙	lqgshv	53
 硫磺礦	lqgskl	287
 六公司	lqgssi	983
@@ -291677,7 +291368,6 @@ sort: by_weight
 劉懷志	lqhkvi	298
 硫磺的	lqhlde	366
 硫磺的	lqhldi	366
-硫磺谷	lqhlgu	211
 硫磺廠	lqhlih	33
 硫磺礦	lqhlkl	287
 劉皇叔	lqhluu	266
@@ -292250,7 +291940,6 @@ sort: by_weight
 劉會英	lqkkyk	78
 硫磺的	lqklde	366
 硫磺的	lqkldi	366
-硫磺谷	lqklgu	211
 硫磺廠	lqklih	33
 硫磺礦	lqklkl	287
 硫磺燻	lqklxy	1306
@@ -292329,7 +292018,6 @@ sort: by_weight
 劉立群	lqliqy	58
 劉立志	lqlivi	158
 琉璃盞	lqlivj	36
-琉璃珠	lqlivu	130
 劉立文	lqliwf	45
 劉立偉	lqliww	348
 劉麗霞	lqlixx	336
@@ -294102,7 +293790,6 @@ sort: by_weight
 卵巢的	lricde	1847
 卵巢的	lricdi	1847
 卵巢瘤	lriclq	80
-亂集團	lrjitr	135
 欒菊傑	lrjujp	71
 欒克軍	lrkejy	101
 亂倫的	lrlyde	258
@@ -295788,7 +295475,6 @@ sort: by_weight
 錄音的	luybde	2915
 錄音檔	luybdh	166
 錄音的	luybdi	2915
-錄音間	luybjm	399
 錄音門	luybmf	588
 錄音片	luybpm	111
 綠蔭下	luybxx	96
@@ -295917,7 +295603,6 @@ sort: by_weight
 呂冰洋	lvbkyh	34
 綠標車	lvbnie	603
 綠標車	lvbnju	603
-鋁箔包	lvbobc	334
 綠薄荷	lvbohe	46
 旅博會	lvbokk	1330
 綠博園	lvboyr	750
@@ -303539,7 +303224,6 @@ sort: by_weight
 無明顯	momkxm	563
 無面目	mommmu	402
 無麵人	mommrf	34
-無冕王	mommwh	497
 萬萬不	momobu	1199
 麼麼噠	momoda	5792
 莫莫格	momoge	62
@@ -307552,7 +307236,6 @@ sort: by_weight
 南滿洲	namjvz	38
 南蠻王	namjwh	38
 南明湖	namkhu	135
-拿命來	namkld	74
 那明明	namkmk	55
 那名男	namknj	4030
 南明王	namkwh	54
@@ -307805,7 +307488,6 @@ sort: by_weight
 南太行	natdhh	172
 那太監	natdjm	54
 南臺寺	natdsi	35
-南臺灣	natdwj	980
 南太務	natdwu	58
 南泰熙	natdxi	1452
 南太行	natdxk	172
@@ -308282,7 +307964,6 @@ sort: by_weight
 腦栓通	ncurts	340
 鬧水荒	ncuvhl	92
 腦受損	ncuzsy	81
-腦中樞	ncvsuu	210
 硇洲島	ncvzdc	91
 腦形成	ncxkig	42
 腦血流	ncxplq	507
@@ -310404,7 +310085,6 @@ sort: by_weight
 南太行	njtdhg	172
 南太行	njtdhh	172
 南臺寺	njtdsi	35
-南臺灣	njtdwj	980
 南太務	njtdwu	58
 南泰熙	njtdxi	1452
 南太行	njtdxk	172
@@ -311071,7 +310751,6 @@ sort: by_weight
 尿不出	nnbuiu	10
 尿不盡	nnbujb	344
 尿布臺	nnbutd	324
-尿布疹	nnbuvf	774
 尿道的	nndcde	337
 尿道的	nndcdi	337
 尿等待	nndgdd	121
@@ -311088,7 +310767,6 @@ sort: by_weight
 脲甲醛	nnjxqr	32
 鳥瞰的	nnkjde	151
 鳥瞰的	nnkjdi	151
-尿療法	nnlnfa	297
 鳥龍種	nnlsis	113
 鳥龍種	nnlsvs	113
 鳥類的	nnlwde	2218
@@ -311225,7 +310903,6 @@ sort: by_weight
 捏了捏	nplnnp	127
 聶磊案	nplwan	95
 聶磊涉	nplwue	202
-捏麵人	npmmrf	821
 聶梅生	npmwug	6032
 捏捏腳	npnpjn	47
 聶日明	nprimk	134
@@ -311538,7 +311215,6 @@ sort: by_weight
 牛仔舞	nqzdwu	138
 牛仔靴	nqzdxt	158
 鈕則勳	nqzexy	42
-牛仔酷	nqziku	172
 牛仔帽	nqzimc	853
 牛仔式	nqziui	66
 牛仔網	nqziwh	348
@@ -311747,7 +311423,6 @@ sort: by_weight
 農民家	nsmbjx	1595
 農民軍	nsmbjy	753
 農民會	nsmbkk	1246
-農民曆	nsmbli	354
 農民式	nsmbui	144
 農民學	nsmbxt	426
 農忙期	nsmhji	46
@@ -312150,7 +311825,6 @@ sort: by_weight
 女裝區	nvvlqu	150
 女裝業	nvvlye	55
 女狀元	nvvlyr	479
-女助教	nvvujn	431
 女助理	nvvuli	3820
 女術士	nvvuui	22
 女助手	nvvuuz	1134
@@ -319099,7 +318773,6 @@ sort: by_weight
 齊尼奧	qiniao	4184
 齊尼奇	qiniji	364
 齊尼奇	qiniqi	364
-七娘媽	qinlma	319
 七娘山	qinluj	143
 綺年華	qinmhx	95
 七年來	qinmld	4525
@@ -320328,7 +320001,6 @@ sort: by_weight
 慶盛站	qkugvj	39
 輕聲笑	qkugxn	48
 親生仔	qkugzd	388
-親生子	qkugzi	794
 請上車	qkuhie	53
 請上車	qkuhju	53
 清時代	qkuidd	317
@@ -323384,7 +323056,6 @@ sort: by_weight
 全天通	qrtmts	313
 權田修	qrtmxq	220
 泉天下	qrtmxx	36
-全天域	qrtmyu	68
 全天遊	qrtmyz	132
 全貼合	qrtpge	7300
 全貼合	qrtphe	7300
@@ -327826,7 +327497,6 @@ sort: by_weight
 如山的	ruujde	642
 如山的	ruujdi	642
 汝山谷	ruujgu	106
-入山證	ruujvg	226
 如山之	ruujvi	471
 入睡後	ruuvhz	68
 入水口	ruuvkz	528
@@ -329369,7 +329039,6 @@ sort: by_weight
 嘶喊著	sihjve	11
 嘶喊著	sihjvo	11
 嘶喊著	sihjvu	11
-四壞球	sihkqq	49
 斯和波	sihobo	76
 似火的	sihode	606
 似火的	sihodi	606
@@ -330013,7 +329682,6 @@ sort: by_weight
 司徒耀	situyc	268
 私攝影	siueyk	33
 死神賽	siufsd	392
-四神湯	siufth	552
 私生飯	siugfj	988
 四聖獸	siuguz	221
 死生也	siugye	71
@@ -330118,7 +329786,6 @@ sort: by_weight
 四望山	siwhuj	35
 死亡稅	siwhuv	51
 死亡證	siwhvg	428
-死亡學	siwhxt	298
 絲網印	siwhyb	77
 四王子	siwhzi	32
 四萬個	siwjge	376
@@ -330465,7 +330132,6 @@ sort: by_weight
 三國戲	sjgoxi	37
 三關口	sjgrkz	467
 三管輪	sjgrly	63
-三冠王	sjgrwh	31205
 三工區	sjgsou	56
 三工區	sjgsqu	56
 三公園	sjgsyr	116
@@ -333064,7 +332730,6 @@ sort: by_weight
 雖不能	svbung	4244
 尿布臺	svbutd	324
 雖不是	svbuui	7822
-尿布疹	svbuvf	774
 碎步走	svbuzz	42
 碎瓷片	svcipm	200
 隨從們	svcsmf	170
@@ -333150,7 +332815,6 @@ sort: by_weight
 隋麗娜	svlino	49
 穗粒數	svliuo	214
 穗粒數	svliuu	214
-尿療法	svlnfa	297
 歲蘿莉	svloli	269
 碎裂的	svlpde	1417
 碎裂的	svlpdi	1417
@@ -335068,7 +334732,6 @@ sort: by_weight
 淘金地	tcjbde	747
 淘金地	tcjbdi	747
 淘金河	tcjbhe	63
-淘金客	tcjbke	1661
 淘金樂	tcjble	91
 淘金人	tcjbrf	69
 淘金山	tcjbuj	106
@@ -340566,7 +340229,6 @@ sort: by_weight
 鐵箅子	tpbizi	59
 鐵板路	tpbjlu	311
 鐵板麵	tpbjmm	235
-占便宜	tpbmyi	832
 占卜的	tpbode	291
 占卜的	tpbodi	291
 占卜的	tpbudi	291
@@ -340723,7 +340385,6 @@ sort: by_weight
 貼牌機	tppdji	118
 鐵皮房	tppifh	677
 鐵皮人	tppirf	131
-占便宜	tppmyi	832
 鐵騎兵	tpqibk	59
 鐵騎後	tpqihz	43
 鐵七局	tpqiju	33
@@ -340756,7 +340417,6 @@ sort: by_weight
 貼身衣	tpufyi	123
 鐵生溝	tpuggz	76
 貼商標	tpuhbn	95
-占上風	tpuhfg	363
 鐵獅門	tpuimf	2251
 鐵獅玉	tpuiyu	64
 鐵山郡	tpujjy	117
@@ -341365,7 +341025,6 @@ sort: by_weight
 同名的	tsmkdi	3612
 同名端	tsmkdr	52
 童明康	tsmkkh	383
-同命鳥	tsmknn	379
 童名謙	tsmkqm	5420
 同名人	tsmkrf	998
 同名詩	tsmkui	80
@@ -342855,7 +342514,6 @@ sort: by_weight
 頭疼病	tztgbk	68
 頭疼事	tztgui	354
 頭疼醫	tztgyi	853
-偷聽器	tztkqi	72
 頭條吧	tztnba	58
 頭條網	tztnwh	136
 頭痛的	tztsde	5094
@@ -348443,7 +348101,6 @@ sort: by_weight
 似乎長	uihuih	379
 施和金	uihujb	48
 似乎將	uihujl	3821
-石斛蘭	uihulj	305
 實葫蘆	uihulu	97
 是和你	uihuni	482
 史和平	uihupk	338
@@ -352554,7 +352211,6 @@ sort: by_weight
 數號碼	uuhcma	197
 數很多	uuhfdo	265
 舒紅兵	uuhsbk	254
-疏洪道	uuhsdc	291
 舒洪水	uuhsuv	49
 疏忽的	uuhude	866
 贖回的	uuhvde	57335
@@ -354039,7 +353695,6 @@ sort: by_weight
 刷卡金	uxkajb	1042
 刷卡族	uxkazu	549
 刷喇叭	uxlaba	81
-耍老千	uxlcqm	322
 耍龍燈	uxlsdg	109
 刷綠漆	uxluqi	156
 刷綠漆	uxlvqi	156
@@ -358869,7 +358524,6 @@ sort: by_weight
 整機廠	vgjiih	2290
 證期會	vgjikk	295
 徵集人	vgjirf	4541
-政集團	vgjitr	874
 鄭繼文	vgjiwf	62
 正極線	vgjixm	55
 正經的	vgjkde	2290
@@ -359025,7 +358679,6 @@ sort: by_weight
 鄭羅茜	vgloxi	2745
 蒸餾的	vglqde	129
 蒸餾的	vglqdi	129
-蒸餾法	vglqfa	277
 蒸餾出	vglqiu	70
 整流機	vglqji	35
 政六街	vglqjp	53
@@ -364762,7 +364415,6 @@ sort: by_weight
 戰本賽	vjbfsd	119
 佔必文	vjbiwf	83
 粘板岩	vjbjyj	244
-占便宜	vjbmyi	832
 占卜的	vjbode	291
 占卜的	vjbodi	291
 佔不到	vjbudc	178
@@ -368221,7 +367873,6 @@ sort: by_weight
 豬肝湯	vugjth	420
 朱感生	vugjug	43
 豬肝粥	vugjvz	284
-竹竿舞	vugjwu	387
 朱廣彬	vuglbb	70
 珠光寶	vuglbc	37
 朱光華	vuglhx	63
@@ -379377,7 +379028,6 @@ sort: by_weight
 無面目	wummmu	402
 霧面屏	wummpk	244
 無麵人	wummrf	34
-無冕王	wummwh	497
 屋面為	wummww	85
 吳妙貞	wumnvf	81
 五秒鐘	wumnvs	1328
@@ -386167,7 +385817,6 @@ sort: by_weight
 行商的	xkuhde	692
 行商的	xkuhdi	692
 行商品	xkuhpb	505
-形上學	xkuhxt	53
 性上癮	xkuhyb	59
 行識別	xkuibp	299
 形勢的	xkuidi	35334
@@ -386577,7 +386226,6 @@ sort: by_weight
 降不了	xlbuln	21
 向布魯	xlbulu	185
 相不明	xlbumk	43
-想不透	xlbutz	136
 降不住	xlbuvu	11
 向北的	xlbwde	606
 向北方	xlbwfh	1050
@@ -388836,7 +388484,6 @@ sort: by_weight
 先這麼	xmvemo	38
 線診斷	xmvfdr	152
 見真情	xmvfqk	16
-見真章	xmvfvh	1470
 陷陣營	xmvfyk	128
 見證了	xmvgle	1779
 先整理	xmvgli	51
@@ -391060,8 +390707,6 @@ sort: by_weight
 蕭秀霞	xnxqxx	37
 小漩渦	xnxrgo	13
 小軒窗	xnxril	94
-小選區	xnxrou	117
-小選區	xnxrqu	117
 小漩渦	xnxrwo	13
 小萱萱	xnxrxr	104
 梟雄的	xnxsde	275
@@ -391867,7 +391512,6 @@ sort: by_weight
 協會的	xpkkde	33881
 協會的	xpkkdi	33881
 協會化	xpkkhx	60
-協會長	xpkkih	651
 協會長	xpkkvh	651
 協會性	xpkkxk	108
 協會員	xpkkyr	943
@@ -396772,7 +396416,6 @@ sort: by_weight
 熏製的	xyvide	281
 熏製的	xyvidi	281
 熏製品	xyvipb	116
-蕈狀雲	xyvlyy	209
 燻豬肉	xyvurz	57
 詢問部	xywfbu	135
 詢問的	xywfde	4590
@@ -403630,7 +403273,6 @@ sort: by_weight
 益健康	yijmkh	2159
 已建立	yijmli	80
 一間樓	yijmlz	43
-一肩挑	yijmtn	2752
 以建設	yijmue	18
 以簡單	yijmuj	75
 一檢查	yijmva	97
@@ -407069,7 +406711,6 @@ sort: by_weight
 英利正	yklivg	77
 英里長	yklivh	703
 盈利信	yklixb	159
-硬裡子	yklizi	248
 英靈殿	yklkdm	256
 英靈們	yklkmf	282
 影靈衣	yklkyi	43
@@ -408420,11 +408061,9 @@ sort: by_weight
 願與你	yryuni	150
 袁雲才	yryycd	135
 袁雲華	yryyhx	58
-園遊會	yryzhv	704
 源優化	yryzhx	183
 原油船	yryzir	370
 原有機	yryzji	881
-園遊會	yryzkk	704
 原油量	yryzll	511
 園遊券	yryzqr	66
 原有色	yryzse	68
@@ -410849,7 +410488,6 @@ sort: by_weight
 娛樂臺	yuletd	499
 娛樂通	yulets	475
 魚樂圖	yuletu	33
-娛樂稅	yuleuv	54
 娛樂我	yulewo	92
 宇樂樂	yuleyt	41
 裕廊島	yulhdc	412
@@ -410990,7 +410628,6 @@ sort: by_weight
 與民營	yumbyk	13
 與民族	yumbzu	79
 與矛盾	yumcdy	2044
-與貿易	yumcyi	55
 於邁凱	yumdkd	63
 於麥克	yumdke	86
 於麥肯	yumdkf	108
@@ -415069,7 +414706,6 @@ sort: by_weight
 有專門	yzvrmf	2795
 有專人	yzvrrf	408
 由傳統	yzvrts	68
-有賺頭	yzvrtz	449
 有傳聞	yzvrwf	151
 右轉向	yzvrxl	1727
 有專業	yzvrye	1085
@@ -418934,7 +418570,6 @@ sort: by_weight
 增益率	zgyilv	15
 曾一鳴	zgyimk	3068
 曾一平	zgyipk	34
-綜藝團	zgyitr	356
 增益率	zgyiuk	15
 曾益新	zgyixb	375
 曾燕玲	zgyjlk	42
@@ -419936,7 +419571,6 @@ sort: by_weight
 自由論	ziyzly	89
 自由馬	ziyzma	40
 自由女	ziyznv	71
-自由球	ziyzqq	1826
 自由熱	ziyzre	44
 自由塔	ziyzta	159
 自由談	ziyztj	176
@@ -421320,7 +420954,6 @@ sort: by_weight
 綜藝咖	zsyiga	744
 綜藝咖	zsyika	744
 縱一路	zsyilu	162
-綜藝團	zsyitr	356
 宗一童	zsyits	92
 總言之	zsyjvi	177
 總硬度	zsykdo	125
@@ -423625,7 +423258,6 @@ sort: by_weight
 愛花的	aihxdii	101
 璦琿區	aihyour	370
 璦琿區	aihyqur	370
-璦琿縣	aihyxmf	300
 愛吵架	aiicjxd	62
 愛車行	aiiehgn	53
 愛車行	aiiehhn	53
@@ -426723,7 +426355,6 @@ sort: by_weight
 八一三	bayisjm	306
 把一生	bayiugm	456
 把一隻	bayivie	51
-八佾舞	bayiwuq	375
 把一心	bayixbp	36
 把一些	bayixpm	1349
 八一一	bayiyim	684
@@ -426907,7 +426538,6 @@ sort: by_weight
 薄板廠	bcbjihk	78
 包辦了	bcbjlen	94
 包辦了	bcbjlnn	94
-包班制	bcbjvin	261
 炮兵部	bcbkbul	39
 薄餅店	bcbkdmr	44
 薄變厚	bcbmhzd	45
@@ -427336,7 +426966,6 @@ sort: by_weight
 包傳輸	bciruun	11
 鮑傳友	bciryze	51
 保重點	bcisdmr	1497
-包種茶	bcisiad	462
 包處理	bciulig	86
 抱出籠	bciulsp	83
 爆出翔	bciuxlm	47
@@ -427978,7 +427607,6 @@ sort: by_weight
 鮑傳友	bcvryze	51
 寶中寶	bcvsbcc	52
 保重點	bcvsdmr	1497
-包種茶	bcvsiad	462
 鮑仲良	bcvsllv	94
 鮑忠武	bcvswum	177
 報中心	bcvsxbp	258
@@ -428277,10 +427905,8 @@ sort: by_weight
 伯伯們	bdbomfn	79
 擺佈而	bdbuerl	34
 擺不開	bdbukdt	338
-擺不平	bdbupkj	1237
 百步梯	bdbutih	137
 百步沙	bdbuuah	94
-百步蛇	bdbuuep	387
 百步走	bdbuzzo	435
 百倍地	bdbwded	206
 百倍的	bdbwdei	1795
@@ -428768,7 +428394,6 @@ sort: by_weight
 白禮頓	bdlidyc	208
 百里風	bdlifgi	452
 白裡泛	bdlifjo	48
-百里侯	bdlihzk	288
 伯力城	bdliigs	43
 百麗春	bdliiya	79
 白莉莉	bdlilin	110
@@ -429238,7 +428863,6 @@ sort: by_weight
 白種男	bdvsnjs	37
 白中仁	bdvsrfm	5031
 白忠義	bdvsyii	82
-白煮蛋	bdvudji	399
 白朮各	bdvuger	54
 擺著呢	bdvunep	131
 擺著呢	bdvunip	131
@@ -437115,7 +436739,6 @@ sort: by_weight
 貝爾比	bwerbip	162
 貝兒多	bwerdoi	72
 貝爾頓	bwerdyc	146
-北二高	bwergcr	262
 北二巷	bwerhhu	49
 貝爾獎	bwerjlk	772
 貝爾傑	bwerjpd	286
@@ -443016,7 +442639,6 @@ sort: by_weight
 大愛城	daaiigs	74
 大愛臺	daaitdg	270
 答案吧	daanbau	1057
-答案卷	daanjru	324
 答案是	daanuio	7396
 大案子	daanzid	252
 大八卦	dabagxy	106
@@ -443325,7 +442947,6 @@ sort: by_weight
 大石路	dadjlur	233
 大石門	dadjmfn	61
 大石站	dadjvjr	50
-打彈珠	dadjvud	472
 大石窩	dadjwor	58
 大單位	dadjwwt	1701
 大石下	dadjxxy	36
@@ -443466,7 +443087,6 @@ sort: by_weight
 大法庭	dafatkg	405
 大發生	dafaugm	158
 大份的	daffdei	25
-大份的	daffdii	25
 大分裂	dafflpv	243
 大分類	dafflwc	369
 大分區	daffour	73
@@ -443861,7 +443481,6 @@ sort: by_weight
 打灰機	dahvjii	91
 大惠民	dahvmbp	80
 大毀滅	dahvmpf	54
-大會師	dahvuib	166
 大會山	dahvuju	40
 大回朝	dahvvcb	221
 大彗星	dahvxkm	216
@@ -444122,7 +443741,6 @@ sort: by_weight
 大教主	dajnvug	263
 大角逐	dajnvuo	75
 大角灣	dajnwjn	70
-大腳丫	dajnyal	165
 大腳印	dajnybl	226
 大角羊	dajnyhq	240
 大交易	dajnyih	7048
@@ -444194,7 +443812,6 @@ sort: by_weight
 大家臣	dajxifl	47
 大家唱	dajxiha	704
 大家場	dajxihh	88
-大家長	dajxihv	2012
 大家吃	dajxiin	3703
 大家衝	dajxisn	207
 大家期	dajxjib	5517
@@ -444272,7 +443889,6 @@ sort: by_weight
 大塊煤	dakkmwd	58
 大塊肉	dakkrzo	213
 大塊土	dakktug	137
-大會師	dakkuib	166
 大會山	dakkuju	40
 大快樂	dakkytd	166
 大狂歡	daklhro	19
@@ -444445,10 +444061,7 @@ sort: by_weight
 大流量	dalqllg	5025
 大陸區	dalqour	433
 大陸派	dalqpdv	93
-大陸片	dalqpml	100
-大陸片	dalqpmn	100
 大陸區	dalqqur	433
-大陸熱	dalqref	83
 達柳斯	dalqsil	1326
 大柳塔	dalqtar	281
 大陸團	dalqtri	538
@@ -444486,10 +444099,7 @@ sort: by_weight
 大陸裡	dalulig	64
 大陸區	daluour	433
 大陸派	dalupdv	93
-大陸片	dalupml	100
-大陸片	dalupmn	100
 大陸區	daluqur	433
-大陸熱	daluref	83
 達魯薩	dalusam	87
 大陸團	dalutri	538
 大陸生	daluugm	620
@@ -445010,7 +444620,6 @@ sort: by_weight
 大彈簧	datjhlc	63
 打坦克	datjkeu	310
 大探索	datjsof	288
-打彈珠	datjvud	472
 大探險	datjxmo	125
 打聽的	datkdei	244
 打聽的	datkdii	244
@@ -445072,7 +444681,6 @@ sort: by_weight
 大統一	datsyim	241
 大土地	datuded	629
 大土地	datudid	629
-大突破	datupoe	11211
 大兔子	datuzid	524
 大腿部	datvbul	988
 大腿的	datvdei	3771
@@ -445087,7 +444695,6 @@ sort: by_weight
 大屯路	datylur	483
 大頭寶	datzbcc	161
 大頭棒	datzbhq	41
-大頭兵	datzbkc	38
 大頭的	datzdei	1831
 大頭的	datzdii	1831
 大頭佛	datzfon	61
@@ -445258,7 +444865,6 @@ sort: by_weight
 大收穫	dauzhue	1805
 打手掌	dauzvhq	41
 大手指	dauzvia	35
-打手心	dauzxbp	33
 達扎吉	davajir	34
 大柵門	davamfn	42
 達扎寺	davasii	57
@@ -445320,7 +444926,6 @@ sort: by_weight
 大紙箱	davixlu	456
 達氏鱘	davixyi	172
 大支援	daviyre	38
-大製作	davizos	595
 大戰場	davjihh	1793
 大戰艦	davjjmt	97
 大戰爭	davjvgd	233
@@ -445633,7 +445238,6 @@ sort: by_weight
 大學說	daxtuvu	55
 大學者	daxtvea	540
 大學站	daxtvjr	110
-大學問	daxtwfr	2046
 大學西	daxtxiw	207
 大學學	daxtxtd	8653
 大學一	daxtyim	3654
@@ -446590,7 +446194,6 @@ sort: by_weight
 大博文	ddbowfk	47
 戴伯勳	ddboxys	34
 大博弈	ddboyit	2851
-大脖子	ddbozid	318
 大別墅	ddbpuug	898
 大步村	ddbucyi	51
 逮不到	ddbudcn	24
@@ -447205,7 +446808,6 @@ sort: by_weight
 大和島	ddhodcu	164
 大夥的	ddhodei	1043
 大夥的	ddhodii	1043
-大伙兒	ddhoeru	696
 大活佛	ddhofon	153
 大活佛	ddhofun	153
 戴和根	ddhogfv	125
@@ -447282,7 +446884,6 @@ sort: by_weight
 戴慧莉	ddhvlin	281
 大惠民	ddhvmbp	80
 大毀滅	ddhvmpf	54
-大會師	ddhvuib	166
 大會山	ddhvuju	40
 大回朝	ddhvvcb	221
 大彗星	ddhvxkm	216
@@ -447554,7 +447155,6 @@ sort: by_weight
 大角逐	ddjnvuo	75
 大角灣	ddjnwjn	70
 大覺醒	ddjnxkm	54
-大腳丫	ddjnyal	165
 大腳印	ddjnybl	226
 大角羊	ddjnyhq	240
 大交易	ddjnyih	7048
@@ -447625,7 +447225,6 @@ sort: by_weight
 大家臣	ddjxifl	47
 大家唱	ddjxiha	704
 大家場	ddjxihh	88
-大家長	ddjxihv	2012
 大家吃	ddjxiin	3703
 大家衝	ddjxisn	207
 大家期	ddjxjib	5517
@@ -447644,7 +447243,6 @@ sort: by_weight
 大家食	ddjxuiv	285
 大家說	ddjxuou	14068
 大家說	ddjxuvu	14068
-大家長	ddjxvhv	2012
 大家文	ddjxwfk	301
 大家網	ddjxwhv	504
 大家玩	ddjxwju	2291
@@ -447704,7 +447302,6 @@ sort: by_weight
 大塊煤	ddkkmwd	58
 大塊肉	ddkkrzo	213
 大塊土	ddkktug	137
-大會師	ddkkuib	166
 大會山	ddkkuju	40
 大快樂	ddkkytd	166
 大狂歡	ddklhro	19
@@ -447884,10 +447481,7 @@ sort: by_weight
 大流量	ddlqllg	5025
 大陸區	ddlqour	433
 大陸派	ddlqpdv	93
-大陸片	ddlqpml	100
-大陸片	ddlqpmn	100
 大陸區	ddlqqur	433
-大陸熱	ddlqref	83
 大柳塔	ddlqtar	281
 大陸團	ddlqtri	538
 大流通	ddlqtsb	37848
@@ -447923,12 +447517,9 @@ sort: by_weight
 大路面	ddlumml	71
 大陸區	ddluour	433
 大陸派	ddlupdv	93
-大陸片	ddlupml	100
-大陸片	ddlupmn	100
 大路坡	ddlupoe	659
 待錄取	ddluque	56
 大陸區	ddluqur	433
-大陸熱	ddluref	83
 大陸團	ddlutri	538
 大陸生	ddluugm	620
 大陸上	ddluuhm	350
@@ -448477,7 +448068,6 @@ sort: by_weight
 大土地	ddtudid	629
 戴兔耳	ddtuerj	52
 歹徒們	ddtumfn	230
-大突破	ddtupoe	11211
 代土影	ddtuykh	46
 大兔子	ddtuzid	524
 大腿部	ddtvbul	988
@@ -448493,7 +448083,6 @@ sort: by_weight
 大屯路	ddtylur	483
 大頭寶	ddtzbcc	161
 大頭棒	ddtzbhq	41
-大頭兵	ddtzbkc	38
 帶頭的	ddtzdei	2498
 帶頭的	ddtzdii	2498
 大頭佛	ddtzfon	61
@@ -448759,7 +448348,6 @@ sort: by_weight
 帶徵銀	ddviybv	1
 大支援	ddviyre	38
 戴志勇	ddviyss	194
-大製作	ddvizos	595
 大戰場	ddvjihh	1793
 大戰艦	ddvjjmt	97
 大戰爭	ddvjvgd	233
@@ -449128,7 +448716,6 @@ sort: by_weight
 大學說	ddxtuvu	55
 大學者	ddxtvea	540
 大學站	ddxtvjr	110
-大學問	ddxtwfr	2046
 大學西	ddxtxiw	207
 大學學	ddxtxtd	8653
 大學一	ddxtyim	3654
@@ -449422,7 +449009,6 @@ sort: by_weight
 德本漢	debfhjo	53
 德比日	debiria	105
 德比希	debixib	2405
-地板操	debjccd	171
 地板價	debjjpc	1151
 地板價	debjjxc	1151
 地板流	debjlqu	713
@@ -449915,7 +449501,6 @@ sort: by_weight
 地球的	deqqdii	14831
 地球化	deqqhxp	58
 地球時	deqquii	621
-地球史	deqquik	67
 地球位	deqqwwt	58
 地球學	deqqxtd	47
 地區部	dequbul	4117
@@ -450147,7 +449732,6 @@ sort: by_weight
 地下的	dexxdii	6449
 地下根	dexxgfv	44
 地下湖	dexxhub	101
-地下化	dexxhxp	390
 地下人	dexxrfo	613
 地下生	dexxugm	372
 地下站	dexxvjr	579
@@ -451217,7 +450801,6 @@ sort: by_weight
 迪比科	dibikej	37
 迪比克	dibikeu	50
 滴鼻液	dibiyek	79
-地板操	dibjccd	171
 地板價	dibjjpc	1151
 地板價	dibjjxc	1151
 地板流	dibjlqu	713
@@ -451232,7 +450815,6 @@ sort: by_weight
 地標級	dibnjie	383
 地表面	dibnmml	98
 地標式	dibnuim	933
-低標準	dibnvyj	5427
 地標性	dibnxkm	2696
 迪波爾	diboerk	35
 迪伯倫	dibolyb	39
@@ -451966,7 +451548,6 @@ sort: by_weight
 地球的	diqqdii	14831
 地球化	diqqhxp	58
 地球時	diqquii	621
-地球史	diqquik	67
 地球位	diqqwwt	58
 地球學	diqqxtd	47
 地區部	diqubul	4117
@@ -452497,7 +452078,6 @@ sort: by_weight
 地下的	dixxdii	6449
 地下根	dixxgfv	44
 地下湖	dixxhub	101
-地下化	dixxhxp	390
 地下生	dixxugm	372
 地下站	dixxvjr	579
 地下線	dixxxme	649
@@ -453069,7 +452649,6 @@ sort: by_weight
 單核的	djhudei	165
 石湖蕩	djhudhh	132
 單核的	djhudii	165
-石斛蘭	djhuljw	305
 石胡荽	djhusvv	257
 石虎塘	djhuthr	50
 單和雙	djhuule	38
@@ -454457,7 +454036,6 @@ sort: by_weight
 丁克堅	dkkejmg	82
 丁克女	dkkenvv	36
 丁克森	dkkesfd	1355
-丁克族	dkkezuk	456
 定會有	dkkkyzb	34
 丁奎嶺	dkkvlkc	94
 丁拉基	dklajig	328
@@ -454660,7 +454238,6 @@ sort: by_weight
 頂撞的	dkvldei	111
 頂撞的	dkvldii	111
 丁莊夢	dkvlmgn	71
-定妝照	dkvlvcf	10542
 頂著的	dkvodei	174
 頂著的	dkvodii	174
 頂著風	dkvofgi	376
@@ -455143,9 +454720,7 @@ sort: by_weight
 靛藍的	dmljdei	41
 靛藍的	dmljdii	41
 電纜管	dmljgrr	93
-電纜車	dmljiej	33
 電纜長	dmljihv	74
-電纜車	dmljjuj	33
 電纜皮	dmljpie	110
 電纜盤	dmljpjt	156
 電纜長	dmljvhv	74
@@ -455209,7 +454784,6 @@ sort: by_weight
 電腦人	dmncrfo	119
 電腦太	dmnctdi	135
 電腦上	dmncuhm	3525
-電腦鼠	dmncuuv	176
 電腦收	dmncuzk	308
 電腦針	dmncvfj	62
 電腦紙	dmncvip	78
@@ -455370,7 +454944,6 @@ sort: by_weight
 唸咒語	dmvzyur	51
 滇文化	dmwfhxp	98
 點文件	dmwfjmq	35
-電蚊香	dmwfxla	1001
 槙文彥	dmwfyjh	130
 電玩店	dmwjdmr	245
 電玩城	dmwjigs	2015
@@ -455398,7 +454971,6 @@ sort: by_weight
 典型地	dmxkdid	1221
 典型年	dmxknmq	50
 癲癇的	dmxmdii	647
-電線桿	dmxmhjj	285
 點效率	dmxnlvj	33
 點效率	dmxnukj	33
 電效應	dmxnykp	68
@@ -455469,7 +455041,6 @@ sort: by_weight
 店員們	dmyymfn	916
 點右鍵	dmyzjmq	98
 電遊室	dmyzuig	90
-電宰廠	dmzdihk	102
 滇藏線	dmzhxme	404
 電子本	dmzibfm	230
 電子筆	dmzibiq	325
@@ -455683,7 +455254,6 @@ sort: by_weight
 雕刻工	dnkegsm	174
 雕刻畫	dnkehxm	348
 雕刻出	dnkeiuu	483
-雕刻匠	dnkejll	315
 弔客眉	dnkemwu	131
 雕刻牌	dnkepdj	42
 雕刻上	dnkeuhm	134
@@ -455866,7 +455436,6 @@ sort: by_weight
 調蓄池	dnxuiid	363
 調一次	dnyicio	36
 調一調	dnyidnr	53
-吊衣架	dnyijxd	283
 刁亦男	dnyinjs	5393
 調一調	dnyitnr	53
 調一下	dnyixxy	273
@@ -456547,7 +456116,6 @@ sort: by_weight
 度支部	dovibul	41
 多汁的	dovidii	1310
 多指教	dovijnk	82
-多指症	dovivgm	228
 多賺點	dovrdmr	1508
 多重彩	dovscdh	48
 多重的	dovsdei	2608
@@ -462425,8 +461993,6 @@ sort: by_weight
 恩戈格	engeger	161
 恩蓋莫	engemok	50
 恩甘定	engjdko	66
-恩給制	engwvin	1
-恩給制	enjivin	1
 恩科諾	enkenor	116
 恩科西	enkexiw	42
 恩孔卡	enkskay	57
@@ -462599,7 +462165,6 @@ sort: by_weight
 而獲利	erholin	1419
 二環線	erhrxme	1088
 而轟動	erhsdss	311
-兒化音	erhxyba	381
 耳後的	erhzdei	274
 耳後的	erhzdii	274
 而後者	erhzvea	28332
@@ -462873,7 +462438,6 @@ sort: by_weight
 二手琴	eruzqbn	927
 而受審	eruzufw	92
 二手衫	eruzujh	80
-二手煙	eruzyjg	259
 而著稱	ervcifb	8447
 而著稱	ervcigb	8447
 而著名	ervcmkr	3218
@@ -463424,7 +462988,6 @@ sort: by_weight
 發泡的	fapcdii	96
 發泡灸	fapcjqf	45
 發泡體	fapctit	374
-法拍屋	fapdwug	557
 發片日	fapmria	363
 發票單	fapndjj	242
 發票後	fapnhze	27
@@ -466250,7 +465813,6 @@ sort: by_weight
 房屋基	fhwujig	661
 房屋局	fhwujur	638
 房屋署	fhwuuua	176
-房屋稅	fhwuuvu	425
 房屋長	fhwuvhv	161
 房屋中	fhwuvsl	2749
 房屋業	fhwuyed	1288
@@ -466653,7 +466215,6 @@ sort: by_weight
 反諷的	fjfgdei	475
 反諷的	fjfgdii	475
 反封鎖	fjfgsoc	233
-反方向	fjfhxlr	4505
 泛泛地	fjfjded	427
 泛泛的	fjfjdei	1089
 泛泛地	fjfjdid	427
@@ -469596,7 +469157,6 @@ sort: by_weight
 飛行夢	fwhgmgn	874
 飛行旗	fwhgqic	33
 飛行卡	fwhgqxy	92
-飛行傘	fwhgsjj	129
 飛行艇	fwhgtkg	128
 飛行師	fwhguib	206
 飛行石	fwhguir	115
@@ -469622,7 +469182,6 @@ sort: by_weight
 飛行夢	fwhhmgn	874
 飛行旗	fwhhqic	33
 飛行卡	fwhhqxy	92
-飛行傘	fwhhsjj	129
 飛行艇	fwhhtkg	128
 飛行師	fwhhuib	206
 飛行石	fwhhuir	115
@@ -470170,7 +469729,6 @@ sort: by_weight
 廢物的	fwwudei	2459
 廢物的	fwwudii	2459
 廢物堆	fwwudvg	139
-廢五金	fwwujbc	260
 廢物庫	fwwukuj	73
 飛舞著	fwwuvca	22
 飛舞著	fwwuvea	22
@@ -470209,7 +469767,6 @@ sort: by_weight
 飛行類	fwxklwc	114
 飛行夢	fwxkmgn	874
 飛行卡	fwxkqxy	92
-飛行傘	fwxksjj	129
 飛行艇	fwxktkg	128
 飛行師	fwxkuib	206
 飛行石	fwxkuir	115
@@ -470852,7 +470409,6 @@ sort: by_weight
 高飛狗	gcfwgzr	32
 高飛行	gcfwhgn	132
 高飛行	gcfwhhn	132
-郜飛機	gcfwjii	475
 高費率	gcfwlvj	526
 高費率	gcfwukj	526
 高飛之	gcfwvio	35
@@ -472919,7 +472475,6 @@ sort: by_weight
 葛建偉	gejmwwq	119
 合焦點	gejndmr	89
 合結鋼	gejpghu	104
-箇舊縣	gejqxmf	197
 隔絕的	gejtdei	1486
 隔絕的	gejtdii	1486
 歌劇的	gejudei	2021
@@ -475707,7 +475262,6 @@ sort: by_weight
 光纖環	glqmhrv	70
 光纖數	glqmuok	143
 光纖數	glqmuuk	143
-光纖維	glqmwwg	391
 廣橋涼	glqnllf	65
 光圈環	glqrhrv	222
 廣渠路	glqulur	2373
@@ -475873,7 +475427,6 @@ sort: by_weight
 光線是	glxmuio	380
 光纖數	glxmuok	143
 光纖數	glxmuuk	143
-光纖維	glxmwwg	391
 光現象	glxmxlo	131
 光效高	glxngcr	104
 光效率	glxnlvj	99
@@ -476711,7 +476264,6 @@ sort: by_weight
 過硫酸	golqsre	49
 國六條	golqtnd	5300
 國隆府	golsfui	57
-划龍舟	golsvzi	1725
 鍋爐艙	goluchr	43
 過路村	golucyi	40
 鍋爐島	goludcu	82
@@ -476744,8 +476296,6 @@ sort: by_weight
 國民的	gombdei	9622
 國民的	gombdii	9622
 國民隊	gombdvo	979
-國民車	gombiej	816
-國民車	gombjuj	816
 國民謀	gombmzd	41
 國民社	gombueg	47
 郭敏貞	gombvfc	49
@@ -478066,7 +477616,6 @@ sort: by_weight
 官至江	grvijlm	37
 關志傑	grvijpd	35
 管制局	grvijur	563
-管制品	grvipbr	378
 管制期	grviqib	320
 關志強	grviqli	34
 關之前	grviqmn	74
@@ -486132,8 +485681,6 @@ sort: by_weight
 賀若氏	herovip	151
 和若曦	heroxis	552
 和軟文	herrwfk	146
-核融合	hersger	440
-核融合	hersher	440
 赫榮亮	herslln	36
 赫榮亮	hersllu	36
 和如皋	herugcj	79
@@ -489802,7 +489349,6 @@ sort: by_weight
 壞了呢	hklnnep	24
 壞了呢	hklnnip	24
 懷卵量	hklrllg	40
-划龍舟	hklsvzi	1725
 壞媽媽	hkmamaf	96
 淮南道	hknadcu	63
 淮南街	hknajpn	60
@@ -498390,8 +497936,6 @@ sort: by_weight
 和若曦	huroxis	552
 胡若愚	huroyup	835
 和軟文	hurrwfk	146
-核融合	hursger	440
-核融合	hursher	440
 胡榮強	hursjli	58
 胡榮強	hursqli	58
 胡蓉蓉	hursrsr	160
@@ -500370,7 +499914,6 @@ sort: by_weight
 繪圖師	hvtuuib	99
 會推出	hvtviuu	16761
 回頭兒	hvtzeru	288
-回頭書	hvtzuua	138
 回頭轉	hvtzvri	63
 回頭望	hvtzwhg	132
 回頭香	hvtzxla	49
@@ -501480,7 +501023,6 @@ sort: by_weight
 劃龍船	hxlsirr	50
 華隆儲	hxlsiua	164
 華龍路	hxlslur	106
-划龍舟	hxlsvzi	1725
 花弄影	hxlsykh	49
 華倫達	hxlydaq	37
 華倫蒂	hxlydib	68
@@ -502043,7 +501585,6 @@ sort: by_weight
 華子魚	hxziyuf	1063
 華仔則	hxzizen	88
 畫作品	hxzopbr	1309
-劃座位	hxzowwt	138
 化作用	hxzoysq	460
 化組合	hxzuger	263
 化組合	hxzuher	263
@@ -504854,7 +504395,6 @@ sort: by_weight
 陳飛虎	iffwhuu	137
 陳飛龍	iffwlsp	806
 陳斐然	iffwrjf	34
-塵肺症	iffwvgm	196
 陳飛舟	iffwvzi	77
 陳飛宇	iffwyud	86
 陳高峰	ifgcfgj	61
@@ -508146,7 +507686,6 @@ sort: by_weight
 程念高	ignmgcr	34
 成年期	ignmjib	1107
 成年了	ignmlen	320
-成年禮	ignmlit	1132
 成年了	ignmlnn	320
 成年期	ignmqib	1107
 成年犬	ignmqrk	84
@@ -511655,7 +511194,6 @@ sort: by_weight
 重婚者	ishyvea	64
 重柴油	isidyzw	114
 重程序	isigxun	101
-充場面	isihmml	406
 重場戲	isihxii	509
 充斥著	isiivca	2862
 充斥著	isiivea	2862
@@ -512810,7 +512348,6 @@ sort: by_weight
 出徵收	iuviuzk	164
 礎知識	iuvivia	671
 處置組	iuvizum	1269
-出狀況	iuvlklu	532
 初裝修	iuvlxqh	98
 涂壯勳	iuvlxys	146
 出專輯	iuvrjij	323
@@ -516952,7 +516489,6 @@ sort: by_weight
 系領帶	jilkddb	354
 機靈地	jilkded	209
 機靈的	jilkdei	1294
-機靈地	jilkdid	209
 機靈的	jilkdii	1294
 吉靈漢	jilkhjo	194
 紀靈靈	jilklko	229
@@ -517414,7 +516950,6 @@ sort: by_weight
 給人家	jirfjxo	1
 幾人看	jirfkju	37
 給人們	jirfmfn	16525
-級任制	jirfvin	121
 級任務	jirfwus	621
 即日到	jiridcn	302
 祭日的	jiridei	100
@@ -522030,7 +521565,6 @@ sort: by_weight
 減震墊	jmvfdmg	145
 見真情	jmvfqkb	16
 減震筒	jmvftsr	172
-見真章	jmvfvhj	1470
 簡政強	jmvgjli	91
 見證了	jmvglen	1779
 見證了	jmvglnn	1779
@@ -529631,7 +529165,6 @@ sort: by_weight
 開香檳	kdxlbkc	58
 開箱機	kdxljii	103
 開箱子	kdxlzid	600
-開先例	kdxmlin	248
 開小號	kdxnhcn	212
 開小號	kdxnhcu	212
 開銷戶	kdxnhus	138
@@ -531817,7 +531350,6 @@ sort: by_weight
 塊多的	kkdodii	218
 快多了	kkdolen	1
 快多了	kkdolnn	1
-快動作	kkdszos	159
 會讀書	kkduuua	197
 會得到	kkdwdcn	31754
 快得像	kkdwxlo	12
@@ -533219,7 +532751,6 @@ sort: by_weight
 哭喊著	kuhjvoa	121
 哭喊著	kuhjvua	121
 庫查爾	kuiaerk	1454
-苦茶油	kuiayzw	122
 褲衩子	kuiazid	138
 苦橙葉	kuigxpd	40
 苦橙葉	kuigyed	40
@@ -534064,7 +533595,6 @@ sort: by_weight
 剌激性	lajixkm	66
 拉吉亞	lajiyam	38
 垃圾魚	lajiyuf	523
-拉警報	lajkbce	451
 拉鏡頭	lajktzc	33
 辣醬面	lajlmml	70
 拉鍊門	lajmmfn	309
@@ -535217,7 +534747,6 @@ sort: by_weight
 臨時度	lbuidue	128
 磷石膏	lbuigcb	1056
 臨時冠	lbuigri	118
-臨時會	lbuihva	52283
 林世華	lbuihxj	36
 臨時車	lbuiiej	516
 臨時單	lbuiijj	116
@@ -535226,7 +534755,6 @@ sort: by_weight
 臨時救	lbuijqk	964
 臨時車	lbuijuj	516
 林世家	lbuijxo	41
-臨時會	lbuikka	52283
 臨時區	lbuiour	62
 臨時橋	lbuiqnb	43
 臨時區	lbuiqur	62
@@ -535825,7 +535353,6 @@ sort: by_weight
 老廣東	lcgldsw	130
 老廣告	lcglgcr	73
 老廣州	lcglvzl	514
-撈過界	lcgojpl	203
 老郭家	lcgojxo	70
 老果園	lcgoyrv	79
 老官村	lcgrcyi	35
@@ -539952,7 +539479,6 @@ sort: by_weight
 梨品種	lipbisg	59
 禮品酒	lipbjqw	346
 李品科	lipbkej	1305
-禮品書	lipbuua	36
 禮品展	lipbvjv	303
 梨品種	lipbvsg	59
 李鵬飛	lipgfwo	763
@@ -547235,7 +546761,6 @@ sort: by_weight
 硫磺的	lqgsdei	366
 硫磺的	lqgsdii	366
 六工段	lqgsdre	53
-硫磺谷	lqgsgur	211
 陸恭蕙	lqgshvp	53
 硫磺廠	lqgsihk	33
 硫磺礦	lqgsklc	287
@@ -547447,7 +546972,6 @@ sort: by_weight
 劉懷志	lqhkvip	298
 硫磺的	lqhldei	366
 硫磺的	lqhldii	366
-硫磺谷	lqhlgur	211
 硫磺廠	lqhlihk	33
 硫磺礦	lqhlklc	287
 劉皇叔	lqhluue	266
@@ -548159,7 +547683,6 @@ sort: by_weight
 劉會英	lqkkykk	78
 硫磺的	lqkldei	366
 硫磺的	lqkldii	366
-硫磺谷	lqklgur	211
 硫磺廠	lqklihk	33
 硫磺礦	lqklklc	287
 硫磺燻	lqklxyf	1306
@@ -548255,7 +547778,6 @@ sort: by_weight
 劉麗珍	lqlivfh	53
 劉立志	lqlivip	158
 琉璃盞	lqlivjt	36
-琉璃珠	lqlivud	130
 劉立柱	lqlivug	71
 劉立文	lqliwfk	45
 劉立偉	lqliwwq	348
@@ -550434,7 +549956,6 @@ sort: by_weight
 卵巢的	lricdei	1847
 卵巢的	lricdii	1847
 卵巢瘤	lriclqw	80
-亂集團	lrjitri	135
 欒菊傑	lrjujpd	71
 欒克軍	lrkejyj	101
 亂倫的	lrlydei	258
@@ -552253,7 +551774,6 @@ sort: by_weight
 錄音的	luybdei	2915
 錄音檔	luybdhw	166
 錄音的	luybdii	2915
-錄音間	luybjma	399
 錄音鍵	luybjmq	80
 綠蔭裡	luyblig	66
 錄音門	luybmfn	588
@@ -552404,7 +551924,6 @@ sort: by_weight
 呂冰洋	lvbkyhq	34
 綠標車	lvbniej	603
 綠標車	lvbnjuj	603
-鋁箔包	lvbobcu	334
 綠波帶	lvboddb	248
 綠薄荷	lvboher	46
 旅博會	lvbokka	1330
@@ -560729,7 +560248,6 @@ sort: by_weight
 無明顯	momkxmc	563
 無面目	mommmuu	402
 無麵人	mommrfo	34
-無冕王	mommwhg	497
 萬萬不	momobuf	1199
 麼麼噠	momodaq	5792
 默默的	momodei	1531
@@ -565130,7 +564648,6 @@ sort: by_weight
 南滿洲	namjvzl	38
 南蠻王	namjwhg	38
 南明湖	namkhub	135
-拿命來	namkldo	74
 那明明	namkmkb	55
 那名男	namknjs	4030
 南明王	namkwhg	54
@@ -565407,7 +564924,6 @@ sort: by_weight
 南太行	natdhhn	172
 那太監	natdjmt	54
 南臺寺	natdsii	35
-南臺灣	natdwjn	980
 南太務	natdwus	58
 南泰熙	natdxif	1452
 南太行	natdxkn	172
@@ -565909,7 +565425,6 @@ sort: by_weight
 腦栓通	ncurtsb	340
 鬧水荒	ncuvhlu	92
 腦受損	ncuzsyc	81
-腦中樞	ncvsuur	210
 硇洲島	ncvzdcu	91
 腦形成	ncxkigs	42
 腦血流	ncxplqu	507
@@ -568154,7 +567669,6 @@ sort: by_weight
 南太行	njtdhgn	172
 南太行	njtdhhn	172
 南臺寺	njtdsii	35
-南臺灣	njtdwjn	980
 南太務	njtdwus	58
 南泰熙	njtdxif	1452
 南太行	njtdxkn	172
@@ -568851,7 +568365,6 @@ sort: by_weight
 尿不出	nnbuiuu	10
 尿不盡	nnbujbt	344
 尿布臺	nnbutdg	324
-尿布疹	nnbuvfh	774
 尿道的	nndcdei	337
 尿道的	nndcdii	337
 尿等待	nndgddi	121
@@ -568868,7 +568381,6 @@ sort: by_weight
 脲甲醛	nnjxqrg	32
 鳥瞰的	nnkjdei	151
 鳥瞰的	nnkjdii	151
-尿療法	nnlnfai	297
 鳥龍種	nnlsisg	113
 鳥龍種	nnlsvsg	113
 鳥類的	nnlwdei	2218
@@ -569009,7 +568521,6 @@ sort: by_weight
 捏了捏	nplnnpg	127
 聶磊案	nplwand	95
 聶磊涉	nplwueh	202
-捏麵人	npmmrfo	821
 聶梅生	npmwugm	6032
 捏捏腳	npnpjnl	47
 捏捏捏	npnpnpg	104
@@ -569547,7 +569058,6 @@ sort: by_weight
 農民家	nsmbjxo	1595
 農民軍	nsmbjyj	753
 農民會	nsmbkka	1246
-農民曆	nsmblia	354
 農民式	nsmbuim	144
 農民學	nsmbxtd	426
 農忙期	nsmhjib	46
@@ -577438,7 +576948,6 @@ sort: by_weight
 齊尼奧	qiniaok	4184
 齊尼奇	qinijir	364
 齊尼奇	qiniqir	364
-七娘媽	qinlmaf	319
 七娘山	qinluju	143
 綺年華	qinmhxj	95
 七年期	qinmjib	1372
@@ -578829,7 +578338,6 @@ sort: by_weight
 慶盛站	qkugvjr	39
 輕聲笑	qkugxnk	48
 親生仔	qkugzdd	388
-親生子	qkugzid	794
 請上車	qkuhiej	53
 請上車	qkuhjuj	53
 清上園	qkuhyrv	34
@@ -582151,7 +581659,6 @@ sort: by_weight
 全天通	qrtmtsb	313
 權田修	qrtmxqh	220
 泉天下	qrtmxxy	36
-全天域	qrtmyum	68
 全天遊	qrtmyzd	132
 全貼合	qrtpger	7300
 全貼合	qrtpher	7300
@@ -586860,7 +586367,6 @@ sort: by_weight
 如山的	ruujdei	642
 如山的	ruujdii	642
 汝山谷	ruujgur	106
-入山證	ruujvgt	226
 如山之	ruujvio	471
 入睡後	ruuvhze	68
 入水口	ruuvkzr	528
@@ -588514,7 +588020,6 @@ sort: by_weight
 嘶喊著	sihjvea	11
 嘶喊著	sihjvoa	11
 嘶喊著	sihjvua	11
-四壞球	sihkqqe	49
 斯和波	sihoboe	76
 似火的	sihodei	606
 似火的	sihodii	606
@@ -588540,7 +588045,6 @@ sort: by_weight
 似乎將	sihujli	3821
 斯和凱	sihukdn	36
 斯和普	sihupua	70
-死胡同	sihutsr	512
 似乎長	sihuvhv	379
 四核心	sihuxbp	2696
 司和行	sihuxkn	214
@@ -589241,7 +588745,6 @@ sort: by_weight
 司徒耀	situycg	268
 私攝影	siueykh	33
 死神賽	siufsdc	392
-四神湯	siufthh	552
 私生飯	siugfje	988
 四聖獸	siuguzk	221
 死生也	siugyed	71
@@ -589351,7 +588854,6 @@ sort: by_weight
 四望山	siwhuju	35
 死亡稅	siwhuvu	51
 死亡證	siwhvgt	428
-死亡學	siwhxtd	298
 絲網印	siwhybl	77
 四王子	siwhzid	32
 四萬個	siwjger	376
@@ -589743,7 +589245,6 @@ sort: by_weight
 三國戲	sjgoxii	37
 三關口	sjgrkzr	467
 三管輪	sjgrlyb	63
-三冠王	sjgrwhg	31205
 三工區	sjgsour	56
 三工區	sjgsqur	56
 三公園	sjgsyrv	116
@@ -592483,7 +591984,6 @@ sort: by_weight
 雖不能	svbungp	4244
 尿布臺	svbutdg	324
 雖不是	svbuuio	7822
-尿布疹	svbuvfh	774
 碎步走	svbuzzo	42
 碎瓷片	svcipml	200
 碎瓷片	svcipmn	200
@@ -592583,7 +592083,6 @@ sort: by_weight
 隋麗娜	svlinol	49
 穗粒數	svliuok	214
 穗粒數	svliuuk	214
-尿療法	svlnfai	297
 歲蘿莉	svlolin	269
 碎裂的	svlpdei	1417
 碎裂的	svlpdii	1417
@@ -594598,7 +594097,6 @@ sort: by_weight
 桃花姬	tchxjil	2342
 桃花澗	tchxjma	239
 桃花結	tchxjpr	40
-桃花劫	tchxjps	670
 桃花林	tchxlbd	364
 桃花裡	tchxlig	45
 桃花嶺	tchxlkc	107
@@ -594637,7 +594135,6 @@ sort: by_weight
 淘金地	tcjbded	747
 淘金地	tcjbdid	747
 淘金河	tcjbher	63
-淘金客	tcjbker	1661
 淘金樂	tcjbled	91
 淘金人	tcjbrfo	69
 淘金山	tcjbuju	106
@@ -600571,7 +600068,6 @@ sort: by_weight
 鐵箅子	tpbizid	59
 鐵板路	tpbjlur	311
 鐵板麵	tpbjmml	235
-占便宜	tpbmyim	832
 占卜的	tpbodei	291
 占卜的	tpbodii	291
 占卜的	tpbudii	291
@@ -600734,7 +600230,6 @@ sort: by_weight
 貼牌機	tppdjii	118
 鐵皮房	tppifhs	677
 鐵皮人	tppirfo	131
-占便宜	tppmyim	832
 鐵騎兵	tpqibkc	59
 鐵騎後	tpqihze	43
 鐵七局	tpqijur	33
@@ -600769,7 +600264,6 @@ sort: by_weight
 貼身衣	tpufyiv	123
 鐵生溝	tpuggzb	76
 貼商標	tpuhbnf	95
-占上風	tpuhfgi	363
 鐵獅門	tpuimfn	2251
 鐵獅玉	tpuiyui	64
 鐵山郡	tpujjyl	117
@@ -601425,7 +600919,6 @@ sort: by_weight
 同名的	tsmkdii	3612
 同名端	tsmkdrb	52
 童明康	tsmkkhe	383
-同命鳥	tsmknnf	379
 童名謙	tsmkqmc	5420
 同名人	tsmkrfo	998
 同名詩	tsmkuii	80
@@ -603031,7 +602524,6 @@ sort: by_weight
 頭疼病	tztgbkb	68
 頭疼事	tztguin	354
 頭疼醫	tztgyiw	853
-偷聽器	tztkqir	72
 頭條吧	tztnbau	58
 頭條網	tztnwhv	136
 頭痛的	tztsdei	5094
@@ -609244,7 +608736,6 @@ sort: by_weight
 似乎長	uihuihv	379
 施和金	uihujbc	48
 似乎將	uihujli	3821
-石斛蘭	uihuljw	305
 實葫蘆	uihulut	97
 是和你	uihunif	482
 史和平	uihupkj	338
@@ -613900,7 +613391,6 @@ sort: by_weight
 數號碼	uuhcmaf	197
 數很多	uuhfdoi	265
 舒紅兵	uuhsbkc	254
-疏洪道	uuhsdcu	291
 舒洪水	uuhsuve	49
 疏忽的	uuhudei	866
 疏忽的	uuhudii	866
@@ -615493,7 +614983,6 @@ sort: by_weight
 刷卡金	uxkajbc	1042
 刷卡族	uxkazuk	549
 刷喇叭	uxlabac	81
-耍老千	uxlcqmj	322
 耍龍燈	uxlsdgt	109
 刷綠漆	uxluqie	156
 刷綠漆	uxlvqie	156
@@ -620749,7 +620238,6 @@ sort: by_weight
 整機廠	vgjiihk	2290
 證期會	vgjikka	295
 徵集人	vgjirfo	4541
-政集團	vgjitri	874
 鄭繼文	vgjiwfk	62
 正極線	vgjixme	55
 正經地	vgjkded	880
@@ -620924,7 +620412,6 @@ sort: by_weight
 鄭羅茜	vgloxiw	2745
 蒸餾的	vglqdei	129
 蒸餾的	vglqdii	129
-蒸餾法	vglqfai	277
 蒸餾出	vglqiuu	70
 整流機	vglqjii	35
 政六街	vglqjpn	53
@@ -627818,7 +627305,6 @@ sort: by_weight
 戰本賽	vjbfsdc	119
 佔必文	vjbiwfk	83
 粘板岩	vjbjyjr	244
-占便宜	vjbmyim	832
 占卜的	vjbodei	291
 占卜的	vjbodii	291
 佔不到	vjbudcn	178
@@ -631647,7 +631133,6 @@ sort: by_weight
 豬肝湯	vugjthh	420
 朱感生	vugjugm	43
 豬肝粥	vugjvzn	284
-竹竿舞	vugjwuq	387
 朱廣彬	vuglbbh	70
 珠光寶	vuglbcc	37
 朱光華	vuglhxj	63
@@ -644574,7 +644059,6 @@ sort: by_weight
 無面目	wummmuu	402
 霧面屏	wummpkt	244
 無麵人	wummrfo	34
-無冕王	wummwhg	497
 屋面為	wummwwf	85
 吳妙貞	wumnvfc	81
 五秒鐘	wumnvsg	1328
@@ -652303,7 +651787,6 @@ sort: by_weight
 行商的	xkuhdei	692
 行商的	xkuhdii	692
 行商品	xkuhpbr	505
-形上學	xkuhxtd	53
 性上癮	xkuhybp	59
 行識別	xkuibpn	299
 形式地	xkuided	79
@@ -652756,7 +652239,6 @@ sort: by_weight
 降不了	xlbulnn	21
 向布魯	xlbulua	185
 相不明	xlbumkb	43
-想不透	xlbutzs	136
 降不住	xlbuvug	11
 香不香	xlbuxla	210
 向北的	xlbwdei	606
@@ -655246,7 +654728,6 @@ sort: by_weight
 先這麼	xmvemoi	38
 線診斷	xmvfdrl	152
 見真情	xmvfqkb	16
-見真章	xmvfvhj	1470
 陷陣營	xmvfykr	128
 先正達	xmvgdaq	1907
 見證了	xmvglen	1779
@@ -657743,8 +657224,6 @@ sort: by_weight
 小軒窗	xnxrile	94
 小軒窗	xnxrilk	94
 小軒窗	xnxriln	94
-小選區	xnxrour	117
-小選區	xnxrqur	117
 小漩渦	xnxrwor	13
 小萱萱	xnxrxrm	104
 梟雄的	xnxsdei	275
@@ -664002,7 +663481,6 @@ sort: by_weight
 熏製的	xyvidei	281
 熏製的	xyvidii	281
 熏製品	xyvipbr	116
-蕈狀雲	xyvlyyi	209
 燻豬肉	xyvurzo	57
 詢問部	xywfbul	135
 詢問的	xywfdei	4590
@@ -671631,7 +671109,6 @@ sort: by_weight
 益健康	yijmkhe	2159
 已建立	yijmlit	80
 一間樓	yijmlzv	43
-一肩挑	yijmtno	2752
 以建設	yijmuee	18
 以簡單	yijmujj	75
 一檢查	yijmvam	97
@@ -675608,7 +675085,6 @@ sort: by_weight
 英里長	yklivhv	703
 盈利信	yklixbr	159
 盈利型	yklixkg	97
-硬裡子	yklizid	248
 英靈殿	yklkdme	256
 應凌遲	yklkiiq	56
 英靈們	yklkmfn	282
@@ -677087,11 +676563,9 @@ sort: by_weight
 願與你	yryunif	150
 袁雲才	yryycdh	135
 袁雲華	yryyhxj	58
-園遊會	yryzhva	704
 源優化	yryzhxp	183
 原油船	yryzirr	370
 原有機	yryzjii	881
-園遊會	yryzkka	704
 原油量	yryzllg	511
 園遊券	yryzqrh	66
 原有色	yryzseu	68
@@ -679736,7 +679210,6 @@ sort: by_weight
 娛樂臺	yuletdg	499
 娛樂通	yuletsb	475
 魚樂圖	yuletuw	33
-娛樂稅	yuleuvu	54
 娛樂我	yulewoi	92
 娛樂行	yulexkn	3959
 宇樂樂	yuleytd	41
@@ -681348,7 +680821,6 @@ sort: by_weight
 娛樂通	yuyttsb	475
 預約單	yuytujj	446
 預約率	yuytukj	164
-娛樂稅	yuytuvu	54
 預約網	yuytwhv	387
 娛樂我	yuytwoi	92
 娛樂行	yuytxkn	3959
@@ -684511,7 +683983,6 @@ sort: by_weight
 有專門	yzvrmfn	2795
 有專人	yzvrrfo	408
 由傳統	yzvrtsu	68
-有賺頭	yzvrtzc	449
 有傳聞	yzvrwfj	151
 右轉向	yzvrxlr	1727
 有專業	yzvryed	1085
@@ -688689,7 +688160,6 @@ sort: by_weight
 曾益民	zgyimbp	40
 曾一鳴	zgyimkf	3068
 曾一平	zgyipkj	34
-綜藝團	zgyitri	356
 增益率	zgyiukj	15
 曾一智	zgyivia	83
 曾益新	zgyixbl	375
@@ -689808,7 +689278,6 @@ sort: by_weight
 自由論	ziyzlyb	89
 自由馬	ziyzmaf	40
 自由女	ziyznvv	71
-自由球	ziyzqqe	1826
 自由熱	ziyzref	44
 自由塔	ziyztar	159
 自由談	ziyztjf	176
@@ -691279,7 +690748,6 @@ sort: by_weight
 綜藝咖	zsyigar	744
 綜藝咖	zsyikar	744
 縱一路	zsyilur	162
-綜藝團	zsyitri	356
 宗一童	zsyitsg	92
 總言之	zsyjvio	177
 總研製	zsyjviv	88
