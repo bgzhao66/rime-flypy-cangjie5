@@ -155,8 +155,8 @@ def pinyin_to_shuangpin(toneless: str):
 # Step 3: Get standard Chinese characters and Pinyin mappings
 
 STANDARD_CHINESE = "standard_chinese.txt"
-PINYIN_CODE = "pinyin.txt"
-PINYIN_PHRASE = "pinyin_phrase.txt"
+PINYIN_CODES = ["pinyin.txt"]
+PINYIN_PHRASES = ["pinyin_phrase.txt"]
 
 # get chinese code from a file with format "pinyin: word1 word2 ..."
 def get_standard_code_from_file(file):
@@ -182,27 +182,28 @@ def get_standard_code_from_file(file):
     return words
 
 # get pinyin code from a file with format "UNICODE: py1,py2 # word"
-def get_pinyin_code_from_file(file):
+def get_pinyin_code_from_files(files):
     words = dict()
-    with open(file  , 'r') as f:
-        for line in f:
-            line = line.strip()
-            if len(line) == 0:
-                continue
-            if line[0] == '#':
-                continue
-            parts = re.split(r'\s+', line)
-            if len(parts) < 4:
-                continue
-            word = parts[3].strip()
-            pinyins = re.split(r',', parts[1])
-            if word not in words:
-                words[word] = []
-            for pinyin in pinyins:
-                words[word].append(pinyin)
+    for file in files:
+        with open(file  , 'r') as f:
+            for line in f:
+                line = line.strip()
+                if len(line) == 0:
+                    continue
+                if line[0] == '#':
+                    continue
+                parts = re.split(r'\s+', line)
+                if len(parts) < 4:
+                    continue
+                word = parts[3].strip()
+                pinyins = re.split(r',', parts[1])
+                if word not in words:
+                    words[word] = []
+                for pinyin in pinyins:
+                    words[word].append(pinyin)
     return words
 
-kPinyinCodes = get_pinyin_code_from_file(PINYIN_CODE)
+kPinyinCodes = get_pinyin_code_from_files(PINYIN_CODES)
 kStandardCodes = get_standard_code_from_file(STANDARD_CHINESE)
 
 # Merge kStandardCodes and kPinyinCodes, then return the new dictionary
@@ -227,28 +228,29 @@ kCharacterCodes, kCharacterCodesNonstandard = merge_character_codes()
 
 # Get pinyin phrase from a file with format "word: py1 py2 ..."
 # return a dictionary of word and a list of pinyin code sequences, e.g. {'word': [['py1', 'py2'], ['py3', 'py4']]}
-def get_pinyin_phrase_from_file(file):
+def get_pinyin_phrase_from_files(files):
     words = dict()
-    with open(file , 'r') as f:
-        for line in f:
-            line = line.strip()
-            if len(line) == 0:
-                continue
-            if line[0] == '#':
-                continue
-            parts = re.split(r':\s+', line)
-            if len(parts) < 2:
-                continue
-            word = parts[0].strip()
-            pinyins = re.split(r'\s+', parts[1])
-            if word not in words:
-                words[word] = []
-            words[word].append(pinyins)
+    for file in files:
+        with open(file , 'r') as f:
+            for line in f:
+                line = line.strip()
+                if len(line) == 0:
+                    continue
+                if line[0] == '#':
+                    continue
+                parts = re.split(r':\s+', line)
+                if len(parts) < 2:
+                    continue
+                word = parts[0].strip()
+                pinyins = re.split(r'\s+', parts[1])
+                if word not in words:
+                    words[word] = []
+                words[word].append(pinyins)
     return words
 
 # get pinyin phrases
 def get_pinyin_phrases():
-    return get_pinyin_phrase_from_file(PINYIN_PHRASE)
+    return get_pinyin_phrase_from_files(PINYIN_PHRASES)
 
 # Check if a word and its pinyin code sequence are consistent
 # word: a Chinese word
