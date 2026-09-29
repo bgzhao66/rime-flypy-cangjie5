@@ -247,7 +247,6 @@ import_tables:
 哀	aivy	10569
 譪	aivya	10002
 謁	aivyb	10000
-衰	aivyc	10000
 闇	anaa	10022
 暗	anaaa	12750
 腤	anab	10002
@@ -549,7 +548,6 @@ import_tables:
 𤇯	aovy	10000
 𦪈	aoyg	10000
 𦪈	aoyq	10000
-百	baam	10000
 鲌	baana	10000
 鮊	baanb	10000
 伯	baao	10000
@@ -983,7 +981,6 @@ import_tables:
 㓦	bdnma	10000
 呗	bdor	10000
 𤁣	bdpe	10000
-犤	bdpha	10000
 襬	bdpl	10001
 擺	bdpq	12379
 罷	bdpwa	10000
@@ -2761,7 +2758,6 @@ import_tables:
 桮	bwrd	10002
 棓	bwrda	10000
 焙	bwrfa	10092
-培	bwrga	10000
 碚	bwrm	10014
 倍	bwro	13369
 𦈶	bwroa	10000
@@ -3023,7 +3019,6 @@ import_tables:
 层	cgis	10000
 鄫	cglc	10000
 𠟂	cgnc	10000
-嘗	chaf	10000
 𩕹	chct	10000
 鶬	chfo	10002
 𩀞	chgo	10000
@@ -3171,8 +3166,7 @@ import_tables:
 茨	ciot	10457
 絘	ciov	10005
 𨒮	cioy	10000
-齒	cioya	10000
-胔	cioyb	10000
+胔	cioya	10000
 骴	cipba	10001
 𩨨	cipbb	10000
 𣐑	cipda	10000
@@ -4281,7 +4275,6 @@ import_tables:
 凳	dgnn	10149
 㔁	dgnna	10000
 𪑬	dgnwa	10000
-定	dgoj	10000
 𤼶	dgsn	10000
 𨶿	dgtab	10000
 瞪	dgtb	10459
@@ -4501,7 +4494,6 @@ import_tables:
 𩷎	difn	10000
 𧤲	difna	10000
 𠍪	difo	10000
-絛	difoa	10000
 唙	difr	10001
 鸐	difs	10001
 䯼	difsa	10000
@@ -4702,7 +4694,6 @@ import_tables:
 隄	dion	10003
 䧑	diona	10000
 𠐑	dioo	10000
-人	diooa	10000
 提	dioq	10004
 踶	dior	10002
 𡄷	diora	10000
@@ -5191,8 +5182,6 @@ import_tables:
 屌	dnbs	10558
 𡰯	dnbsa	10000
 𦶌	dnbt	10000
-鉥	dnccb	10000
-鉥	dndca	10000
 弴	dndna	10006
 𠥑	dndsa	10000
 蓧	dndt	10002
@@ -6407,7 +6396,6 @@ import_tables:
 𥓈	eejmb	10000
 啐	eejra	10000
 啈	eejrc	10000
-耳	eejsa	10000
 𢼚	eekh	10000
 𢼚	eeki	10000
 𤡾	eekm	10000
@@ -6628,7 +6616,6 @@ import_tables:
 𡅅	eicr	10000
 诶	eiki	10000
 誒	eiky	11768
-工	eimm	10000
 欸	eioi	10001
 𡵖	enfua	10000
 奀	enkm	10006
@@ -7929,8 +7916,7 @@ import_tables:
 癈	fwek	10005
 襏	fwel	10001
 𤼺	fwena	10000
-發	fwenb	10000
-䚨	fwenc	10000
+䚨	fwenb	10000
 䰁	fwes	10000
 蕟	fwet	10001
 茇	fweta	10000
@@ -7973,7 +7959,6 @@ import_tables:
 狒	fwnk	10016
 疿	fwnka	10001
 剕	fwnl	10004
-弗	fwnla	10000
 砩	fwnma	10000
 怫	fwnp	10004
 拂	fwnqa	10000
@@ -8096,7 +8081,6 @@ import_tables:
 𠁥	galoa	10000
 呷	galr	10002
 夾	gaok	10007
-感	gapi	10000
 胳	garb	10000
 𡯽	gark	10000
 㹢	garka	10000
@@ -8593,7 +8577,6 @@ import_tables:
 䎴	ggtsa	10000
 畊	ggtw	10004
 𥉔	ggus	10000
-根	ggvd	10000
 溝	ghbe	10001
 槓	ghcda	10305
 頏	ghcya	10000
@@ -8627,7 +8610,6 @@ import_tables:
 剛	ghnba	43388
 肮	ghnbb	10000
 刚	ghnbc	10000
-坑	ghng	10000
 牨	ghnh	10001
 犺	ghnk	10000
 𨟼	ghnm	10000
@@ -9260,7 +9242,6 @@ import_tables:
 𦦧	gslha	10000
 𠌕	gsloa	10000
 䢼	gslta	10000
-速	gslya	10000
 釭	gsmca	10000
 杠	gsmda	10000
 渱	gsme	10000
@@ -9323,7 +9304,6 @@ import_tables:
 𦈩	gsum	10000
 𡚑	gsuma	10000
 觥	gsun	10021
-侊	gsuoa	10000
 咣	gsur	10000
 𦊫	gsuw	10000
 𩐣	gsuya	10000
@@ -9801,8 +9781,6 @@ import_tables:
 剮	gxnb	10098
 𠛒	gxnh	10000
 刮	gxnha	11345
-割	gxnj	10000
-刈	gxnk	10000
 颪	gxnma	10001
 劀	gxnn	10003
 㓡	gxno	10000
@@ -10368,7 +10346,6 @@ import_tables:
 𨜱	helja	10000
 郃	helo	10012
 鹖	hemaa	10000
-湼	heme	10000
 翮	hemm	10026
 鹤	hemoa	10000
 𨴢	henaa	10000
@@ -10928,7 +10905,6 @@ import_tables:
 坯	hkmga	10000
 划	hkni	10000
 劃	hknl	10001
-歠	hkoe	10000
 徊	hkrh	10047
 佪	hkro	10001
 咶	hkrr	10001
@@ -10993,7 +10969,6 @@ import_tables:
 䪄	hlctb	10000
 䌙	hlcva	10000
 𪏙	hleg	10000
-雙	hleo	10000
 䳨	hlfha	10000
 鷬	hlft	10001
 𪀞	hlfy	10000
@@ -11087,7 +11062,6 @@ import_tables:
 怳	hlupc	10006
 㤺	hlupd	10000
 㨪	hluq	10000
-兄	hlur	10000
 𩢯	hlus	10000
 荒	hlut	10654
 𦵽	hluta	10000
@@ -11801,7 +11775,6 @@ import_tables:
 𩾻	hufoa	10000
 𪂒	hufp	10000
 𦗣	hufs	10000
-熙	hufsa	10000
 鶮	hufy	10001
 㴶	hugea	10000
 𤎲	hugfa	10000
@@ -12090,7 +12063,6 @@ import_tables:
 𦡖	hvby	10000
 闠	hvca	10003
 𩒳	hvcaa	10000
-鉥	hvcca	10000
 𥀠	hvcda	10000
 潰	hvce	10011
 頮	hvcea	10001
@@ -12109,7 +12081,6 @@ import_tables:
 𧭾	hvcya	10000
 𧧾	hvcyb	10000
 䜋	hvcyc	10000
-鉥	hvdca	10000
 沬	hvdea	10000
 㷄	hvdf	10000
 輠	hvdj	10002
@@ -12933,8 +12904,7 @@ import_tables:
 𨢪	icdma	10000
 𥕘	icdmb	10000
 䲃	icdna	10000
-操	icdq	10000
-摷	icdqa	10000
+摷	icdq	10000
 𨄓	icdra	10000
 𦾱	icdt	10000
 𦸛	icdta	10000
@@ -13518,7 +13488,6 @@ import_tables:
 倀	igvoa	10000
 掁	igvq	10003
 鐺	igwc	10002
-陳	igwn	10000
 𡽊	igwua	10000
 𦦢	igxf	10000
 昌	ihaa	11731
@@ -13959,7 +13928,6 @@ import_tables:
 𡚨	iipv	10000
 紕	iipva	10000
 迡	iipy	10000
-此	iipya	10000
 墀	iiqg	10026
 穉	iiqh	10000
 徲	iiqha	10000
@@ -14099,7 +14067,6 @@ import_tables:
 㹽	ijika	10000
 𧕃	ijila	10000
 㸥	ijilb	10000
-蠶	ijim	10000
 毚	ijin	10003
 𩽝	ijina	10000
 𧥓	ijinb	10000
@@ -15201,7 +15168,6 @@ import_tables:
 仅	jbeo	10000
 𢱷	jbeq	10000
 𢬶	jbeqa	10000
-披	jbeqb	10000
 𩤿	jbes	10000
 𢽖	jbesa	10000
 𠬶	jbesb	10000
@@ -15291,7 +15257,6 @@ import_tables:
 吟	jbnr	10000
 黅	jbnt	10001
 𠞱	jbnta	10000
-荊	jbntb	10000
 妗	jbnv	10021
 紟	jbnva	10004
 𫄛	jbnvb	10000
@@ -15980,10 +15945,9 @@ import_tables:
 畸	jirw	10089
 羇	jirwa	10002
 𦌰	jirwb	10000
-詰	jirya	10004
-𥪼	jiryb	10000
-呰	jiryc	10000
-䛴	jiryd	10000
+𥪼	jirya	10000
+呰	jiryb	10000
+䛴	jiryc	10000
 𠢠	jisda	10000
 𣱗	jisoa	10000
 㔕	jisob	10000
@@ -16107,7 +16071,6 @@ import_tables:
 靖	jkby	10629
 請	jkbya	10000
 𩓞	jkcb	10000
-金	jkccb	10000
 頚	jkcea	10001
 獷	jkck	10001
 頸	jkcm	10778
@@ -17423,8 +17386,7 @@ import_tables:
 鲒	jprnb	10000
 𢢂	jprp	10000
 拮	jprq	10014
-擔	jprqa	10000
-拾	jprqb	10000
+拾	jprqa	10000
 跲	jprr	10001
 𩢴	jprsa	10000
 髻	jprsb	10000
@@ -17603,7 +17565,6 @@ import_tables:
 鯦	jqrn	10001
 倃	jqro	10001
 𢜥	jqrp	10000
-句	jqrpa	10000
 䓘	jqrt	10000
 䛮	jqry	10000
 舅	jqsh	10252
@@ -19052,7 +19013,6 @@ import_tables:
 愙	kepja	10001
 龕	kepob	10001
 𤛗	keqg	10000
-閜	kera	10000
 胢	kerb	10001
 𧵛	kerba	10000
 𦝣	kerbb	10000
@@ -19636,7 +19596,6 @@ import_tables:
 𥦀	kruja	10000
 宽	krujb	10000
 完	krujc	10000
-爌	kscf	10000
 𢽦	ksej	10000
 㲁	kseja	10000
 鵼	ksfja	10001
@@ -19644,7 +19603,6 @@ import_tables:
 腔	ksmb	10000
 椌	ksmd	10000
 涳	ksme	10001
-焢	ksmfa	10000
 埪	ksmga	10001
 𪔣	ksmgb	10000
 箜	ksmh	10014
@@ -20391,7 +20349,6 @@ import_tables:
 𡬜	lbyja	10000
 顟	lccs	10001
 㺐	lcdka	10000
-樂	lcdv	10000
 䝤	lcfb	10000
 橑	lcfd	10002
 潦	lcfe	10004
@@ -20600,7 +20557,6 @@ import_tables:
 㿭	leeh	10000
 𥖪	leem	10000
 𩐾	leey	10000
-瞭	lefb	10000
 埒	leiga	10000
 𤨙	leit	10000
 𤟓	lekt	10000
@@ -22338,7 +22294,6 @@ import_tables:
 𠻐	lorr	10000
 咯	lorra	37403
 路	lorrb	10000
-口	lorrc	10000
 駱	lors	10512
 落	lort	15193
 茖	lorta	10003
@@ -23119,7 +23074,6 @@ import_tables:
 𢫫	luqqa	10000
 峍	luqua	10001
 𡷏	luqub	10000
-閭	lura	10000
 賂	lurb	10035
 赂	lurba	10000
 鏴	lurc	10001
@@ -23748,7 +23702,6 @@ import_tables:
 嬤	maiva	10002
 嬷	maivb	10000
 抹	majq	10084
-枚	makda	10000
 蟆	makl	10031
 𣨜	makm	10000
 鬕	maks	10002
@@ -24092,7 +24045,6 @@ import_tables:
 卖	mdkj	10000
 买	mdkn	10000
 荬	mdkt	10000
-美	mdkta	10000
 𧱘	mdlya	10000
 䥑	mdnc	10000
 䨫	mdnma	10000
@@ -24476,7 +24428,6 @@ import_tables:
 冞	midbc	10002
 𦟂	midbd	10000
 𥇆	midbe	10000
-罙	midbf	10000
 銤	midca	10001
 洣	midea	10001
 𥽰	midf	10000
@@ -25440,7 +25391,6 @@ import_tables:
 膴	mwfba	10000
 𪂜	mwfd	10000
 䆀	mwfha	10000
-馬	mwfs	10000
 𪃏	mwft	10000
 羙	mwfta	10000
 旀	mwfy	10000
@@ -25557,7 +25507,6 @@ import_tables:
 缪	mzhva	10000
 毋	mzhw	10000
 𧎻	mzin	10000
-蝥	mzina	10000
 呣	mzir	10000
 𠥨	mzis	10000
 厶	mziv	10000
@@ -26821,7 +26770,6 @@ import_tables:
 𠴂	nusr	10000
 努	nusv	10420
 𥅄	nuuva	10000
-汝	nuveb	10000
 𥤨	nuvja	10000
 㚢	nuvoa	10000
 𥄋	nvbba	10000
@@ -27390,7 +27338,6 @@ import_tables:
 䦕	pgtab	10000
 洴	pgtea	10000
 皏	pgth	10001
-軿	pgtja	10000
 硑	pgtma	10000
 𢏳	pgtna	10000
 恲	pgtp	10001
@@ -29360,7 +29307,6 @@ import_tables:
 𪏅	qkmt	10000
 棾	qknd	10001
 𤭩	qknga	10000
-窮	qknja	10000
 剠	qkny	10000
 庼	qkoi	10000
 𨆪	qkoj	10000
@@ -29625,8 +29571,7 @@ import_tables:
 圲	qmjg	10001
 赶	qmjga	10000
 千	qmjh	15218
-幹	qmjj	10000
-兛	qmjja	10000
+兛	qmjj	10000
 𧘜	qmjla	10000
 瓩	qmjma	10000
 幵	qmjmd	10000
@@ -30710,7 +30655,6 @@ import_tables:
 閴	quca	10001
 𧝔	qucl	10000
 鱋	qucn	10001
-傾	qucoa	10000
 憈	qucp	10001
 㠊	qucua	10000
 䝣	qudb	10000
@@ -32836,7 +32780,6 @@ import_tables:
 鹔	suml	10000
 䎘	sumla	10000
 甦	summ	10013
-工	summa	10000
 洬	sune	10002
 𣶘	sunea	10000
 䘘	sunha	10000
@@ -33376,7 +33319,6 @@ import_tables:
 𣨔	tcam	10000
 㫦	tcaoa	10000
 頫	tccl	10000
-條	tcdoa	10000
 縧	tcdv	10001
 绦	tcdva	10000
 𩎢	tced	10000
@@ -33814,8 +33756,7 @@ import_tables:
 䱱	tibnb	10000
 揥	tibq	10001
 擿	tibqa	10000
-摘	tibqb	10000
-䎮	tibqc	10000
+䎮	tibqb	10000
 蹄	tibr	10233
 啼	tibra	10212
 㗣	tibrb	10000
@@ -34691,7 +34632,6 @@ import_tables:
 訑	todyd	10000
 鵎	tofb	10001
 舄	tofha	10000
-舃	tofhb	10000
 𩿽	tofoa	10000
 𣟁	togd	10000
 𡐏	togoa	10000
@@ -34949,10 +34889,8 @@ import_tables:
 𡠙	tsbv	10000
 㛚	tsbva	10000
 通	tsby	18402
-鉥	tsccb	10000
 𧋒	tscl	10000
 𣑸	tsdb	10000
-鉥	tsdca	10000
 𣪯	tsej	10000
 㪌	tsen	10000
 𪀭	tsfb	10000
@@ -35256,7 +35194,6 @@ import_tables:
 㥆	tvepa	10000
 𤍐	tvfq	10000
 𧆸	tvfy	10000
-堆	tvgga	10000
 魋	tvgh	10003
 㢈	tvgi	10000
 𨌴	tvgja	10000
@@ -35814,7 +35751,6 @@ import_tables:
 䀅	uetia	10000
 𩂨	uetma	10000
 抴	uetq	10000
-色	ueun	10000
 㤴	ueup	10000
 鞨	uevt	10000
 䄕	uewi	10000
@@ -36029,7 +35965,6 @@ import_tables:
 𨁠	uggra	10000
 聖	uggs	12617
 声	ughga	10000
-身	ughha	10000
 𠴢	ughra	10000
 琞	ugiaa	10001
 聲	ugjg	17231
@@ -36038,7 +35973,6 @@ import_tables:
 𠓽	ugjo	10000
 𢦑	ugki	10000
 𨜜	uglf	10000
-神	uglia	10000
 𨚱	uglna	10000
 貹	ugmb	10002
 胜	ugmba	10000
@@ -36940,7 +36874,6 @@ import_tables:
 𥌞	uokb	10000
 数	uokf	10000
 數	uokl	10066
-所	uolh	10000
 𠲿	uolr	10000
 銏	uomca	10000
 杓	uomd	10000
@@ -36954,7 +36887,6 @@ import_tables:
 欶	uood	10000
 硕	uoom	10000
 嗽	uoor	10000
-愬	uopt	10000
 揱	uoqf	10000
 銏	uotca	10000
 说	uouia	10000
@@ -37218,7 +37150,6 @@ import_tables:
 𩪍	uurb	10000
 樞	uurd	10136
 售	uuroa	10000
-俗	uurob	10000
 䃞	uurya	10000
 书	uusia	10000
 透	uusyb	10000
@@ -37254,7 +37185,6 @@ import_tables:
 𩛅	uuvoa	10000
 兪	uuvob	10000
 娶	uuvsa	10000
-隨	uvbna	10000
 䭨	uvbob	10000
 𦣢	uvbs	10000
 閖	uvea	10004
@@ -37272,7 +37202,6 @@ import_tables:
 脽	uvgb	10004
 𨿠	uvgha	10000
 谁	uvgi	10000
-雖	uvgra	10000
 𧀣	uvgt	10000
 誰	uvgy	51873
 𠻜	uvjra	10000
@@ -37612,7 +37541,6 @@ import_tables:
 朝	vcbj	11238
 嘲	vcbr	10001
 𦺓	vcbt	10000
-謿	vcby	10000
 𠕖	vcdaa	10000
 𤑗	vcdb	10000
 𤍒	vcdf	10000
@@ -37755,7 +37683,6 @@ import_tables:
 䔝	vdft	10000
 齋	vdfy	10769
 榸	vdgd	10001
-在	vdgk	10000
 捚	vdgq	10002
 翟	vdgs	10534
 豸	vdhb	10000
@@ -37987,7 +37914,6 @@ import_tables:
 㢎	vexia	10000
 斥	veyha	10000
 潧	vfae	10026
-增	vfag	10000
 𥌃	vfbba	10000
 𨏤	vfbja	10000
 靕	vfbma	10001
@@ -39025,8 +38951,7 @@ import_tables:
 卮	viuha	10022
 巵	viuhb	10002
 虒	viuhd	10000
-自	viuhe	10000
-㲳	viuhf	10000
+㲳	viuhe	10000
 𢎈	viuie	10000
 𨌌	viuja	10000
 㲍	viujb	10000
@@ -39211,7 +39136,6 @@ import_tables:
 𢵈	vjrq	10000
 跕	vjrr	10002
 噡	vjrra	10001
-呫	vjrrb	10000
 𦗢	vjrsa	10000
 薝	vjrt	10002
 嶦	vjrua	10001
@@ -40042,7 +39966,6 @@ import_tables:
 贅	vvcg	10073
 贅	vvcq	10073
 䢡	vvdya	10000
-最	vvea	10000
 腏	vveb	10001
 錣	vvec	10002
 𡯑	vveca	10000
@@ -40113,7 +40036,6 @@ import_tables:
 𨾻	vvsoc	10000
 𣦬	vvuya	10000
 錗	vvvca	10000
-罪	vvyw	10000
 这	vwky	10000
 這	vwry	12551
 膼	vxbb	10002
@@ -40598,8 +40520,7 @@ import_tables:
 藴	wftta	10000
 薀	wfttb	10000
 蕰	wfttc	10000
-縕	wftv	10000
-緼	wftva	10000
+緼	wftv	10000
 𥁕	wftw	10000
 𪉸	wftya	10000
 脕	wfub	10011
@@ -42318,7 +42239,6 @@ import_tables:
 习	ximsb	10000
 嬆	ximv	10001
 𧬈	ximy	10000
-諠	ximya	10000
 𦙝	xinb	10000
 𥄛	xinba	10000
 釳	xinca	10002
@@ -42537,7 +42457,6 @@ import_tables:
 蔇	xiut	10000
 黖	xiuw	10001
 覤	xiuya	10002
-臘	xivb	10158
 棲	xivda	10126
 𡝧	xivha	10000
 袭	xivin	10000
@@ -42674,7 +42593,6 @@ import_tables:
 𡶭	xknua	10000
 𤬐	xkof	10000
 𣢝	xkoo	10000
-託	xkpy	10000
 㷣	xkqf	10000
 㙚	xkqg	10000
 觲	xkqn	10001
@@ -43152,7 +43070,6 @@ import_tables:
 㛍	xmova	10000
 譣	xmoy	10002
 䢭	xmoya	10000
-懸	xmpba	10000
 櫶	xmpdb	10001
 瀗	xmpe	10001
 灑	xmpea	10000
@@ -44065,7 +43982,6 @@ import_tables:
 嚊	xqlr	10002
 繍	xqlv	10004
 鸺	xqmob	10000
-虛	xqmy	10000
 飍	xqnh	10001
 苬	xqot	10002
 𣧬	xqrm	10000
@@ -44669,8 +44585,7 @@ import_tables:
 䂆	xuina	10000
 𠯜	xuira	10000
 䎉	xuisa	10000
-繼	xuiv	10000
-妶	xuiva	10000
+妶	xuiv	10000
 𧕼	xuiyb	10000
 𥊊	xujba	10000
 滸	xuje	10008
@@ -45259,7 +45174,6 @@ import_tables:
 顔	yacya	10000
 𤘅	yadma	10000
 𧬬	yadya	10000
-援	yaeq	10000
 㗇	yaera	10000
 𩿔	yafha	10000
 烏	yafhb	10000
@@ -47269,7 +47183,6 @@ import_tables:
 瞖	yiusc	10001
 巸	yiusd	10001
 𧢂	yiuse	10000
-己	yiusf	10000
 𦶂	yiut	10000
 䓃	yiuta	10000
 㛕	yiuva	10000
@@ -47480,7 +47393,6 @@ import_tables:
 𦏹	yjjsa	10000
 䮗	yjjsb	10000
 姸	yjjv	10004
-婩	yjjva	10000
 詽	yjjya	10001
 𪗙	yjjyc	10000
 猒	yjka	10002
@@ -47737,8 +47649,7 @@ import_tables:
 掩	yjuq	10360
 抁	yjuqa	10002
 艳	yjuqb	10000
-撧	yjuqc	10000
-捝	yjuqd	10000
+捝	yjuqc	10000
 嵒	yjur	10002
 𨁍	yjura	10000
 𣭻	yjurb	10000
@@ -48221,7 +48132,6 @@ import_tables:
 謜	yrfy	10003
 䲻	yrfya	10000
 𢆀	yrgla	10000
-身	yrhha	10000
 穿	yrhja	10000
 冤	yrib	10473
 䬇	yrica	10000
@@ -48498,7 +48408,6 @@ import_tables:
 𪪝	ysuic	10000
 𧙇	ysula	10000
 郺	ysun	10001
-撧	ysuq	10000
 嗈	ysur	10002
 邕	ysuva	10041
 𦃽	ysuvb	10000
@@ -48715,7 +48624,6 @@ import_tables:
 獝	yubka	10001
 𤸒	yubkd	10000
 痏	yubkf	10000
-帶	yubkg	10000
 蝺	yubl	10001
 蜟	yubla	10001
 𧑐	yublb	10000
@@ -48851,7 +48759,6 @@ import_tables:
 𥆉	yueb	10000
 𤕘	yuec	10000
 𥹔	yuef	10000
-役	yueh	10000
 㳼	yuei	10000
 𡨣	yuej	10000
 㲾	yueja	10000
@@ -49307,7 +49214,6 @@ import_tables:
 䘱	yuvya	10000
 𤳕	yuwn	10000
 畬	yuwoa	10010
-畲	yuwob	10000
 閼	yuyaa	10008
 棜	yuyd	10010
 淤	yuyea	10380
@@ -50343,7 +50249,6 @@ import_tables:
 䅆	zioh	10000
 资	zioi	10000
 次	zioia	10000
-之	zioib	10000
 胾	zioj	10002
 𣣌	ziom	10000
 次	zioma	10000
@@ -50531,7 +50436,6 @@ import_tables:
 䟄	zocg	10000
 䞰	zocga	10000
 𤿀	zocha	10000
-饋	zocob	10000
 鑿	zoct	10036
 𪎲	zocta	10000
 𠹠	zodra	10000
@@ -50725,7 +50629,6 @@ import_tables:
 騌	zsfsa	10002
 綜	zsfv	10127
 综	zsfva	10000
-中	zslla	10000
 樅	zsod	10009
 枞	zsoda	10000
 潨	zsoe	10000
@@ -50962,7 +50865,6 @@ import_tables:
 咀	zvmr	10096
 䮔	zvms	10000
 絊	zvmv	10002
-衒	zvnh	10000
 𨿇	zvoo	10000
 觜	zvqy	10017
 槜	zvsd	10001

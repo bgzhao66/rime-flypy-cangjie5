@@ -48,6 +48,7 @@ sort: by_weight
 給摁	gwe	92
 給否	gwp	432
 棍王	gyw	73
+壞區	hko	38
 黃區	hlo	119
 卡歐	kao	114
 狂毆	klo	463
@@ -1911,6 +1912,7 @@ sort: by_weight
 更疼	ggtg	154
 更傻	ggua	49
 更帥	gguk	193
+更窄	ggvd	179
 更贊	ggzj	978
 港燦	ghcj	78
 鋼銼	ghco	100
@@ -1928,6 +1930,7 @@ sort: by_weight
 港樂	ghle	605
 港陸	ghlq	91
 鋼類	ghlw	67
+剛能	ghng	247
 港農	ghns	109
 港女	ghnv	2583
 槓牌	ghpd	444
@@ -2006,6 +2009,7 @@ sort: by_weight
 廣撒	glsa	368
 光三	glsj	287
 廣濤	gltc	48
+廣拓	glto	138
 光腿	gltv	483
 光帥	gluk	273
 逛展	glvj	872
@@ -2258,6 +2262,7 @@ sort: by_weight
 和差	heid	12174
 何會	hekk	3395
 和牛	henq	17899
+和朋	hepg	50197
 和僧	hesg	380
 很糙	hfcc	77
 很脆	hfcv	215
@@ -3649,6 +3654,7 @@ sort: by_weight
 老鱉	lcbp	119
 落錯	lcco	68
 老段	lcdr	888
+老對	lcdv	288
 老給	lcgw	346
 老滾	lcgy	265
 老恆	lchg	1255
@@ -3664,6 +3670,7 @@ sort: by_weight
 勞卡	lcqx	57
 老體	lcti	1103
 老壇	lctj	1646
+落停	lctk	91
 老水	lcuv	703
 老軒	lcxr	64
 老澤	lcze	59
@@ -4077,6 +4084,7 @@ sort: by_weight
 亂扭	lrnq	41
 亂爬	lrpa	397
 亂拍	lrpd	504
+亂碰	lrpg	334
 亂飄	lrpn	139
 亂嚷	lrrh	98
 亂入	lrru	6360
@@ -7418,7 +7426,7 @@ sort: by_weight
 鐵存	tpcy	118
 鐵凳	tpdg	40
 貼都	tpdu	178
-鐵盾	tpdy	74
+呫噸	tpdy	296
 鐵海	tphd	685
 鐵行	tphg	2511
 鐵行	tphh	2511
@@ -7862,6 +7870,7 @@ sort: by_weight
 說虎	uohu	36
 說禪	uoij	117
 數卡	uoka	133
+數庫	uoku	488
 說啦	uola	550
 說摞	uolo	102
 說類	uolw	313
@@ -7882,6 +7891,7 @@ sort: by_weight
 說新	uoxb	3177
 數省	uoxk	671
 數羊	uoyh	58
+說苑	uoyr	105
 說咱	uozj	59
 拴個	urge	42
 拴好	urhc	230
@@ -18579,6 +18589,7 @@ sort: by_weight
 肥鴨	fwyaf	144
 飛呀	fwyah	63
 非銀	fwybv	18543
+肥藥	fwycd	169
 肥約	fwyci	4199
 肥約	fwycm	4199
 飛巖	fwyjk	46
@@ -23203,6 +23214,7 @@ sort: by_weight
 惠世	hvuit	42
 回售	hvuzr	24546
 會咋	hvvas	243
+回朝	hvvcb	1213
 慧擇	hvvdj	94
 回針	hvvfj	48
 揮斬	hvvjl	43
@@ -29816,6 +29828,7 @@ sort: by_weight
 老體	lctit	1103
 老譚	lctjj	937
 老壇	lctjm	1646
+落停	lctkn	91
 老帖	lctpr	76
 絡通	lctsb	871
 老同	lctsr	369
@@ -35801,6 +35814,7 @@ sort: by_weight
 謀戰	mzvji	211
 繆仲	mzvsl	84
 某文	mzwfk	1267
+某網	mzwhv	19856
 某晚	mzwju	2081
 繆偉	mzwwq	95
 牟星	mzxkm	314
@@ -38568,6 +38582,7 @@ sort: by_weight
 彭磊	pglwr	450
 彭蕾	pglww	6901
 彭露	pglzr	88
+彭媽	pgmaf	225
 彭夢	pgmgn	54
 彭蒙	pgmgo	466
 彭孟	pgmgt	189
@@ -38651,6 +38666,7 @@ sort: by_weight
 彭咸	pgxmr	293
 彭小	pgxnc	2457
 彭曉	pgxnu	1472
+鵬軒	pgxrj	33
 彭雄	pgxsg	226
 彭學	pgxtd	281
 彭旭	pgxua	716
@@ -40321,6 +40337,7 @@ sort: by_weight
 前輟	qmioe	328
 錢湧	qmiss	265
 錢晶	qmjka	882
+錢靜	qmjkd	243
 錢堅	qmjmg	72
 前尖	qmjmk	84
 錢窖	qmjnr	94
@@ -46329,6 +46346,7 @@ sort: by_weight
 跳單	tnujj	547
 跳閃	tnujo	107
 跳數	tnuok	167
+條屬	tnuui	711
 調稅	tnuvu	413
 跳漲	tnvhv	11777
 跳斬	tnvjl	212
@@ -46373,6 +46391,7 @@ sort: by_weight
 拖落	tolcr	98
 拓樂	toled	659
 妥了	tolnn	138
+脫氯	tolve	155
 託門	tomfn	136
 託納	tonab	414
 駝奶	tonds	83
@@ -48202,6 +48221,7 @@ sort: by_weight
 山飛	ujfwo	83
 單戈	ujgei	76
 山耕	ujggt	47
+單剛	ujghn	70
 單杆	ujgjj	78
 山廣	ujglc	298
 單冠	ujgri	4063
@@ -49529,6 +49549,7 @@ sort: by_weight
 兆和	vchur	377
 趙匯	vchvg	97
 招黑	vchwf	1616
+找話	vchxr	11
 朝柴	vcidd	162
 趙塵	vcifg	42
 趙程	vcigg	202
@@ -52055,6 +52076,7 @@ sort: by_weight
 文放	wffhk	134
 文凡	wffji	132
 文範	wffju	439
+溫敷	wffuk	194
 文夫	wffuo	386
 文飛	wffwo	259
 問菲	wffwy	301
@@ -53437,6 +53459,7 @@ sort: by_weight
 席數	xiuok	608
 西順	xiuyc	93
 西柵	xivat	1612
+惜朝	xivcb	60
 西折	xivel	38
 細針	xivfj	658
 西展	xivjv	100
@@ -63139,6 +63162,7 @@ sort: by_weight
 比特易	bitey	15
 避彈衣	bitjy	90
 畢天宇	bitmy	314
+比托夫	bitof	42
 比洞賽	bitss	1873
 筆筒樹	bitsu	311
 碧桐園	bitsy	35
@@ -88184,6 +88208,7 @@ sort: by_weight
 何不如	hebur	62
 赫布斯	hebus	65
 何不同	hebut	1555
+和不足	hebuz	691
 河北館	hebwg	147
 喝杯茶	hebwi	65
 河北民	hebwm	472
@@ -97040,6 +97065,7 @@ sort: by_weight
 車隊司	iedvs	163
 車隊長	iedvv	905
 扯得很	iedwh	45
+呫噸酮	iedyt	218
 車頓鹹	iedyx	57
 車恩傑	ieenj	58
 車恩尚	ieenu	3507
@@ -127164,6 +127190,7 @@ sort: by_weight
 彭順笑	pguyx	61
 彭兆豐	pgvcf	468
 彭朝暉	pgvch	156
+彭真的	pgvfd	137
 彭真懷	pgvfh	318
 彭振強	pgvfj	33
 彭振強	pgvfq	33
@@ -141731,6 +141758,7 @@ sort: by_weight
 鐵電池	tpdmi	1486
 鐵東街	tpdsj	34
 貼對聯	tpdvl	333
+呫噸酮	tpdyt	218
 貼罰單	tpfad	1687
 鐵粉芯	tpffx	226
 貼福字	tpfuz	104
@@ -148905,6 +148933,7 @@ sort: by_weight
 趙滬湘	vchux	380
 照護員	vchuy	42
 召回的	vchvd	11899
+趙惠芳	vchvf	59
 趙會華	vchvh	66
 趙會民	vchvm	1392
 趙會南	vchvn	494
@@ -152071,6 +152100,7 @@ sort: by_weight
 制勝分	viugf	14923
 致勝率	viugl	146
 之聲音	viugy	216
+治傷風	viuhf	174
 至商丘	viuhq	73
 至善的	viujd	159
 只單單	viuji	23
@@ -152881,6 +152911,7 @@ sort: by_weight
 捉妖記	voycj	475
 卓義峰	voyif	111
 卓勇良	voysl	175
+捉魚網	voyuw	36
 卓韻芝	voyyv	865
 卓在勳	vozdx	182
 著作家	vozoj	35
@@ -165079,6 +165110,7 @@ sort: by_weight
 徐錦鑫	xujbx	281
 徐金玉	xujby	79
 徐繼平	xujip	34
+徐繼畬	xujiy	417
 于靖國	xujkg	216
 徐井宏	xujkh	63
 許景南	xujkn	444
@@ -169972,6 +170004,7 @@ sort: by_weight
 延展其	yjvjq	111
 延展式	yjvju	115
 言壯語	yjvly	92
+顏卓靈	yjvol	793
 閻仲川	yjvsi	35
 嚴重嗎	yjvsm	203
 閆仲秋	yjvsq	111
@@ -173612,6 +173645,7 @@ sort: by_weight
 遊美洲	yzmwv	248
 由梅西	yzmwx	994
 有妹子	yzmwz	104
+有某種	yzmzi	443
 有某些	yzmzx	182
 有哪個	yznag	855
 有那麼	yznam	2225
@@ -252719,6 +252753,7 @@ sort: by_weight
 車隊長	iedvvh	905
 車隊戰	iedvvj	141
 扯得很	iedwhf	45
+呫噸酮	iedyts	218
 車頓鹹	iedyxm	57
 車斗裡	iedzli	184
 車恩傑	ieenjp	58
@@ -320956,6 +320991,7 @@ sort: by_weight
 前景暗	qmjkan	748
 前景草	qmjkcc	40
 前景的	qmjkde	43818
+前景的	qmjkdi	43818
 前景好	qmjkhc	235
 錢晶晶	qmjkjk	42
 錢景可	qmjkke	125
@@ -340203,6 +340239,7 @@ sort: by_weight
 鐵電池	tpdmii	1486
 鐵東街	tpdsjp	34
 貼對聯	tpdvlm	333
+呫噸酮	tpdyts	218
 貼罰單	tpfadj	1687
 貼罰單	tpfaij	1687
 貼罰單	tpfauj	1687
@@ -394364,6 +394401,7 @@ sort: by_weight
 徐紀周	xujivz	464
 徐繼業	xujiye	70
 徐奇淵	xujiyr	40
+徐繼畬	xujiyu	417
 徐景安	xujkan	346
 須經本	xujkbf	547
 徐靜波	xujkbo	309
@@ -503627,6 +503665,7 @@ sort: by_weight
 車隊長	iedvvhv	905
 車隊戰	iedvvji	141
 扯得很	iedwhfv	45
+呫噸酮	iedytsr	218
 車頓鹹	iedyxmr	57
 車斗裡	iedzlig	184
 車恩傑	ieenjpd	58
@@ -579400,6 +579439,7 @@ sort: by_weight
 前景草	qmjkccj	40
 乾淨地	qmjkded	373
 前景的	qmjkdei	43818
+乾淨地	qmjkdid	373
 前景的	qmjkdii	43818
 前景好	qmjkhcd	235
 錢晶晶	qmjkjka	42
@@ -600042,6 +600082,7 @@ sort: by_weight
 鐵電池	tpdmiid	1486
 鐵東街	tpdsjpn	34
 貼對聯	tpdvlmt	333
+呫噸酮	tpdytsr	218
 貼罰單	tpfadjj	1687
 貼罰單	tpfaijj	1687
 貼罰單	tpfaujj	1687
@@ -661211,6 +661252,7 @@ sort: by_weight
 徐紀周	xujivzr	464
 徐繼業	xujiyed	70
 徐奇淵	xujiyrl	40
+徐繼畬	xujiyuw	417
 徐景安	xujkanv	346
 須經本	xujkbfm	547
 徐靜波	xujkboe	309

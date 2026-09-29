@@ -109652,7 +109652,11 @@ sort: by_weight
 鑑定辦法	jmdkbjfa	161
 鑑定大師	jmdkdaui	51
 鑑定大師	jmdkddui	51
+堅定地說	jmdkdeuo	3751
+堅定地說	jmdkdeuv	3751
 鑑定等級	jmdkdgji	46
+堅定地說	jmdkdiuo	3751
+堅定地說	jmdkdiuv	3751
 鑑定費用	jmdkfwys	1083
 鑑定過程	jmdkgoig	478
 檢定規程	jmdkgvig	256
@@ -116635,6 +116639,7 @@ sort: by_weight
 車頂橫樑	judkhgll	40
 車頂縱梁	judkzsll	58
 局端設備	judruebw	73
+舉動荊棘	judsjkji	0
 車渡碼頭	judumatz	88
 劇毒無比	judumobi	42
 劇毒農藥	judunsyc	1715
@@ -128764,6 +128769,8 @@ sort: by_weight
 樂壇地位	letjdiww	127
 樂壇盛事	letjigui	60
 樂壇盛事	letjugui	60
+樂亭大鼓	letkdagu	82
+樂亭大鼓	letkddgu	82
 樂天百貨	letmbdho	1092
 樂天飯店	letmfjdm	33
 樂天購物	letmgzwu	84
@@ -280226,6 +280233,8 @@ sort: by_weight
 樂壇盛事	yttjigui	60
 樂壇盛事	yttjugui	60
 月壇西街	yttjxijp	79
+樂亭大鼓	yttkdagu	82
+樂亭大鼓	yttkddgu	82
 越聽越有	yttkytyz	37
 樂天百貨	yttmbdho	1092
 樂天飯店	yttmfjdm	33
@@ -292001,7 +292010,7 @@ sort: by_weight
 作品人物	zopbrfwu	39
 作品入圍	zopbruww	635
 作品題材	zopbticd	326
-作品質量	zopbvilla	877
+作品質量	zopbvill	877
 作品形式	zopbxkui	211
 作品解讀	zopbxpdu	49
 作品解讀	zopbxpdz	49
