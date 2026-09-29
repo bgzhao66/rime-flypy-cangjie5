@@ -1061,7 +1061,9 @@ def main():
     parser.add_argument("--abbreviate", help="Print abbreviated codes into file", action="store_true")
     parser.add_argument("--extra_table", help="Print extra words into file", action="store_true")
     parser.add_argument("--difference", help="Difference the set against the builtin phrases", action="store_true")
+    parser.add_argument("--show_nonstandard", help="Print non-standard pronunciations of characters", action="store_true")
     parser.add_argument("--test", help="Run unit tests", action="store_true")
+
     parser.add_argument("input_files", nargs='*', help="The list of extra input files", default=[])
     args = parser.parse_args()
 
@@ -1074,6 +1076,12 @@ def main():
     file_suffix = ".dict.yaml"
     path = "../"
     input_tables = [args.name + t for t in [phrase_suffix, abbrev_suffix, abbrevextra_suffix]]
+
+    if args.show_nonstandard:
+        for word, pys in kCharacterCodesNonstandard.items():
+            pystr = ",".join(pys)
+            print(f"UNICODE: {pystr} # {word}")
+        sys.exit(0)
 
     if not args.test:
         # Load extra words from input_files if provided
