@@ -2754,7 +2754,7 @@ import_tables:
 桮	bwrd	10002
 棓	bwrda	10000
 焙	bwrfa	10092
-培	bwrg	10000
+培	bwrga	10000
 碚	bwrm	10014
 倍	bwro	13369
 𦈶	bwroa	10000
@@ -26315,7 +26315,7 @@ import_tables:
 𠕟	nmrg	10000
 黏	nmrh	10233
 秥	nmrha	10001
-䴴	nmrj	10000
+䴴	nmrja	10000
 鲇	nmrn	10024
 鮎	nmrna	10000
 䬯	nmroa	10000
@@ -27648,8 +27648,8 @@ import_tables:
 魮	pipna	10001
 𨻀	pipnb	10000
 仳	pipo	10011
-𢞗	pipp	10000
-比	pippa	10000
+𢞗	pippa	10000
+比	pippb	10000
 批	pipq	13521
 𢱧	pipqa	10000
 㨢	pipqb	10000
@@ -30519,7 +30519,7 @@ import_tables:
 宆	qsnj	10001
 穹	qsnja	10071
 窮	qsnjb	10000
-𤢶	qsnk	10000
+𤢶	qsnka	10000
 㒌	qsno	10000
 𠤊	qsnp	10000
 𢮍	qsnq	10000
@@ -34164,7 +34164,7 @@ import_tables:
 醓	tjtm	10006
 𨣕	tjtma	10000
 𦧏	tjtmb	10000
-𪊇	tjty	10000
+𪊇	tjtya	10000
 䏙	tjub	10000
 沈	tjueb	10000
 㲭	tjufa	10000
