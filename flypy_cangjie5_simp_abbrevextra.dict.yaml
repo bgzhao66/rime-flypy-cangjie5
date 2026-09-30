@@ -47,6 +47,7 @@ sort: by_weight
 给摁	gwe	92
 给否	gwp	432
 棍王	gyw	73
+坏区	hko	38
 黄区	hlo	119
 卡欧	kao	114
 狂殴	klo	463
@@ -1865,6 +1866,7 @@ sort: by_weight
 更疼	ggtg	154
 更傻	ggua	49
 更帅	gguk	193
+更窄	ggvd	179
 更赞	ggzj	978
 港灿	ghcj	78
 钢锉	ghco	100
@@ -1882,6 +1884,7 @@ sort: by_weight
 港乐	ghle	1210
 港陆	ghlq	91
 钢类	ghlw	67
+刚能	ghng	247
 港农	ghns	218
 港女	ghnv	2583
 港派	ghpd	618
@@ -1959,6 +1962,7 @@ sort: by_weight
 广撒	glsa	368
 光三	glsj	287
 广涛	gltc	48
+广拓	glto	138
 光腿	gltv	483
 光帅	gluk	273
 逛展	glvj	872
@@ -3584,6 +3588,7 @@ sort: by_weight
 劳卡	lcqx	57
 老体	lcti	1103
 老坛	lctj	3292
+落停	lctk	91
 老水	lcuv	1406
 老轩	lcxr	64
 老泽	lcze	59
@@ -5943,6 +5948,7 @@ sort: by_weight
 去挂	qugx	982
 去坏	quhk	42
 区南	qunj	3251
+去哦	quoo	130
 去爬	qupa	175
 去跑	qupc	3932
 去喷	qupf	123
@@ -7232,7 +7238,7 @@ sort: by_weight
 铁存	tpcy	118
 铁凳	tpdg	40
 贴都	tpdu	178
-铁盾	tpdy	74
+呫吨	tpdy	296
 铁海	tphd	685
 铁行	tphg	5022
 铁行	tphh	5022
@@ -7707,6 +7713,7 @@ sort: by_weight
 水瓜	uvgx	93
 说哈	uvha	430
 说坏	uvhk	367
+水川	uvir	116
 水考	uvkc	52
 谁开	uvkd	59
 水抗	uvkh	166
@@ -8552,6 +8559,7 @@ sort: by_weight
 叶秀	xpxq	372
 谢增	xpzg	158
 秀策	xqce	138
+秀村	xqcy	454
 休得	xqdw	187
 秀海	xqhd	190
 休将	xqjl	51
@@ -17889,6 +17897,7 @@ sort: by_weight
 飞呀	fwyah	63
 肥鸭	fwyam	144
 非银	fwybv	18543
+肥约	fwyci	4199
 飞院	fwyru	848
 费勇	fwyss	207
 肥约	fwyti	4199
@@ -20724,6 +20733,7 @@ sort: by_weight
 吓晕	heyyq	673
 何游	heyzd	100
 合造	hezcr	402
+蚵仔	hezdd	632
 核灾	hezdf	2402
 何哉	hezdr	29
 和脏	hezhg	833
@@ -22308,6 +22318,7 @@ sort: by_weight
 惠世	hvuit	42
 回售	hvuzr	24546
 会咋	hvvas	243
+回朝	hvvcb	1213
 慧择	hvvdq	94
 回针	hvvfj	48
 挥斩	hvvjl	43
@@ -23365,6 +23376,7 @@ sort: by_weight
 车渡	iedue	100
 撤得	iedwi	190
 车墩	iedyk	1682
+呫吨	iedyu	296
 车兜	iedzu	145
 尺蛾	ieeei	134
 车恩	ieenp	147
@@ -23931,6 +23943,7 @@ sort: by_weight
 程舒	iguun	61
 盛兆	igvco	147
 称着	igvcu	221
+承债	igvdo	820
 成折	igvel	274
 成震	igvfv	580
 程争	igvgd	73
@@ -26966,7 +26979,7 @@ sort: by_weight
 科盈	keykt	59
 科乐	keytd	80
 科友	keyze	666
-客仔	kezdd	49
+蚵仔	kezdd	632
 肯达	kfdak	3110
 啃爹	kfdpn	56
 啃啃	kfkfb	556
@@ -28556,6 +28569,7 @@ sort: by_weight
 老提	lctio	398
 老坛	lctji	3292
 老谭	lctjj	1822
+落停	lctkn	91
 老帖	lctpr	76
 络通	lctsb	871
 老同	lctsr	369
@@ -34203,6 +34217,7 @@ sort: by_weight
 谋之	mzvio	175
 谋战	mzvji	211
 某文	mzwfk	1267
+某网	mzwhk	19856
 某晚	mzwju	2081
 缪伟	mzwws	95
 牟星	mzxkm	314
@@ -38220,6 +38235,7 @@ sort: by_weight
 器数	qiuok	287
 七叔	qiuue	65
 气罩	qivcj	44
+企债	qivdo	2438
 齐追	qivvr	170
 七娃	qiwag	93
 齐瓦	qiwai	88
@@ -38248,7 +38264,6 @@ sort: by_weight
 亲贝	qkbwo	267
 轻大	qkddk	4916
 庆地	qkded	6058
-青蚵	qkeer	318
 青二	qkerm	48
 清怪	qkgkg	235
 情归	qkgvm	1002
@@ -44213,6 +44228,7 @@ sort: by_weight
 跳单	tnujj	547
 跳闪	tnujo	107
 跳数	tnuok	167
+条属	tnuub	711
 调税	tnuvu	413
 跳涨	tnvho	11777
 跳斩	tnvjl	212
@@ -44254,6 +44270,7 @@ sort: by_weight
 拖落	tolcr	196
 拓乐	toled	1318
 妥了	tolnn	138
+脱氯	tolve	155
 牠们	tomfs	2491
 托纳	tonab	414
 驼奶	tonds	83
@@ -44291,7 +44308,7 @@ sort: by_weight
 铁雕	tpdng	309
 贴都	tpdul	178
 铁墩	tpdyk	43
-铁盾	tpdyu	74
+呫吨	tpdyu	296
 贴都	tpdzl	178
 铁放	tpfhk	44
 铁釜	tpfuc	40
@@ -46010,6 +46027,7 @@ sort: by_weight
 山浮	ujfud	41
 单戈	ujgei	76
 山耕	ujggt	47
+单刚	ujghn	70
 单杆	ujgjj	78
 山广	ujglh	298
 单冠	ujgri	4063
@@ -47225,6 +47243,7 @@ sort: by_weight
 赵堡	vcbug	90
 着呗	vcbwo	117
 赵蓓	vcbwr	67
+招采	vccdd	1212
 赵丛	vccsm	85
 赵存	vccyd	133
 赵大	vcddk	1955
@@ -47256,6 +47275,7 @@ sort: by_weight
 着惯	vcgro	147
 赵桂	vcgvg	450
 照给	vcgwr	408
+找狗	vcgzr	353
 赵昊	vchck	69
 赵豪	vchco	119
 朝核	vcheo	3520
@@ -47273,6 +47293,7 @@ sort: by_weight
 兆和	vchur	754
 赵汇	vchvs	97
 招黑	vchwf	1616
+找话	vchxr	11
 朝柴	vcidd	324
 赵尘	vcifg	42
 赵程	vcigg	202
@@ -50974,6 +50995,7 @@ sort: by_weight
 西双	xiule	280
 席数	xiuok	608
 西顺	xiuyo	93
+惜朝	xivcb	60
 西折	xivel	38
 细针	xivfj	658
 西展	xivjv	100
@@ -53635,6 +53657,7 @@ sort: by_weight
 杨受	yhuze	69
 杨朝	yhvcb	1009
 杨兆	yhvco	3357
+扬着	yhvcu	76
 杨寨	yhvdd	86
 杨浙	yhvel	62
 杨哲	yhver	1212
@@ -54583,6 +54606,7 @@ sort: by_weight
 于刚	yughn	10908
 于郭	yugol	488
 于昊	yuhck	237
+于赫	yuhec	173
 玉横	yuhgc	63
 鱼滑	yuhxb	89
 鱼巢	yuicd	72
@@ -60166,6 +60190,7 @@ sort: by_weight
 比特易	bitey	15
 避弹衣	bitjy	90
 毕天宇	bitmy	314
+比托夫	bitof	42
 比洞赛	bitss	1873
 笔筒树	bitsu	311
 碧沙岗	biuag	139
@@ -84211,6 +84236,7 @@ sort: by_weight
 何不如	hebur	62
 赫布斯	hebus	65
 何不同	hebut	1555
+和不足	hebuz	691
 河北馆	hebwg	147
 喝杯茶	hebwi	65
 河北民	hebwm	472
@@ -92728,6 +92754,7 @@ sort: by_weight
 车队司	iedvs	163
 车队长	iedvv	905
 扯得很	iedwh	45
+呫吨酮	iedyt	218
 车顿咸	iedyx	57
 车恩杰	ieenj	58
 车恩尚	ieenu	3507
@@ -100159,6 +100186,7 @@ sort: by_weight
 结束行	jpuux	799
 节水办	jpuvb	618
 解说的	jpuvd	5635
+解说门	jpuvm	49
 解说者	jpuvv	75
 捷顺通	jpuyt	3323
 界首村	jpuzc	86
@@ -100168,6 +100196,7 @@ sort: by_weight
 接受我	jpuzw	5917
 结扎法	jpvaf	210
 结扎线	jpvax	60
+接招吧	jpvcb	15
 接着的	jpvcd	525
 接着法	jpvcf	91
 接着就	jpvcj	5461
@@ -111105,6 +111134,7 @@ sort: by_weight
 路虎车	luhuj	2767
 陆虎揽	luhul	62
 路虎全	luhuq	1335
+芦荟萃	luhvc	41
 芦荟含	luhvh	61
 芦荟美	luhvm	116
 芦荟能	luhvn	64
@@ -135284,6 +135314,7 @@ sort: by_weight
 铁定会	tpdkk	1037
 铁电池	tpdmi	1486
 贴对联	tpdvl	333
+呫吨酮	tpdyt	218
 贴罚单	tpfad	1687
 铁粉芯	tpffx	226
 贴封条	tpfgt	18
@@ -142149,6 +142180,7 @@ sort: by_weight
 赵沪湘	vchux	380
 照护员	vchuy	42
 召回的	vchvd	11899
+赵惠芳	vchvf	59
 赵会华	vchvh	66
 赵会军	vchvj	1888
 赵会民	vchvm	1392
@@ -150951,6 +150983,7 @@ sort: by_weight
 乌石浦	wudjp	55
 五单位	wudjw	57
 屋顶的	wudkd	3130
+五点半	wudmb	1597
 无电户	wudmh	237
 庑殿路	wudml	374
 无店面	wudmm	365
@@ -157676,6 +157709,7 @@ sort: by_weight
 徐锦文	xujbw	125
 徐锦鑫	xujbx	281
 徐吉福	xujif	65
+徐继畬	xujiy	382
 需经过	xujkg	71
 徐井宏	xujkh	63
 许景南	xujkn	444
@@ -162344,6 +162378,7 @@ sort: by_weight
 延展式	yjvju	115
 言壮语	yjvly	92
 沿着岸	yjvoa	78
+颜卓灵	yjvol	793
 严重吗	yjvsm	203
 闫仲秋	yjvsq	111
 演主角	yjvuj	702
@@ -165820,6 +165855,7 @@ sort: by_weight
 游美洲	yzmwv	248
 由梅西	yzmwx	994
 有妹子	yzmwz	104
+有某种	yzmzi	443
 有某些	yzmzx	182
 有哪个	yznag	855
 有那么	yznam	2225
@@ -241058,6 +241094,7 @@ sort: by_weight
 车队长	iedvvh	905
 车队战	iedvvj	141
 扯得很	iedwhf	45
+呫吨酮	iedyts	218
 车顿咸	iedyxm	57
 车斗里	iedzli	184
 车恩杰	ieenjp	58
@@ -323403,6 +323440,7 @@ sort: by_weight
 铁定能	tpdkng	378
 铁电池	tpdmii	1486
 贴对联	tpdvlm	333
+呫吨酮	tpdyts	218
 贴罚单	tpfadj	1687
 贴罚单	tpfaij	1687
 贴罚单	tpfauj	1687
@@ -345719,6 +345757,7 @@ sort: by_weight
 制水阀	viuvfa	214
 只说了	viuvle	425
 只说了	viuvln	425
+栉水母	viuvmu	629
 只收取	viuzqu	100
 纸札店	vivadm	251
 执着的	vivcde	8917
@@ -374480,6 +374519,7 @@ sort: by_weight
 徐纪周	xujivz	464
 徐继业	xujiye	70
 徐奇渊	xujiyr	40
+徐继畬	xujiyu	382
 徐景安	xujkan	346
 须经本	xujkbf	547
 徐静波	xujkbo	309
@@ -478130,6 +478170,7 @@ sort: by_weight
 车队长	iedvvho	905
 车队战	iedvvji	141
 扯得很	iedwhfv	45
+呫吨酮	iedytsr	218
 车顿咸	iedyxmr	57
 车斗里	iedzlig	184
 车恩杰	ieenjpf	58
@@ -568692,6 +568733,7 @@ sort: by_weight
 铁定能	tpdkngp	378
 铁电池	tpdmiid	1486
 贴对联	tpdvlmk	333
+呫吨酮	tpdytsr	218
 贴罚单	tpfadjj	1687
 贴罚单	tpfaijj	1687
 贴罚单	tpfaujj	1687
@@ -593768,6 +593810,7 @@ sort: by_weight
 制水阀	viuvfai	214
 只说了	viuvlen	425
 只说了	viuvlnn	425
+栉水母	viuvmui	629
 只收取	viuzque	100
 纸札店	vivadmr	251
 执着的	vivcdei	8917
@@ -626254,6 +626297,7 @@ sort: by_weight
 徐纪周	xujivzr	464
 徐继业	xujiyec	70
 徐奇渊	xujiyrl	40
+徐继畬	xujiyuw	382
 徐景安	xujkanv	346
 须经本	xujkbfm	547
 徐静波	xujkboe	309
