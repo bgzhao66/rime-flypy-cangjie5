@@ -76,7 +76,7 @@ flypy_cangjie5_simp*.dict.yaml
 ```
 ###### fcitx5-rime:
 ```
-    /usr/share/rime-data
+    ~/.local/share/fcitx5/rime
 ```
 
 ### 字体
