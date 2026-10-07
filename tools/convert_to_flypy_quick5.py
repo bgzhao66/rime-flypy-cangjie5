@@ -418,11 +418,18 @@ def get_descartes_products(encodes):
         descartes = new_descartes
     return descartes
 
+def join_cjcode(cjcode):
+    n = len(cjcode)
+    if n <= 2:
+        return cjcode
+    else:
+        return ''.join([cjcode[0:2], cjcode[-1]])
+
 # Get Cangjie quick5 codes for a word
 def get_cangjie_quick5(word):
     codes = []
     for c in word:
-        cjcodes = [''.join([cjcode[0], cjcode[-1]]) for cjcode in kCangjieCodes.get(c, [])]
+        cjcodes = [join_cjcode(cjcode) for cjcode in kCangjieCodes.get(c, [])]
         if len(cjcodes) == 0:
             raise ValueError(f"No Cangjie codes found for character '{c}' in word '{word}'.")
         codes.append(cjcodes)
@@ -436,6 +443,8 @@ def get_initial_or_finals_cangjie5(word, mode):
         codes = [cjcode[0] + cjcode[-1] for cjcode in get_cangjie_quick5(word)]
     elif mode in ['last-first']:
         codes = [cjcode[-1] + cjcode[0] for cjcode in get_cangjie_quick5(word)]
+    elif mode in ['last-first-second']:
+        codes = [cjcode[-1] + cjcode[0] if len(cjcode) <= 2 else cjcode[-1] + cjcode[0:2] for cjcode in get_cangjie_quick5(word)]
     elif mode in ['first']:
         codes = [cjcode[0] for cjcode in get_cangjie_quick5(word)]
     elif mode in ['last']:
@@ -484,7 +493,9 @@ def get_flypyquick5_seq(word, pinyin_seq, get_frequency = get_frequency_default,
     # mode
     assert len(word) >= 1
     mode = 'none'
-    if len(word) <= 3:
+    if len(word) == 1:
+        mode = "last-first-second"
+    elif len(word) <= 3:
         mode = 'last-first'
 
     pys = ''.join(flypys)
