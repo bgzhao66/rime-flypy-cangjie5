@@ -418,37 +418,30 @@ def get_descartes_products(encodes):
         descartes = new_descartes
     return descartes
 
-def join_cjcode(cjcode):
-    n = len(cjcode)
-    if n <= 2:
-        return cjcode
-    else:
-        return ''.join([cjcode[0:2], cjcode[-1]])
-
-# Get Cangjie quick5 codes for a word
+# Get Cangjie quick5 codes for a word, returns [[a1, a2,...],[b1, b2,...],...]
 def get_cangjie_quick5(word):
     codes = []
     for c in word:
-        cjcodes = [join_cjcode(cjcode) for cjcode in kCangjieCodes.get(c, [])]
+        cjcodes = kCangjieCodes.get(c, [])
         if len(cjcodes) == 0:
             raise ValueError(f"No Cangjie codes found for character '{c}' in word '{word}'.")
         codes.append(cjcodes)
-    codes = [''.join(code) for code in get_descartes_products(codes)]
+    codes = get_descartes_products(codes)
     return codes
 
 # Get initial or final codes of Cangjie for a word
 def get_initial_or_finals_cangjie5(word, mode):
     codes = []
     if mode in ['first-last']:
-        codes = [cjcode[0] + cjcode[-1] for cjcode in get_cangjie_quick5(word)]
+        codes = [cjcode[0][0] + cjcode[-1][-1] for cjcode in get_cangjie_quick5(word)]
     elif mode in ['last-first']:
-        codes = [cjcode[-1] + cjcode[0] for cjcode in get_cangjie_quick5(word)]
+        codes = [cjcode[-1][-1] + cjcode[0][0] for cjcode in get_cangjie_quick5(word)]
     elif mode in ['last-first-second']:
-        codes = [cjcode[-1] + cjcode[0] if len(cjcode) <= 2 else cjcode[-1] + cjcode[0:2] for cjcode in get_cangjie_quick5(word)]
+        codes = [cjcode[-1][-1] + cjcode[0][0] if len(''.join(cjcode)) <= 2 else cjcode[-1][-1] + cjcode[0][0:2] for cjcode in get_cangjie_quick5(word)]
     elif mode in ['first']:
-        codes = [cjcode[0] for cjcode in get_cangjie_quick5(word)]
+        codes = [cjcode[0][0] for cjcode in get_cangjie_quick5(word)]
     elif mode in ['last']:
-        codes = [cjcode[-1] for cjcode in get_cangjie_quick5(word)]
+        codes = [cjcode[-1][-1] for cjcode in get_cangjie_quick5(word)]
     else:
         assert mode in ['none']
         codes = ['']
