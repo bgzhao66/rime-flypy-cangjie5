@@ -437,7 +437,16 @@ def get_initial_or_finals_cangjie5(word, mode):
     elif mode in ['last-first']:
         codes = [cjcode[-1][-1] + cjcode[0][0] for cjcode in get_cangjie_quick5(word)]
     elif mode in ['last-first-second']:
-        codes = [cjcode[-1][-1] + cjcode[0][0] if len(''.join(cjcode)) <= 2 else cjcode[-1][-1] + cjcode[0][0:2] for cjcode in get_cangjie_quick5(word)]
+        n = len(word)
+        for cjcode in get_cangjie_quick5(word):
+            assert n == len(cjcode), "Number of cjcode mismatches the length of word"
+            lfs_code = cjcode[-1][-1] + cjcode[0][0]
+            if n == 1:
+                if len(cjcode[0]) > 2:
+                    lfs_code += cjcode[0][1:2]
+            else:
+                lfs_code += cjcode[1][0:1]
+            codes.append(lfs_code)
     elif mode in ['first']:
         codes = [cjcode[0][0] for cjcode in get_cangjie_quick5(word)]
     elif mode in ['last']:
