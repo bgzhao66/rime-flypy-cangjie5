@@ -13,7 +13,7 @@ Pinyin → Shuangpin (Xiaohe) converter with incremental encoding.
 - 輔助碼來源：倉頡碼（小寫）。
   * 單字最多 3 級：尾碼、首碼、次碼
   * 雙字詞最多 3 級：尾字尾碼、首字首碼、次字首碼
-  * 三字詞最多 2 級：尾字尾碼、首字首碼
+  * 三字詞最多 3 級：尾字尾碼、首字首碼、次字首碼
   * 四字及以上：無倉頡輔助碼
 - 單字長碼：主碼完成後，若單字主碼長度 < 4，
   額外生成一個長碼：雙拼 + 尾碼 + 首碼（4 字符），
@@ -384,7 +384,7 @@ def get_auxiliary_sequence(word):
     返回字詞的輔助碼備選序列（小寫字符列表）。
       * 單字：尾碼、首碼、次碼
       * 雙字詞：尾字尾碼、首字首碼、次字首碼
-      * 三字詞：尾字尾碼、首字首碼
+      * 三字詞：尾字尾碼、首字首碼、次字首碼
       * 四字及以上：無
     """
     L = len(word)
@@ -412,11 +412,13 @@ def get_auxiliary_sequence(word):
 
     if L == 3:
         cj_first = kCangjieCodes[word[0]][0].lower()
+        cj_second = kCangjieCodes[word[1]][0].lower()
         cj_last = kCangjieCodes[word[2]][0].lower()
         return [
             cj_last[-1],
             cj_first[0],
-        ][:2]
+            cj_second[0],
+        ][:3]
 
     return []
 
@@ -834,9 +836,9 @@ encoder:
     - '^[a-z]..$'
   rules:
     - length_equal: 2
-      formula: "AaAbBaBbBcAd"
+      formula: "AaAbBaBbBcAdBd"
     - length_equal: 3
-      formula: "AaAbBaBbCaCbCcAd"
+      formula: "AaAbBaBbCaCbCcAdBd"
     - length_equal: 4
       formula: "AaAbBaBbCaCbDaDb"
     - length_equal: 5
