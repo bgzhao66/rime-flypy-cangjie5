@@ -176,10 +176,10 @@ def pinyin_to_shuangpin_seq(toneless_seq):
 # ============================================================
 
 STANDARD_CHINESE = "standard_chinese.txt"
-PINYIN_CODES = ["pinyin.txt", "pinyin_tw.txt"]
-PINYIN_PHRASES = ["pinyin_phrase.txt", "pinyin_tw_phrase.txt"]
-PINYIN_DICT = "pinyin_trad.dict.txt"
-PINYIN_EXT1_DICT = "pinyin_trad_ext1.dict.txt"
+PINYIN_CODES = ["pinyin.txt"]
+PINYIN_PHRASES = ["pinyin_phrase.txt"]
+PINYIN_DICT = "pinyin_simp.dict.txt"
+PINYIN_EXT1_DICT = "pinyin_simp_ext1.dict.txt"
 CANGJIE_CODE = "cangjie5.dict.yaml"
 
 
