@@ -13,9 +13,9 @@ encoder:
     - '^[a-z]..$'
   rules:
     - length_equal: 2
-      formula: "AaAbBaBbBcAd"
+      formula: "AaAbBaBbBcAdBd"
     - length_equal: 3
-      formula: "AaAbBaBbCaCbCcAd"
+      formula: "AaAbBaBbCaCbCcAdBd"
     - length_equal: 4
       formula: "AaAbBaBbCaCbDaDb"
     - length_equal: 5
