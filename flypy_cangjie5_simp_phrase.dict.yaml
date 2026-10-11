@@ -11846,7 +11846,7 @@ sort: by_weight
 壁龛	bikjp	1
 比勘	bikjs	1
 陛槛	bikjt	1
-笔快	bikkk	1
+笔快	bikkkh	1
 弼匡	bikl	1
 闭矿	bikli	1
 比况	biklu	1
@@ -22279,10 +22279,10 @@ sort: by_weight
 不逊	buxy	1
 不徇	buxya	1
 不寻	buxyi	1
+不雅	buya	382
 不亚	buyac	1
 布亚	buyack	1
-不雅	buyag	382
-不涯	buyagm	1
+不涯	buyag	1
 补牙	buyah	1
 部押	buyal	1
 不因	buyb	1
@@ -22423,7 +22423,7 @@ sort: by_weight
 不语	buyur	401
 补语	buyurl	1
 不雨	buyuy	1
-不孕	buyy	260
+不孕	buyyd	260
 步云	buyyi	1
 步运	buyyiy	1
 部运	buyyiyy	1
@@ -73967,7 +73967,7 @@ sort: by_weight
 概说	gduou	1
 改说	gduous	1
 概述	gduu	748
-该署	gduuai	1
+该署	gduua	1
 改属	gduub	1
 畡数	gduuk	1
 概数	gduukd	1
@@ -128433,7 +128433,7 @@ sort: by_weight
 刍说	iuuo	1
 储说	iuuou	1
 出书	iuuu	452
-处暑	iuuuah	1
+处暑	iuuua	1
 触暑	iuuuan	1
 刍叔	iuuue	1
 刍菽	iuuuen	1
@@ -137529,7 +137529,7 @@ sort: by_weight
 极庙	jimnwd	1
 稷庙	jimnwh	1
 寂寞	jimo	4909
-祭陌	jimoab	1
+祭陌	jimoa	1
 籍没	jimoe	0
 即墨	jimog	1
 积墨	jimogh	1
@@ -146221,9 +146221,9 @@ sort: by_weight
 荐进	jmjbt	1
 见赆	jmjby	1
 剪辑	jmji	512
+监籍	jmjia	1
 简稽	jmjiah	1
 简籍	jmjiahh	1
-监籍	jmjial	1
 践藉	jmjiar	1
 荐藉	jmjiat	1
 艰棘	jmjib	1
@@ -146254,10 +146254,10 @@ sort: by_weight
 碱基	jmjig	1
 建基	jmjign	1
 剑戟	jmjii	1
-奸计	jmjij	1
 检计	jmjijd	1
 简辑	jmjijh	1
 减计	jmjijii	0
+奸计	jmjijv	1
 健疾	jmjik	1
 兼济	jmjil	1
 洊跻	jmjile	0
@@ -158054,7 +158054,7 @@ sort: by_weight
 谲数	jtuuk	0
 撅竖	jtuut	1
 獗竖	jtuutk	0
-决疏	jtuuu	0
+决疏	jtuuui	0
 蟨鼠	jtuuv	1
 攫鼠	jtuuvq	1
 厥水	jtuv	1
@@ -220520,7 +220520,7 @@ sort: by_weight
 内边	nwbms	1
 内标	nwbn	1
 内波	nwbo	1
-内帛	nwbob	0
+内帛	nwbobo	0
 内部	nwbu	10526
 内簿	nwbui	0
 内备	nwbw	0
@@ -252691,7 +252691,7 @@ sort: by_weight
 荣进	rsjbt	1
 戎烬	rsjby	0
 溶剂	rsji	308
-戎籍	rsjiai	0
+戎籍	rsjia	0
 容积	rsjic	246
 冗积	rsjicb	0
 宂积	rsjicj	0
@@ -252701,7 +252701,7 @@ sort: by_weight
 戎级	rsjie	0
 荣级	rsjiet	0
 容基	rsjig	1
-冗辑	rsjij	0
+冗辑	rsjijb	0
 宂辑	rsjijj	0
 戎疾	rsjik	0
 容济	rsjil	1
@@ -253342,8 +253342,8 @@ sort: by_weight
 乳抱	rubcu	0
 乳白	rubd	1
 辱贲	rubfo	0
+乳婢	rubi	0
 入币	rubib	0
-乳婢	rubij	0
 茹笔	rubiu	0
 如冰	rubke	1
 入禀	rubkf	1
@@ -263955,7 +263955,7 @@ sort: by_weight
 苏星	suxkmt	1
 素行	suxkn	0
 塑像	suxl	222
-肃香	suxlal	0
+肃香	suxla	0
 速香	suxlay	0
 苏祥	suxlq	1
 素相	suxlu	1
@@ -294867,7 +294867,7 @@ sort: by_weight
 食肉	uirz	1
 狮肉	uirzo	1
 视肉	uirzoi	0
-施萨	uisah	1
+施萨	uisa	1
 石嫂	uisc	1
 诗骚	uisci	0
 石塞	uisd	1
@@ -294929,10 +294929,10 @@ sort: by_weight
 试算	uisrt	1
 筮筭	uisrth	0
 市算	uisrty	0
-史松	uiss	1
 拾诵	uissb	0
-石松	uissi	1
+史松	uissi	1
 时松	uissia	1
+石松	uissim	1
 式送	uissk	1
 是送	uisska	1
 诗颂	uisso	0
@@ -298367,7 +298367,7 @@ sort: by_weight
 善胜	ujugm	1
 赡生	ujugmb	0
 缮生	ujugmv	0
-删省	ujugu	1
+删省	ujugub	1
 山上	ujuh	1369
 讪上	ujuhm	0
 善赏	ujuho	0
@@ -322761,7 +322761,7 @@ sort: by_weight
 耑诚	vrigsu	0
 专场	vrih	478
 专唱	vriha	1
-专常	vrihbq	0
+专常	vrihb	0
 砖厂	vrihh	1
 转厂	vrihhk	1
 转场	vrihhkg	1
@@ -326291,9 +326291,9 @@ sort: by_weight
 驻地	vudi	357
 朱蒂	vudib	1
 躅蹢	vudibr	0
-住地	vudid	1
 柱地	vudidd	0
 朱地	vudidh	1
+住地	vudido	1
 㔉地	vudids	0
 朱棣	vudie	115
 主第	vudih	0
@@ -357014,9 +357014,9 @@ sort: by_weight
 县帅	xmuk	0
 鲜爽	xmulk	0
 衔霜	xmulu	0
-弦朔	xmuobn	1
+弦朔	xmuob	1
 先说	xmuou	623
-显说	xmuoua	0
+显说	xmuouai	0
 献说	xmuouj	0
 闲说	xmuoul	1
 娴熟	xmuu	270
@@ -376995,8 +376995,8 @@ sort: by_weight
 要乘	ycigp	1
 瑶城	ycigs	0
 药厂	ycih	220
+要唱	yciha	1
 耀昌	ycihaf	1
-要唱	yciham	1
 要常	ycihb	1
 窑厂	ycihh	1
 窑场	ycihhj	1
@@ -385330,8 +385330,8 @@ sort: by_weight
 一披	yipie	1
 椅披	yipied	1
 衣被	yipiey	0
-依毗	yipip	0
-依芘	yipipo	0
+依毗	yipipo	0
+依芘	yipipot	0
 倚毗	yipipow	0
 抑譬	yipirq	0
 斁圮	yipiu	0
@@ -389644,8 +389644,8 @@ sort: by_weight
 言话	yjhxry	0
 岩画	yjhxw	1
 罨画	yjhxww	0
+奄昏	yjhya	0
 炎昏	yjhyaf	0
-奄昏	yjhyak	0
 阉阍	yjhyal	0
 偃溷	yjhyo	0
 匽溷	yjhyos	0

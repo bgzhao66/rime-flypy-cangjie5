@@ -7174,7 +7174,6 @@ sort: by_weight
 包饺子	bcjnz	110
 宝界村	bcjpc	1
 保洁工	bcjpg	1
-保洁净	bcjpj	1
 保洁权	bcjpq	1
 暴节竹	bcjpv	1
 保洁箱	bcjpx	1
@@ -13353,7 +13352,6 @@ sort: by_weight
 不远处	buyri	486
 补远江	buyrj	1
 不愿听	buyrt	1
-不愿意	buyry	1
 步涌村	buysc	1
 不用电	buysd	1
 不用花	buysh	1
@@ -18008,7 +18006,6 @@ sort: by_weight
 大科学	dakex	1
 大可以	dakey	1
 大坑村	dakgc	1
-大坑口	dakgk	1
 大坑头	dakgt	1
 大坑乡	dakgx	1
 达康利	dakhl	1
@@ -21210,7 +21207,6 @@ sort: by_weight
 涤盖棉	digdm	1
 邸阁督	diged	1
 迪格尔	digee	1
-碲镉汞	digeg	1
 迪格斯	diges	1
 底阁镇	digev	1
 邸阁乡	digex	1
@@ -57443,7 +57439,6 @@ sort: by_weight
 基德瓦	jidew	1
 集的域	jidey	1
 吉登斯	jidgs	1
-吉当当	jidhd	0
 基底层	jidic	1
 基底节	jidij	1
 几滴水	jidiu	1
@@ -57909,7 +57904,6 @@ sort: by_weight
 基马尔	jimae	1
 基民党	jimbd	1
 纪敏佳	jimbj	1
-基民盟	jimbm	1
 鸡毛笔	jimcb	1
 鸡毛菜	jimcc	0
 鸡毛店	jimcd	1
@@ -58078,7 +58072,6 @@ sort: by_weight
 季前赛	jiqms	1
 几千万	jiqmw	315
 几千亿	jiqmy	1
-技巧球	jiqnq	1
 季桥镇	jiqnv	1
 技巧性	jiqnx	1
 挤切销	jiqpx	1
@@ -58527,6 +58520,7 @@ sort: by_weight
 挤下去	jixxq	1
 棘下生	jixxu	1
 几下子	jixxz	1
+集训班	jixyb	1
 集训队	jixyd	1
 集训期	jixyq	1
 集训团	jixyt	1
@@ -58578,7 +58572,6 @@ sort: by_weight
 纪元前	jiyrq	1
 寄远人	jiyrr	1
 济源县	jiyrx	1
-季源业	jiyry	1
 吉永华	jiysh	1
 集约化	jiyth	145
 既约性	jiytx	2
@@ -59969,7 +59962,6 @@ sort: by_weight
 讲武乡	jlwux	1
 降维法	jlwwf	2
 江渭清	jlwwq	1
-蒋微微	jlwww	1
 姜伟新	jlwwx	1
 姜渭渔	jlwwy	1
 江心岛	jlxbd	1
@@ -60411,6 +60403,7 @@ sort: by_weight
 碱金属	jmjbu	1
 渐近值	jmjbv	2
 渐近线	jmjbx	3
+剪辑法	jmjif	1
 简经纶	jmjkl	1
 剑经武	jmjkw	2
 肩井穴	jmjkx	1
@@ -61927,7 +61920,6 @@ sort: by_weight
 睫毛膏	jpmcg	233
 睫毛夹	jpmcj	1
 睫毛液	jpmcy	1
-杰迈玛	jpmdm	1
 姐们儿	jpmfe	1
 解闷法	jpmff	1
 街门扇	jpmfu	1
@@ -68224,7 +68216,6 @@ sort: by_weight
 枯槁客	kugck	0
 枯槁士	kugcu	0
 库格尔	kugee	1
-哭个够	kugeg	1
 库格勒	kugel	1
 苦甘草	kugjc	1
 苦过来	kugol	1
@@ -78008,7 +77999,6 @@ sort: by_weight
 龙眠乡	lsmmx	1
 龙庙镇	lsmnv	1
 龙庙乡	lsmnx	1
-龙母庙	lsmum	1
 龙母镇	lsmuv	1
 隆木乡	lsmux	1
 龙眉村	lsmwc	1
@@ -95257,7 +95247,6 @@ sort: by_weight
 奇八阵	qibav	1
 七八月	qibay	1
 淇滨区	qibbq	1
-七宝鞭	qibcb	0
 齐宝华	qibch	1
 起爆剂	qibcj	1
 七宝路	qibcl	1
@@ -95692,7 +95681,6 @@ sort: by_weight
 齐梁体	qillt	1
 凄凉山	qillu	1
 七连冠	qilmg	1
-祁连路	qilml	1
 祁连山	qilmu	1
 七连庄	qilmv	1
 祁连县	qilmx	1
@@ -111111,7 +111099,6 @@ sort: by_weight
 田湾镇	tmwjv	1
 田湾乡	tmwjx	1
 天喔煮	tmwov	1
-甜沃沃	tmwow	0
 田无道	tmwud	1
 天无日	tmwur	1
 天武师	tmwuu	2
@@ -126868,7 +126855,6 @@ sort: by_weight
 直梗梗	viggg	0
 知更鸟	viggn	1
 知更雀	viggq	0
-直杠杠	vighg	1
 只赶到	vigjd	1
 只赶回	vigjh	1
 只赶来	vigjl	1
@@ -137261,7 +137247,6 @@ sort: by_weight
 魏光荣	wwglr	1
 魏光焘	wwglt	1
 伟光乡	wwglx	1
-卫国公	wwgog	1
 为国家	wwgoj	1
 围过来	wwgol	1
 围过去	wwgoq	1
@@ -146041,7 +146026,6 @@ sort: by_weight
 虚电路	xudml	2
 蓄电瓶	xudmp	1
 徐滇庆	xudmq	1
-许多的	xudod	1
 许多年	xudon	1
 许多人	xudor	1923
 许多事	xudou	1
@@ -151156,9 +151140,9 @@ sort: by_weight
 一萼红	yieeh	1
 一鹗书	yieeu	0
 异恶唑	yieez	1
+乙二胺	yiera	1
 伊尔贝	yierb	1
 一二档	yierd	1
-一二二	yiere	1
 一而光	yierg	1
 伊尔汉	yierh	1
 乙二醇	yieri	1
@@ -151509,7 +151493,6 @@ sort: by_weight
 伊凯文	yikdw	1
 移开学	yikdx	1
 伊克尔	yikee	1
-一颗颗	yikek	119
 亿客隆	yikel	1
 一窠麻	yikem	0
 伊克斯	yikes	1
@@ -153113,6 +153096,7 @@ sort: by_weight
 燕正言	yjvgy	0
 盐张村	yjvhc	1
 岩樟溪	yjvhx	1
+胭脂烫	yjvid	1
 胭脂粉	yjvif	1
 胭脂红	yjvih	1
 研制出	yjvii	253
@@ -153121,7 +153105,6 @@ sort: by_weight
 胭脂碎	yjvis	1
 颜之推	yjvit	1
 盐知事	yjviu	0
-胭脂褶	yjviv	1
 胭脂巷	yjvix	1
 胭脂鱼	yjviy	1
 严智泽	yjviz	1
@@ -154986,7 +154969,6 @@ sort: by_weight
 永字诀	yszij	1
 约安努	ytann	1
 岳巴乡	ytbax	1
-月报表	ytbcb	1
 阅报栏	ytbcl	1
 阅报室	ytbcu	1
 月报制	ytbcv	1
@@ -159543,6 +159525,7 @@ sort: by_weight
 自叙传	zixui	0
 自叙式	zixuu	0
 紫霞湖	zixxh	1
+咨询表	zixyb	1
 咨询点	zixyd	1
 咨询会	zixyh	1
 资讯科	zixyk	1
@@ -159552,7 +159535,6 @@ sort: by_weight
 咨询师	zixyu	177
 咨询站	zixyv	1
 资讯网	zixyw	235
-咨询性	zixyx	1
 咨询业	zixyy	1
 咨询组	zixyz	1
 自压式	ziyau	1
