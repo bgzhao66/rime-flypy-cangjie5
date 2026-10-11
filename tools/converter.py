@@ -396,9 +396,8 @@ def get_auxiliary_sequence(word):
         seq = []
         if len(cj) >= 1:
             seq.append(cj[-1])
-        if len(cj) >= 2:
             seq.append(cj[0])
-        if len(cj) >= 3:
+        if len(cj) >= 2:
             seq.append(cj[1])
         return seq[:3]
 
