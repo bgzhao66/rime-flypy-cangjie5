@@ -11951,7 +11951,7 @@ sort: by_weight
 壁龕	bikjp	1
 比勘	bikjs	1
 陛檻	bikjt	1
-筆快	bikkk	1
+筆快	bikkkh	1
 弼匡	bikl	1
 閉礦	biklc	1
 比況	biklu	1
@@ -66118,7 +66118,7 @@ sort: by_weight
 浮杯	fubwf	1
 覆杯	fubwfm	1
 腹悲	fubwp	1
-符曹	fuccah	1
+符曹	fucca	1
 府曹	fuccai	1
 撫操	fuccd	1
 福草	fuccj	1
@@ -122460,7 +122460,7 @@ sort: by_weight
 恥忿	iiffp	1
 饎餴	iifft	1
 赤峰	iifg	176
-池鳳	iifgf	1
+池鳳	iifgfe	1
 赤鳳	iifgfg	1
 敕封	iifgi	1
 赤風	iifgig	1
@@ -128946,8 +128946,8 @@ sort: by_weight
 芻說	iuuo	1
 儲說	iuuou	1
 出書	iuuu	452
-除書	iuuuan	1
-觸暑	iuuuana	1
+除書	iuuua	1
+觸暑	iuuuan	1
 儲書	iuuuao	1
 處暑	iuuuay	1
 芻叔	iuuue	1
@@ -138072,7 +138072,7 @@ sort: by_weight
 吉邈	jimnu	1
 雞苗	jimnw	1
 寂寞	jimo	4909
-祭陌	jimoab	1
+祭陌	jimoa	1
 籍沒	jimoe	0
 即墨	jimog	1
 積墨	jimogh	1
@@ -158797,7 +158797,7 @@ sort: by_weight
 譎數	jtuuk	0
 撅豎	jtuut	1
 獗豎	jtuutk	0
-決疏	jtuuu	0
+決疏	jtuuue	0
 蟨鼠	jtuuv	1
 攫鼠	jtuuvq	1
 厥水	jtuve	1
@@ -221609,7 +221609,7 @@ sort: by_weight
 內邊	nwbms	1
 內標	nwbn	1
 內波	nwbo	1
-內帛	nwbob	0
+內帛	nwbobo	0
 內部	nwbu	10526
 內簿	nwbui	0
 內備	nwbw	0
@@ -253871,7 +253871,7 @@ sort: by_weight
 榮近	rsjbl	0
 戎燼	rsjbt	0
 溶劑	rsji	308
-戎籍	rsjiai	0
+戎籍	rsjia	0
 容積	rsjic	246
 冗積	rsjicb	0
 榮冀	rsjicf	1
@@ -253882,7 +253882,7 @@ sort: by_weight
 榮級	rsjief	0
 容基	rsjig	1
 戎機	rsjii	1
-冗輯	rsjij	0
+冗輯	rsjijb	0
 宂輯	rsjijj	0
 戎疾	rsjik	0
 熔劑	rsjin	1
@@ -254522,8 +254522,8 @@ sort: by_weight
 乳抱	rubcu	0
 乳白	rubd	1
 辱賁	rubfc	0
+乳婢	rubi	0
 入幣	rubib	0
-乳婢	rubij	0
 茹筆	rubiq	0
 入稟	rubkd	1
 如冰	rubke	1
@@ -299560,7 +299560,7 @@ sort: by_weight
 繕生	ujugm	0
 贍生	ujugmb	0
 善勝	ujugs	1
-刪省	ujugu	1
+刪省	ujugub	1
 山上	ujuh	1369
 善賞	ujuhc	0
 訕上	ujuhm	0
@@ -324080,7 +324080,7 @@ sort: by_weight
 耑誠	vrigsu	0
 專場	vrih	478
 專唱	vriha	1
-專常	vrihbj	0
+專常	vrihb	0
 磚場	vrihh	1
 轉場	vrihhj	1
 磚廠	vrihk	1
@@ -342040,7 +342040,7 @@ sort: by_weight
 吳妝	wuvlvr	0
 吳裝	wuvlvrv	0
 汙濁	wuvo	124
-無著	wuvoao	0
+無著	wuvoa	0
 五濁	wuvoi	0
 洿濁	wuvoie	0
 烏啄	wuvoo	0
@@ -358450,8 +358450,8 @@ sort: by_weight
 銜霜	xmulu	0
 弦朔	xmuobn	1
 先說	xmuou	623
-閒說	xmuoua	1
-顯說	xmuouay	0
+閒說	xmuouay	1
+顯說	xmuouaya	0
 獻說	xmuouy	0
 嫻熟	xmuu	270
 憲書	xmuua	1
@@ -387052,8 +387052,8 @@ sort: by_weight
 一披	yipie	1
 椅披	yipied	1
 衣被	yipiey	0
-依毗	yipip	0
-依芘	yipipo	0
+依毗	yipipo	0
+依芘	yipipot	0
 倚毗	yipipow	0
 抑譬	yipirq	0
 斁圮	yipiu	0
@@ -391382,9 +391382,9 @@ sort: by_weight
 魘話	yjhxrm	0
 燕話	yjhxrt	0
 言話	yjhxry	0
+奄昏	yjhya	0
 閹閽	yjhyaa	0
 炎昏	yjhyaf	0
-奄昏	yjhyak	0
 偃溷	yjhyo	0
 匽溷	yjhyos	0
 厭慁	yjhyp	0
