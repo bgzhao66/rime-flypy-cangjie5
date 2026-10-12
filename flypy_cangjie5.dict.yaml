@@ -32,7 +32,7 @@ import_tables:
 
 啊	aa	429025
 嗄	aae	10322
-嗄	aaermc	10322
+嗄	aaermb	10322
 吖	aal	13035
 吖	aalr	13035
 𠼞	aam	10000
@@ -151,7 +151,7 @@ import_tables:
 毐	aihgw	10022
 溾	aii	10002
 㝵	aiiama	10000
-溾	aiieha	10002
+溾	aiieh	10002
 㕌	aiim	10000
 碍	aiimr	10000
 㝶	aiiw	10000
@@ -284,7 +284,7 @@ import_tables:
 按	an	35814
 暗	ana	12750
 闇	anaa	10088
-暗	anaaya	12750
+暗	anaay	12750
 腤	anab	10002
 𤃷	anae	10000
 䬓	anah	10000
@@ -306,7 +306,7 @@ import_tables:
 諳	anay	10061
 𧮍	anayr	10000
 𡪙	anb	10000
-𡪙	anbjva	10000
+𡪙	anbjv	10000
 頇	anc	10001
 𣽥	ancem	10000
 頞	ancjv	10000
@@ -560,7 +560,7 @@ import_tables:
 䜒	aokyra	10000
 奡	aol	10005
 郩	aolk	10000
-奡	aolmua	10005
+奡	aolmu	10005
 翱	aom	10046
 𪉑	aomg	10000
 翶	aomh	10001
@@ -665,7 +665,7 @@ import_tables:
 𩡩	bacsf	10000
 𡚭	bacvc	10000
 哱	bad	10000
-哱	badrja	10000
+哱	badrj	10000
 拔	bae	11817
 𢻷	baea	10000
 胈	baeb	10002
@@ -718,7 +718,7 @@ import_tables:
 湃	baje	10000
 捭	bajqh	10000
 萆	bajth	10000
-䇑	bajyta	10000
+䇑	bajyt	10000
 拔	bak	11817
 胈	bakb	10002
 鈸	bakci	10000
@@ -875,7 +875,7 @@ import_tables:
 䨈	bbg	10000
 䨈	bbgj	10000
 彬	bbh	10969
-彬	bbhdda	10969
+彬	bbhdd	10969
 玢	bbhm	10016
 霦	bbhmb	10001
 砏	bbhmr	10000
@@ -886,7 +886,7 @@ import_tables:
 𩴱	bbi	10000
 𩴱	bbijc	10000
 𨐰	bbj	10000
-𨐰	bbjyj	10000
+𨐰	bbjy	10000
 攽	bbk	10000
 攽	bbkc	10000
 邠	bbl	10007
@@ -960,7 +960,7 @@ import_tables:
 鴇	bcfp	10014
 駂	bcfpj	10001
 堡	bcg	10875
-堡	bcgoda	10875
+堡	bcgod	10875
 嘐	bch	10000
 嘐	bchrs	10000
 薄	bci	10964
@@ -1099,7 +1099,7 @@ import_tables:
 䙓	bdi	10000
 𣺽	bdiew	10000
 𠫛	bdiim	10000
-䙓	bdilw	10000
+䙓	bdil	10000
 摆	bdiq	10000
 拜	bdj	14070
 粺	bdjf	10008
@@ -1152,7 +1152,7 @@ import_tables:
 挀	bdvq	10064
 𦩋	bdy	10000
 𩎻	bdyd	10000
-𦩋	bdyhya	10000
+𦩋	bdyhy	10000
 排	bdyq	10000
 啡	bdyrla	10000
 𩋂	bdytj	10000
@@ -1962,7 +1962,7 @@ import_tables:
 𪉒	bjm	10000
 𪉒	bjmmg	10000
 𠚼	bjn	10000
-𠚼	bjnch	10000
+𠚼	bjnc	10000
 覂	bjo	10001
 颁	bjoc	10000
 𤫫	bjoch	10000
@@ -2086,7 +2086,7 @@ import_tables:
 𠱛	bkrsh	10000
 𡲍	bks	10000
 枋	bksdy	10000
-𡲍	bkssr	10000
+𡲍	bkss	10000
 餅	bkt	11292
 鉼	bktc	10001
 栟	bktdt	10001
@@ -2300,7 +2300,7 @@ import_tables:
 𥲦	bnch	10000
 𠔂	bncil	10000
 鏖	bncip	10000
-䞄	bncyd	10000
+䞄	bncy	10000
 𠬪	bne	10000
 𠬪	bneb	10000
 𢿏	bnem	10000
@@ -2450,7 +2450,7 @@ import_tables:
 䢌	boby	10000
 䢪	bobyh	10000
 𩓐	boc	10000
-𩓐	bocjd	10000
+𩓐	bocj	10000
 脖	bod	10354
 㬥	bodau	10000
 𣋵	bodav	10000
@@ -2568,7 +2568,7 @@ import_tables:
 髉	bogb	10001
 壆	bogh	10001
 𢂍	boh	10000
-𢂍	bohlb	10000
+𢂍	bohl	10000
 𧿲	bohrm	10000
 博	boi	15009
 㬍	boiai	10000
@@ -2666,7 +2666,7 @@ import_tables:
 妭	bokvi	10000
 詙	boky	10001
 郣	bol	10001
-郣	boljda	10001
+郣	boljd	10001
 缽	bom	10246
 鉢	bomcd	10000
 鹁	bomjd	10000
@@ -2836,13 +2836,13 @@ import_tables:
 蹩	bpo	10042
 蹩	bpof	10042
 憋	bpp	11263
-憋	bppfk	11263
+憋	bppf	11263
 瘪	bppk	10000
 𧿥	bppr	10000
 㔡	bps	10000
 㔡	bpsh	10000
 𤾵	bpt	10000
-𤾵	bptha	10000
+𤾵	bpth	10000
 虌	bpu	10002
 鼈	bpuf	10002
 龞	bpufk	10001
@@ -2899,7 +2899,7 @@ import_tables:
 㨐	bud	10000
 𩏮	buddq	10000
 𫐓	budkq	10000
-㨐	budqo	10000
+㨐	budq	10000
 𥸨	budsf	10000
 𠚉	buduh	10000
 鸔	bue	10005
@@ -3089,7 +3089,7 @@ import_tables:
 輩	bwjl	10431
 𢃍	bwjlb	10000
 軰	bwjlp	10001
-碑	bwjmra	10552
+碑	bwjmr	10552
 䚜	bwjnb	10000
 䱝	bwjnfa	10000
 𠐡	bwjo	10000
@@ -3173,7 +3173,7 @@ import_tables:
 备	bwwhe	10000
 𤹲	bwwk	10000
 俻	bwwoh	10001
-偹	bwwola	10001
+偹	bwwol	10001
 琲	bwy	10004
 棑	bwyd	10000
 𩇩	bwykl	10000
@@ -3478,21 +3478,21 @@ import_tables:
 繒	cgav	10000
 竲	cgay	10001
 㣒	cgh	10000
-㣒	cghca	10000
+㣒	cghc	10000
 层	cgi	10000
-层	cgism	10000
+层	cgis	10000
 鄫	cgl	10000
-鄫	cglca	10000
+鄫	cglc	10000
 𠟂	cgn	10000
 𠟂	cgnc	10000
 倉	ch	12138
 𩕹	chc	10000
 𩕹	chct	10000
 鶬	chf	10002
-鶬	chfor	10002
+鶬	chfo	10002
 匨	chg	10001
 𩀞	chgo	10000
-匨	chgsv	10001
+匨	chgs	10001
 臧	chl	10003
 臧	chlim	10003
 仺	chm	10001
@@ -4061,7 +4061,7 @@ import_tables:
 匆	cskp	10041
 茐	cskt	10001
 丛	csm	10000
-丛	csmoo	10000
+丛	csmo	10000
 㼻	csn	10000
 𨦱	csnc	10000
 㼻	csnh	10000
@@ -4294,7 +4294,7 @@ import_tables:
 𨅎	cver	10000
 䔴	cvet	10000
 䄟	cvf	10000
-䄟	cvfhu	10000
+䄟	cvfh	10000
 察	cvfj	10000
 崔	cvg	11837
 𨿐	cvgb	10000
@@ -4381,9 +4381,9 @@ import_tables:
 㓹	cvnmf	10000
 𠟓	cvny	10000
 𢡈	cvp	10000
-𢡈	cvpue	10000
+𢡈	cvpu	10000
 㷪	cvs	10000
-㷪	cvsfo	10000
+㷪	cvsf	10000
 脆	cvu	10585
 膬	cvub	10002
 脃	cvubn	10001
@@ -4511,7 +4511,7 @@ import_tables:
 𨆰	dafr	10000
 䳴	dafwea	10000
 䳴	dafwf	10000
-眔	dafwla	10001
+眔	dafwl	10001
 𤤊	dah	10000
 𤤊	dahm	10000
 迏	dai	10002
@@ -4530,7 +4530,7 @@ import_tables:
 汏	dakek	10001
 𡉑	dakgk	10000
 垯	dakgy	10000
-大	dakkb	116059
+大	dakka	116059
 𩠅	dakn	10000
 𫟼	dakop	10000
 跶	dakrm	10000
@@ -4630,7 +4630,7 @@ import_tables:
 㜓	darvt	10000
 𡈐	darw	10000
 毼	dau	10000
-毼	dauava	10000
+毼	dauav	10000
 畣	daw	10001
 𥕇	dawm	10000
 畣	dawora	10001
@@ -4644,7 +4644,7 @@ import_tables:
 𩕯	dccg	10000
 䆃	dcd	10000
 嘄	dcdrh	10000
-䆃	dcdyua	10000
+䆃	dcdyu	10000
 艔	dce	10002
 受	dceb	10000
 𣀓	dceg	10000
@@ -4674,7 +4674,7 @@ import_tables:
 忉	dchp	10022
 㧅	dchq	10000
 叨	dchr	10174
-刀	dchsh	15410
+刀	dchs	15410
 導	dci	14124
 檮	dcidg	10000
 濤	dcieg	10000
@@ -4794,7 +4794,7 @@ import_tables:
 貸	ddco	11271
 呆	ddd	14819
 柋	dddo	10002
-呆	dddrd	14819
+呆	dddr	14819
 𣐮	dddw	10000
 逮	dde	10806
 曃	ddea	10002
@@ -4884,7 +4884,7 @@ import_tables:
 迨	ddry	10024
 詒	ddryr	10000
 箉	dds	10000
-箉	ddshq	10000
+箉	ddsh	10000
 𦪍	ddt	10000
 𦪍	ddthy	10000
 岱	ddu	10196
@@ -4906,7 +4906,7 @@ import_tables:
 𣌏	deea	10000
 𠮊	deeai	10000
 𡋩	deg	10000
-𡋩	deghg	10000
+𡋩	degh	10000
 陟	deh	10000
 陟	dehn	10000
 得	dei	161142
@@ -4942,7 +4942,7 @@ import_tables:
 登	det	10000
 登	detn	10000
 𣮊	deu	10000
-𣮊	deuai	10000
+𣮊	deua	10000
 𣮰	deub	10000
 扽	df	10351
 㩐	dfi	10000
@@ -4965,14 +4965,14 @@ import_tables:
 䳾	dgfn	10000
 𪌷	dgh	10000
 𪌷	dghde	10000
-𪌷	dghje	10000
+𪌷	dghj	10000
 戥	dgi	10008
-戥	dgiama	10008
+戥	dgiam	10008
 等	dgihg	192606
 䒭	dgit	10000
 鄧	dgl	12568
 邓	dglena	10000
-鄧	dglnt	12568
+鄧	dgln	12568
 䠬	dglr	10000
 凳	dgn	10149
 𤮘	dgnbt	10000
@@ -5117,7 +5117,7 @@ import_tables:
 鐺	dhwc	10108
 檔	dhwdf	18676
 澢	dhwe	10002
-當	dhwfb	169309
+當	dhwf	169309
 壋	dhwg	10002
 簹	dhwh	10005
 𥢷	dhwhd	10000
@@ -5298,7 +5298,7 @@ import_tables:
 鯳	diinfa	10000
 弤	diinh	10001
 㢩	diinp	10000
-低	diioh	25739
+低	diio	25739
 怟	diip	10001
 勺	diipi	10000
 抵	diiq	11029
@@ -5460,7 +5460,7 @@ import_tables:
 啻	diry	10000
 啇	diryc	10001
 𠫜	dis	10000
-𠫜	disina	10000
+𠫜	disin	10000
 鉪	dit	10001
 鉪	ditc	10001
 遞	diu	10965
@@ -5741,7 +5741,7 @@ import_tables:
 鋌	dkgcn	10004
 铤	dkgop	10000
 𥳰	dki	10000
-𥳰	dkihta	10000
+𥳰	dkiht	10000
 磸	dkk	10001
 磸	dkkm	10001
 㞟	dkks	10000
@@ -5828,7 +5828,7 @@ import_tables:
 𩠑	dkum	10000
 點	dm	148146
 𣇖	dma	10000
-𣇖	dmaam	10000
+𣇖	dmaa	10000
 𢅝	dmb	10000
 𢅝	dmbs	10000
 典	dmc	10811
@@ -5996,7 +5996,7 @@ import_tables:
 𡰯	dnbsl	10000
 𦶌	dnbt	10000
 弴	dnd	10006
-弴	dndnya	10006
+弴	dndny	10006
 𠥑	dndso	10000
 蓧	dndt	10004
 𦰏	dndth	10000
@@ -6090,7 +6090,7 @@ import_tables:
 𤱩	dnow	10000
 誂	dnoy	10000
 㢯	dnp	10000
-㢯	dnpnr	10000
+㢯	dnpn	10000
 調	dnr	12023
 貂	dnrb	10119
 錭	dnrc	10001
@@ -6422,7 +6422,7 @@ import_tables:
 踢	dphr	10000
 挕	dpj	10001
 㷸	dpjf	10000
-挕	dpjqs	10001
+挕	dpjq	10001
 𠅗	dpk	10000
 𠅗	dpkm	10000
 𠆙	dpky	10000
@@ -6621,7 +6621,7 @@ import_tables:
 洞	dsr	12923
 胴	dsrb	10014
 桐	dsrd	10000
-洞	dsreb	12923
+洞	dsre	12923
 烔	dsrfb	10000
 垌	dsrg	10012
 䞒	dsrgc	10000
@@ -6647,7 +6647,7 @@ import_tables:
 𩐤	dsrya	10000
 詷	dsryr	10000
 働	dss	10004
-動	dsshg	19514
+動	dssh	19514
 动	dssm	10000
 働	dssoh	10004
 𢳾	dssq	10000
@@ -6836,7 +6836,7 @@ import_tables:
 𧁿	duitk	10000
 𦏕	duitq	10000
 殬	duj	10001
-殬	dujmna	10001
+殬	dujmn	10001
 睪	dujw	10000
 㱩	duk	10000
 椟	dukdj	10000
@@ -7793,7 +7793,7 @@ import_tables:
 蕟	faet	10000
 𧬋	faey	10000
 𤇰	faf	10000
-𤇰	fafoi	10000
+𤇰	fafo	10000
 垡	fag	10021
 垡	fagoi	10021
 法	fai	47016
@@ -8264,7 +8264,7 @@ import_tables:
 方	fhsyh	48301
 䢍	fhsyy	10000
 𩮗	fht	10000
-𩮗	fhtsha	10000
+𩮗	fhtsh	10000
 匚	fhv	10004
 匚	fhvm	10004
 反	fj	23936
@@ -8279,7 +8279,7 @@ import_tables:
 𨆌	fjcr	10000
 薠	fjct	10004
 棥	fjd	10001
-棥	fjddka	10001
+棥	fjddk	10001
 𥻫	fjdsd	10000
 𥸨	fjdsf	10000
 𦊻	fjdw	10000
@@ -8406,7 +8406,7 @@ import_tables:
 𣳜	fjuek	10000
 氾	fjues	10015
 笵	fjuh	10002
-範	fjuhja	12854
+範	fjuhj	12854
 𦨲	fjuhy	10000
 犯	fjuk	12352
 范	fjut	10000
@@ -8811,7 +8811,7 @@ import_tables:
 𤠪	fukvw	10000
 斧	ful	10256
 郛	fulb	10007
-斧	fulcka	10256
+斧	fulck	10256
 𪂀	fulhf	10000
 郍	fulhy	10000
 郙	fulib	10001
@@ -8823,7 +8823,7 @@ import_tables:
 𢯋	fulqc	10000
 邚	fulvn	10000
 賦	fum	10691
-賦	fumbca	10691
+賦	fumbc	10691
 𫛳	fumbe	10000
 赋	fumbo	10000
 𦑹	fumha	10000
@@ -9135,7 +9135,7 @@ import_tables:
 沸	fwn	10177
 昲	fwna	10001
 胇	fwnb	10002
-沸	fwnel	10177
+沸	fwne	10177
 笰	fwnh	10000
 狒	fwnk	10016
 疿	fwnkl	10001
@@ -9326,7 +9326,7 @@ import_tables:
 𩔇	gcchg	10000
 𩕍	gcchj	10000
 杲	gcd	10028
-杲	gcdada	10028
+杲	gcdad	10028
 櫜	gcdj	10004
 𥓖	gcdmra	10000
 藁	gcdt	10018
@@ -9433,7 +9433,7 @@ import_tables:
 㕢	gdeyc	10000
 𢻉	gdeyo	10000
 𡒖	gdg	10000
-𡒖	gdgeua	10000
+𡒖	gdgeu	10000
 戤	gdi	10004
 戤	gdin	10004
 改	gdk	37438
@@ -9574,7 +9574,7 @@ import_tables:
 愅	gejpt	10001
 𢯹	gejqt	10000
 㗆	gejrt	10000
-革	gejtla	10541
+革	gejtl	10541
 𡟍	gejv	10000
 諽	gejy	10001
 𨐥	gejyja	10000
@@ -9629,7 +9629,7 @@ import_tables:
 𢎄	gepmr	10000
 搿	geq	10006
 搿	geqh	10006
-搿	geqqo	10006
+搿	geqq	10006
 各	ger	68042
 閣	gera	11415
 閤	geran	10010
@@ -9876,7 +9876,7 @@ import_tables:
 冈	ghkb	10000
 罓	ghkbk	10000
 㭎	ghkdb	10000
-筻	ghkhm	10003
+筻	ghkh	10003
 钢	ghko	10000
 㧏	ghkq	10000
 岗	ghkub	10000
@@ -10195,7 +10195,7 @@ import_tables:
 逛	glgyk	13517
 迋	glgym	10000
 广	glh	10000
-广	glhyh	10000
+广	glhy	10000
 広	gli	10010
 広	gliii	10010
 犷	glik	10000
@@ -10280,7 +10280,7 @@ import_tables:
 𠿤	goe	10000
 𧾛	goeg	10000
 𢼛	goeh	10000
-𠿤	goerga	10000
+𠿤	goerg	10000
 𡇄	goew	10000
 𪂠	gof	10000
 𪂠	gofwd	10000
@@ -10363,7 +10363,7 @@ import_tables:
 𦸈	goot	10000
 𤬁	goow	10000
 囻	gop	10001
-囻	gopwra	10001
+囻	gopwr	10001
 𤂁	goq	10000
 𤂁	goqe	10000
 鍋	gor	13838
@@ -10382,7 +10382,7 @@ import_tables:
 𢝸	gorp	10000
 咶	gorr	10000
 聒	gors	10016
-過	goryb	346525
+過	gory	346525
 圀	gos	10002
 𡆸	gosw	10000
 圀	goswc	10002
@@ -10450,7 +10450,7 @@ import_tables:
 鑵	grgc	10004
 權	grgdta	10000
 潅	grgeo	10001
-灌	grgeta	12065
+灌	grget	12065
 爟	grgf	10002
 𥷬	grght	10000
 𤼐	grgk	10000
@@ -10479,7 +10479,7 @@ import_tables:
 关	grkt	10000
 𨝑	grl	10000
 串	grlll	10000
-𨝑	grlwca	10000
+𨝑	grlwc	10000
 丱	grm	10001
 鹳	grmt	10000
 丱	grmv	10001
@@ -11554,7 +11554,7 @@ import_tables:
 䒵	hcdt	10000
 茠	hcdto	10000
 好	hcdvn	767090
-㝀	hcdwy	10000
+㝀	hcdw	10000
 𧦝	hcdyr	10000
 𢻇	hce	10000
 𢻇	hcenr	10000
@@ -11565,7 +11565,7 @@ import_tables:
 㙱	hcgru	10000
 妞	hcgvn	10000
 㬔	hch	10000
-㬔	hchas	10000
+㬔	hcha	10000
 膠	hchb	10000
 薅	hci	10022
 鎒	hcicm	10000
@@ -11594,7 +11594,7 @@ import_tables:
 𩐮	hcjya	10000
 𧬁	hcjyr	10000
 昊	hck	10568
-昊	hckam	10568
+昊	hcka	10568
 淏	hckea	10009
 𡚌	hckm	10000
 郝	hcl	11013
@@ -11712,7 +11712,7 @@ import_tables:
 还	hdfy	10000
 塰	hdg	10002
 浬	hdgew	10000
-塰	hdgeya	10002
+塰	hdgey	10002
 𧻲	hdggo	10000
 嚡	hdgrt	10001
 𠔑	hdh	10000
@@ -11725,7 +11725,7 @@ import_tables:
 𤵽	hdkkt	10000
 餀	hdkoi	10001
 㜾	hdl	10000
-㜾	hdlnd	10000
+㜾	hdln	10000
 妎	hdlvo	10000
 郂	hdlyo	10000
 𦐤	hdm	10000
@@ -11918,7 +11918,7 @@ import_tables:
 郃	helora	10012
 翮	hem	10026
 鹖	hemav	10000
-翮	hemmba	10026
+翮	hemmb	10026
 鹤	hemog	10000
 犵	hen	10027
 𨴢	henan	10000
@@ -12054,7 +12054,7 @@ import_tables:
 𡀽	hetrt	10000
 𧪞	hetyra	10000
 毼	heu	10001
-毼	heuava	10001
+毼	heuav	10001
 𧲦	heub	10000
 䚂	heugc	10000
 𢅰	heulb	10000
@@ -12130,7 +12130,7 @@ import_tables:
 啈	hgj	10004
 啈	hgjrg	10004
 𡧦	hgk	10000
-𡧦	hgkjoa	10000
+𡧦	hgkjo	10000
 恆	hgm	11606
 鸻	hgmh	10000
 狟	hgmkh	10000
@@ -12175,7 +12175,7 @@ import_tables:
 𩠾	hhakh	10000
 頏	hhc	10010
 𩔋	hhcb	10000
-頏	hhcyn	10010
+頏	hhcy	10010
 𡕧	hhe	10000
 𡕧	hhey	10000
 䲳	hhf	10000
@@ -12273,7 +12273,7 @@ import_tables:
 𫒶	hjecu	10000
 㮀	hjed	10000
 汉	hjeee	10000
-涵	hjeeua	12374
+涵	hjeeu	12374
 䈄	hjeh	10000
 𢔈	hjeho	10000
 𥀐	hjej	10000
@@ -12298,13 +12298,13 @@ import_tables:
 䕿	hjft	10000
 雗	hjg	10002
 灘	hjget	10000
-雗	hjgjja	10002
+雗	hjgjj	10002
 䧲	hjgm	10000
 丆	hjh	10000
 厂	hjhm	10000
 丆	hjhmh	10000
 螒	hji	10003
-螒	hjijja	10003
+螒	hjijj	10003
 䗙	hjijt	10000
 𩈖	hjim	10000
 𩹑	hjin	10000
@@ -12505,13 +12505,13 @@ import_tables:
 㘕	hjtrt	10000
 蘫	hjtt	10000
 鋎	hju	10002
-鋎	hjucja	10002
+鋎	hjucj	10002
 澏	hjue	10001
 䖔	hjugi	10000
 㲦	hjujj	10000
 𢀵	hjus	10000
 𢧦	hjv	10000
-𢧦	hjviha	10000
+𢧦	hjvih	10000
 𤸕	hjvk	10000
 䓿	hjw	10000
 𦞞	hjwb	10000
@@ -12692,7 +12692,7 @@ import_tables:
 𨝴	hllt	10000
 𨚳	hllyv	10000
 𤯷	hlm	10000
-𤯷	hlmbqa	10000
+𤯷	hlmbq	10000
 𤾑	hlmhta	10000
 㼹	hln	10000
 㼹	hlnt	10000
@@ -12701,7 +12701,7 @@ import_tables:
 𦟮	hltb	10000
 𠂸	hlthn	10000
 𧖬	hltmm	10000
-衁	hltyva	10002
+衁	hltyv	10002
 晃	hlu	12710
 晄	hluaf	10004
 晃	hluafa	12710
@@ -13583,7 +13583,7 @@ import_tables:
 𠦪	hujj	10000
 㪶	hujma	10000
 𥐿	hujmr	10000
-斛	hujnba	10058
+斛	hujnb	10058
 𩵬	hujnfa	10000
 嘝	hujr	10001
 蔛	hujt	10001
@@ -13620,7 +13620,7 @@ import_tables:
 鹕	humjra	10000
 𤜷	humkh	10000
 𧘢	huml	10000
-互	hummva	11225
+互	hummv	11225
 弖	humn	10120
 𧣼	humnba	10000
 魱	humnf	10002
@@ -13802,7 +13802,7 @@ import_tables:
 𨢋	huwge	10000
 𨣗	huwje	10000
 㧮	hux	10000
-㧮	huxqha	10000
+㧮	huxqh	10000
 芐	huy	10000
 𡍐	huyg	10000
 𤾅	huyha	10000
@@ -13832,7 +13832,7 @@ import_tables:
 𪊂	hvayw	10000
 賄	hvb	10065
 䁤	hvbb	10000
-賄	hvbbca	10065
+賄	hvbbc	10065
 𧳐	hvbbh	10000
 贿	hvbbo	10000
 𥊔	hvbbu	10000
@@ -14279,7 +14279,7 @@ import_tables:
 嬅	hxjv	10044
 譁	hxjy	10426
 鋘	hxk	10001
-鋘	hxkcr	10001
+鋘	hxkc	10001
 敌	hxkhr	10000
 㕦	hxkrk	10000
 畫	hxm	18109
@@ -14556,10 +14556,10 @@ import_tables:
 郈	hzlhr	10003
 鄇	hzlo	10001
 腄	hzm	10002
-腄	hzmbh	10002
+腄	hzmb	10002
 鲎	hzmfb	10000
 𩙡	hzn	10000
-𩙡	hznhn	10000
+𩙡	hznh	10000
 㰯	hzo	10000
 㰻	hzog	10000
 㰯	hzom	10000
@@ -14658,7 +14658,7 @@ import_tables:
 釵	iaice	10001
 杈	iaid	10094
 汊	iaiee	10049
-叉	iaieia	13416
+叉	iaiei	13416
 𥫢	iaihe	10000
 𤜫	iaik	10000
 衩	iail	10034
@@ -14762,7 +14762,7 @@ import_tables:
 𥃀	iaty	10000
 岔	iau	10162
 𨪺	iauch	10000
-岔	iaucsa	10162
+岔	iaucs	10162
 𧠈	iaueb	10000
 接	iav	10000
 接	iavq	10000
@@ -14818,13 +14818,13 @@ import_tables:
 仦	icf	10001
 𨨚	icfc	10000
 槱	icfd	10000
-仦	icfof	10001
+仦	icfo	10001
 㷅	icfs	10000
 焣	icfse	10000
 䳂	icfsr	10000
 𪍇	icg	10000
 𪍇	icgde	10000
-𪍇	icgjea	10000
+𪍇	icgje	10000
 吵	ich	17713
 䏚	ichb	10000
 鈔	ichc	10426
@@ -14923,8 +14923,7 @@ import_tables:
 𢹓	idfq	10000
 祡	idfy	10002
 㳗	idg	10000
-㳗	idgee	10000
-㳗	idgek	10000
+㳗	idge	10000
 𦑏	idgs	10000
 𧒨	idgt	10000
 豺	idh	10035
@@ -15209,7 +15208,7 @@ import_tables:
 㧱	ifq	10000
 㧱	ifqo	10000
 傖	ifr	10009
-傖	ifroo	10009
+傖	ifro	10009
 𧨡	ifry	10000
 橙	ift	10000
 橙	iftdn	10000
@@ -15383,7 +15382,7 @@ import_tables:
 𨌤	igjyn	10000
 澂	igk	10008
 瀓	igkeh	10001
-澂	igkeua	10008
+澂	igkeu	10008
 敞	igkfb	10000
 𢿦	igkfh	10000
 徵	igkho	10000
@@ -15484,7 +15483,7 @@ import_tables:
 𩯎	igtsh	10000
 䔲	igtt	10000
 竀	igu	10002
-竀	igujca	10002
+竀	igujc	10002
 㞼	igun	10000
 靗	iguq	10001
 𩇜	iguqb	10000
@@ -15537,7 +15536,7 @@ import_tables:
 瑺	ihbmg	10001
 嫦	ihbv	10048
 償	ihc	10200
-償	ihcof	10200
+償	ihco	10200
 㫤	ihe	10000
 㫤	ihea	10000
 𤿼	ihef	10000
@@ -15585,7 +15584,7 @@ import_tables:
 仩	ihmo	10001
 瓺	ihn	10001
 𠙁	ihnmm	10000
-瓺	ihnsi	10001
+瓺	ihns	10001
 仧	iho	10001
 𡭿	ihof	10000
 𩲹	ihoh	10000
@@ -15603,7 +15602,7 @@ import_tables:
 鋿	ihrc	10001
 淌	ihre	10000
 尚	ihrfb	10000
-徜	ihrho	10018
+徜	ihrh	10018
 䱽	ihrn	10000
 倘	ihro	10010
 惝	ihrp	10003
@@ -16061,7 +16060,7 @@ import_tables:
 𩖌	ijcn	10000
 䫮	ijcsi	10000
 蕆	ijct	10025
-顫	ijcym	10392
+顫	ijcy	10392
 潺	ijd	10024
 𨬖	ijdcs	10000
 棎	ijdd	10004
@@ -16390,7 +16389,7 @@ import_tables:
 窗	ilej	11746
 䎫	ileq	10000
 闖	ilf	11051
-闖	ilfan	11051
+闖	ilfa	11051
 漴	ilfe	10000
 𪁱	ilfi	10000
 幢	ilg	10014
@@ -16413,7 +16412,7 @@ import_tables:
 窗	ilk	11746
 漺	ilkek	10000
 囪	ilkh	10001
-窗	ilkjca	11746
+窗	ilkjc	11746
 磢	ilkm	10001
 傸	ilko	10003
 摤	ilkq	10000
@@ -16558,7 +16557,7 @@ import_tables:
 𨒢	iov	10000
 𨒢	iovy	10000
 𩟫	iow	10000
-𩟫	iowoia	10000
+𩟫	iowoi	10000
 穿	ir	38458
 踳	ira	10002
 踳	irar	10002
@@ -16705,7 +16704,7 @@ import_tables:
 𢥞	isipl	10000
 茧	isit	10000
 𢖄	isk	10000
-𢖄	iskho	10000
+𢖄	iskh	10000
 𧩃	isky	10000
 翀	isl	10065
 沖	islel	10025
@@ -16751,7 +16750,7 @@ import_tables:
 𢝈	ist	10000
 𥁵	istel	10000
 盅	istl	10000
-𢝈	istpl	10000
+𢝈	istp	10000
 充	isu	12906
 𥅻	isub	10000
 銃	isuc	10039
@@ -16940,7 +16939,7 @@ import_tables:
 𠧖	iuoyb	10000
 䇍	iuoyt	10000
 櫖	iup	10000
-櫖	iupdya	10000
+櫖	iupdy	10000
 𧢶	iupnq	10000
 𢣿	iupp	10000
 觕	iuq	10001
@@ -17386,7 +17385,7 @@ import_tables:
 縉	jbav	10053
 缙	jbavm	10000
 錦	jbb	11665
-錦	jbbcha	11665
+錦	jbbch	11665
 㴆	jbbe	10000
 𥧲	jbbjc	10000
 巾	jbbl	10277
@@ -17414,7 +17413,7 @@ import_tables:
 浸	jbe	10571
 鋟	jbec	10000
 濅	jbeej	10001
-浸	jbeesa	10571
+浸	jbees	10571
 埐	jbeg	10001
 祲	jbei	10004
 寖	jbej	10005
@@ -17584,7 +17583,7 @@ import_tables:
 覲	jbutm	10034
 婜	jbv	10000
 湛	jbvet	10000
-婜	jbvsea	10000
+婜	jbvse	10000
 䝲	jby	10000
 䝲	jbybca	10000
 赆	jbyboa	10000
@@ -17620,7 +17619,7 @@ import_tables:
 𦝖	jibbr	10000
 棘	jibdb	10132
 𣖷	jibdf	10000
-脊	jibfca	10462
+脊	jibfc	10462
 𥺵	jibfd	10000
 塉	jibg	10001
 稩	jibh	10001
@@ -17843,7 +17842,7 @@ import_tables:
 𩀖	jigyra	10000
 泲	jih	10003
 𦜸	jihb	10000
-泲	jihela	10003
+泲	jihel	10003
 𠗏	jihi	10000
 䛋	jihyr	10000
 幾	jii	60013
@@ -18270,7 +18269,7 @@ import_tables:
 𧗒	jitvi	10000
 齍	jityx	10000
 既	jiu	19098
-既	jiuaia	19098
+既	jiuai	19098
 𨳻	jiuan	10000
 𧡯	jiub	10000
 㞃	jiucra	10000
@@ -18316,7 +18315,7 @@ import_tables:
 偈	jiv	10072
 淁	jivey	10000
 㛷	jivhu	10000
-偈	jivoaa	10072
+偈	jivoa	10072
 裚	jivq	10002
 妀	jivsu	10004
 妀	jivsv	10004
@@ -18356,7 +18355,7 @@ import_tables:
 𦪱	jiysv	10000
 經	jk	36740
 晶	jka	11241
-晶	jkaaa	11241
+晶	jkaa	11241
 橸	jkad	10003
 精	jkb	16894
 睛	jkbb	10364
@@ -18452,7 +18451,7 @@ import_tables:
 蟼	jkitk	10006
 旍	jkiy	10003
 𠦋	jkj	10000
-𠦋	jkjyma	10000
+𠦋	jkjym	10000
 敬	jkk	11411
 曔	jkka	10001
 粳	jkkf	10034
@@ -18622,7 +18621,7 @@ import_tables:
 螿	jliv	10003
 將	jlivma	368809
 𩷭	jlj	10000
-𩷭	jljnfa	10000
+𩷭	jljnf	10000
 獎	jlk	14670
 奨	jlkl	10004
 奖	jlkln	10000
@@ -18635,7 +18634,7 @@ import_tables:
 江	jlm	15218
 䜫	jlmc	10000
 橿	jlmd	10002
-江	jlmem	15218
+江	jlme	15218
 壃	jlmg	10001
 㹔	jlmh	10000
 𥬮	jlmhe	10000
@@ -18667,7 +18666,7 @@ import_tables:
 𤛜	jlnhq	10000
 弜	jlnn	10001
 𣩴	jlp	10000
-𣩴	jlpni	10000
+𣩴	jlpn	10000
 降	jlq	13490
 洚	jlqe	10017
 夅	jlqh	10001
@@ -19443,7 +19442,7 @@ import_tables:
 㰾	jnoh	10000
 角	jnq	12496
 𢶡	jnqh	10000
-角	jnqnba	12496
+角	jnqnb	12496
 窖	jnr	10149
 滘	jnre	10047
 譥	jnrhk	10002
@@ -19466,7 +19465,7 @@ import_tables:
 䀊	jnteh	10000
 𥂨	jntsm	10000
 𦮁	jntt	10000
-孂	jntvh	10001
+孂	jntv	10001
 覺	jnu	10789
 𥃤	jnub	10000
 澆	jnue	10719
@@ -19492,7 +19491,7 @@ import_tables:
 𥄉	jnvb	10000
 𨨴	jnvcb	10000
 𧺜	jnvgo	10000
-嘦	jnvrca	10001
+嘦	jnvrc	10001
 𡟠	jnvvv	10000
 𣁹	jnw	10000
 𣁹	jnwy	10000
@@ -19594,7 +19593,7 @@ import_tables:
 𦈰	jpgou	10000
 擮	jpgq	10001
 㨩	jpgqi	10000
-屆	jpgsua	12358
+屆	jpgsu	12358
 䕙	jpgt	10000
 嶻	jpguj	10001
 𡽱	jpguja	10000
@@ -19628,7 +19627,7 @@ import_tables:
 丯	jpjqj	10001
 𦀓	jpjv	10000
 𠅂	jpjyn	10000
-訐	jpjyra	10031
+訐	jpjyr	10031
 刼	jpk	10001
 𡔣	jpkg	10000
 刼	jpkgi	10001
@@ -20137,7 +20136,7 @@ import_tables:
 㪻	jrj	10000
 㪻	jrjv	10000
 鄄	jrl	10028
-鄄	jrlmga	10028
+鄄	jrlmg	10028
 𢎠	jrln	10000
 𥆞	jrlw	10000
 㢧	jrm	10000
@@ -20609,7 +20608,7 @@ import_tables:
 𠨊	jtytba	10000
 據	ju	37672
 𥢧	jua	10000
-𥢧	juahd	10000
+𥢧	juah	10000
 橘	jub	10218
 𣎛	jubb	10000
 𧷾	jubbc	10000
@@ -20993,7 +20992,7 @@ import_tables:
 勮	jusyo	10001
 䶙	jusyu	10000
 弆	jut	10001
-弆	jutgi	10001
+弆	jutg	10001
 𥂃	juthq	10000
 𥲜	juthy	10000
 㞐	jutsy	10000
@@ -21122,7 +21121,7 @@ import_tables:
 呷	jxlrw	10000
 𩉡	jxlt	10000
 岬	jxlu	10052
-甲	jxlwla	13667
+甲	jxlwl	13667
 𨒇	jxlyw	10000
 驾	jxm	10000
 驾	jxmkra	10000
@@ -21393,7 +21392,7 @@ import_tables:
 垰	kayg	10004
 裃	kayl	10001
 佧	kayo	10008
-咔	kayry	10254
+咔	kayr	10254
 卡	kayym	40773
 靠	kc	40619
 犒	kcb	10010
@@ -21804,7 +21803,7 @@ import_tables:
 奟	kgbk	10000
 𡞚	kgbv	10000
 鍞	kgc	10009
-鍞	kgccy	10009
+鍞	kgcc	10009
 䡩	kgcj	10000
 揁	kgcq	10000
 𧀘	kgct	10000
@@ -21922,7 +21921,7 @@ import_tables:
 伉	khno	10030
 钪	khnop	10000
 忼	khnp	10001
-抗	khnqy	13973
+抗	khnq	13973
 𨀫	khnr	10000
 匟	khns	10001
 𪎵	khntc	10000
@@ -22027,7 +22026,7 @@ import_tables:
 𦞖	kjubh	10000
 𧇦	kjue	10000
 䖔	kjug	10000
-看	kjuhqa	500082
+看	kjuhq	500082
 𧡵	kjuk	10000
 𡶪	kjum	10000
 侃	kjuo	10545
@@ -22261,7 +22260,7 @@ import_tables:
 䩹	kob	10000
 䩹	kobt	10000
 頢	koc	10001
-頢	kochra	10001
+頢	kochr	10001
 頢	kocm	10001
 彍	kocn	10001
 擴	kocq	10666
@@ -22287,7 +22286,7 @@ import_tables:
 鞹	kolt	10002
 𡻙	kolu	10000
 𥕏	kom	10000
-𥕏	kommr	10000
+𥕏	komm	10000
 𠚳	kon	10000
 𠠎	koni	10000
 𠚳	konil	10000
@@ -22325,7 +22324,7 @@ import_tables:
 顆	krc	10000
 顆	krcw	10000
 棵	krd	10000
-棵	krddwa	10000
+棵	krddw	10000
 寬	kri	13197
 髖	krib	10048
 臗	kribj	10000
@@ -22428,10 +22427,10 @@ import_tables:
 𪌓	kuej	10000
 㪂	kueo	10000
 𪇄	kuf	10000
-𪇄	kufgla	10000
+𪇄	kufgl	10000
 圣	kug	10000
 𦛏	kugb	10000
-圣	kugega	10000
+圣	kugeg	10000
 𡑚	kugg	10000
 𡉄	kugk	10000
 𧷎	kugy	10000
@@ -22532,7 +22531,7 @@ import_tables:
 喟	kvbr	10011
 𠿥	kvbrw	10000
 蘬	kvbt	10001
-巋	kvbuha	10054
+巋	kvbuh	10054
 潰	kvc	10193
 顝	kvcb	10002
 䯣	kvcbb	10000
@@ -22805,7 +22804,7 @@ import_tables:
 𩤋	kyds	10000
 𩭋	kydsh	10000
 綑	kydv	10008
-困	kydwd	13947
+困	kydw	13947
 𣏔	kydym	10000
 𪘩	kydyu	10000
 鰥	kye	10001
@@ -22819,7 +22818,7 @@ import_tables:
 㩲	kygq	10000
 堃	kygy	10001
 晜	kyh	10005
-晜	kyhac	10005
+晜	kyha	10005
 𩻋	kyhn	10000
 𩽞	kyhnf	10000
 罤	kyhw	10000
@@ -23131,7 +23130,7 @@ import_tables:
 𡹇	lbdud	10000
 稟	lbdyw	10000
 焛	lbf	10001
-焛	lbfan	10001
+焛	lbfa	10001
 檩	lbfd	10000
 𩻜	lbfdk	10000
 凛	lbfi	10000
@@ -23238,13 +23237,13 @@ import_tables:
 吝	lbry	10069
 㐭	lbryw	10000
 壣	lbt	10001
-壣	lbtgs	10001
+壣	lbtg	10001
 亃	lbu	10010
 䚏	lbufq	10000
 𡰚	lbufqa	10000
 亃	lbufqb	10010
 粼	lbv	10040
-粼	lbvfqa	10040
+粼	lbvfq	10040
 𤎭	lbw	10000
 𤎭	lbwff	10000
 𧹩	lbwg	10000
@@ -23252,7 +23251,7 @@ import_tables:
 𡬜	lbyjy	10000
 老	lc	49926
 顟	lcc	10001
-顟	lccsh	10001
+顟	lccs	10001
 㺐	lcd	10000
 㺐	lcdkh	10000
 潦	lcf	10016
@@ -23323,7 +23322,7 @@ import_tables:
 烙	lcr	10298
 嗠	lcrb	10001
 䃕	lcrff	10000
-烙	lcrfha	10298
+烙	lcrfh	10298
 酪	lcrm	10055
 落	lcrt	10023
 絡	lcrv	10004
@@ -23374,7 +23373,7 @@ import_tables:
 𦒴	lcujp	10000
 𧢋	lcus	10000
 躼	lcv	10001
-躼	lcvhha	10001
+躼	lcvhh	10001
 來	ld	478916
 𡂖	ldb	10000
 𤢵	ldbkh	10000
@@ -23533,7 +23532,7 @@ import_tables:
 垃	let	10000
 垃	letgy	10000
 韷	leu	10001
-韷	leuya	10001
+韷	leuy	10001
 啉	lf	10000
 啉	lfdr	10000
 冷	lg	16138
@@ -24019,7 +24018,7 @@ import_tables:
 𨞺	lilmbb	10000
 𨜼	lilmd	10000
 𨟑	lilmm	10000
-酈	lilmpa	10146
+酈	lilmp	10146
 鬲	lilmr	10013
 𨛋	lilwg	10000
 𨝏	lilyba	10000
@@ -24377,7 +24376,7 @@ import_tables:
 厱	ljom	10001
 懒	ljop	10000
 𢛓	ljp	10000
-𢛓	ljpdd	10000
+𢛓	ljpd	10000
 擥	ljq	10002
 擥	ljqsw	10002
 濫	ljt	11296
@@ -24385,7 +24384,7 @@ import_tables:
 𧸦	ljtb	10000
 灆	ljte	10007
 滥	ljtel	10000
-濫	ljtesa	11296
+濫	ljtes	11296
 爁	ljtf	10002
 壏	ljtg	10001
 籃	ljth	10480
@@ -24820,12 +24819,12 @@ import_tables:
 靚	lluq	13086
 靓	lluqb	10000
 喨	llur	10010
-亮	lluyr	18778
+亮	lluy	18778
 良	llv	15542
 閬	llva	10000
 䀶	llvb	10000
 粮	llvfd	10000
-良	llviab	15542
+良	llvia	15542
 㾗	llvk	10000
 蜋	llvl	10002
 𩷕	llvn	10000
@@ -24980,7 +24979,7 @@ import_tables:
 裣	lmml	10000
 殓	lmmmn	10000
 浰	lmn	10002
-浰	lmneh	10002
+浰	lmne	10002
 劆	lmni	10001
 臉	lmo	17361
 𧸘	lmob	10000
@@ -25169,7 +25168,7 @@ import_tables:
 料	lnjfd	17052
 敹	lnk	10005
 𢼙	lnkr	10000
-敹	lnkyd	10005
+敹	lnky	10005
 聊	lnl	25977
 䉼	lnlf	10000
 𠨥	lnlhh	10000
@@ -25707,7 +25706,7 @@ import_tables:
 𥥹	lqsjc	10000
 𤥗	lqsm	10000
 䱖	lqsn	10000
-駵	lqssfa	10001
+駵	lqssf	10001
 𦊿	lqsw	10000
 流	lqu	16307
 𦊗	lqub	10000
@@ -26260,7 +26259,7 @@ import_tables:
 鸬	lumy	10000
 剹	lun	10001
 㼾	lunipa	10000
-剹	lunsh	10001
+剹	luns	10001
 𤮧	luny	10000
 颅	luo	10000
 𣥐	luoy	10000
@@ -26282,7 +26281,7 @@ import_tables:
 廘	lupi	10002
 𥛞	lupif	10000
 𢊩	lupii	10000
-鹿	lupixa	10956
+鹿	lupix	10956
 轆	lupj	10014
 辘	lupkq	10000
 𤻱	lupky	10000
@@ -26412,7 +26411,7 @@ import_tables:
 𪉣	lutyw	10000
 圥	luu	10001
 𥈛	luub	10000
-圥	luugha	10001
+圥	luugh	10001
 䚄	luun	10000
 陆	luunl	10000
 𨽐	luunla	10000
@@ -26654,7 +26653,7 @@ import_tables:
 缧	lwfvm	10000
 嫘	lwfvw	10007
 鸓	lwfw	10002
-累	lwfwva	49906
+累	lwfwv	49906
 䴎	lwfww	10000
 纍	lwfwwa	10060
 壘	lwg	10730
@@ -26856,7 +26855,7 @@ import_tables:
 𠗩	lzlim	10000
 𨝢	lzlje	10000
 𡪅	lzljs	10000
-䣚	lzllv	10000
+䣚	lzll	10000
 甊	lzn	10001
 𠞭	lznl	10000
 𡗆	lznlv	10000
@@ -26970,12 +26969,12 @@ import_tables:
 䗫	madl	10000
 孖	madn	10018
 𢳀	madq	10000
-嘛	madri	222220
+嘛	madr	222220
 蔴	madt	10001
 嫲	madvi	10001
 𤳂	madw	10000
 唛	mae	10000
-唛	maerqa	10000
+唛	maerq	10000
 𥀏	maey	10000
 馬	maf	22578
 𥉊	mafb	10000
@@ -27007,14 +27006,14 @@ import_tables:
 𩀪	magi	10000
 嚜	magrw	10000
 閁	mah	10001
-閁	mahanb	10001
+閁	mahan	10001
 䀛	mahb	10000
 𩨲	mahbb	10000
 䀣	mahbu	10000
 麼	mai	10076
 䯦	maib	10000
 么	maihi	10000
-麼	maiica	10076
+麼	maiic	10076
 麽	maiida	10000
 麼	maiidb	10076
 礣	maim	10001
@@ -27029,7 +27028,7 @@ import_tables:
 鬕	maks	10002
 㜫	makvh	10000
 䣕	mal	10000
-䣕	malsfa	10000
+䣕	malsf	10000
 㐷	mam	10000
 𨰾	mamcn	10000
 杩	mamdn	10000
@@ -27054,7 +27053,7 @@ import_tables:
 𪒜	mapw	10000
 犘	maq	10003
 摩	maqi	10001
-犘	maqida	10003
+犘	maqid	10003
 睰	mar	10001
 貉	marb	10000
 睰	marbu	10001
@@ -27248,7 +27247,7 @@ import_tables:
 𥎟	mcj	10000
 𥎟	mcjnh	10000
 㮘	mck	10000
-㮘	mckdna	10000
+㮘	mckd	10000
 𩭾	mcksh	10000
 䓮	mckt	10000
 卯	mcl	10179
@@ -27434,7 +27433,7 @@ import_tables:
 嘜	mdnr	10084
 䮮	mdnsf	10000
 㦟	mdp	10000
-㦟	mdpbg	10000
+㦟	mdpb	10000
 勱	mds	10088
 劢	mdsm	10000
 勱	mdst	10088
@@ -27442,7 +27441,7 @@ import_tables:
 𦚡	mdt	10000
 𦚡	mdtb	10000
 売	mdu	10011
-売	mdugb	10011
+売	mdug	10011
 䚑	mduw	10000
 脈	mdv	10984
 脈	mdvb	10984
@@ -27753,7 +27752,7 @@ import_tables:
 䖟	mhi	10000
 䖟	mhiy	10000
 蠎	mhj	10002
-蠎	mhjli	10002
+蠎	mhjl	10002
 邙	mhl	10008
 𨛌	mhly	10000
 邙	mhlyv	10008
@@ -27773,7 +27772,7 @@ import_tables:
 𡩩	mhrjv	10000
 吂	mhry	10004
 壾	mhs	10001
-壾	mhsgt	10001
+壾	mhsg	10001
 㝑	mhsj	10000
 莽	mht	10274
 㬒	mhta	10000
@@ -28004,7 +28003,7 @@ import_tables:
 𪎔	minic	10000
 𪎔	minid	10000
 冖	minin	10000
-劘	miniyb	10001
+劘	miniy	10001
 冖	minl	10000
 𨣯	minmw	10000
 𥿫	minv	10000
@@ -28227,7 +28226,7 @@ import_tables:
 䫤	mkcbc	10000
 瞑	mkcbu	10030
 榠	mkcdb	10002
-溟	mkceba	10664
+溟	mkceb	10664
 䄙	mkcif	10000
 凕	mkcim	10001
 㝠	mkcja	10000
@@ -28322,7 +28321,7 @@ import_tables:
 呣	mmi	10016
 𡧒	mmij	10000
 蠠	mmim	10000
-呣	mmirw	10016
+呣	mmir	10016
 𪏊	mmit	10000
 𩮉	mmk	10000
 𩮉	mmksh	10000
@@ -28451,7 +28450,7 @@ import_tables:
 玅	mnhyi	10001
 竗	mnhyt	10001
 蜱	mnj	10000
-蜱	mnjlia	10000
+蜱	mnjli	10000
 𡙎	mnk	10000
 𡙎	mnkm	10000
 鹋	mnm	10000
@@ -28684,7 +28683,7 @@ import_tables:
 𡾉	moquia	10000
 磨	mor	13854
 貉	morb	10002
-磨	morica	13854
+磨	moric	13854
 䜆	morid	10000
 磨	morida	13854
 狢	mork	10001
@@ -28917,7 +28916,7 @@ import_tables:
 姥	mupv	10000
 牟	muq	10073
 毪	muqh	10003
-牟	muqiha	10073
+牟	muqih	10073
 𤚅	muqiq	10000
 𥰻	mur	10000
 𥰻	murh	10000
@@ -29005,7 +29004,7 @@ import_tables:
 𥧴	mwej	10000
 㺳	mwem	10000
 鶥	mwf	10008
-鶥	mwfaua	10008
+鶥	mwfau	10008
 脄	mwfb	10001
 膴	mwfbo	10000
 𪂜	mwfd	10000
@@ -29116,7 +29115,7 @@ import_tables:
 䍙	mwywl	10000
 某	mz	22624
 冇	mzb	10000
-冇	mzbkb	10000
+冇	mzbk	10000
 鍪	mzc	10008
 䥐	mzcn	10000
 鍪	mzcnk	10008
@@ -29181,7 +29180,7 @@ import_tables:
 劺	mzs	10001
 劺	mzsiq	10001
 䜼	mzt	10000
-䜼	mztnk	10000
+䜼	mztn	10000
 𣫬	mztw	10000
 𥆆	mzu	10000
 𥆆	mzub	10000
@@ -29292,7 +29291,7 @@ import_tables:
 䋾	nanvf	10000
 秅	nap	10001
 淰	nape	10000
-秅	naphd	10001
+秅	naph	10001
 拿	naq	48605
 鎿	naqc	10004
 𣸏	naqe	10000
@@ -29374,7 +29373,7 @@ import_tables:
 巙	nceut	10000
 詉	ncey	10001
 䴃	ncf	10000
-䴃	ncfgu	10000
+䴃	ncfg	10000
 㺒	nch	10000
 膠	nchb	10000
 㺒	nchkh	10000
@@ -29519,7 +29518,7 @@ import_tables:
 氖	ndso	10050
 䯮	ndss	10000
 艿	ndst	10010
-奶	ndsvn	12953
+奶	ndsv	12953
 𠧤	ndsy	10000
 孻	ndt	10002
 孻	ndtnd	10002
@@ -29547,7 +29546,7 @@ import_tables:
 呐	nebr	10000
 訥	neby	10149
 䅞	nei	10000
-䅞	neihd	10000
+䅞	neih	10000
 䎪	neiq	10000
 眲	nej	10003
 眲	nejb	10003
@@ -29591,7 +29590,7 @@ import_tables:
 螚	ngiip	10015
 耐	ngim	10000
 而	ngl	10000
-而	nglmb	10000
+而	nglm	10000
 𢆂	ngn	10000
 𢆂	ngnl	10000
 㴰	ngp	10000
@@ -29731,7 +29730,7 @@ import_tables:
 郳	nil	10002
 郳	nilhu	10002
 溺	nim	10066
-溺	nimen	10066
+溺	nime	10066
 愵	nimp	10001
 𢚮	nimpo	10000
 濘	nin	10000
@@ -29937,9 +29936,9 @@ import_tables:
 男	njswk	26794
 𧇙	njsy	10000
 弇	njt	10000
-弇	njtora	10000
+弇	njtor	10000
 䶲	nju	10000
-䶲	njugba	10000
+䶲	njugb	10000
 囡	njv	10170
 𦝧	njvb	10000
 𡆲	njvw	10000
@@ -30046,7 +30045,7 @@ import_tables:
 溓	nmcet	10000
 捵	nmcq	10000
 㮟	nmd	10000
-㮟	nmddma	10000
+㮟	nmddm	10000
 㞋	nme	10000
 𣐏	nmed	10000
 𧹞	nmeg	10000
@@ -30075,7 +30074,7 @@ import_tables:
 𠫺	nmjil	10000
 卄	nmjj	10073
 輦	nmjq	10071
-攆	nmjqqa	10139
+攆	nmjqq	10139
 𨇍	nmjr	10000
 㜤	nmjv	10000
 𡝟	nmjvh	10000
@@ -30085,7 +30084,7 @@ import_tables:
 𨚶	nml	10000
 𨚶	nmloq	10000
 𠬋	nmm	10000
-𠬋	nmmiia	10000
+𠬋	nmmii	10000
 簐	nmo	10001
 簐	nmoh	10001
 念	nmp	14329
@@ -30309,7 +30308,7 @@ import_tables:
 帇	npbl	10001
 㩶	npbq	10000
 顳	npc	10064
-顳	npcsj	10064
+顳	npcs	10064
 𩒕	npct	10000
 𩖁	npcyu	10000
 鎳	npd	10316
@@ -30533,7 +30532,7 @@ import_tables:
 㽱	nqlkv	10000
 𨙺	nqln	10000
 𣲶	nqn	10000
-𣲶	nqnew	10000
+𣲶	nqne	10000
 𩙷	nqo	10000
 𩙷	nqoy	10000
 牜	nqq	10002
@@ -30714,7 +30713,7 @@ import_tables:
 衂	nviht	10002
 𥍞	nvin	10000
 聏	nvl	10001
-聏	nvlsj	10001
+聏	nvls	10001
 朒	nvo	10002
 朒	nvob	10002
 胬	nvov	10000
@@ -30750,7 +30749,7 @@ import_tables:
 䲎	nwkn	10000
 那	nwl	11664
 哪	nwlr	10042
-那	nwlsq	11664
+那	nwls	11664
 𢛉	nwm	10000
 𢛉	nwmp	10000
 㼏	nwo	10000
@@ -30849,7 +30848,7 @@ import_tables:
 𧪓	oubyr	10000
 遇	oubyw	10000
 𩔸	ouc	10000
-𩔸	oucsr	10000
+𩔸	oucs	10000
 紆	oud	10000
 紆	oudvf	10000
 毆	oue	10170
@@ -30865,7 +30864,7 @@ import_tables:
 渥	ouges	10000
 握	ougq	10000
 𩀫	ougs	10000
-䌂	ougvf	10000
+䌂	ougv	10000
 𣓕	oui	10000
 𣓕	ouid	10000
 𣽕	ouie	10000
@@ -30879,7 +30878,7 @@ import_tables:
 呕	oukr	10000
 区	ouks	10000
 𣂻	oul	10000
-𣂻	oulsr	10000
+𣂻	ouls	10000
 鸥	oum	10000
 鸥	oums	10000
 甌	oun	10112
@@ -31180,8 +31179,7 @@ import_tables:
 𥱼	pdjhe	10000
 箄	pdjhh	10001
 𥯟	pdjhha	10000
-牌	pdjll	15773
-牌	pdjln	15773
+牌	pdjl	15773
 䱝	pdjn	10000
 𦔠	pdjqd	10000
 𣲖	pdo	10000
@@ -31571,7 +31569,7 @@ import_tables:
 𧳼	pihb	10000
 𧴉	pihbh	10000
 𤿇	pihde	10000
-劈	pihsja	10942
+劈	pihsj	10942
 螷	pii	10001
 𧓎	piihj	10000
 蠯	piii	10001
@@ -31631,7 +31629,7 @@ import_tables:
 𩫫	pijyj	10000
 䇑	pijyt	10000
 潎	pik	10001
-潎	pikefa	10001
+潎	pikef	10001
 奊	pikg	10000
 㿙	pikkw	10000
 䦼	pikn	10000
@@ -31931,7 +31929,7 @@ import_tables:
 蟠	pjwl	10033
 磻	pjwm	10006
 洀	pjy	10000
-洀	pjyeh	10000
+洀	pjye	10000
 𢰿	pjyq	10000
 卞	pjyyy	10000
 平	pk	18011
@@ -31952,7 +31950,7 @@ import_tables:
 馮	pkfi	10000
 㺸	pkg	10000
 𡊞	pkgm	10000
-㺸	pkgona	10000
+㺸	pkgon	10000
 乒	pkh	10042
 乒	pkhom	10042
 㺸	pki	10000
@@ -31986,7 +31984,7 @@ import_tables:
 苹	pkjtm	10000
 岼	pkjum	10002
 𢆟	pkjuqa	10000
-評	pkjyra	12399
+評	pkjyr	12399
 郱	pkl	10001
 郱	pklt	10001
 冯	pkm	10000
@@ -32017,7 +32015,7 @@ import_tables:
 聘	pkssj	10000
 𦶊	pkst	10000
 𦀔	pksvf	10000
-娉	pksvla	10060
+娉	pksvl	10060
 䛣	pksy	10000
 𥪁	pksyt	10000
 屏	pkt	11956
@@ -32314,7 +32312,7 @@ import_tables:
 膊	poibi	10000
 䪙	poid	10000
 溥	poiei	10000
-魄	poiha	10214
+魄	poih	10214
 尃	poii	10001
 𨍭	poijj	10000
 猼	poik	10000
@@ -32363,10 +32361,10 @@ import_tables:
 𧿽	porrm	10000
 𦐦	pors	10000
 𩢘	porsf	10000
-叵	porsra	10032
+叵	porsr	10032
 𡶆	porus	10000
 昢	pou	10002
-昢	pouaub	10002
+昢	poua	10002
 𡊟	pougb	10000
 𦫔	poun	10000
 㤕	poup	10000
@@ -32386,7 +32384,7 @@ import_tables:
 𧂉	powth	10000
 𠾌	pox	10000
 𦥲	poxh	10000
-𠾌	poxrt	10000
+𠾌	poxr	10000
 𦥭	poxtu	10000
 釙	poy	10034
 𧴤	poyb	10000
@@ -32935,7 +32933,7 @@ import_tables:
 𧡘	qbugf	10000
 寴	qbuj	10002
 𡫧	qbujv	10000
-儭	qbuoy	10014
+儭	qbuo	10014
 𣜣	qbur	10000
 𡵑	qbus	10000
 藽	qbut	10002
@@ -33238,7 +33236,7 @@ import_tables:
 圻	qilg	10048
 鬿	qilh	10002
 祈	qili	10286
-祁	qilifa	10432
+祁	qilif	10432
 𠫸	qilii	10000
 郪	qilj	10003
 𨙸	qilje	10000
@@ -33597,7 +33595,7 @@ import_tables:
 声	qkhga	10000
 𧕙	qki	10000
 𧖪	qkiht	10000
-𧕙	qkior	10000
+𧕙	qkio	10000
 𡄔	qkj	10000
 𡄔	qkjrg	10000
 擏	qkk	10000
@@ -34125,7 +34123,7 @@ import_tables:
 汧	qmt	10005
 開	qmta	10000
 𣍰	qmtb	10000
-汧	qmtem	10005
+汧	qmte	10005
 𥳐	qmtha	10000
 𢍱	qmthx	10000
 蚈	qmtl	10001
@@ -34310,7 +34308,7 @@ import_tables:
 郻	qnl	10002
 𨜍	qnlad	10000
 𨜑	qnlbda	10000
-郻	qnlbva	10002
+郻	qnlbv	10002
 桥	qnld	10000
 鄡	qnlh	10002
 𨞶	qnlhd	10000
@@ -34337,7 +34335,7 @@ import_tables:
 壳	qnng	10000
 箾	qnnh	10000
 𠿕	qnnhb	10000
-劁	qnnof	10016
+劁	qnno	10016
 鞩	qnnt	10001
 髚	qnny	10001
 䂪	qno	10000
@@ -34390,10 +34388,10 @@ import_tables:
 𥟅	qnx	10000
 𥟅	qnxh	10000
 𣂇	qny	10000
-𣂇	qnyyja	10000
+𣂇	qnyyj	10000
 切	qp	29438
 竊	qpb	10257
-竊	qpbjc	10257
+竊	qpbj	10257
 慊	qpc	10003
 慊	qpcp	10003
 䫔	qpcq	10000
@@ -34494,7 +34492,7 @@ import_tables:
 㥦	qpps	10000
 挈	qpq	10020
 䤿	qpqc	10000
-挈	qpqqh	10020
+挈	qpqq	10020
 茄	qpr	10198
 詧	qprb	10000
 鐑	qprc	10011
@@ -34503,7 +34501,7 @@ import_tables:
 茄	qprt	10198
 𡶐	qpruk	10000
 𠲵	qps	10000
-𠲵	qpsrg	10000
+𠲵	qpsr	10000
 惬	qpt	10000
 箧	qpth	10000
 惬	qptps	10000
@@ -34808,7 +34806,7 @@ import_tables:
 硂	qrgmr	10001
 𢑆	qrgn	10000
 𩧴	qrgnm	10000
-全	qrgoma	35878
+全	qrgom	35878
 佺	qrgoo	10038
 铨	qrgop	10000
 恮	qrgp	10001
@@ -34855,7 +34853,7 @@ import_tables:
 甽	qrlwl	10001
 㒰	qrm	10000
 𡙅	qrmfc	10000
-㒰	qrmom	10000
+㒰	qrmo	10000
 𡺟	qrmuj	10000
 弮	qrn	10005
 弮	qrnf	10005
@@ -35001,7 +34999,7 @@ import_tables:
 㧭	qsq	10000
 㧭	qsqml	10000
 熍	qsr	10001
-熍	qsrfja	10001
+熍	qsrfj	10001
 𨉫	qsrh	10000
 竆	qsrj	10001
 䃔	qsrm	10000
@@ -35274,9 +35272,9 @@ import_tables:
 詓	quiyr	10001
 䶚	quiyua	10000
 𦸶	quj	10000
-𦸶	qujuua	10000
+𦸶	qujuu	10000
 闃	quk	10040
-闃	qukan	10040
+闃	quka	10040
 躯	qukh	10000
 𥧻	qukjc	10000
 阒	qukls	10000
@@ -35457,7 +35455,7 @@ import_tables:
 價	qxc	10000
 價	qxco	10000
 𣘟	qxd	10000
-𣘟	qxdoe	10000
+𣘟	qxdo	10000
 䠍	qxe	10000
 𩩱	qxeb	10000
 𢼣	qxeg	10000
@@ -35466,7 +35464,7 @@ import_tables:
 絜	qxf	10000
 絜	qxfq	10000
 圶	qxg	10001
-圶	qxgkg	10001
+圶	qxgk	10001
 㓞	qxh	10000
 𡘧	qxhk	10000
 㤉	qxhp	10000
@@ -35498,7 +35496,7 @@ import_tables:
 𦸉	qxot	10000
 䶝	qxoy	10000
 挈	qxq	10000
-挈	qxqqh	10000
+挈	qxqq	10000
 恰	qxr	10757
 髂	qxrb	10054
 䯊	qxrbb	10000
@@ -35688,7 +35686,7 @@ import_tables:
 䚾	rfgy	10000
 䛘	rfgyr	10000
 𨉃	rfh	10000
-𨉃	rfhoga	10000
+𨉃	rfhog	10000
 刃	rfi	10558
 𣅉	rfia	10000
 肕	rfib	10002
@@ -35739,7 +35737,7 @@ import_tables:
 秂	rfoh	10001
 认	rfoi	10000
 魜	rfon	10001
-人	rfooa	260286
+人	rfoo	260286
 忍	rfp	15228
 腍	rfpbo	10004
 棯	rfpd	10001
@@ -35760,7 +35758,7 @@ import_tables:
 認	rfpy	12431
 𩑉	rfpya	10000
 儿	rfu	10000
-儿	rfulu	10000
+儿	rful	10000
 𦏀	rfut	10000
 葚	rfv	10007
 䀼	rfvb	10000
@@ -35799,7 +35797,7 @@ import_tables:
 𨟚	rhl	10000
 𨟚	rhly	10000
 让	rhm	10000
-让	rhmiv	10000
+让	rhmi	10000
 瓤	rho	10066
 瓤	rhoy	10066
 勷	rhs	10002
@@ -35843,7 +35841,7 @@ import_tables:
 讓	rhvyr	108243
 日	ri	80125
 鈤	ria	10011
-日	riaaa	80125
+日	riaa	80125
 鈤	riac	10011
 𡉭	riag	10000
 𦨙	riah	10000
@@ -35936,7 +35934,7 @@ import_tables:
 𤙼	rjq	10000
 𤙼	rjqks	10000
 𣰦	rjt	10000
-𣰦	rjthu	10000
+𣰦	rjth	10000
 㲯	rju	10000
 𪓘	rjub	10000
 𪚮	rjubm	10000
@@ -35983,7 +35981,7 @@ import_tables:
 箬	ror	10040
 楉	rord	10002
 渃	rore	10003
-箬	rorht	10040
+箬	rorh	10040
 鰙	rorn	10001
 𧃪	rornn	10000
 偌	roro	10040
@@ -36095,7 +36093,7 @@ import_tables:
 𪃾	rsfjr	10000
 𩎂	rsft	10000
 㲝	rsg	10000
-㲝	rsghu	10000
+㲝	rsgh	10000
 肜	rsh	10008
 肜	rshb	10008
 烿	rshf	10001
@@ -36305,7 +36303,7 @@ import_tables:
 扖	ruoq	10000
 𡜃	ruov	10000
 𢛚	rup	10000
-𢛚	rupmv	10000
+𢛚	rupm	10000
 挐	ruq	10002
 𣖹	ruqd	10000
 蒘	ruqt	10000
@@ -36355,7 +36353,7 @@ import_tables:
 笍	rvbho	10000
 蚋	rvbl	10010
 蜹	rvbli	10001
-瑞	rvbmg	12393
+瑞	rvbm	12393
 内	rvbob	10000
 㨅	rvbq	10000
 抐	rvbqo	10000
@@ -36444,7 +36442,7 @@ import_tables:
 肉	rz	16418
 禸	rzb	10005
 鑐	rzbcm	10000
-禸	rzbib	10005
+禸	rzbi	10005
 宍	rzc	10004
 䐓	rzcb	10000
 宍	rzcjy	10004
@@ -36546,7 +36544,7 @@ import_tables:
 潵	sak	10001
 𥋌	sakb	10000
 鏾	sakc	10000
-潵	saketa	10001
+潵	saket	10001
 撒	sakq	46060
 𦼧	sakt	10000
 飒	saky	10000
@@ -36808,7 +36806,7 @@ import_tables:
 擌	seoq	10001
 㥶	sep	10000
 㴔	sepe	10000
-㥶	sepjt	10000
+㥶	sepj	10000
 愬	sept	10000
 嗇	ser	10033
 啬	serg	10000
@@ -36847,7 +36845,7 @@ import_tables:
 森	sf	12096
 𩕌	sfc	10000
 𩕌	sfcd	10000
-森	sfddd	12096
+森	sfdd	12096
 槮	sfh	10002
 𣟹	sfhdh	10000
 椮	sfhdi	10000
@@ -36878,7 +36876,7 @@ import_tables:
 𦟄	shdb	10000
 鎟	shdc	10001
 槡	shdd	10001
-桑	shdeea	11417
+桑	shdee	11417
 𡕏	shdgm	10000
 𣞙	shdgt	10000
 桒	shdj	10001
@@ -37066,7 +37064,7 @@ import_tables:
 𥯨	siphwa	10000
 禗	sipi	10001
 麗	sipmm	10000
-死	sipmna	46729
+死	sipmn	46729
 偲	sipo	10020
 锶	sipop	10000
 愢	sipp	10002
@@ -37266,7 +37264,7 @@ import_tables:
 𩌆	soct	10000
 𧴲	socv	10000
 鏁	sod	10001
-鏁	sodcva	10001
+鏁	sodcv	10001
 𪍨	sodde	10000
 𪍨	sodj	10000
 璅	sodmg	10000
@@ -37278,7 +37276,7 @@ import_tables:
 䈗	soeh	10000
 鮻	soen	10005
 𢚭	soep	10000
-唆	soeria	10361
+唆	soeri	10361
 羧	soet	10037
 葰	soeto	10005
 㛖	soev	10000
@@ -37400,7 +37398,7 @@ import_tables:
 算	sr	39939
 𠥘	src	10000
 撰	srcq	10000
-𠥘	srcsi	10000
+𠥘	srcs	10000
 選	srcy	10000
 䔉	srd	10000
 䔉	srdt	10000
@@ -37451,7 +37449,7 @@ import_tables:
 枀	ssdci	10001
 庺	ssdi	10001
 梥	ssdj	10001
-宋	ssdjda	14082
+宋	ssdjd	14082
 𠳼	ssdr	10000
 𦯕	ssdt	10000
 愯	sse	10008
@@ -37502,7 +37500,7 @@ import_tables:
 餸	ssko	10002
 𢱤	sskq	10000
 𦷴	sskt	10000
-送	sskyt	29214
+送	ssky	29214
 悚	ssl	10025
 悚	sslpd	10025
 捒	sslqd	10000
@@ -37685,7 +37683,7 @@ import_tables:
 㑛	sulod	10000
 䔎	sult	10000
 𩐫	sulya	10000
-速	sulyda	11823
+速	sulyd	11823
 甦	sum	10013
 𩲵	sumh	10000
 𢎎	sumib	10000
@@ -37718,7 +37716,7 @@ import_tables:
 𤛝	suq	10000
 𤛝	suqj	10000
 俗	sur	11372
-俗	suroc	11372
+俗	suro	11372
 㲞	suu	10000
 𪌔	suud	10000
 㴑	suueia	10000
@@ -38185,7 +38183,7 @@ import_tables:
 太	taik	10000
 𢺉	taiq	10000
 㳠	tak	10000
-㳠	takeya	10000
+㳠	takey	10000
 闼	takl	10000
 𠉂	tako	10000
 挞	takq	10000
@@ -38299,7 +38297,7 @@ import_tables:
 毾	tauam	10002
 𪔕	tauge	10000
 闧	tav	10002
-闧	tavan	10002
+闧	tava	10002
 墖	taw	10001
 墖	tawg	10001
 𤒻	tay	10000
@@ -38645,7 +38643,7 @@ import_tables:
 疼	tgykh	14308
 湯	th	19818
 閶	tha	10000
-閶	thaan	10000
+閶	thaa	10000
 帑	thb	10008
 𣙟	thbd	10000
 帑	thbv	10008
@@ -38784,7 +38782,7 @@ import_tables:
 䌅	thrvf	10000
 㜍	thrvi	10000
 𠢃	ths	10000
-𠢃	thsah	10000
+𠢃	thsa	10000
 鎲	thu	10007
 鎲	thucf	10007
 㲥	thuir	10000
@@ -38914,10 +38912,10 @@ import_tables:
 𣸒	tije	10000
 𣹲	tijes	10000
 蟬	tijl	10000
-厗	tijmya	10011
+厗	tijmy	10011
 戻	tik	10002
 𣈡	tikao	10000
-戻	tikhs	10002
+戻	tikh	10002
 戻	tiki	10002
 𧛒	tiklh	10000
 𣧂	tikm	10000
@@ -39238,7 +39236,7 @@ import_tables:
 痑	tjn	10001
 𥹠	tjnf	10000
 𥰨	tjnhf	10000
-痑	tjnkna	10001
+痑	tjnkn	10001
 𦃖	tjnv	10000
 嘆	tjo	10885
 𣞔	tjod	10000
@@ -39700,7 +39698,7 @@ import_tables:
 誂	tnoy	10002
 𠧪	tnoyw	10000
 㬸	tnp	10000
-㬸	tnpbta	10000
+㬸	tnpbt	10000
 調	tnr	14677
 超	tnrg	10000
 笤	tnrh	10005
@@ -40070,7 +40068,7 @@ import_tables:
 痪	trkkn	10000
 敦	trky	10000
 𤱝	trm	10000
-𤱝	trmwo	10000
+𤱝	trmw	10000
 剬	trn	10000
 剸	trnj	10000
 剬	trnu	10000
@@ -40084,7 +40082,7 @@ import_tables:
 𧰄	trt	10000
 𧰄	trty	10000
 税	tru	10000
-税	truhd	10000
+税	truh	10000
 𩠹	truv	10000
 同	ts	58026
 通	tsb	26804
@@ -40111,7 +40109,7 @@ import_tables:
 𣑸	tsdb	10000
 㪌	tse	10000
 𣪯	tsej	10000
-㪌	tsenb	10000
+㪌	tsen	10000
 䳋	tsf	10000
 𪀭	tsfb	10000
 䳋	tsfl	10000
@@ -40555,7 +40553,7 @@ import_tables:
 畽	tyg	10002
 畽	tygw	10002
 暾	tyk	10013
-暾	tykay	10013
+暾	tyka	10013
 㬿	tykb	10000
 燉	tykfy	10000
 𧑒	tykl	10000
@@ -40710,7 +40708,7 @@ import_tables:
 𠍽	uaa	10000
 𠍽	uaao	10000
 𤑣	uab	10000
-𤑣	uabfm	10000
+𤑣	uabf	10000
 桬	uad	10001
 𣡽	uaddd	10000
 桬	uadeh	10001
@@ -41075,7 +41073,7 @@ import_tables:
 輋	ueju	10002
 𪨶	uejuk	10000
 赦	uek	10097
-赦	uekgca	10097
+赦	uekgc	10097
 䠶	uekh	10000
 𥘦	ueki	10000
 𠪣	uekm	10000
@@ -41195,7 +41193,7 @@ import_tables:
 渗	ufheia	10000
 糝	ufhf	10011
 糁	ufhfd	10000
-身	ufhhxa	15765
+身	ufhhx	15765
 參	ufhi	10103
 𢈯	ufhih	10000
 参	ufhik	10000
@@ -41259,7 +41257,7 @@ import_tables:
 谉	ufliv	10000
 审	ufljl	10000
 邥	ufll	10002
-申	ufllwa	12152
+申	ufllw	12152
 砷	uflm	10179
 珅	uflmg	10093
 鰰	ufln	10015
@@ -41303,7 +41301,7 @@ import_tables:
 㥲	ufpjc	10000
 諗	ufpy	10262
 信	ufr	10000
-信	ufroy	10000
+信	ufro	10000
 𠃫	ufs	10000
 𠃫	ufsjw	10000
 沈	ufu	16711
@@ -41375,7 +41373,7 @@ import_tables:
 垩	uggm	10000
 陞	uggn	10007
 𨁠	uggrm	10000
-聖	uggsra	12617
+聖	uggsr	12617
 声	ugh	10000
 声	ughga	10000
 𠴢	ughrg	10000
@@ -41423,7 +41421,7 @@ import_tables:
 𣢡	ugoh	10000
 嵊	ugp	10014
 乘	ugph	10013
-嵊	ugpuha	10014
+嵊	ugpuh	10014
 𧪝	ugpy	10000
 曻	ugq	10001
 曻	ugqa	10001
@@ -41526,7 +41524,7 @@ import_tables:
 䵰	uhhwf	10000
 𤳈	uhhwo	10000
 䬕	uhi	10000
-䬕	uhihna	10000
+䬕	uhihn	10000
 䵼	uhl	10000
 曏	uhlava	10000
 䵼	uhlvi	10000
@@ -41557,7 +41555,7 @@ import_tables:
 伤	uhs	10000
 伤	uhsoo	10000
 𧡮	uhu	10000
-𧡮	uhudu	10000
+𧡮	uhud	10000
 裳	uhv	10175
 裳	uhvfb	10175
 蠰	uhvli	10001
@@ -42268,7 +42266,7 @@ import_tables:
 𧗿	uknho	10000
 𠞩	ukny	10000
 𤀤	ukt	10000
-𤀤	ukteh	10000
+𤀤	ukte	10000
 甩	uku	11691
 甩	ukub	11691
 㲤	ukuy	10000
@@ -42328,10 +42326,10 @@ import_tables:
 鹴	ulm	10000
 鹴	ulmmu	10000
 㼽	uln	10000
-㼽	ulnkk	10000
+㼽	ulnk	10000
 𧕺	ulnl	10000
 傱	ulo	10000
-傱	ulooh	10000
+傱	uloo	10000
 瀧	ulp	10007
 泷	ulpe	10000
 瀧	ulpey	10007
@@ -42756,7 +42754,7 @@ import_tables:
 娶	uuvse	10000
 誰	uv	51873
 䭨	uvb	10000
-䭨	uvboia	10000
+䭨	uvboi	10000
 𦣢	uvbs	10000
 水	uve	37609
 閖	uvea	10004
@@ -42782,7 +42780,7 @@ import_tables:
 𠻜	uvjry	10000
 睡	uvm	31227
 𩩞	uvmb	10000
-睡	uvmbua	31227
+睡	uvmbu	31227
 娷	uvmv	10000
 氵	uvmy	10088
 㥨	uvp	10000
@@ -42920,7 +42918,7 @@ import_tables:
 𥅪	uzkb	10000
 獣	uzkf	10004
 𠈅	uzko	10000
-獸	uzkrra	11357
+獸	uzkrr	11357
 收	uzkvl	26857
 㧃	uzl	10000
 𨛶	uzlbe	10000
@@ -42959,7 +42957,7 @@ import_tables:
 潳	vaae	10002
 䄍	vaai	10000
 蜡	vaal	10000
-觰	vaanb	10004
+觰	vaan	10004
 㦋	vaap	10000
 踷	vaar	10001
 𨅓	vaarm	10000
@@ -42971,7 +42969,7 @@ import_tables:
 𧬅	vaayrb	10000
 齰	vaayu	10000
 㒀	vab	10000
-㒀	vaboy	10000
+㒀	vabo	10000
 耫	vac	10000
 𨢦	vacm	10000
 耫	vacq	10000
@@ -43165,7 +43163,7 @@ import_tables:
 㴙	vaxe	10000
 𧼰	vaxg	10000
 䙄	vaxlh	10000
-牐	vaxlla	10001
+牐	vaxll	10001
 牐	vaxln	10001
 𩃹	vaxmb	10000
 插	vaxq	10000
@@ -43265,7 +43263,7 @@ import_tables:
 𦬔	vcoth	10000
 旐	vcoy	10003
 𢡰	vcp	10000
-𢡰	vcpmka	10000
+𢡰	vcpmk	10000
 肇	vcq	10202
 肈	vcqh	10001
 肇	vcqhk	10202
@@ -43326,7 +43324,7 @@ import_tables:
 寨	vdd	10726
 𡍥	vddgy	10000
 夈	vddh	10001
-寨	vddjt	10726
+寨	vddj	10726
 㾹	vddky	10000
 粂	vddno	10000
 㩟	vddq	10000
@@ -43408,7 +43406,7 @@ import_tables:
 𠷒	vdur	10000
 𪚎	vduy	10000
 𠑞	vdv	10000
-𠑞	vdvoy	10000
+𠑞	vdvo	10000
 嚌	vdx	10013
 嚌	vdxry	10013
 齊	vdxy	10000
@@ -43490,7 +43488,7 @@ import_tables:
 埑	vegq	10001
 𠚱	veh	10000
 𤟍	vehk	10000
-𠚱	vehyn	10000
+𠚱	vehy	10000
 蜇	vei	10104
 𨵊	veian	10000
 棏	veid	10022
@@ -43602,7 +43600,7 @@ import_tables:
 㭯	veud	10000
 粍	veufd	10007
 𥭙	veuhs	10000
-輒	veujja	10108
+輒	veujj	10108
 辄	veuk	10000
 㡇	veulb	10000
 𥐽	veum	10000
@@ -43617,7 +43615,7 @@ import_tables:
 㢎	vex	10000
 㢎	vexih	10000
 斥	vey	10000
-斥	veyhmb	10000
+斥	veyhm	10000
 真	vf	75155
 潧	vfa	10026
 潧	vfae	10026
@@ -43939,7 +43937,7 @@ import_tables:
 𥒛	vgim	10000
 𤪡	vgisr	10000
 𨋬	vgj	10000
-𨋬	vgjnea	10000
+𨋬	vgjne	10000
 政	vgk	12938
 晸	vgka	10010
 敞	vgkf	10000
@@ -44071,10 +44069,10 @@ import_tables:
 嶂	vhju	10045
 嫜	vhjv	10003
 𡈠	vhjw	10000
-章	vhjyta	21220
+章	vhjyt	21220
 遧	vhjyy	10002
 杖	vhk	10604
-杖	vhkdja	10604
+杖	vhkdj	10604
 粀	vhkf	10001
 丈	vhkj	10307
 㽴	vhkk	10000
@@ -44086,7 +44084,7 @@ import_tables:
 𢷢	vhlqy	10000
 鄣	vhlyj	10034
 仉	vhn	10009
-仉	vhnoh	10009
+仉	vhno	10009
 帐	vho	10000
 胀	vhob	10000
 账	vhobo	10000
@@ -44109,7 +44107,7 @@ import_tables:
 弡	vhs	10001
 弡	vhsn	10001
 𠫝	vhu	10000
-𠫝	vhuiha	10000
+𠫝	vhuih	10000
 漲	vhv	45235
 賬	vhvb	10800
 脹	vhvbs	10413
@@ -44424,7 +44422,7 @@ import_tables:
 泜	viieh	10002
 𥹩	viifd	10000
 蟄	viigi	10000
-執	viigja	10845
+執	viigj	10845
 𧾂	viigoa	10000
 秪	viihd	10002
 秇	viihda	10000
@@ -44763,7 +44761,7 @@ import_tables:
 𪙹	viuyua	10000
 製	viv	10030
 𡠗	vivgi	10000
-製	vivhna	10030
+製	vivhn	10030
 値	vivoj	10014
 𧜚	vivon	10000
 䭁	vivq	10000
@@ -44860,11 +44858,11 @@ import_tables:
 撣	vjjqr	10000
 單	vjjrr	10000
 讝	vjk	10002
-讝	vjkyr	10002
+讝	vjky	10002
 斬	vjl	11976
 䁪	vjlbu	10000
 𥇢	vjlbua	10000
-斬	vjljja	11976
+斬	vjljj	11976
 斩	vjlkq	10000
 𠌲	vjloj	10000
 𡽻	vjlue	10000
@@ -45152,7 +45150,7 @@ import_tables:
 謶	vofyr	10003
 𨖮	vofyu	10000
 濯	vog	10073
-濯	voges	10073
+濯	voge	10073
 篧	vogh	10002
 籗	voghm	10001
 籱	voghma	10001
@@ -45833,7 +45831,7 @@ import_tables:
 篫	vuqhm	10001
 𣥼	vur	10000
 𤥮	vurm	10000
-𣥼	vurym	10000
+𣥼	vury	10000
 助	vus	11562
 助	vusb	11562
 筯	vush	10001
@@ -45846,7 +45844,7 @@ import_tables:
 䆝	vutjc	10000
 㿾	vutjm	10000
 㺛	vutkh	10000
-馵	vutsfa	10002
+馵	vutsf	10002
 逗	vutym	10000
 𧈚	vutyt	10000
 祝	vuu	14033
@@ -45856,7 +45854,7 @@ import_tables:
 鼄	vuuhd	10001
 𥞏	vuuhda	10000
 笜	vuuhu	10001
-祝	vuuifa	14033
+祝	vuuif	14033
 窋	vuuj	10003
 𡧨	vuujua	10000
 㑳	vuuo	10000
@@ -45866,7 +45864,7 @@ import_tables:
 茁	vuut	10000
 𪚹	vuuy	10000
 兪	vuv	10000
-兪	vuvom	10000
+兪	vuvo	10000
 𡻌	vuvuu	10000
 舳	vuw	10006
 舳	vuwhy	10006
@@ -45926,7 +45924,7 @@ import_tables:
 𧿲	vvhrm	10000
 𨒉	vvhyl	10000
 鑆	vvi	10001
-鑆	vvict	10001
+鑆	vvic	10001
 轛	vvij	10001
 致	vvk	10000
 致	vvkm	10000
@@ -46090,7 +46088,7 @@ import_tables:
 胕	vzibo	10001
 𥌆	vzibu	10000
 𨥇	vzicd	10000
-舟	vzihba	10895
+舟	vzihb	10895
 䈙	vzihv	10000
 诪	vziiv	10000
 疛	vzik	10001
@@ -46156,7 +46154,7 @@ import_tables:
 𧭍	vzoy	10000
 逐	vzoym	10000
 僽	vzp	10008
-僽	vzpoh	10008
+僽	vzpo	10008
 週	vzr	10032
 晭	vzra	10001
 賙	vzrb	10003
@@ -46186,7 +46184,7 @@ import_tables:
 週	vzryb	10032
 調	vzryr	10000
 盩	vzt	10004
-盩	vztgk	10004
+盩	vztg	10004
 縐	vzu	10128
 䐢	vzub	10000
 𤏲	vzuft	10000
@@ -46386,7 +46384,7 @@ import_tables:
 𨂿	wdmrm	10000
 夞	wdp	10000
 𨵞	wdpa	10000
-夞	wdpny	10000
+夞	wdpn	10000
 喎	wdr	10059
 咼	wdrb	10001
 喎	wdrr	10059
@@ -46445,7 +46443,7 @@ import_tables:
 𦮶	wfht	10000
 彣	wfhy	10001
 璺	wfi	10013
-璺	wfihba	10013
+璺	wfihb	10013
 蟁	wfirp	10001
 蚉	wfiy	10001
 𧖁	wfiyb	10000
@@ -46711,7 +46709,7 @@ import_tables:
 方	whs	10000
 方	whsyh	10000
 尣	whu	10001
-尣	whucha	10001
+尣	whuch	10001
 尢	whuku	10000
 網	whv	31239
 罔	whvb	10198
@@ -46767,7 +46765,7 @@ import_tables:
 𪂦	wjfjn	10000
 𩾞	wjfk	10000
 𠠪	wjh	10000
-𠠪	wjhvfa	10000
+𠠪	wjhvf	10000
 丸	wji	11026
 骫	wjib	10002
 𤧩	wjibi	10000
@@ -46831,7 +46829,7 @@ import_tables:
 绾	wjrvm	10000
 杤	wjs	10001
 𨩯	wjsc	10000
-杤	wjsdm	10001
+杤	wjsd	10001
 𡩄	wjsjn	10000
 万	wjsm	10000
 𠣉	wjsmb	10000
@@ -46955,7 +46953,7 @@ import_tables:
 𡁮	wobr	10000
 莴	wobt	10000
 𪎤	woc	10000
-𪎤	wocek	10000
+𪎤	woce	10000
 捰	wod	10001
 𣇫	wodaw	10000
 𪎤	wodek	10000
@@ -47265,7 +47263,7 @@ import_tables:
 坞	wumgp	10000
 𩗽	wumh	10000
 武	wumm	13163
-五	wummda	22863
+五	wummd	22863
 珷	wummg	10012
 鹉	wummm	10000
 鹀	wummo	10000
@@ -47593,7 +47591,7 @@ import_tables:
 䜅	wwgy	10000
 濊	wwh	10012
 𧴖	wwhb	10000
-濊	wwheya	10012
+濊	wwhey	10012
 𣩪	wwhm	10000
 饖	wwhoi	10001
 䮹	wwhsf	10000
@@ -47657,7 +47655,7 @@ import_tables:
 鄬	wwl	10002
 鄬	wwlbf	10002
 𨝀	wwlh	10000
-鄬	wwlifa	10002
+鄬	wwlif	10002
 𨚘	wwljda	10000
 䣀	wwlnu	10000
 𨟗	wwltf	10000
@@ -47982,7 +47980,7 @@ import_tables:
 𣃄	xbltb	10000
 薪	xblty	10464
 妡	xblvh	10002
-新	xblyda	87285
+新	xblyd	87285
 訢	xblyr	10000
 舋	xbm	10002
 𧴢	xbmbh	10000
@@ -48418,7 +48416,7 @@ import_tables:
 𠩺	ximjk	10000
 䚙	ximn	10000
 翖	ximo	10001
-翕	ximora	10054
+翕	ximor	10054
 𢡁	ximpo	10000
 㩉	ximq	10000
 噏	ximr	10001
@@ -48857,7 +48855,7 @@ import_tables:
 享	xld	10609
 𩡄	xldha	10000
 啍	xldr	10000
-享	xldyr	10609
+享	xldy	10609
 𩑇	xle	10000
 樣	xled	10000
 𩑇	xley	10000
@@ -48887,7 +48885,7 @@ import_tables:
 𦕺	xljyra	10000
 𥫖	xlk	10000
 𩞥	xlko	10000
-𥫖	xlkyj	10000
+𥫖	xlky	10000
 鄉	xll	21934
 䦳	xllan	10000
 曏	xllav	10004
@@ -49055,7 +49053,7 @@ import_tables:
 嫺	xmbv	10000
 顯	xmc	14636
 顕	xmca	10005
-顯	xmcafa	14636
+顯	xmcaf	14636
 㫫	xmcam	10000
 显	xmcat	10000
 臔	xmcb	10001
@@ -49337,7 +49335,7 @@ import_tables:
 灑	xmpem	10000
 𧾨	xmpgo	10000
 𨏥	xmpj	10000
-憲	xmpjqa	11088
+憲	xmpjq	11088
 𤼂	xmpkja	10000
 幰	xmpl	10003
 䘆	xmpli	10000
@@ -49532,7 +49530,7 @@ import_tables:
 消	xnbe	11491
 淆	xnbek	10013
 𣹝	xnben	10000
-肖	xnbfba	15156
+肖	xnbfb	15156
 焇	xnbff	10001
 燆	xnbfh	10001
 熇	xnbfy	10000
@@ -49649,7 +49647,7 @@ import_tables:
 䒕	xnft	10000
 鵁	xnfy	10001
 𠈬	xng	10000
-𠈬	xngoha	10000
+𠈬	xngoh	10000
 灱	xnh	10003
 漻	xnhes	10001
 灱	xnhfs	10003
@@ -49677,7 +49675,7 @@ import_tables:
 敩	xnkf	10000
 䉰	xnkhb	10000
 斆	xnkhd	10002
-笑	xnkhha	24515
+笑	xnkhh	24515
 筱	xnkho	10464
 筊	xnkhy	10000
 較	xnkjj	10000
@@ -50034,7 +50032,7 @@ import_tables:
 䔑	xpjto	10000
 楔	xpk	10138
 膎	xpkb	10001
-楔	xpkdq	10138
+楔	xpkd	10138
 奊	xpkg	10005
 𥢹	xpkhd	10000
 褉	xpkl	10054
@@ -50098,7 +50096,7 @@ import_tables:
 些	xpmypa	31954
 𧭸	xpmyr	10000
 㽊	xpn	10000
-㽊	xpnfe	10000
+㽊	xpnf	10000
 𥝖	xpnh	10000
 𤮯	xpnux	10000
 歇	xpo	10778
@@ -50742,7 +50740,7 @@ import_tables:
 鷽	xtf	10003
 𪃅	xtffn	10000
 燢	xtfh	10001
-鷽	xtfhba	10003
+鷽	xtfhb	10003
 㡜	xtfl	10000
 𨂂	xtfr	10000
 壆	xtg	10003
@@ -50987,7 +50985,7 @@ import_tables:
 𨵮	xug	10000
 𨵮	xuga	10000
 𤆞	xuh	10000
-𤆞	xuhfp	10000
+𤆞	xuhf	10000
 𤬱	xuhm	10000
 㳚	xui	10000
 𣆒	xuia	10000
@@ -51128,7 +51126,7 @@ import_tables:
 𩪉	xupbb	10000
 㦌	xuphu	10000
 𤚉	xuq	10000
-𤚉	xuqsea	10000
+𤚉	xuqs	10000
 呴	xur	10015
 昫	xura	10002
 眗	xurb	10000
@@ -51285,7 +51283,7 @@ import_tables:
 𠀼	xxkm	10000
 𢚌	xxkp	10000
 𢑓	xxkvc	10000
-謑	xxkyr	10002
+謑	xxky	10002
 呷	xxl	10294
 柙	xxldw	10010
 炠	xxlf	10001
@@ -51662,7 +51660,7 @@ import_tables:
 𩿔	yafme	10000
 鵶	yafmm	10001
 𪆰	yaft	10000
-鴨	yafwlb	11310
+鴨	yafwl	11310
 雅	yag	18994
 睚	yagb	10010
 涯	yagem	10314
@@ -52000,7 +51998,7 @@ import_tables:
 𨛊	yblkha	10000
 蚓	yblli	10026
 鮣	yblnf	10001
-引	yblnla	14196
+引	yblnl	14196
 䲟	yblnm	10000
 伒	yblo	10009
 𪛊	yblob	10000
@@ -52179,7 +52177,7 @@ import_tables:
 讑	ycby	10001
 顤	ycc	10002
 柼	yccdj	10001
-顤	yccgu	10002
+顤	yccg	10002
 𧷋	yccm	10000
 𩑗	yccv	10000
 𩑴	yccvi	10000
@@ -52233,7 +52231,7 @@ import_tables:
 玅	ych	10001
 𢆷	ychvi	10000
 𢆽	ychvl	10000
-玅	ychyia	10001
+玅	ychyi	10001
 么	yci	10492
 颻	ycib	10008
 么	ycihi	10492
@@ -52251,7 +52249,7 @@ import_tables:
 𪐯	yciwf	10000
 㢓	ycj	10000
 𢋇	ycjiw	10000
-㢓	ycjiya	10000
+㢓	ycjiy	10000
 𥦖	ycjj	10000
 𤺃	ycjkh	10000
 咬	yck	17118
@@ -52288,7 +52286,7 @@ import_tables:
 齩	yckyu	10001
 鼼	ycl	10001
 𥃧	yclbu	10000
-鼼	yclhl	10001
+鼼	yclh	10001
 䆗	ycljc	10000
 𠍩	yclom	10000
 約	ycm	10004
@@ -52709,20 +52707,20 @@ import_tables:
 喝	yevr	10000
 䋵	yevv	10000
 𪑦	yevw	10000
-謁	yevyr	10075
+謁	yevy	10075
 靥	yew	10000
 𤳪	yewm	10000
 靥	yewmi	10000
 養	yh	31261
 氜	yha	10001
 阳	yhanl	10000
-氜	yhaon	10001
+氜	yhao	10001
 𦴊	yhb	10000
 𦴊	yhbt	10000
 崸	yhc	10003
 崸	yhcu	10003
 𣐫	yhd	10000
-𣐫	yhdmea	10000
+𣐫	yhdme	10000
 樣	yhe	24717
 𢽕	yheb	10000
 様	yhed	10027
@@ -52746,7 +52744,7 @@ import_tables:
 鴹	yhft	10001
 㒕	yhg	10000
 𤢐	yhgkh	10000
-㒕	yhgoya	10000
+㒕	yhgoy	10000
 楊	yhh	20372
 暘	yhha	10010
 昜	yhham	10005
@@ -52794,7 +52792,7 @@ import_tables:
 𩴨	yhitq	10000
 將	yhiv	10000
 𤞢	yhj	10000
-𤞢	yhjkha	10000
+𤞢	yhjkh	10000
 央	yhk	10437
 敭	yhka	10006
 映	yhkal	10000
@@ -52990,7 +52988,7 @@ import_tables:
 𥿹	yicv	10000
 異	yicw	11270
 遺	yicy	10521
-亦	yicyla	15498
+亦	yicyl	15498
 頉	yicym	10001
 讉	yicyr	10002
 𩔦	yicyra	10000
@@ -53241,7 +53239,7 @@ import_tables:
 𤑹	yijvf	10000
 圛	yijw	10002
 睪	yijwl	10000
-譯	yijyrb	11156
+譯	yijyra	11156
 伊	yik	13851
 钀	yikcy	10005
 棭	yikdy	10001
@@ -54014,7 +54012,7 @@ import_tables:
 𩩄	yjjbba	10000
 𩾝	yjjh	10000
 豣	yjjmoa	10000
-硏	yjjmra	10024
+硏	yjjmr	10024
 覃	yjjmw	10000
 趼	yjjrm	10000
 䮗	yjjs	10000
@@ -54811,7 +54809,7 @@ import_tables:
 謜	yrfy	10003
 䲻	yrfyi	10000
 𢆀	yrg	10000
-𢆀	yrglba	10000
+𢆀	yrglb	10000
 穿	yrh	10000
 穿	yrhjc	10000
 冤	yri	10473
@@ -55068,7 +55066,7 @@ import_tables:
 鄘	yslib	10002
 㞲	yslul	10000
 𣏀	ysn	10000
-𣏀	ysndl	10000
+𣏀	ysnd	10000
 𧗴	ysnh	10000
 颙	yso	10000
 臾	ysoh	10000
@@ -55264,7 +55262,7 @@ import_tables:
 𦚢	ytp	10000
 𦚢	ytpba	10000
 髺	ytr	10000
-髺	ytrsha	10000
+髺	ytrs	10000
 䖃	ytrt	10000
 粵	yts	10879
 粤	ytsh	10000
@@ -55273,7 +55271,7 @@ import_tables:
 𡆽	ytsw	10000
 𧨄	ytsy	10000
 𠪶	ytt	10000
-𠪶	yttmma	10000
+𠪶	yttmm	10000
 𧯡	yttnu	10000
 悅	ytu	10985
 閱	ytua	10645
@@ -55661,7 +55659,7 @@ import_tables:
 䱷	yukyf	10000
 䢩	yukym	10000
 䲣	yukyma	10000
-虞	yukypa	10507
+虞	yukyp	10507
 御	yul	10927
 䥏	yulch	10000
 𨨶	yulco	10000
@@ -55976,7 +55974,7 @@ import_tables:
 䘱	yuvyc	10000
 畬	yuw	10010
 𤳕	yuwn	10000
-畬	yuwoma	10010
+畬	yuwom	10010
 於	yuy	234178
 閼	yuya	10008
 棜	yuyd	10010
@@ -55993,7 +55991,7 @@ import_tables:
 𢮁	yuyqy	10000
 唹	yuyry	10007
 菸	yuyty	10002
-於	yuyysa	234178
+於	yuyys	234178
 暈	yy	81146
 𨍆	yya	10000
 筍	yyah	10000
@@ -56089,7 +56087,7 @@ import_tables:
 齳	yyjy	10001
 運	yyjyb	13047
 尹	yyk	10000
-尹	yyksk	10000
+尹	yyks	10000
 鄖	yyl	10030
 鄆	yylb	10017
 郓	yylbq	10000
@@ -56596,7 +56594,7 @@ import_tables:
 𣗁	zarm	10000
 𨤃	zas	10000
 𨤃	zasm	10000
-咋	zasro	22162
+咋	zasr	22162
 𠱥	zat	10000
 𠱥	zatr	10000
 扎	zau	10135
@@ -56605,7 +56603,7 @@ import_tables:
 咱	zaurh	10000
 𡁕	zav	10000
 𧌃	zavl	10000
-𡁕	zavrs	10000
+𡁕	zavr	10000
 䨿	zay	10000
 𧾁	zayg	10000
 𩇺	zayhk	10000
@@ -56774,7 +56772,7 @@ import_tables:
 𣔮	zds	10000
 𣔮	zdsdj	10000
 𧯥	zdt	10000
-𧯥	zdtjia	10000
+𧯥	zdtji	10000
 𨚵	zdu	10000
 𨚵	zduji	10000
 𩛳	zdv	10000
@@ -56914,7 +56912,7 @@ import_tables:
 𪌟	zesj	10000
 𩂖	zesm	10000
 飵	zeso	10000
-咋	zesro	10019
+咋	zesr	10019
 葃	zest	10000
 迮	zesy	10006
 𨕠	zesyj	10000
@@ -56976,7 +56974,7 @@ import_tables:
 鄫	zgl	10004
 鄫	zglca	10004
 䎖	zgm	10000
-䎖	zgmca	10000
+䎖	zgmc	10000
 甑	zgn	10037
 甑	zgnca	10037
 䵴	zgu	10000
@@ -57039,7 +57037,7 @@ import_tables:
 弉	zhtv	10002
 子	zi	49540
 㬐	zia	10000
-㬐	ziaam	10000
+㬐	ziaa	10000
 𥻍	ziaf	10000
 姉	zib	10003
 𣚀	zibdy	10000
@@ -57084,7 +57082,7 @@ import_tables:
 栥	zidmoa	10003
 矷	zidmr	10002
 孖	zidn	10019
-子	zidnda	49540
+子	zidnd	49540
 䰵	zidnf	10000
 䦻	zidnl	10000
 仔	zido	12280
@@ -57107,7 +57105,7 @@ import_tables:
 吱	zie	10048
 𢼱	zieb	10000
 沝	ziee	10004
-吱	zierja	10048
+吱	zierj	10048
 𣥨	ziey	10000
 紫	zif	13101
 橴	zifd	10000
@@ -57175,7 +57173,7 @@ import_tables:
 乲	zinio	10000
 剚	zinj	10006
 事	zinjl	10000
-倳	zinoj	10012
+倳	zino	10012
 𡸪	zinu	10000
 𧨴	ziny	10000
 趑	zio	10059
@@ -57239,7 +57237,7 @@ import_tables:
 𠡸	zis	10000
 𠡸	zishn	10000
 齍	zit	10001
-齍	zityx	10001
+齍	zity	10001
 自	ziu	24406
 自	ziuhb	24406
 𣯃	ziuira	10000
@@ -57510,7 +57508,7 @@ import_tables:
 䋏	zosvf	10000
 迮	zosy	10000
 柮	zou	10000
-柮	zoudu	10000
+柮	zoud	10000
 𡪳	zoujh	10000
 𦦹	zox	10000
 𦦹	zoxte	10000
@@ -57753,7 +57751,7 @@ import_tables:
 𨄕	zukr	10000
 㞺	zuku	10000
 𡻬	zukuy	10000
-族	zukys	12302
+族	zuky	12302
 租	zum	14255
 鉏	zumc	10006
 𨩰	zumcha	10000
@@ -57912,7 +57910,7 @@ import_tables:
 𠿘	zvsr	10000
 𦆈	zvsvf	10000
 栬	zvu	10001
-栬	zvudn	10001
+栬	zvud	10001
 𥳵	zvuhv	10000
 𦏳	zvus	10000
 蕝	zvut	10000
@@ -58024,7 +58022,7 @@ import_tables:
 偢	zzf	10006
 偢	zzfo	10006
 𠂑	zzi	10000
-𠂑	zzihva	10000
+𠂑	zzihv	10000
 揍	zzk	10788
 楱	zzkdq	10002
 𪃆	zzkh	10000
