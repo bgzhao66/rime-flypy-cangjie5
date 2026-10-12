@@ -2,5 +2,5 @@
 	path = plugins/latex
 	url = https://github.com/bgzhao66/rime_latex.git
 [submodule "lua"]
-	path = lua
+	path = plugins/lua
 	url = git@github.com:bgzhao66/rime-lua-filters.git
