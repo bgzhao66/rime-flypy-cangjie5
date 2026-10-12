@@ -4,22 +4,29 @@ Pinyin → Shuangpin (Xiaohe) converter with incremental encoding.
 
 主要特性：
 - 主碼：每字雙拼（兩碼）拼接，全部小寫。
-- 條目以「字詞 + 無調讀音序列」為唯一鍵：
+- 頻率以「字詞 + 無調讀音序列」為唯一鍵累加，與輔助碼序列無關：
   同一字詞的多個有調讀音，若無調形式相同，視為同一條目，頻率相加。
-- 增量編碼：起點為完整雙拼。
-  所有條目按「自身詞頻」降序逐條處理；
-  若 full_code 未被佔用則直接使用，否則依序追加輔助碼，
-  輔助碼耗盡後追加 a, b, c, ... 直至唯一。
+- 條目結構：每個 (word, toneless_seq) 對應一個 entry，
+  其 aux_seqs 為該字詞所有可能的輔助碼序列（list of list）。
+- 增量編碼：對每個 (word, toneless_seq)，將其 aux_seqs 視為 trie 中的路徑，
+  從根（full_code）出發，對每條路徑搜索一個無衝突的最短編碼。
+  * 若多條路徑產生相同的最短碼，則合併到該 code 下；
+  * 若路徑在 trie 中已分叉、產生不同編碼，則各自視為獨立編碼，不合併。
+  結果結構：{(word, toneless_seq): {code: [remaining_aux_seq, ...]}}
 - 輔助碼來源：倉頡碼（小寫）。
-  * 單字最多 3 級：尾碼、首碼、次碼
-  * 雙字詞最多 3 級：尾字尾碼、首字首碼、次字首碼
-  * 三字詞最多 3 級：尾字尾碼、首字首碼、次字首碼
-  * 四字及以上：無倉頡輔助碼
-- 單字長碼：主碼完成後，若單字主碼長度 < 4，
-  額外生成一個長碼：雙拼 + 尾碼 + 首碼（4 字符），
-  衝突時追加次碼或 a,b,c... 直至可用。
+  統一處理：對每個字的倉頡碼列表做笛卡爾積，每個組合按詞長生成一個輔助碼序列。
+  * 單字：尾碼、首碼、次碼（單字為多字詞的特例）
+  * 雙字詞：尾字尾碼、首字首碼、尾字首碼
+  * 三字詞：尾字尾碼、首字首碼、次字首碼
+  * 四字及以上：無倉頡輔助碼，僅一個無輔助碼變體
+- 單字長碼：若某主碼長度 < 4，則以該主碼為根，在該字詞記錄的剩餘 aux 樹基礎上
+  繼續遍歷，對每條路徑逐步追加 aux_seq 直至碼長 >= 4 且唯一；
+  aux_seq 耗盡後追加 a, b, c, ... 直至唯一。
+  例如「低」→ dimo, diio。
 - 簡碼：僅 1~3 字詞，長度 = 雙拼主碼長度 - 1，
   按詞頻降序分配；不得與任何主碼或已分配簡碼衝突。
+  簡碼只看雙拼主碼，與倉頡輔助碼無關；
+  同一 (word, toneless_seq) 只分配一個簡碼。
   輸出到 {name}_short.dict.yaml。
 - 1~3 字詞若含無倉頡碼的字：打印錯誤日誌並放棄該字詞編碼。
 - 解析帶拼音的詞彙文件時，校驗「拼音數 == 字數」，
@@ -38,6 +45,7 @@ import argparse
 import unicodedata
 import unittest
 from collections import defaultdict
+from itertools import product
 
 
 # ============================================================
@@ -379,48 +387,61 @@ def check_cangjie_availability(word):
     return True
 
 
-def get_auxiliary_sequence(word):
+def _single_char_aux_seq(cj):
+    """單字倉頡碼 → 輔助碼序列（尾碼、首碼、次碼）。"""
+    cj = cj.lower()
+    seq = [cj[-1], cj[0]]
+    if len(cj) >= 2:
+        seq.append(cj[1])
+    return seq[:3]
+
+
+def _build_aux_seq_from_combo(combo):
     """
-    返回字詞的輔助碼備選序列（小寫字符列表）。
-      * 單字：尾碼、首碼、次碼
-      * 雙字詞：尾字尾碼、首字首碼、次字首碼
-      * 三字詞：尾字尾碼、首字首碼、次字首碼
-      * 四字及以上：無
+    由倉頡碼組合生成輔助碼序列。
+    combo: tuple，每個元素是一個字的倉頡碼，按詞順序。
+    """
+    L = len(combo)
+    if L == 1:
+        return _single_char_aux_seq(combo[0])
+    if L == 2:
+        cj0, cj1 = combo
+        return [cj1[-1], cj0[0], cj1[0]][:3]
+    if L == 3:
+        cj0, cj1, cj2 = combo
+        return [cj2[-1], cj0[0], cj1[0]][:3]
+    return []
+
+
+def get_auxiliary_sequences(word):
+    """
+    返回該字詞所有可能的輔助碼序列（list of list）。
+    統一處理：對每個字的倉頡碼列表做笛卡爾積，
+    每個組合按詞長生成一個輔助碼序列。
+    單字為多字詞的特例（只有一個字的組合）。
+    四字及以上返回 [[]]。
     """
     L = len(word)
     if L >= 4:
-        return []
+        return [[]]
 
-    if L == 1:
-        cj = kCangjieCodes[word][0].lower()
-        seq = []
-        if len(cj) >= 1:
-            seq.append(cj[-1])
-            seq.append(cj[0])
-        if len(cj) >= 2:
-            seq.append(cj[1])
-        return seq[:3]
+    cj_lists = []
+    for ch in word:
+        cjs = [c.lower() for c in kCangjieCodes.get(ch, [])]
+        cj_lists.append(cjs)
 
-    if L == 2:
-        cj_first = kCangjieCodes[word[0]][0].lower()
-        cj_last = kCangjieCodes[word[1]][0].lower()
-        return [
-            cj_last[-1],
-            cj_first[0],
-            cj_last[0],
-        ][:3]
+    if any(not lst for lst in cj_lists):
+        return [[]]
 
-    if L == 3:
-        cj_first = kCangjieCodes[word[0]][0].lower()
-        cj_second = kCangjieCodes[word[1]][0].lower()
-        cj_last = kCangjieCodes[word[2]][0].lower()
-        return [
-            cj_last[-1],
-            cj_first[0],
-            cj_second[0],
-        ][:3]
-
-    return []
+    result = []
+    seen = set()
+    for combo in product(*cj_lists):
+        seq = _build_aux_seq_from_combo(combo)
+        key = tuple(seq)
+        if key not in seen:
+            seen.add(key)
+            result.append(seq)
+    return result or [[]]
 
 
 # ============================================================
@@ -438,58 +459,69 @@ def _index_to_letters(idx):
     return result
 
 
-def _assign_code(full_code, aux_seq, used_codes):
-    """
-    為一個條目分配編碼：
-    - 若 full_code 未被佔用，直接使用。
-    - 否則依序追加輔助碼；輔助碼耗盡後追加 a, b, c, ...
-    - 返回分配的編碼（不修改 used_codes）。
-    """
-    if full_code not in used_codes:
-        return full_code
-
-    # 嘗試逐一追加輔助碼
-    extended = full_code
-    for a in aux_seq:
-        extended += a
-        if extended not in used_codes:
-            return extended
-
-    # 輔助碼耗盡 → 字母追加模式
-    base = full_code + ''.join(aux_seq)
+def _extend_with_letters(code, used_codes):
+    """在 code 後追加 a, b, c, ... 直到找到未佔用的編碼。"""
     letter_idx = 0
     while True:
-        candidate = base + _index_to_letters(letter_idx)
+        candidate = code + _index_to_letters(letter_idx)
         if candidate not in used_codes:
             return candidate
         letter_idx += 1
 
 
+def _assign_code(full_code, aux_seqs, used_codes, min_length=1):
+    """
+    為一組屬於同一個 (word, toneless_seq) 的 aux_seq 搜索編碼。
+    把 aux_seqs 概念上構建成 trie 結構，對每條路徑搜索一個滿足要求的
+    最短無衝突編碼；並在返回結果中記錄該編碼與已搜索節點對應的剩餘 aux 樹。
+
+    - 若多條路徑產生同一編碼，則合併到該 code 下（路徑尚未分叉）；
+    - 若路徑在 trie 中已分叉、產生不同編碼，則各自獨立，不合併。
+
+    full_code: 雙拼主碼（作為編碼前綴）
+    aux_seqs: 該字詞的所有輔助碼序列（trie 中的路徑）
+    used_codes: 已佔用編碼集合
+    min_length: 最短要求的編碼長度（主碼默認 1，長碼為 4）
+
+    返回：{code: [remaining_aux_seq, ...]}
+    """
+    result = defaultdict(list)
+    for aux_seq in aux_seqs:
+        code = full_code
+        remaining = list(aux_seq)
+        while len(code) < min_length or code in used_codes:
+            if remaining:
+                code += remaining.pop(0)
+            else:
+                code = _extend_with_letters(code, used_codes)
+                break
+        result[code].append(remaining)
+    return result
+
+
 def incremental_encode(entries, initial_used_codes=None):
     """
-    增量編碼：逐條處理。
+    增量編碼：對每個 (word, toneless_seq)，將其 aux_seqs 視為 trie 中的路徑，
+    從根（full_code）出發，對每條路徑搜索一個無衝突的最短編碼。
 
-    所有條目按「自身詞頻」降序排序；
-    依次為每個條目分配編碼：
-      - 若 full_code 未被佔用 → 直接使用；
-      - 否則依序追加輔助碼；
-      - 輔助碼耗盡後追加 a, b, c, ... 直至唯一。
+    - 若多條路徑產生相同最短碼，則合併到該 code 下；
+    - 若路徑在 trie 中已分叉、產生不同編碼，則各自視為獨立編碼，不合併。
 
-    initial_used_codes: 可選，初始已佔用的編碼集合。
-
-    entries: list of dict，含 word, toneless_seq, full_code, freq, aux_seq
-    返回 (results, used_codes)
+    返回 (results, used_codes)。
+    results 結構：{(word, toneless_seq): {code: [remaining_aux_seq, ...]}}
     """
     used_codes = set(initial_used_codes) if initial_used_codes else set()
-    results = {}
+    results = defaultdict(lambda: defaultdict(list))
 
     sorted_entries = sorted(entries, key=lambda e: e['freq'], reverse=True)
 
     for e in sorted_entries:
-        key = (e['word'], tuple(e['toneless_seq']))
-        code = _assign_code(e['full_code'], e['aux_seq'], used_codes).lower()
-        results[key] = code
-        used_codes.add(code)
+        base_key = (e['word'], tuple(e['toneless_seq']))
+        code_to_remaining = _assign_code(
+            e['full_code'], e['aux_seqs'], used_codes, min_length=1)
+        for code, remaining_list in code_to_remaining.items():
+            results[base_key][code] = remaining_list
+            used_codes.add(code)
 
     return results, used_codes
 
@@ -498,53 +530,32 @@ def incremental_encode(entries, initial_used_codes=None):
 # 單字長碼
 # ============================================================
 
-def generate_long_codes_for_chars(entries, encode_result, used_codes):
+def generate_long_codes_for_chars(encode_result, used_codes):
     """
     為單字生成至少 4 字符的長碼（額外編碼）。
-    按詞頻降序分配；已被佔用（主碼集合 + 已分配長碼）跳過。
+    對每個 (word, toneless_seq) 的每個主碼：
+      - 若主碼長度 >= 4，跳過。
+      - 否則以主碼為根，在該字詞記錄的剩餘 aux 樹基礎上繼續遍歷，
+        對每條路徑逐步追加 aux_seq 直至碼長 >= 4 且唯一；
+        aux_seq 耗盡後追加 a, b, c, ... 直至唯一。
+
+    返回結構：{(word, toneless_seq): {long_code: [remaining_aux_seq, ...]}}
     """
-    long_codes = {}
+    long_codes = defaultdict(dict)
     long_used = set(used_codes)
 
-    char_entries = [e for e in entries if len(e['word']) == 1]
-    char_entries.sort(key=lambda x: x['freq'], reverse=True)
-
-    for e in char_entries:
-        key = (e['word'], tuple(e['toneless_seq']))
-        if key not in encode_result:
+    for base_key, code_map in encode_result.items():
+        word, toneless_seq = base_key
+        if len(word) != 1:
             continue
-        main_code = encode_result[key]
-        if len(main_code) >= 4:
-            continue
-
-        word = e['word']
-        full_code = e['full_code']
-        cj_list = kCangjieCodes.get(word, [])
-        if not cj_list:
-            continue
-        cj = cj_list[0].lower()
-
-        tail = cj[-1] if len(cj) >= 1 else ''
-        head = cj[0] if len(cj) >= 2 else tail
-        third = cj[1] if len(cj) >= 3 else ''
-
-        candidates = []
-        base = full_code + tail + head
-        candidates.append(base)
-        if third:
-            candidates.append(base + third)
-            letter_base = base + third
-        else:
-            letter_base = base
-
-        for i in range(26):
-            candidates.append(letter_base + _index_to_letters(i))
-
-        for c in candidates:
-            if c not in long_used:
-                long_codes[key] = c
+        for main_code, remaining_list in code_map.items():
+            if len(main_code) >= 4:
+                continue
+            long_code_to_remaining = _assign_code(
+                main_code, remaining_list, long_used, min_length=4)
+            for c, rem_list in long_code_to_remaining.items():
+                long_codes[base_key][c] = rem_list
                 long_used.add(c)
-                break
 
     return long_codes
 
@@ -559,19 +570,24 @@ def generate_short_codes(entries, encode_result, used_codes):
     - 簡碼長度 = 雙拼主碼 (full_code) 長度 - 1；長度 < 2 時無法生成。
     - 不得與任何主碼或已分配的簡碼衝突。
     - 按詞頻降序分配。
+    - 簡碼只看雙拼主碼，與倉頡輔助碼無關。
+      同一 (word, toneless_seq) 只需处理一次，分配一个简码。
     """
-    indexed = []
+    seen = {}
     for e in entries:
-        key = (e['word'], tuple(e['toneless_seq']))
-        if key not in encode_result:
-            continue
+        base_key = (e['word'], tuple(e['toneless_seq']))
+        if base_key not in seen:
+            seen[base_key] = e
+
+    indexed = []
+    for base_key, e in seen.items():
         if len(e['word']) > 3:
             continue
         full_code = e['full_code']
         if len(full_code) < 2:
             continue
         candidate = full_code[:-1]
-        indexed.append((key, candidate, e['freq']))
+        indexed.append((base_key, candidate, e['freq']))
 
     if not indexed:
         return {}
@@ -581,12 +597,12 @@ def generate_short_codes(entries, encode_result, used_codes):
     short_codes = {}
     short_used = set(used_codes)
 
-    for key, candidate, freq in indexed:
-        if key in short_codes:
+    for base_key, candidate, freq in indexed:
+        if base_key in short_codes:
             continue
         if candidate in short_used:
             continue
-        short_codes[key] = candidate
+        short_codes[base_key] = candidate
         short_used.add(candidate)
 
     return short_codes
@@ -599,63 +615,62 @@ def generate_short_codes(entries, encode_result, used_codes):
 def build_entries(char_codes, char_nonstandard, phrase_dict, freq_dict):
     """
     構建所有待編碼的條目。
-    去重規則：同一字詞的多個讀音，若不考慮聲調時無調形式相同，
-    則視為同一 (word, toneless_seq) 條目，頻率相加。
+    頻率以 (word, toneless_seq) 為唯一鍵累加，與輔助碼序列無關。
+    每個 (word, toneless_seq) 對應一個 entry，其 aux_seqs 為該字詞
+    所有可能的輔助碼序列。
     """
-    entries = []
-    skipped = 0
-    seen = {}
+    # 第一遍：按 (word, toneless_seq) 累加頻率
+    freq_map = {}
 
-    def add_entry(word, pinyin_seq):
-        nonlocal skipped
+    def collect(word, pinyin_seq):
         toneless_seq = get_toneless_pinyin_seq(pinyin_seq)
-        toneless_key = (word, tuple(toneless_seq))
         toneless_code = ' '.join(toneless_seq)
         freq = get_freq_of_word(word, toneless_code, freq_dict)
+        base_key = (word, tuple(toneless_seq))
+        old_f, old_p = freq_map.get(base_key, (0, -sys.maxsize + 1))
+        new_f, new_p = freq
+        freq_map[base_key] = (old_f + new_f, max(old_p, new_p))
 
-        if toneless_key in seen:
-            idx = seen[toneless_key]
-            old_f, old_p = entries[idx]['freq']
-            new_f, new_p = freq
-            entries[idx]['freq'] = (old_f + new_f, max(old_p, new_p))
-            return
+    for char, pinyins in char_codes.items():
+        for pinyin in pinyins:
+            collect(char, [pinyin])
 
+    for char, pinyins in char_nonstandard.items():
+        for pinyin in pinyins:
+            collect(char, [pinyin])
+
+    for word, pinyin_seqs in phrase_dict.items():
+        if len(word) <= 1:
+            continue
+        for pinyin_seq in pinyin_seqs:
+            collect(word, pinyin_seq)
+
+    # 第二遍：為每個 (word, toneless_seq) 生成一個 entry
+    entries = []
+    skipped = 0
+    for (word, toneless_seq), freq in freq_map.items():
         if not check_cangjie_availability(word):
             skipped += 1
-            return
+            continue
 
         try:
-            flypys = pinyin_to_shuangpin_seq(toneless_seq)
+            flypys = pinyin_to_shuangpin_seq(list(toneless_seq))
         except (ValueError, AssertionError) as ex:
-            print(f"Error: Failed to convert {pinyin_seq} for word '{word}': {ex}",
+            print(f"Error: Failed to convert {toneless_seq} for word '{word}': {ex}",
                   file=sys.stderr)
             skipped += 1
-            return
+            continue
+
         full_code = ''.join(flypys).lower()
-        aux_seq = get_auxiliary_sequence(word)
+        aux_seqs = get_auxiliary_sequences(word)
 
         entries.append({
             'word': word,
             'toneless_seq': list(toneless_seq),
             'full_code': full_code,
             'freq': freq,
-            'aux_seq': aux_seq,
+            'aux_seqs': aux_seqs,
         })
-        seen[toneless_key] = len(entries) - 1
-
-    for char, pinyins in char_codes.items():
-        for pinyin in pinyins:
-            add_entry(char, [pinyin])
-
-    for char, pinyins in char_nonstandard.items():
-        for pinyin in pinyins:
-            add_entry(char, [pinyin])
-
-    for word, pinyin_seqs in phrase_dict.items():
-        if len(word) <= 1:
-            continue
-        for pinyin_seq in pinyin_seqs:
-            add_entry(word, pinyin_seq)
 
     print(f"Total entries: {len(entries)}, skipped: {skipped}", file=sys.stderr)
     return entries
@@ -663,20 +678,23 @@ def build_entries(char_codes, char_nonstandard, phrase_dict, freq_dict):
 
 def build_sorted_dict(entries, encode_result):
     """從主碼結果構建 {word_length: {code: {word: (freq, p)}}}。"""
-    sorted_dict = defaultdict(lambda: defaultdict(dict))
+    freq_index = {}
     for e in entries:
-        key = (e['word'], tuple(e['toneless_seq']))
-        if key not in encode_result:
+        base_key = (e['word'], tuple(e['toneless_seq']))
+        freq_index[base_key] = e['freq']
+
+    sorted_dict = defaultdict(lambda: defaultdict(dict))
+    for (word, toneless_seq), code_map in encode_result.items():
+        freq = freq_index.get((word, toneless_seq))
+        if freq is None:
             continue
-        code = encode_result[key]
-        word = e['word']
-        length = len(word)
-        freq = e['freq']
-        cell = sorted_dict[length][code]
-        if word in cell:
-            cell[word] = max(cell[word], freq)
-        else:
-            cell[word] = freq
+        for code in code_map:
+            length = len(word)
+            cell = sorted_dict[length][code]
+            if word in cell:
+                cell[word] = max(cell[word], freq)
+            else:
+                cell[word] = freq
     return {L: {c: dict(w) for c, w in d.items()} for L, d in sorted_dict.items()}
 
 
@@ -684,10 +702,10 @@ def build_short_dict(entries, short_codes):
     """從簡碼結果構建 {code_length: {code: {word: (freq, p)}}}。"""
     result = defaultdict(lambda: defaultdict(dict))
     for e in entries:
-        key = (e['word'], tuple(e['toneless_seq']))
-        if key not in short_codes:
+        base_key = (e['word'], tuple(e['toneless_seq']))
+        if base_key not in short_codes:
             continue
-        code = short_codes[key]
+        code = short_codes[base_key]
         code_len = len(code)
         word = e['word']
         freq = e['freq']
@@ -774,42 +792,51 @@ def get_pinyin_seq_for_words(words):
 
 
 def build_extra_entries(words):
-    """為額外詞表構建待編碼條目。"""
+    """
+    為額外詞表構建待編碼條目。
+    頻率以 (word, toneless_seq) 為唯一鍵累加，與輔助碼序列無關。
+    每個 (word, toneless_seq) 對應一個 entry。
+    """
     extra_pinyin = get_pinyin_seq_for_words(words)
-    entries = []
-    seen = {}
-    skipped = 0
+
+    # 第一遍：按 (word, toneless_seq) 累加頻率
+    freq_map = {}
     for word, pinyin_seqs in extra_pinyin.items():
         freq = words[word]
         for pinyin_seq in pinyin_seqs:
             toneless_seq = get_toneless_pinyin_seq(pinyin_seq)
-            toneless_key = (word, tuple(toneless_seq))
-            if toneless_key in seen:
-                idx = seen[toneless_key]
-                old_f, old_p = entries[idx]['freq']
-                new_f, new_p = freq
-                entries[idx]['freq'] = (old_f + new_f, max(old_p, new_p))
-                continue
-            if not check_cangjie_availability(word):
-                skipped += 1
-                continue
-            try:
-                flypys = pinyin_to_shuangpin_seq(toneless_seq)
-            except (ValueError, AssertionError) as ex:
-                print(f"Error: Failed to convert {pinyin_seq} for word '{word}': {ex}",
-                      file=sys.stderr)
-                skipped += 1
-                continue
-            full_code = ''.join(flypys).lower()
-            aux_seq = get_auxiliary_sequence(word)
-            entries.append({
-                'word': word,
-                'toneless_seq': list(toneless_seq),
-                'full_code': full_code,
-                'freq': freq,
-                'aux_seq': aux_seq,
-            })
-            seen[toneless_key] = len(entries) - 1
+            base_key = (word, tuple(toneless_seq))
+            old_f, old_p = freq_map.get(base_key, (0, -sys.maxsize + 1))
+            new_f, new_p = freq
+            freq_map[base_key] = (old_f + new_f, max(old_p, new_p))
+
+    # 第二遍：為每個 (word, toneless_seq) 生成一個 entry
+    entries = []
+    skipped = 0
+    for (word, toneless_seq), freq in freq_map.items():
+        if not check_cangjie_availability(word):
+            skipped += 1
+            continue
+
+        try:
+            flypys = pinyin_to_shuangpin_seq(list(toneless_seq))
+        except (ValueError, AssertionError) as ex:
+            print(f"Error: Failed to convert {toneless_seq} for word '{word}': {ex}",
+                  file=sys.stderr)
+            skipped += 1
+            continue
+
+        full_code = ''.join(flypys).lower()
+        aux_seqs = get_auxiliary_sequences(word)
+
+        entries.append({
+            'word': word,
+            'toneless_seq': list(toneless_seq),
+            'full_code': full_code,
+            'freq': freq,
+            'aux_seqs': aux_seqs,
+        })
+
     print(f"Extra entries: {len(entries)}, skipped: {skipped}", file=sys.stderr)
     return entries
 
@@ -938,7 +965,6 @@ def main(argv=None):
         print(f"Short codes written to {filename}", file=sys.stderr)
         import_tables.append(short_name)
 
-    # 處理額外詞表
     if args.input_files:
         extra_words = {}
         for input_file in args.input_files:
@@ -973,30 +999,62 @@ def main(argv=None):
     if args.chinese_code:
         char_name = name if name else "char"
 
-        long_codes = generate_long_codes_for_chars(entries, encode_result, used_codes)
+        long_codes = generate_long_codes_for_chars(encode_result, used_codes)
         if 1 not in char_dict:
             char_dict[1] = {}
+
+        freq_index = {}
         for e in entries:
             if len(e['word']) != 1:
                 continue
-            key = (e['word'], tuple(e['toneless_seq']))
-            if key not in long_codes:
+            base_key = (e['word'], tuple(e['toneless_seq']))
+            freq_index[base_key] = e['freq']
+
+        for base_key, code_map in long_codes.items():
+            freq = freq_index.get(base_key)
+            if freq is None:
                 continue
-            code = long_codes[key]
-            word = e['word']
-            freq = e['freq']
-            if code not in char_dict[1]:
-                char_dict[1][code] = {}
-            if word in char_dict[1][code]:
-                char_dict[1][code][word] = max(char_dict[1][code][word], freq)
-            else:
-                char_dict[1][code][word] = freq
+            word = base_key[0]
+            for code in code_map:
+                if code not in char_dict[1]:
+                    char_dict[1][code] = {}
+                if word in char_dict[1][code]:
+                    char_dict[1][code][word] = max(char_dict[1][code][word], freq)
+                else:
+                    char_dict[1][code][word] = freq
 
         filename = f"{out_dir}{char_name}.dict.yaml"
         with open(filename, 'w', encoding='utf-8') as f:
             print(get_header(char_name, import_tables), file=f)
             print_word_codes(char_dict, f, freq_base=10000)
         print(f"Character codes written to {filename}", file=sys.stderr)
+
+
+# ============================================================
+# 單元測試輔助
+# ============================================================
+
+def _find_code(encode_result, word, toneless_seq):
+    """從 encode_result 中返回給定 (word, toneless_seq) 的第一個編碼。"""
+    code_map = encode_result.get((word, tuple(toneless_seq)), {})
+    if not code_map:
+        return None
+    return next(iter(code_map))
+
+
+def _find_codes(encode_result, word, toneless_seq):
+    """從 encode_result 中返回給定 (word, toneless_seq) 的所有編碼列表。"""
+    code_map = encode_result.get((word, tuple(toneless_seq)), {})
+    return list(code_map.keys())
+
+
+def _find_long_code(long_codes, word, toneless_seq):
+    """從 long_codes 中返回給定 (word, toneless_seq) 的第一個長碼。"""
+    code_map = long_codes.get((word, tuple(toneless_seq)), {})
+    if not code_map:
+        return None
+    return next(iter(code_map))
+
 
 # ============================================================
 # 單元測試
@@ -1022,214 +1080,242 @@ class TestShuangpin(unittest.TestCase):
 
 class TestAuxSeq(unittest.TestCase):
     def test_single_char(self):
-        seq = get_auxiliary_sequence("你")
-        self.assertEqual(seq, ["f", "o", "n"])
+        seqs = get_auxiliary_sequences("你")
+        self.assertTrue(any(s == ["f", "o", "n"] for s in seqs))
 
     def test_two_char(self):
-        seq = get_auxiliary_sequence("你好")
-        self.assertEqual(seq, ["d", "o", "v"])
+        seqs = get_auxiliary_sequences("你好")
+        self.assertTrue(any(s == ["d", "o", "v"] for s in seqs))
 
     def test_three_char(self):
-        seq = get_auxiliary_sequence("甲乙丙")
-        self.assertLessEqual(len(seq), 2)
+        seqs = get_auxiliary_sequences("甲乙丙")
+        self.assertTrue(all(len(s) <= 3 for s in seqs))
 
     def test_four_char(self):
-        seq = get_auxiliary_sequence("中華人民")
-        self.assertEqual(seq, [])
+        seqs = get_auxiliary_sequences("中華人民")
+        self.assertEqual(seqs, [[]])
 
     def test_all_lowercase(self):
         for word in ["你", "你好", "長臂猿"]:
-            for c in get_auxiliary_sequence(word):
-                self.assertTrue(c.islower(), f"'{c}' from '{word}' is not lowercase")
+            for seq in get_auxiliary_sequences(word):
+                for c in seq:
+                    self.assertTrue(c.islower(), f"'{c}' from '{word}' is not lowercase")
+
+
+class TestAssignCode(unittest.TestCase):
+    def test_single_path_no_conflict(self):
+        result = _assign_code('di', [['m', 'o', 'h']], set(), min_length=1)
+        self.assertIn('di', result)
+        self.assertEqual(result['di'], [['m', 'o', 'h']])
+
+    def test_single_path_conflict(self):
+        result = _assign_code('di', [['m', 'o', 'h']], {'di'}, min_length=1)
+        self.assertIn('dim', result)
+        self.assertEqual(result['dim'], [['o', 'h']])
+
+    def test_two_paths_same_code_merge(self):
+        result = _assign_code('di', [['m', 'o', 'h'], ['i', 'o', 'h']],
+                              set(), min_length=1)
+        self.assertEqual(list(result.keys()), ['di'])
+        self.assertEqual(len(result['di']), 2)
+        self.assertIn(['m', 'o', 'h'], result['di'])
+        self.assertIn(['i', 'o', 'h'], result['di'])
+
+    def test_two_paths_diverge_kept_independently(self):
+        result = _assign_code('di', [['m', 'o', 'h'], ['i', 'o', 'h']],
+                              {'di'}, min_length=1)
+        self.assertIn('dim', result)
+        self.assertIn('dii', result)
+        self.assertEqual(result['dim'], [['o', 'h']])
+        self.assertEqual(result['dii'], [['o', 'h']])
+
+    def test_min_length_4(self):
+        result = _assign_code('di', [['m', 'o', 'h'], ['i', 'o', 'h']],
+                              set(), min_length=4)
+        self.assertIn('dimo', result)
+        self.assertIn('diio', result)
+        self.assertEqual(result['dimo'], [['h']])
+        self.assertEqual(result['diio'], [['h']])
 
 
 class TestIncremental(unittest.TestCase):
     def test_unique_base_codes(self):
         entries = [
             {'word': '你', 'toneless_seq': ['ni'], 'full_code': 'ni',
-             'freq': (100, -1), 'aux_seq': ['f', 'o', 'n']},
+             'freq': (100, -1), 'aux_seqs': [['f', 'o', 'n']]},
             {'word': '好', 'toneless_seq': ['hao'], 'full_code': 'hc',
-             'freq': (90, -1), 'aux_seq': ['d', 'v', 'n']},
+             'freq': (90, -1), 'aux_seqs': [['d', 'v', 'n']]},
         ]
         result, used = incremental_encode(entries)
-        self.assertEqual(result[('你', ('ni',))], 'ni')
-        self.assertEqual(result[('好', ('hao',))], 'hc')
+        self.assertEqual(_find_code(result, '你', ['ni']), 'ni')
+        self.assertEqual(_find_code(result, '好', ['hao']), 'hc')
 
     def test_highest_freq_keeps_base_code(self):
         entries = [
             {'word': '你', 'toneless_seq': ['ni'], 'full_code': 'ni',
-             'freq': (5000, -1), 'aux_seq': ['f', 'o', 'n']},
+             'freq': (5000, -1), 'aux_seqs': [['f', 'o', 'n']]},
             {'word': '妮', 'toneless_seq': ['ni'], 'full_code': 'ni',
-             'freq': (100, -1), 'aux_seq': ['f', 'o', 'n']},
+             'freq': (100, -1), 'aux_seqs': [['f', 'o', 'n']]},
         ]
         result, used = incremental_encode(entries)
-        self.assertEqual(result[('你', ('ni',))], 'ni')
-        self.assertEqual(result[('妮', ('ni',))], 'nif')
+        self.assertEqual(_find_code(result, '你', ['ni']), 'ni')
+        self.assertEqual(_find_code(result, '妮', ['ni']), 'nif')
 
     def test_cross_length_freq_priority(self):
-        """
-        高頻雙字詞應優先於低頻單字佔用其 full_code。
-        對應「北京」vs「𤷒」案例。
-        """
         entries = [
-            # 低頻單字，full_code 'bwjk'（假設其輔助碼會擴展到此）
             {'word': '𤷒', 'toneless_seq': ['bi'], 'full_code': 'bwjk',
-             'freq': (10000, -1), 'aux_seq': ['f']},
-            # 高頻雙字詞，full_code 'bwjk'
+             'freq': (10000, -1), 'aux_seqs': [['f']]},
             {'word': '北京', 'toneless_seq': ['bei', 'jing'],
              'full_code': 'bwjk',
-             'freq': (53178, -1), 'aux_seq': ['g', 'b', 'j']},
+             'freq': (53178, -1), 'aux_seqs': [['g', 'b', 'j']]},
         ]
         result, used = incremental_encode(entries)
-        # 北京 頻率更高 → 佔據 'bwjk'
-        self.assertEqual(result[('北京', ('bei', 'jing'))], 'bwjk')
-        # 𤷒 較低 → 追加尾碼 'f' → 'bwjkf'
-        self.assertEqual(result[('𤷒', ('bi',))], 'bwjkf')
+        self.assertEqual(_find_code(result, '北京', ['bei', 'jing']), 'bwjk')
+        self.assertEqual(_find_code(result, '𤷒', ['bi']), 'bwjkf')
 
     def test_low_freq_group_extends_after_high_freq_cross(self):
-        """
-        低頻條目擴展後若與高頻條目 full_code 衝突，高頻條目優先。
-        模擬「被/北/𤷒」與「北京」的實際場景。
-        """
         entries = [
-            # 高頻單字，full_code 'bw'
             {'word': '被', 'toneless_seq': ['bei'], 'full_code': 'bw',
-             'freq': (148131, -1), 'aux_seq': ['d', 'o']},
-            # 高頻雙字詞，full_code 'bwjk'
+             'freq': (148131, -1), 'aux_seqs': [['d', 'o']]},
             {'word': '北京', 'toneless_seq': ['bei', 'jing'],
              'full_code': 'bwjk',
-             'freq': (53178, -1), 'aux_seq': ['g', 'b']},
-            # 低頻單字，full_code 'bw'
+             'freq': (53178, -1), 'aux_seqs': [['g', 'b']]},
             {'word': '北', 'toneless_seq': ['bei'], 'full_code': 'bw',
-             'freq': (25237, -1), 'aux_seq': ['j', 'o']},
-            # 更低頻單字，full_code 'bw'，輔助碼會擴展到 'bwjk'
+             'freq': (25237, -1), 'aux_seqs': [['j', 'o']]},
             {'word': '𤷒', 'toneless_seq': ['bi'], 'full_code': 'bw',
-             'freq': (10000, -1), 'aux_seq': ['j', 'k', 'f']},
+             'freq': (10000, -1), 'aux_seqs': [['j', 'k', 'f']]},
         ]
         result, used = incremental_encode(entries)
-        # 被 頻率最高 → 'bw'
-        self.assertEqual(result[('被', ('bei',))], 'bw')
-        # 北京 頻率次高 → 'bwjk'
-        self.assertEqual(result[('北京', ('bei', 'jing'))], 'bwjk')
-        # 北 頻率第三 → 加 'j' → 'bwj'
-        self.assertEqual(result[('北', ('bei',))], 'bwj')
-        # 𤷒 頻率最低 → 加 'j'（衝突）→ 'bwj' 已佔 → 加 'k' → 'bwjk'（衝突）
-        #            → 加 'f' → 'bwjkf'
-        self.assertEqual(result[('𤷒', ('bi',))], 'bwjkf')
+        self.assertEqual(_find_code(result, '被', ['bei']), 'bw')
+        self.assertEqual(_find_code(result, '北京', ['bei', 'jing']), 'bwjk')
+        self.assertEqual(_find_code(result, '北', ['bei']), 'bwj')
+        self.assertEqual(_find_code(result, '𤷒', ['bi']), 'bwjkf')
 
     def test_conflict_with_aux(self):
         entries = [
             {'word': '甲', 'toneless_seq': ['jia'], 'full_code': 'aa',
-             'freq': (100, -1), 'aux_seq': ['a', 'f']},
+             'freq': (100, -1), 'aux_seqs': [['a', 'f']]},
             {'word': '乙', 'toneless_seq': ['yi'], 'full_code': 'aa',
-             'freq': (90, -1), 'aux_seq': ['a', 'f']},
+             'freq': (90, -1), 'aux_seqs': [['a', 'f']]},
             {'word': '丙', 'toneless_seq': ['bing'], 'full_code': 'aa',
-             'freq': (80, -1), 'aux_seq': ['a', 'f']},
+             'freq': (80, -1), 'aux_seqs': [['a', 'f']]},
         ]
         result, _ = incremental_encode(entries)
-        # 甲 → 'aa'；乙 → 'aaa'；丙 → 'aaa' 衝突 → 'aaaf'
-        self.assertEqual(result[('甲', ('jia',))], 'aa')
-        self.assertEqual(result[('乙', ('yi',))], 'aaa')
-        self.assertEqual(result[('丙', ('bing',))], 'aaaf')
+        self.assertEqual(_find_code(result, '甲', ['jia']), 'aa')
+        self.assertEqual(_find_code(result, '乙', ['yi']), 'aaa')
+        self.assertEqual(_find_code(result, '丙', ['bing']), 'aaaf')
 
     def test_aux_exhausted_letters(self):
         entries = [
             {'word': '甲', 'toneless_seq': ['jia'], 'full_code': 'aa',
-             'freq': (100, -1), 'aux_seq': []},
+             'freq': (100, -1), 'aux_seqs': [[]]},
             {'word': '乙', 'toneless_seq': ['yi'], 'full_code': 'aa',
-             'freq': (90, -1), 'aux_seq': []},
+             'freq': (90, -1), 'aux_seqs': [[]]},
             {'word': '丙', 'toneless_seq': ['bing'], 'full_code': 'aa',
-             'freq': (80, -1), 'aux_seq': []},
+             'freq': (80, -1), 'aux_seqs': [[]]},
         ]
         result, _ = incremental_encode(entries)
-        # 甲 → 'aa'；乙 → 'aaa'；丙 → 'aaa' 衝突 → 'aab'
-        self.assertEqual(result[('甲', ('jia',))], 'aa')
-        self.assertEqual(result[('乙', ('yi',))], 'aaa')
-        self.assertEqual(result[('丙', ('bing',))], 'aab')
+        self.assertEqual(_find_code(result, '甲', ['jia']), 'aa')
+        self.assertEqual(_find_code(result, '乙', ['yi']), 'aaa')
+        self.assertEqual(_find_code(result, '丙', ['bing']), 'aab')
 
     def test_aux_one_level_then_letters(self):
         entries = [
             {'word': '甲', 'toneless_seq': ['jia'], 'full_code': 'aa',
-             'freq': (100, -1), 'aux_seq': ['a']},
+             'freq': (100, -1), 'aux_seqs': [['a']]},
             {'word': '乙', 'toneless_seq': ['yi'], 'full_code': 'aa',
-             'freq': (90, -1), 'aux_seq': ['a']},
+             'freq': (90, -1), 'aux_seqs': [['a']]},
             {'word': '丙', 'toneless_seq': ['bing'], 'full_code': 'aa',
-             'freq': (80, -1), 'aux_seq': ['a']},
+             'freq': (80, -1), 'aux_seqs': [['a']]},
         ]
         result, _ = incremental_encode(entries)
-        # 甲 → 'aa'；乙 → 'aaa'；丙 → 'aaa' 衝突 → 輔助碼耗盡
-        #   → base='aaa'，追加 'a' → 'aaaa'；已被乙？不，乙是 'aaa'
-        #   所以 'aaaa' 可用 → 丙 = 'aaaa'
-        self.assertEqual(result[('甲', ('jia',))], 'aa')
-        self.assertEqual(result[('乙', ('yi',))], 'aaa')
-        self.assertEqual(result[('丙', ('bing',))], 'aaaa')
+        self.assertEqual(_find_code(result, '甲', ['jia']), 'aa')
+        self.assertEqual(_find_code(result, '乙', ['yi']), 'aaa')
+        self.assertEqual(_find_code(result, '丙', ['bing']), 'aaaa')
 
     def test_initial_used_codes(self):
         entries = [
             {'word': 'X', 'toneless_seq': ['x'], 'full_code': 'ab',
-             'freq': (100, -1), 'aux_seq': ['f']},
+             'freq': (100, -1), 'aux_seqs': [['f']]},
         ]
         result, used = incremental_encode(entries, initial_used_codes={'ab'})
-        self.assertEqual(result[('X', ('x',))], 'abf')
+        self.assertEqual(_find_code(result, 'X', ['x']), 'abf')
         self.assertIn('ab', used)
         self.assertIn('abf', used)
 
-    def test_all_lowercase_output(self):
+    def test_multi_aux_same_code_merge(self):
         entries = [
-            {'word': 'A', 'toneless_seq': ['a'], 'full_code': 'AA',
-             'freq': (100, -1), 'aux_seq': ['A', 'F']},
-            {'word': 'B', 'toneless_seq': ['b'], 'full_code': 'AB',
-             'freq': (90, -1), 'aux_seq': ['B', 'F']},
+            {'word': '低', 'toneless_seq': ['di'], 'full_code': 'di',
+             'freq': (100, -1), 'aux_seqs': [['m', 'o', 'h'], ['i', 'o', 'h']]},
         ]
         result, _ = incremental_encode(entries)
-        for code in result.values():
-            self.assertEqual(code, code.lower())
+        code_map = result[('低', ('di',))]
+        self.assertEqual(list(code_map.keys()), ['di'])
+        self.assertEqual(len(code_map['di']), 2)
+
+    def test_multi_aux_diverge_kept_independently(self):
+        entries = [
+            {'word': '低', 'toneless_seq': ['di'], 'full_code': 'di',
+             'freq': (100, -1), 'aux_seqs': [['m', 'o', 'h'], ['i', 'o', 'h']]},
+        ]
+        result, _ = incremental_encode(entries, initial_used_codes={'di'})
+        code_map = result[('低', ('di',))]
+        self.assertEqual(len(code_map), 2)
+        self.assertIn('dim', code_map)
+        self.assertIn('dii', code_map)
+        self.assertEqual(code_map['dim'], [['o', 'h']])
+        self.assertEqual(code_map['dii'], [['o', 'h']])
 
 
 class TestLongCode(unittest.TestCase):
-    def test_long_code_generated(self):
+    def test_single_variant_long_code(self):
         entries = [
             {'word': '你', 'toneless_seq': ['ni'], 'full_code': 'ni',
-             'freq': (100, -1), 'aux_seq': ['f', 'o', 'n']},
+             'freq': (100, -1), 'aux_seqs': [['f', 'o', 'n']]},
         ]
         encode_result, used_codes = incremental_encode(entries)
-        self.assertEqual(encode_result[('你', ('ni',))], 'ni')
-        long_codes = generate_long_codes_for_chars(entries, encode_result, used_codes)
-        self.assertEqual(long_codes[('你', ('ni',))], 'nifo')
+        self.assertEqual(_find_code(encode_result, '你', ['ni']), 'ni')
+        long_codes = generate_long_codes_for_chars(encode_result, used_codes)
+        self.assertEqual(_find_long_code(long_codes, '你', ['ni']), 'nifo')
 
-    def test_long_code_conflict_adds_third(self):
+    def test_multi_variant_long_codes_share_full_code_base(self):
         entries = [
-            {'word': '你', 'toneless_seq': ['ni'], 'full_code': 'ni',
-             'freq': (100, -1), 'aux_seq': ['f', 'o', 'n']},
+            {'word': '低', 'toneless_seq': ['di'], 'full_code': 'di',
+             'freq': (100, -1), 'aux_seqs': [['m', 'o', 'h'], ['i', 'o', 'h']]},
         ]
         encode_result, used_codes = incremental_encode(entries)
-        used_codes.add('nifo')
-        long_codes = generate_long_codes_for_chars(entries, encode_result, used_codes)
-        self.assertEqual(long_codes[('你', ('ni',))], 'nifon')
+        code_map = encode_result[('低', ('di',))]
+        self.assertEqual(list(code_map.keys()), ['di'])
+        self.assertEqual(len(code_map['di']), 2)
+
+        long_codes = generate_long_codes_for_chars(encode_result, used_codes)
+        lc_map = long_codes[('低', ('di',))]
+        self.assertIn('dimo', lc_map)
+        self.assertIn('diio', lc_map)
 
     def test_long_code_conflict_adds_letter(self):
         entries = [
             {'word': '你', 'toneless_seq': ['ni'], 'full_code': 'ni',
-             'freq': (100, -1), 'aux_seq': ['f', 'o', 'n']},
+             'freq': (100, -1), 'aux_seqs': [['f', 'o', 'n']]},
         ]
         encode_result, used_codes = incremental_encode(entries)
         used_codes.add('nifo')
         used_codes.add('nifon')
-        long_codes = generate_long_codes_for_chars(entries, encode_result, used_codes)
-        self.assertEqual(long_codes[('你', ('ni',))], 'nifona')
+        long_codes = generate_long_codes_for_chars(encode_result, used_codes)
+        self.assertEqual(_find_long_code(long_codes, '你', ['ni']), 'nifona')
 
 
 class TestShortCode(unittest.TestCase):
     def test_basic(self):
         entries = [
             {'word': '你', 'toneless_seq': ['ni'], 'full_code': 'ni',
-             'freq': (5000, -1), 'aux_seq': ['f', 'o', 'n']},
+             'freq': (5000, -1), 'aux_seqs': [['f', 'o', 'n']]},
             {'word': '妮', 'toneless_seq': ['ni'], 'full_code': 'ni',
-             'freq': (100, -1), 'aux_seq': ['f', 'o', 'n']},
+             'freq': (100, -1), 'aux_seqs': [['f', 'o', 'n']]},
         ]
         encode_result, used_codes = incremental_encode(entries)
-        self.assertEqual(encode_result[('你', ('ni',))], 'ni')
-        self.assertEqual(encode_result[('妮', ('ni',))], 'nif')
+        self.assertEqual(_find_code(encode_result, '你', ['ni']), 'ni')
+        self.assertEqual(_find_code(encode_result, '妮', ['ni']), 'nif')
 
         short_codes = generate_short_codes(entries, encode_result, used_codes)
         self.assertEqual(short_codes[('你', ('ni',))], 'n')
@@ -1238,9 +1324,9 @@ class TestShortCode(unittest.TestCase):
     def test_no_short_code_for_long_words(self):
         entries = [
             {'word': '甲乙丙丁', 'toneless_seq': ['jia', 'yi', 'bing', 'ding'],
-             'full_code': 'abcdefgh', 'freq': (1000, -1), 'aux_seq': []},
+             'full_code': 'abcdefgh', 'freq': (1000, -1), 'aux_seqs': [[]]},
             {'word': '甲乙丙', 'toneless_seq': ['jia', 'yi', 'bing'],
-             'full_code': 'abcdef', 'freq': (100, -1), 'aux_seq': []},
+             'full_code': 'abcdef', 'freq': (100, -1), 'aux_seqs': [[]]},
         ]
         encode_result, used_codes = incremental_encode(entries)
         short_codes = generate_short_codes(entries, encode_result, used_codes)
@@ -1250,9 +1336,9 @@ class TestShortCode(unittest.TestCase):
     def test_short_code_length_is_full_code_minus_one(self):
         entries = [
             {'word': '甲', 'toneless_seq': ['jia'], 'full_code': 'ab',
-             'freq': (100, -1), 'aux_seq': []},
+             'freq': (100, -1), 'aux_seqs': [[]]},
             {'word': '乙丙', 'toneless_seq': ['yi', 'bing'],
-             'full_code': 'xyzabc', 'freq': (90, -1), 'aux_seq': []},
+             'full_code': 'xyzabc', 'freq': (90, -1), 'aux_seqs': [[]]},
         ]
         encode_result, used_codes = incremental_encode(entries)
         short_codes = generate_short_codes(entries, encode_result, used_codes)
@@ -1262,9 +1348,9 @@ class TestShortCode(unittest.TestCase):
     def test_short_code_freq_priority(self):
         entries = [
             {'word': '甲', 'toneless_seq': ['jia'], 'full_code': 'abc',
-             'freq': (100, -1), 'aux_seq': []},
+             'freq': (100, -1), 'aux_seqs': [[]]},
             {'word': '乙', 'toneless_seq': ['yi'], 'full_code': 'abd',
-             'freq': (200, -1), 'aux_seq': []},
+             'freq': (200, -1), 'aux_seqs': [[]]},
         ]
         encode_result, used_codes = incremental_encode(entries)
         short_codes = generate_short_codes(entries, encode_result, used_codes)
@@ -1304,10 +1390,10 @@ class TestExtraWords(unittest.TestCase):
     def test_extra_encode_uses_main_used_codes(self):
         extra_entries = [
             {'word': 'X', 'toneless_seq': ['x'], 'full_code': 'ab',
-             'freq': (100, -1), 'aux_seq': ['f']},
+             'freq': (100, -1), 'aux_seqs': [['f']]},
         ]
         result, used = incremental_encode(extra_entries, initial_used_codes={'ab'})
-        self.assertEqual(result[('X', ('x',))], 'abf')
+        self.assertEqual(_find_code(result, 'X', ['x']), 'abf')
 
     def test_extra_words_dedup_against_main(self):
         main_entries = build_entries({'你': ['nǐ']}, {}, {}, {})
@@ -1342,7 +1428,11 @@ class TestExtraWords(unittest.TestCase):
 
 
 class TestDeduplication(unittest.TestCase):
-    def test_same_toneless_dedup(self):
+    def test_same_toneless_same_aux_dedup(self):
+        """
+        同一字詞的多個有調讀音，若無調形式相同，視為同一條目，頻率相加。
+        每個 (word, toneless_seq) 對應一個 entry。
+        """
         char_codes = {'你': ['nǐ', 'ni']}
         entries = build_entries(char_codes, {}, {}, {})
         self.assertEqual(len(entries), 1)
@@ -1355,6 +1445,9 @@ class TestDeduplication(unittest.TestCase):
         self.assertEqual(len(entries), 2)
 
     def test_dedup_sums_freq(self):
+        """
+        频率按 (word, toneless_seq) 累加，与辅助码序列无关。
+        """
         char_codes = {'你': ['nǐ', 'ni']}
         freq_dict = {'你': {'ni': (500, -1)}}
         entries = build_entries(char_codes, {}, {}, freq_dict)
