@@ -27,7 +27,7 @@
 双拼和**仓颉速成**均有成熟的学习资料。仓颉速成码，实际为仓颉码取首尾。
 
 - 双拼：[双拼练习（小鹤双拼）](https://api.ihint.me/shuang/);
-- 仓颉：[五色仓颉（三代）](https://www.xn--0vqu8au0tro7d.com/)，[仓颉五代手册](https://zh.wikibooks.org/w/index.php?title=%E5%80%89%E9%A0%A1%E8%BC%B8%E5%85%A5%E6%B3%95&variant=zh)，[仓颉之友](https://www.chinesecj.com/)，[仓颉字根表（五代兼三代）](https://www.chinesecj.com/forum/data/attachment/forum/202111/24/154815fwe23wu3npzz172k.png)，[仓颉表（五代兼三代）](https://www.hkcards.com/img/cj-radical/cj-table-kel.png)，[仓颉网上输入法（五代）](https://www.chinesecj.com/ime/cj5.php);
+- 仓颉：[五色仓颉（三代）](https://www.xn--0vqu8au0tro7d.com/)，[仓颉卡片（五代兼三代）](https://www.hkcards.com/)，[仓颉五代手册](https://zh.wikibooks.org/w/index.php?title=%E5%80%89%E9%A0%A1%E8%BC%B8%E5%85%A5%E6%B3%95&variant=zh)，[仓颉之友](https://www.chinesecj.com/)，[仓颉字根表（五代兼三代）](https://www.chinesecj.com/forum/data/attachment/forum/202111/24/154815fwe23wu3npzz172k.png)，[仓颉表（五代兼三代）](https://www.hkcards.com/img/cj-radical/cj-table-kel.png)，[仓颉网上输入法（五代）](https://www.chinesecj.com/ime/cj5.php);
 - 字典：[汉语字典（含五代仓颉码）](https://www.hanyuguoxue.com/zidian/)。
 
 ## 安装
