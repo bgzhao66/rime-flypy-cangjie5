@@ -48,7 +48,6 @@ sort: by_weight
 阿强	aaq	147
 阿斯	aas	410
 阿土	aat	152
-阿朱	aav	113
 阿文	aaw	122
 阿信	aax	160
 阿姨	aay	3065
@@ -68,7 +67,6 @@ sort: by_weight
 昂扬	ahy	127
 肮脏	ahz	574
 爱爱	aia	264
-爱好	aih	2474
 暧昧	aim	1533
 爱情	aiq	14478
 爱我	aiw	1219
@@ -368,7 +366,6 @@ sort: by_weight
 从业	csy	509
 从左	csz	136
 促成	cui	639
-粗气	cuq	108
 促销	cux	2511
 簇拥	cuy	181
 踧笮	cuz	1
@@ -500,7 +497,6 @@ sort: by_weight
 点点	dmd	1425
 电器	dmq	1785
 电梯	dmt	2162
-店主	dmv	928
 电信	dmx	7188
 电影	dmy	21546
 电子	dmz	10100
@@ -882,7 +878,6 @@ sort: by_weight
 固话	guh	343
 古城	gui	962
 鼓励	gul	6481
-股权	guq	2562
 故乡	gux	1203
 故意	guy	4312
 故作	guz	317
@@ -1048,7 +1043,6 @@ sort: by_weight
 黄兴	hlx	1
 幌子	hlz	313
 火箭	hoj	3328
-获取	hoq	5064
 火腿	hot	308
 活跃	hoy	3054
 火灾	hoz	917
@@ -1138,7 +1132,6 @@ sort: by_weight
 侪伍	idw	1
 柴油	idy	705
 拆走	idz	1
-车内	ien	781
 撤退	iet	602
 车子	iez	2855
 沉浸	ifj	774
@@ -1187,7 +1180,6 @@ sort: by_weight
 创造	ilz	7951
 踔飞	iof	1
 绰号	ioh	279
-啜茗	iom	1
 啜泣	ioq	1
 绰扫	ios	0
 辍学	iox	262
@@ -1214,9 +1206,7 @@ sort: by_weight
 充裕	isy	477
 重组	isz	2954
 初步	iub	4113
-出错	iuc	2351
 出现	iux	43296
-处于	iuy	8255
 出租	iuz	1881
 垂爱	iva	1
 吹得	ivd	231
@@ -1281,7 +1271,6 @@ sort: by_weight
 窘境	jsj	174
 窘况	jsk	1
 扃幂	jsm	1
-駉那	jsn	1
 窘迫	jsp	212
 冏卿	jsq	1
 窘态	jst	1
@@ -1768,7 +1757,6 @@ sort: by_weight
 贸易	mcy	3932
 帽子	mcz	2044
 脉案	mda	1
-卖出	mdi	2107
 买家	mdj	2176
 买卖	mdm	2587
 卖钱	mdq	239
@@ -2100,7 +2088,6 @@ sort: by_weight
 挪作	noz	1
 孽爱	npa	1
 啮合	nph	2
-捏碎	nps	1
 捏握	npw	1
 乜斜	npx	1
 颞叶	npy	1
@@ -2171,7 +2158,6 @@ sort: by_weight
 虐恋	ntl	1
 虐妻	ntq	1
 虐饕	ntt	0
-虐杀	ntu	1
 虐债	ntv	1
 疟蚊	ntw	1
 虐刑	ntx	1
@@ -2344,7 +2330,6 @@ sort: by_weight
 判刑	pjx	395
 盘子	pjz	844
 平等	pkd	2750
-平常	pki	2653
 凭空	pkk	266
 平日	pkr	838
 凭证	pkv	1390
@@ -2988,7 +2973,6 @@ sort: by_weight
 停在	tkz	879
 天气	tmq	7332
 天色	tms	347
-天真	tmv	1365
 天下	tmx	6236
 天涯	tmy	8483
 天子	tmz	467
@@ -3071,7 +3055,6 @@ sort: by_weight
 吞咽	tyy	123
 屯子	tyz	1
 头部	tzb	1442
-头顶	tzd	1043
 投行	tzh	487
 投票	tzp	3793
 头球	tzq	509
@@ -3091,7 +3074,6 @@ sort: by_weight
 烧菜	ucc	136
 稍等	ucd	3349
 烧烤	uck	1251
-烧麦	ucm	1
 少偶	uco	1
 烧瓶	ucp	1
 梢头	uct	1
@@ -3185,7 +3167,6 @@ sort: by_weight
 说句	uoj	619
 朔日	uor	1
 说三	uos	1
-说头	uot	1
 说着	uov	1875
 说完	uow	1803
 说些	uox	337
@@ -3294,7 +3275,6 @@ sort: by_weight
 摘要	vdy	1072
 摘自	vdz	259
 折腾	vet	2653
-这种	vev	51162
 这位	vew	7152
 这座	vez	1116
 侦破	vfp	329
@@ -3346,7 +3326,6 @@ sort: by_weight
 状元	vly	587
 装载	vlz	512
 桌布	vob	109
-桌面	vom	3738
 拙朴	vop	1
 灼痛	vot	1
 卓望	vow	1
@@ -3488,10 +3467,8 @@ sort: by_weight
 万元	wjy	6737
 丸子	wjz	438
 我爱	woa	2154
-我才	woc	1867
 我还	woh	6314
 我能	won	1832
-我去	woq	5370
 我想	wox	15661
 我在	woz	11173
 无碍	wua	123
@@ -3770,7 +3747,6 @@ sort: by_weight
 最后	zvh	38462
 最难	zvn	639
 最怕	zvp	745
-最强	zvq	1376
 醉人	zvr	339
 嘴甜	zvt	1
 最新	zvx	10603
@@ -4111,7 +4087,6 @@ sort: by_weight
 阿兰文	aaljw	0
 阿灵阿	aalka	1
 阿灵顿	aalkd	1
-阿连德	aalmd	1
 阿莲乡	aalmx	1
 阿廖欣	aalnx	1
 阿洛岛	aalod	1
@@ -4489,7 +4464,6 @@ sort: by_weight
 爱登堡	aidgb	1
 埃迪安	aidia	1
 埃迪尔	aidie	1
-矮地茶	aidii	1
 爱地利	aidil	1
 埃迪斯	aidis	1
 爱迪生	aidiu	135
@@ -5650,7 +5624,6 @@ sort: by_weight
 敖德萨	aodes	1
 奥德特	aodet	1
 奥德文	aodew	1
-奥迪车	aodii	1
 奥地利	aodil	574
 奥迪牌	aodip	1
 奥狄塞	aodis	1
@@ -6279,7 +6252,6 @@ sort: by_weight
 八角床	bajni	0
 八角街	bajnj	1
 八角帽	bajnm	1
-八角钱	bajnq	1
 八椒图	bajnt	1
 八角镇	bajnv	1
 八角形	bajnx	3
@@ -6614,7 +6586,6 @@ sort: by_weight
 巴山虎	baujh	1
 巴山路	baujl	1
 八扇屏	baujp	1
-巴山镇	baujv	1
 巴山乡	baujx	1
 八数码	bauum	1
 八首歌	bauzg	1
@@ -6883,7 +6854,6 @@ sort: by_weight
 宝宝福	bcbcf	1
 宝宝好	bcbch	1
 宝宝乐	bcbcl	1
-宝宝帽	bcbcm	1
 宝宝贴	bcbct	1
 宝宝装	bcbcv	1
 宝宝袜	bcbcw	1
@@ -7093,7 +7063,6 @@ sort: by_weight
 保护区	bchuq	389
 保护人	bchur	1
 保护套	bchut	1
-保护神	bchuu	1
 保护罩	bchuv	1
 保护网	bchuw	1
 保护性	bchux	164
@@ -7169,7 +7138,6 @@ sort: by_weight
 抱脚儿	bcjne	1
 包交换	bcjnh	2
 抱角床	bcjni	1
-包饺器	bcjnq	1
 豹脚蚊	bcjnw	1
 包饺子	bcjnz	110
 宝界村	bcjpc	1
@@ -7814,7 +7782,6 @@ sort: by_weight
 白德彰	bddev	1
 白邓邓	bddgd	1
 白帝仓	bddic	1
-白帝城	bddii	1
 白地款	bddik	1
 白堤路	bddil	1
 白地钱	bddiq	1
@@ -8110,14 +8077,12 @@ sort: by_weight
 白僵僵	bdjlj	1
 拜江山	bdjlu	1
 百江镇	bdjlv	1
-白肩雕	bdjmd	1
 白剑峰	bdjmf	1
 百间楼	bdjml	1
 柏建锁	bdjms	1
 白碱滩	bdjmt	1
 白涧镇	bdjmv	1
 白皎皎	bdjnj	1
-白嚼蛆	bdjnq	1
 白蕉衫	bdjnu	1
 白蕉镇	bdjnv	1
 白胶香	bdjnx	1
@@ -8232,10 +8197,8 @@ sort: by_weight
 百两篇	bdllp	1
 白粱粟	bdlls	1
 柏梁台	bdllt	1
-白凉衫	bdllu	1
 白良乡	bdllx	1
 柏梁宴	bdlly	1
-百炼刀	bdlmd	1
 百炼刚	bdlmg	1
 白莲花	bdlmh	1
 白莲池	bdlmi	1
@@ -8288,7 +8251,6 @@ sort: by_weight
 百漏船	bdlzi	1
 白楼亭	bdlzt	1
 白楼下	bdlzx	1
-白马村	bdmac	1
 白马股	bdmag	1
 白马河	bdmah	1
 白马城	bdmai	1
@@ -8646,7 +8608,6 @@ sort: by_weight
 白衫儿	bduje	1
 白山路	bdujl	1
 白山派	bdujp	0
-百善台	bdujt	1
 白山镇	bdujv	1
 白山乡	bdujx	1
 白山羊	bdujy	1
@@ -8975,7 +8936,6 @@ sort: by_weight
 本岛人	bfdcr	1
 本德尔	bfdee	1
 本迪戈	bfdig	1
-本地产	bfdii	1
 本地鸡	bfdij	1
 本迪克	bfdik	1
 本地区	bfdiq	442
@@ -9526,7 +9486,6 @@ sort: by_weight
 比较好	bijnh	3361
 比较级	bijnj	1
 比较慢	bijnm	1
-比较器	bijnq	2
 比较少	bijnu	1
 比较性	bijnx	1
 比较仪	bijny	1
@@ -9614,7 +9573,6 @@ sort: by_weight
 避雷器	bilwq	1
 避雷针	bilwv	1
 避雷线	bilwx	1
-蓖麻蚕	bimac	1
 毕马威	bimaw	1
 蓖麻油	bimay	1
 蓖麻子	bimaz	1
@@ -10381,7 +10339,6 @@ sort: by_weight
 半山村	bjujc	1
 半山坡	bjujp	1
 半山区	bjujq	1
-半山亭	bjujt	1
 半山镇	bjujv	1
 板山乡	bjujx	1
 半山腰	bjujy	117
@@ -10409,7 +10366,6 @@ sort: by_weight
 板樟山	bjvhu	1
 班长鞋	bjvhx	1
 半肢疯	bjvif	1
-板纸厂	bjvii	1
 半直积	bjvij	3
 半枝莲	bjvil	1
 半直线	bjvix	3
@@ -11296,7 +11252,6 @@ sort: by_weight
 裱花嘴	bnhxz	1
 飙车族	bniez	1
 标称值	bnigv	1
-滮池水	bniiu	1
 表处理	bniul	2
 标出去	bniuq	1
 摽劲儿	bnjbe	1
@@ -11473,7 +11428,6 @@ sort: by_weight
 钵钵糕	bobog	1
 钵钵鸡	boboj	1
 博波卢	bobol	1
-卜卜米	bobom	1
 波波糖	bobot	1
 波波乡	bobox	1
 拨不断	bobud	1
@@ -12552,14 +12506,12 @@ sort: by_weight
 布江达	bujld	1
 不讲价	bujlj	1
 不讲理	bujll	1
-不见得	bujmd	887
 不见荷	bujmh	2
 不坚决	bujmj	1
 不健康	bujmk	1
 不见了	bujml	1
 不俭省	bujmu	1
 布胶带	bujnd	1
-不交钱	bujnq	1
 不交税	bujnu	1
 不叫座	bujnz	1
 不结果	bujpg	0
@@ -12892,7 +12844,6 @@ sort: by_weight
 不平稳	bupkw	1
 不平行	bupkx	1
 不偏极	bupmj	0
-不骗你	bupmn	1
 不骗人	bupmr	1
 不偏食	bupmu	1
 不偏斜	bupmx	0
@@ -12936,7 +12887,6 @@ sort: by_weight
 布琼尼	buqsn	1
 不确定	buqtd	1
 不缺乏	buqtf	1
-不确切	buqtq	1
 不确实	buqtu	1
 补缺位	buqtw	1
 不屈服	buquf	1
@@ -13739,7 +13689,6 @@ sort: by_weight
 北交大	bwjnd	1
 碑珓儿	bwjne	1
 北较场	bwjni	1
-北郊区	bwjnq	1
 北郊镇	bwjnv	1
 北郊乡	bwjnx	1
 北街村	bwjpc	1
@@ -13987,7 +13936,6 @@ sort: by_weight
 贝斯克	bwsik	1
 倍思亲	bwsiq	1
 北寺塔	bwsit	1
-卑斯山	bwsiu	1
 北泗乡	bwsix	1
 北寺狱	bwsiy	1
 北三环	bwsjh	1
@@ -14050,7 +13998,6 @@ sort: by_weight
 北沙滩	bwuat	1
 北沙洲	bwuav	1
 焙烧炉	bwucl	1
-北稍门	bwucm	1
 被摄者	bwuev	1
 北社乡	bwuex	1
 备身刀	bwufd	1
@@ -15069,7 +15016,6 @@ sort: by_weight
 彩铃网	cdlkw	1
 裁量权	cdllq	1
 采凉山	cdllu	1
-采莲队	cdlmd	1
 采莲歌	cdlmg	1
 采莲船	cdlmi	1
 采莲令	cdlml	1
@@ -15437,7 +15383,6 @@ sort: by_weight
 测井仪	cejky	1
 策蹇驴	cejml	1
 侧脚里	cejnl	1
-测角器	cejnq	1
 测角术	cejnu	2
 测角仪	cejny	1
 测节器	cejpq	1
@@ -16185,7 +16130,6 @@ sort: by_weight
 次直积	civij	2
 辞职权	civiq	1
 雌雉啼	civit	1
-辞职书	civiu	1
 此之外	civiw	1
 辞职信	civix	1
 瓷砖胶	civrj	1
@@ -16598,7 +16542,6 @@ sort: by_weight
 从来没	csldm	1
 从来未	csldw	1
 丛立新	cslix	1
-从量税	csllu	1
 丛连彪	cslmb	1
 骢马行	csmah	1
 骢马客	csmak	1
@@ -16961,7 +16904,6 @@ sort: by_weight
 崔天凯	cvtmk	1
 催吐剂	cvtuj	1
 淬透性	cvtzx	1
-脆绍面	cvucm	1
 崔绍山	cvucu	1
 催生符	cvugf	0
 催生出	cvugi	1
@@ -17771,7 +17713,6 @@ sort: by_weight
 大湖口	dahuk	1
 打呼噜	dahul	1
 打虎跳	dahut	1
-打呼声	dahuu	1
 达浒镇	dahuv	1
 大户型	dahux	150
 大忽悠	dahuy	1
@@ -17930,7 +17871,6 @@ sort: by_weight
 打交道	dajnd	835
 大叫唤	dajnh	1
 大角膜	dajnm	1
-打胶枪	dajnq	0
 大脚三	dajns	1
 大教堂	dajnt	143
 大交镇	dajnv	1
@@ -18120,11 +18060,9 @@ sort: by_weight
 大梁村	dallc	1
 大梁行	dallh	1
 打量出	dalli	1
-大凉山	dallu	1
 大两乡	dallx	1
 大良造	dallz	1
 搭连布	dalmb	1
-大连道	dalmd	1
 大连港	dalmg	1
 大联欢	dalmh	1
 大连籍	dalmj	1
@@ -18192,7 +18130,6 @@ sort: by_weight
 大伦镇	dalyv	1
 大娄山	dalzu	1
 大马帮	damab	1
-打麻糍	damac	1
 达玛尔	damae	1
 打麻烦	damaf	1
 大麻苷	damag	1
@@ -19378,7 +19315,6 @@ sort: by_weight
 道教村	dcjnc	1
 氘交换	dcjnh	1
 倒角机	dcjnj	1
-岛礁区	dcjnq	1
 道教徒	dcjnt	1
 道窖镇	dcjnv	1
 道具服	dcjuf	0
@@ -19802,7 +19738,6 @@ sort: by_weight
 戴建平	ddjmp	1
 代建制	ddjmv	1
 带减围	ddjmw	1
-戴娇倩	ddjnq	1
 待解决	ddjpj	1
 带锯床	ddjui	1
 戴菊科	ddjuk	1
@@ -21036,7 +20971,6 @@ sort: by_weight
 第八个	dibag	1
 第八号	dibah	1
 第八届	dibaj	228
-狄巴克	dibak	1
 堤坝路	dibal	1
 第八名	dibam	1
 第八篇	dibap	1
@@ -22375,7 +22309,6 @@ sort: by_weight
 单字表	djzib	1
 担子菌	djzij	1
 掸子蜡	djzil	1
-弹子球	djziq	1
 淡紫色	djzis	1
 弹子台	djzit	1
 弹子石	djziu	1
@@ -22534,7 +22467,6 @@ sort: by_weight
 丁红莹	dkhsy	1
 鼎湖峰	dkhuf	1
 鼎湖区	dkhuq	1
-鼎湖山	dkhuu	1
 丁湖镇	dkhuv	1
 顶回来	dkhvl	1
 顶回去	dkhvq	1
@@ -24810,7 +24742,6 @@ sort: by_weight
 董国兴	dsgox	1
 东关村	dsgrc	1
 东莞队	dsgrd	1
-东官房	dsgrf	1
 东关街	dsgrj	1
 东观令	dsgrl	1
 东关桥	dsgrq	1
@@ -24928,7 +24859,6 @@ sort: by_weight
 东窗妇	dsilf	1
 冻疮膏	dsilg	1
 东窗计	dsilj	1
-东床客	dsilk	1
 东川村	dsirc	1
 东川队	dsird	1
 东川区	dsirq	1
@@ -24977,7 +24907,6 @@ sort: by_weight
 冬交会	dsjnh	1
 东较场	dsjni	1
 动觉计	dsjnj	1
-东郊区	dsjnq	1
 东角头	dsjnt	1
 东郊镇	dsjnv	1
 东郊乡	dsjnx	1
@@ -25760,7 +25689,6 @@ sort: by_weight
 读出来	duiul	1
 读出头	duiut	2
 读出线	duiux	1
-读初一	duiuy	1
 杜春生	duiyu	1
 度春宵	duiyx	1
 杜金海	dujbh	1
@@ -27384,7 +27312,6 @@ sort: by_weight
 二红饭	erhsf	1
 而忽略	erhul	1
 二胡曲	erhuq	1
-而忽视	erhuu	1
 二回熟	erhvu	1
 二会子	erhvz	1
 二花脸	erhxl	1
@@ -28482,7 +28409,6 @@ sort: by_weight
 汾江路	ffjll	1
 汾江南	ffjln	1
 分歼战	ffjmv	1
-分角器	ffjnq	1
 分角线	ffjnx	1
 分解表	ffjpb	1
 分阶段	ffjpd	138
@@ -29329,7 +29255,6 @@ sort: by_weight
 冯双白	fgulb	1
 冯双翼	fguly	1
 风树悲	fguub	1
-枫树村	fguuc	1
 枫树菌	fguuj	1
 枫树枝	fguuv	1
 枫树下	fguux	1
@@ -29618,7 +29543,6 @@ sort: by_weight
 放得下	fhdex	0
 方等声	fhdgu	1
 方登峄	fhdgy	1
-房地产	fhdii	5166
 房地价	fhdij	1
 房地契	fhdiq	1
 防弹布	fhdjb	1
@@ -29894,7 +29818,6 @@ sort: by_weight
 方里乡	fhlix	1
 方令孺	fhlkr	1
 房良村	fhllc	1
-放良书	fhllu	1
 枋寮乡	fhlnx	1
 防裂膏	fhlpg	1
 防裂霜	fhlpu	1
@@ -29974,7 +29897,6 @@ sort: by_weight
 方丝巾	fhsij	1
 仿丝伞	fhsis	1
 纺丝头	fhsit	1
-房寺镇	fhsiv	1
 房思瑜	fhsiy	1
 方三拜	fhsjb	1
 放散阀	fhsjf	1
@@ -30523,7 +30445,6 @@ sort: by_weight
 范敬宜	fjjky	1
 翻江鼠	fjjlu	1
 翻江镇	fjjlv	1
-反间谍	fjjmd	1
 樊建川	fjjmi	1
 范建平	fjjmp	1
 范建中	fjjmv	1
@@ -30581,7 +30502,6 @@ sort: by_weight
 泛兰舟	fjljv	1
 泛灵论	fjlkl	1
 翻两番	fjllf	1
-贩量式	fjllu	1
 返流性	fjlqx	1
 反垄断	fjlsd	192
 泛龙舟	fjlsv	1
@@ -31339,7 +31259,6 @@ sort: by_weight
 妇产科	fuijk	365
 副产品	fuijp	139
 副产物	fuijw	1
-父窗口	fuilk	1
 阜川镇	fuirv	1
 浮船坞	fuirw	1
 富川县	fuirx	1
@@ -31771,7 +31690,6 @@ sort: by_weight
 芙蓉面	fursm	1
 芙蓉区	fursq	1
 芙蓉汤	furst	1
-芙蓉山	fursu	1
 芙蓉帐	fursv	1
 芙蓉王	fursw	1
 芙蓉溪	fursx	1
@@ -32685,7 +32603,6 @@ sort: by_weight
 非线编	fwxmb	1
 飞仙渡	fwxmd	1
 飞仙盖	fwxmg	1
-飞仙镇	fwxmv	1
 非线性	fwxmx	403
 费孝通	fwxnt	1
 非小说	fwxnu	0
@@ -32932,7 +32849,6 @@ sort: by_weight
 高地村	gcdic	1
 高迪尔	gcdie	1
 高低杠	gcdig	1
-高低潮	gcdii	1
 高地价	gcdij	1
 高低扛	gcdik	1
 高地人	gcdir	1
@@ -33109,7 +33025,6 @@ sort: by_weight
 高崇民	gcism	1
 搞出来	gciul	1
 高初中	gciuv	1
-高出叶	gciuy	1
 高春芳	gciyf	1
 高春辉	gciyh	1
 高纯镓	gciyj	1
@@ -33862,7 +33777,6 @@ sort: by_weight
 钙试剂	gduij	1
 改善法	gdujf	1
 改善了	gdujl	1
-盖山镇	gdujv	1
 钙振荡	gdvfd	1
 该证据	gdvgj	1
 改正值	gdvgv	2
@@ -33894,7 +33808,6 @@ sort: by_weight
 盖洋镇	gdyhv	1
 盖洋乡	gdyhx	1
 改一改	gdyig	1
-概言之	gdyjv	1
 该用户	gdysh	203
 概预算	gdyus	1
 盖玉乡	gdyux	1
@@ -35138,7 +35051,6 @@ sort: by_weight
 甘登乡	gjdgx	1
 干瞪眼	gjdgy	2
 赶档子	gjdhz	1
-甘地传	gjdii	1
 肝胆病	gjdjb	1
 肝胆科	gjdjk	1
 甘丹寺	gjdjs	1
@@ -35324,7 +35236,6 @@ sort: by_weight
 甘陵部	gjlkb	1
 干粮袋	gjlld	1
 甘良淼	gjllm	1
-干练地	gjlmd	1
 甘连舫	gjlmf	1
 干落得	gjlod	1
 甘洛县	gjlox	1
@@ -35640,7 +35551,6 @@ sort: by_weight
 掴耳光	gkerg	0
 拐儿镇	gkerv	1
 乖乖的	gkgkd	187
-乖乖虎	gkgkh	1
 乖乖女	gkgkn	1
 乖乖牌	gkgkp	0
 乖乖仔	gkgkz	1
@@ -37185,7 +37095,6 @@ sort: by_weight
 官岭镇	grlkv	1
 关岭县	grlkx	1
 惯量积	grllj	1
-关联度	grlmd	1
 关联方	grlmf	135
 关联集	grlmj	1
 关联类	grlml	2
@@ -38619,7 +38528,6 @@ sort: by_weight
 顾建国	gujmg	1
 古剑篇	gujmp	1
 古建筑	gujmv	160
-古交区	gujnq	1
 古交市	gujnu	1
 古交镇	gujnv	1
 古郊乡	gujnx	1
@@ -39727,7 +39635,6 @@ sort: by_weight
 寡鳞𫚪	gxlby	1
 瓜里乡	gxlix	1
 瓜兰达	gxljd	1
-刮脸刀	gxlmd	1
 瓜廖尔	gxlne	1
 瓜蒌皮	gxlzp	1
 瓜蒌仁	gxlzr	1
@@ -40903,7 +40810,6 @@ sort: by_weight
 海德曼	hddem	1
 海德斯	hddes	1
 海德镇	hddev	1
-海底城	hddii	1
 海地路	hddil	1
 海地人	hddir	1
 海蒂诗	hddiu	1
@@ -41313,7 +41219,6 @@ sort: by_weight
 还是在	hduiz	1
 海山道	hdujd	1
 海山路	hdujl	1
-海山镇	hdujv	1
 海山乡	hdujx	1
 还说是	hduou	1
 还说有	hduoy	1
@@ -41943,7 +41848,6 @@ sort: by_weight
 诃陵樽	helkz	1
 河梁别	hellb	1
 何亮亮	helll	1
-赫连刀	helmd	1
 赫连昌	helmi	1
 赫连决	helmj	1
 赫莲娜	helmn	1
@@ -42200,7 +42104,6 @@ sort: by_weight
 荷塘乡	hethx	1
 合体技	hetij	1
 赫梯人	hetir	1
-何惕守	hetiu	1
 赫梯语	hetiy	1
 合体字	hetiz	1
 河滩路	hetjl	1
@@ -44049,7 +43952,6 @@ sort: by_weight
 晃荡酒	hldhj	1
 皇帝菜	hldic	0
 皇帝宫	hldig	1
-黄帝城	hldii	1
 黄帝剑	hldij	1
 皇地祇	hldiq	1
 黄帝术	hldiu	1
@@ -44793,7 +44695,6 @@ sort: by_weight
 荒山坡	hlujp	1
 黄山前	hlujq	1
 黄山松	hlujs	1
-黄山头	hlujt	1
 黄山站	hlujv	1
 黄山乡	hlujx	1
 黄双安	hlula	1
@@ -46071,7 +45972,6 @@ sort: by_weight
 红湖街	hshuj	1
 红狐狸	hshul	1
 鸿鹄谋	hshum	1
-洪湖市	hshuu	1
 洪湖镇	hshuv	1
 洪湖县	hshux	1
 红胡子	hshuz	1
@@ -46731,7 +46631,6 @@ sort: by_weight
 护刀油	hudcy	1
 胡德第	huded	1
 胡德山	hudeu	1
-湖底扇	hudiu	1
 护堤桩	hudiv	1
 胡底乡	hudix	1
 胡钉铰	hudkj	1
@@ -46913,7 +46812,6 @@ sort: by_weight
 胡春华	huiyh	1
 胡春蕾	huiyl	1
 胡春梅	huiym	1
-胡春生	huiyu	1
 狐臭味	huizw	1
 胡金豹	hujbb	1
 胡金辉	hujbh	1
@@ -46938,7 +46836,6 @@ sort: by_weight
 胡椒饼	hujnb	1
 胡椒碱	hujnj	1
 胡椒面	hujnm	1
-呼叫器	hujnq	1
 呼叫者	hujnv	1
 胡椒眼	hujny	1
 胡椒子	hujnz	0
@@ -47169,7 +47066,6 @@ sort: by_weight
 胡青羊	huqky	1
 护墙板	huqlb	1
 糊墙纸	huqlv	1
-湖前河	huqmh	1
 虎钤经	huqmj	1
 虎潜丸	huqmw	1
 胡乔木	huqnm	1
@@ -47204,7 +47100,6 @@ sort: by_weight
 胡三省	husju	1
 护送队	hussd	1
 胡松华	hussh	1
-觳觫车	husui	1
 胡苏平	husup	1
 互素数	husuu	2
 猢狲儿	husye	1
@@ -48214,7 +48109,6 @@ sort: by_weight
 黑胡椒	hwhuj	1
 黑虎泉	hwhuq	1
 黑胡桃	hwhut	1
-黑虎山	hwhuu	1
 黑虎乡	hwhux	1
 黑惠江	hwhvj	1
 黑黑的	hwhwd	174
@@ -48875,7 +48769,6 @@ sort: by_weight
 华兰乡	hxljx	1
 华灵路	hxlkl	1
 华菱女	hxlkn	2
-花恋蝶	hxlmd	1
 花莲港	hxlmg	1
 华联会	hxlmh	1
 花莲人	hxlmr	1
@@ -52374,7 +52267,6 @@ sort: by_weight
 城郊村	igjnc	1
 成教处	igjni	1
 成交价	igjnj	232
-城郊区	igjnq	1
 成胶状	igjnv	1
 城郊乡	igjnx	1
 成教院	igjny	1
@@ -53360,7 +53252,6 @@ sort: by_weight
 常岩峰	ihyjf	1
 长檐车	ihyji	0
 常言说	ihyju	1
-倡言者	ihyjv	0
 长缨路	ihykl	1
 长远的	ihyrd	1
 长源公	ihyrg	0
@@ -53748,7 +53639,6 @@ sort: by_weight
 池上镇	iiuhv	1
 池上乡	iiuhx	1
 赤石村	iiuic	1
-吃十方	iiuif	1
 赤石乡	iiuix	1
 赤山埠	iiujb	1
 赤山村	iiujc	1
@@ -54274,7 +54164,6 @@ sort: by_weight
 传导性	irdcx	1
 穿带印	irddy	1
 川党参	irdhu	0
-传递窗	irdii	1
 传递集	irdij	2
 穿地龙	irdil	1
 传递群	irdiq	1
@@ -54467,7 +54356,6 @@ sort: by_weight
 船山乡	irujx	1
 传说中	iruov	1
 传输比	iruub	2
-传输层	iruuc	1
 传书鸽	iruug	1
 传输机	iruuj	1
 传输口	iruuk	1
@@ -56420,7 +56308,6 @@ sort: by_weight
 浸出法	jbiuf	1
 进出港	jbiug	1
 进出口	jbiuk	1174
-浸出液	jbiuy	1
 近春园	jbiyy	1
 近瞅子	jbizz	1
 紧紧地	jbjbd	1
@@ -56454,7 +56341,6 @@ sort: by_weight
 金建忠	jbjmv	1
 金剑啸	jbjmx	1
 金脚带	jbjnd	1
-近郊区	jbjnq	1
 金交所	jbjns	1
 金角湾	jbjnw	1
 近交系	jbjnx	1
@@ -56573,7 +56459,6 @@ sort: by_weight
 金铃子	jblkz	1
 金两河	jbllh	1
 近两天	jbllt	1
-尽量少	jbllu	1
 金联安	jblma	1
 金莲步	jblmb	1
 金莲花	jblmh	1
@@ -57654,7 +57539,6 @@ sort: by_weight
 集虹苑	jihsy	1
 急乎乎	jihuh	1
 姬胡齐	jihuq	1
-几乎是	jihuu	1
 几乎在	jihuz	1
 级灰度	jihvd	1
 及绘画	jihvh	1
@@ -57732,7 +57616,6 @@ sort: by_weight
 基础群	jiiuq	2
 基础图	jiiut	2
 基础性	jiiux	376
-基础油	jiiuy	1
 极除子	jiiuz	1
 肌醇化	jiiyh	1
 冀纯堂	jiiyt	1
@@ -57771,7 +57654,6 @@ sort: by_weight
 吉杰尔	jijpe	1
 季节感	jijpg	1
 鸡街河	jijph	1
-几节课	jijpk	1
 季节性	jijpx	259
 急救包	jijqb	1
 及酒店	jijqd	1
@@ -58283,7 +58165,6 @@ sort: by_weight
 鸡山乡	jiujx	1
 稷山营	jiujy	1
 稽山子	jiujz	1
-基数词	jiuuc	1
 计数管	jiuug	1
 计数化	jiuuh	2
 级数解	jiuuj	3
@@ -59878,7 +59759,6 @@ sort: by_weight
 江山船	jluji	0
 江山莲	jlujl	1
 江山牌	jlujp	1
-姜山头	jlujt	1
 江山镇	jlujv	1
 江山戏	jlujx	1
 讲述法	jluuf	1
@@ -60341,7 +60221,6 @@ sort: by_weight
 建湖里	jmhul	1
 监护权	jmhuq	1
 监护人	jmhur	222
-监护室	jmhuu	1
 鉴湖镇	jmhuv	1
 建湖县	jmhux	1
 监护仪	jmhuy	1
@@ -60413,7 +60292,6 @@ sort: by_weight
 鵳鵳子	jmjmz	1
 尖角脆	jmjnc	1
 尖椒鸡	jmjnj	1
-歼教七	jmjnq	1
 尖椒兔	jmjnt	1
 尖叫声	jmjnu	119
 歼教五	jmjnw	1
@@ -61155,7 +61033,6 @@ sort: by_weight
 焦建民	jnjmm	1
 皎皎的	jnjnd	1
 娇娇女	jnjnn	1
-交角券	jnjnq	1
 佼佼者	jnjnv	254
 角角鱼	jnjny	1
 交接班	jnjpb	1
@@ -61561,7 +61438,6 @@ sort: by_weight
 焦作人	jnzor	1
 焦作市	jnzou	1
 交作业	jnzoy	1
-交嘴雀	jnzvq	1
 杰艾卡	jpaik	1
 捷安特	jpant	1
 结案数	jpanu	1
@@ -61878,7 +61754,6 @@ sort: by_weight
 节粮型	jpllx	1
 结良缘	jplly	1
 结梁子	jpllz	0
-接连到	jplmd	1
 解连环	jplmh	1
 捷连季	jplmj	1
 结辽鸟	jplnn	1
@@ -62099,7 +61974,6 @@ sort: by_weight
 结硕果	jpuog	1
 解说人	jpuor	1
 解说员	jpuoy	211
-劫鼠仓	jpuuc	0
 结束符	jpuuf	1
 结束后	jpuuh	1
 结束时	jpuuu	1
@@ -62714,7 +62588,6 @@ sort: by_weight
 九十一	jquiy	1
 就是在	jquiz	1
 九山顶	jqujd	1
-九山镇	jqujv	1
 鸠山乡	jqujx	1
 救数人	jquur	1
 旧书摊	jquut	1
@@ -63018,7 +62891,6 @@ sort: by_weight
 觉得痒	jtdey	1
 掘地蜂	jtdif	1
 掘地工	jtdig	1
-掘地鼠	jtdiu	1
 角抵戏	jtdix	0
 决定簇	jtdkc	1
 决定的	jtdkd	1
@@ -63664,7 +63536,6 @@ sort: by_weight
 夹当儿	jxdhe	0
 加蒂安	jxdia	1
 家底儿	jxdie	1
-贾第虫	jxdii	1
 加迪斯	jxdis	1
 家地乡	jxdix	1
 嘉定区	jxdkq	1
@@ -65519,7 +65390,6 @@ sort: by_weight
 开场仅	kdihj	1
 开场戏	kdihx	1
 开窗机	kdilj	1
-开窗口	kdilk	2
 开创了	kdill	1
 开创者	kdilv	1
 开创性	kdilx	1
@@ -66262,7 +66132,6 @@ sort: by_weight
 岢岚县	keljx	1
 克龄蒙	kelkm	1
 克令乡	kelkx	1
-可怜的	kelmd	1
 可怜虫	kelmi	1
 可怜见	kelmj	1
 可怜生	kelmu	0
@@ -66763,7 +66632,6 @@ sort: by_weight
 可延期	keyjq	1
 科研所	keyjs	1
 科研社	keyju	1
-可延展	keyjv	1
 科研网	keyjw	1
 科研型	keyjx	1
 科研院	keyjy	1
@@ -67420,7 +67288,6 @@ sort: by_weight
 看新闻	kjxbw	236
 看香头	kjxlt	0
 看笑话	kjxnh	1
-看小说	kjxnu	201
 砍下来	kjxxl	1
 看下去	kjxxq	232
 看样子	kjyhz	998
@@ -68830,7 +68697,6 @@ sort: by_weight
 喇叭管	labag	1
 喇叭花	labah	1
 腊八节	labaj	1
-喇叭口	labak	1
 腊八米	labam	0
 拉巴尼	laban	1
 喇叭裙	labaq	0
@@ -69077,7 +68943,6 @@ sort: by_weight
 拉力绳	laliu	1
 拉里亚	laliy	1
 拉揽乡	laljx	1
-拉链袋	lalmd	1
 拉链厂	lalmi	1
 拉链头	lalmt	1
 蜡疗机	lalnj	1
@@ -72063,7 +71928,6 @@ sort: by_weight
 黎楚池	liiui	1
 李楚江	liiuj	1
 李初梨	liiul	1
-李楚瀛	liiuy	1
 李春波	liiyb	1
 丽春草	liiyc	0
 李纯恩	liiye	1
@@ -72187,7 +72051,6 @@ sort: by_weight
 立可擦	likec	1
 里科尔	likee	1
 利科夫	likef	1
-李克纯	likei	1
 利科克	likek	1
 利客隆	likel	1
 李克明	likem	1
@@ -72691,7 +72554,6 @@ sort: by_weight
 李少光	liucg	1
 李少红	liuch	1
 李少杰	liucj	1
-李少民	liucm	1
 黎少镇	liucv	1
 李绍武	liucw	1
 犁舌狱	liuey	0
@@ -72724,14 +72586,12 @@ sort: by_weight
 骊山路	liujl	1
 栗山坡	liujp	1
 李善庆	liujq	1
-历山头	liujt	1
 李善长	liujv	1
 藜山乡	liujx	1
 李善友	liujy	1
 李双江	liulj	1
 李双良	liull	1
 李硕勋	liuox	1
-梨树村	liuuc	1
 梨树河	liuuh	1
 梨树角	liuuj	1
 李树林	liuul	1
@@ -73177,7 +73037,6 @@ sort: by_weight
 利兹联	lizil	1
 李子明	lizim	1
 李子坪	lizip	1
-李子卿	liziq	1
 离子烫	lizit	1
 离子束	liziu	1
 离子铣	lizix	1
@@ -73521,7 +73380,6 @@ sort: by_weight
 兰市乡	ljuix	1
 阑珊处	ljuji	1
 兰山区	ljujq	1
-岚山头	ljujt	1
 岚山镇	ljujv	1
 兰山乡	ljujx	1
 榄树村	ljuuc	1
@@ -73764,7 +73622,6 @@ sort: by_weight
 灵城镇	lkigv	1
 凌承纬	lkigw	1
 凌成兴	lkigx	1
-领唱者	lkihv	1
 詅嗤符	lkiif	0
 灵川镇	lkirv	1
 灵川县	lkirx	1
@@ -73937,7 +73794,6 @@ sort: by_weight
 灵山镇	lkujv	1
 灵山县	lkujx	1
 凌霜华	lkulh	1
-灵树村	lkuuc	1
 凌淑芬	lkuuf	1
 凌叔华	lkuuh	1
 灵枢经	lkuuj	1
@@ -74281,7 +74137,6 @@ sort: by_weight
 梁建新	lljmx	1
 两脚狐	lljnh	0
 量角计	lljnj	2
-量角器	lljnq	1
 两脚兽	lljnu	0
 良教乡	lljnx	1
 两脚羊	lljny	0
@@ -75389,7 +75244,6 @@ sort: by_weight
 罗安平	loanp	1
 罗安英	loany	1
 罗坳镇	loaov	1
-罗巴克	lobak	1
 罗拔图	lobat	1
 罗坝镇	lobav	1
 罗坝乡	lobax	1
@@ -75475,7 +75329,6 @@ sort: by_weight
 罗迪亚	lodiy	1
 洛丹伦	lodjl	1
 罗定江	lodkj	1
-罗定市	lodku	1
 罗定县	lodkx	1
 罗殿龙	lodml	1
 罗店镇	lodmv	1
@@ -76728,7 +76581,6 @@ sort: by_weight
 溜出去	lqiuq	1
 流出入	lqiur	1
 刘处玄	lqiux	1
-刘楚玉	lqiuy	1
 刘春峰	lqiyf	1
 刘春红	lqiyh	1
 刘春兰	lqiyl	1
@@ -76782,7 +76634,6 @@ sort: by_weight
 流胶病	lqjnb	1
 留交会	lqjnh	1
 六角木	lqjnm	1
-六角球	lqjnq	1
 六角亭	lqjnt	1
 六角网	lqjnw	1
 六角系	lqjnx	2
@@ -77399,7 +77250,6 @@ sort: by_weight
 六线谱	lqxmp	1
 六弦琴	lqxmq	1
 刘献廷	lqxmt	1
-刘仙洲	lqxmv	1
 刘宪文	lqxmw	1
 流线型	lqxmx	1
 刘小芬	lqxnf	1
@@ -78248,7 +78098,6 @@ sort: by_weight
 龙翔记	lsxlj	1
 龙翔寺	lsxls	1
 龙象筵	lsxly	0
-龙仙镇	lsxmv	1
 龙涎香	lsxmx	1
 龙绡装	lsxnv	1
 龙旋风	lsxrf	1
@@ -79367,7 +79216,6 @@ sort: by_weight
 氯离子	lvliz	1
 绿领巾	lvlkj	1
 吕陵镇	lvlkv	1
-吕梁山	lvllu	1
 吕良镇	lvllv	1
 吕良伟	lvllw	1
 绿帘石	lvlmu	1
@@ -80204,7 +80052,6 @@ sort: by_weight
 楼承板	lzigb	1
 漏出来	lziul	1
 漏出去	lziuq	1
-漏出液	lziuy	1
 漏进来	lzjbl	1
 漏进去	lzjbq	1
 楼继伟	lzjiw	1
@@ -80334,7 +80181,6 @@ sort: by_weight
 马草夼	macck	0
 马槽乡	maccx	1
 马踩车	macdi	0
-马刺队	macid	113
 麻糍粿	macig	1
 马慈航	macih	1
 马灿荣	macjr	1
@@ -80384,7 +80230,6 @@ sort: by_weight
 马蒂拉	madil	1
 马蒂奇	madiq	1
 马蒂斯	madis	1
-马谛氏	madiu	1
 麻底鞋	madix	1
 马迪亚	madiy	1
 玛丹娜	madjn	1
@@ -81166,7 +81011,6 @@ sort: by_weight
 麻沙溪	mauax	1
 马绍尔	mauce	1
 马少华	mauch	1
-马烧麦	maucm	1
 马绍荣	maucr	1
 马韶伟	maucw	1
 马勺子	maucz	0
@@ -81189,7 +81033,6 @@ sort: by_weight
 骂是爱	mauia	1
 马世芳	mauif	1
 马氏杆	mauig	1
-马师皇	mauih	0
 马士基	mauij	1
 马狮麟	mauil	1
 麻石桥	mauiq	1
@@ -81199,7 +81042,6 @@ sort: by_weight
 马士英	mauiy	1
 麻食子	mauiz	1
 马山埠	maujb	1
-马山村	maujc	1
 马善均	maujj	1
 骂山门	maujm	1
 麻山区	maujq	1
@@ -81389,7 +81231,6 @@ sort: by_weight
 麻洋镇	mayhv	1
 麻秧乡	mayhx	1
 蚂蚁布	mayib	1
-马一丹	mayid	1
 马尾蜂	mayif	0
 玛衣宫	mayig	1
 马一龙	mayil	1
@@ -82210,7 +82051,6 @@ sort: by_weight
 麦格尼	mdgen	1
 麦盖提	mdget	0
 麦戈文	mdgew	1
-麦秆儿	mdgje	0
 麦秆虫	mdgji	1
 麦秆扇	mdgju	1
 卖柑者	mdgjv	1
@@ -84806,7 +84646,6 @@ sort: by_weight
 模糊化	mohuh	1
 模糊集	mohuj	4
 模糊了	mohul	1
-模糊声	mohuu	1
 模糊性	mohux	2
 模糊音	mohuy	1
 抹灰层	mohvc	1
@@ -84966,7 +84805,6 @@ sort: by_weight
 莫纳克	monak	1
 末耐何	mondh	0
 莫乃倩	mondq	1
-摩尼殿	monid	1
 模拟法	monif	1
 模拟化	monih	1
 模拟机	monij	1
@@ -85463,7 +85301,6 @@ sort: by_weight
 木红毬	muhsq	0
 木红色	muhss	0
 穆护歌	muhug	0
-穆护砂	muhuu	0
 穆护子	muhuz	0
 目黑区	muhwq	1
 木华黎	muhxl	1
@@ -88224,7 +88061,6 @@ sort: by_weight
 南郭门	njgom	1
 南郭綦	njgoq	0
 南郭寺	njgos	1
-南国社	njgou	0
 南关村	njgrc	1
 南官房	njgrf	1
 男管家	njgrj	0
@@ -88391,7 +88227,6 @@ sort: by_weight
 南胶河	njjnh	0
 南较场	njjni	1
 南郊路	njjnl	1
-南郊区	njjnq	1
 南郊镇	njjnv	1
 南郊乡	njjnx	1
 南街村	njjpc	1
@@ -89466,7 +89301,6 @@ sort: by_weight
 诺尔斯	noers	1
 诺尔特	noert	1
 诺夫哥	nofug	1
-诺福克	nofuk	1
 诺芙娜	nofun	1
 糯福乡	nofux	1
 糯高梁	nogcl	1
@@ -90780,7 +90614,6 @@ sort: by_weight
 内环线	nwhrx	1
 内湖村	nwhuc	1
 内湖区	nwhuq	1
-内湖省	nwhuu	1
 内湖镇	nwhuv	1
 内湖湾	nwhuw	1
 哪会儿	nwhve	0
@@ -91686,7 +91519,6 @@ sort: by_weight
 跑新闻	pcxbw	0
 庖牺氏	pcxiu	0
 泡仙记	pcxmj	1
-咆哮声	pcxnu	1
 咆哮者	pcxnv	1
 抛绣球	pcxqq	1
 抛下来	pcxxl	1
@@ -92639,7 +92471,6 @@ sort: by_weight
 批龙鳞	pilsl	0
 毗卢镇	piluv	1
 皮雷利	pilwl	1
-披麻皴	pimac	1
 披麻拷	pimak	0
 匹马力	pimal	0
 皮毛厂	pimci	1
@@ -93222,7 +93053,6 @@ sort: by_weight
 平等性	pkdgx	1
 平地村	pkdic	1
 平底锅	pkdig	1
-平底船	pkdii	1
 平地机	pkdij	1
 平地起	pkdiq	1
 平地人	pkdir	1
@@ -93625,7 +93455,6 @@ sort: by_weight
 平张纸	pkvhv	1
 平掌乡	pkvhx	1
 平治河	pkvih	1
-评职称	pkvii	1
 凭直觉	pkvij	1
 瓶盏病	pkvjb	0
 平战时	pkvju	1
@@ -94007,7 +93836,6 @@ sort: by_weight
 破烂王	poljw	1
 破灵者	polkv	1
 坡梁地	polld	1
-泼凉水	pollu	0
 破凉镇	pollv	1
 破落户	poloh	1
 珀洛克	polok	1
@@ -94175,7 +94003,6 @@ sort: by_weight
 埔当村	pudhc	1
 普当乡	pudhx	1
 铺地板	pudib	1
-匍滴虫	pudii	0
 铺地锦	pudij	0
 铺地钱	pudiq	0
 铺地砖	pudiv	1
@@ -95306,7 +95133,6 @@ sort: by_weight
 气藏气	qichq	1
 齐次簇	qicic	2
 齐次图	qicit	2
-其次是	qiciu	1
 乞措大	qicod	0
 齐村镇	qicyv	1
 齐村乡	qicyx	1
@@ -95428,7 +95254,6 @@ sort: by_weight
 漆过来	qigol	1
 漆过去	qigoq	1
 齐国人	qigor	1
-齐国胜	qigou	1
 期国债	qigov	1
 七管村	qigrc	1
 其观点	qigrd	907
@@ -95623,7 +95448,6 @@ sort: by_weight
 期刊业	qikjy	1
 砌块机	qikkj	1
 七孔被	qiksb	1
-气控阀	qiksf	1
 气孔率	qiksl	1
 七孔桥	qiksq	1
 七孔针	qiksv	0
@@ -95679,7 +95503,6 @@ sort: by_weight
 杞梁墓	qillm	1
 杞梁妻	qillq	1
 齐梁体	qillt	1
-凄凉山	qillu	1
 七连冠	qilmg	1
 祁连山	qilmu	1
 七连庄	qilmv	1
@@ -96478,7 +96301,6 @@ sort: by_weight
 清涧河	qkjmh	1
 请检查	qkjmi	1
 清涧县	qkjmx	1
-清郊区	qkjnq	1
 清教徒	qkjnt	1
 青脚鹬	qkjny	0
 清洁布	qkjpb	1
@@ -97694,7 +97516,6 @@ sort: by_weight
 千良和	qmllh	1
 前两节	qmllj	1
 前两天	qmllt	1360
-牵连到	qmlmd	1
 千罗壁	qmlob	1
 前列康	qmlpk	1
 前列腺	qmlpx	449
@@ -97911,7 +97732,6 @@ sort: by_weight
 千山区	qmujq	1
 前山镇	qmujv	1
 千善乡	qmujx	1
-前束词	qmuuc	2
 签署国	qmuug	1
 签署人	qmuur	1
 钱书远	qmuuy	1
@@ -99592,7 +99412,6 @@ sort: by_weight
 趋化性	quhxx	1
 曲尘罗	quifl	0
 曲尘丝	quifs	0
-屈臣氏	quifu	173
 曲池荷	quiih	1
 曲池穴	quiix	1
 驱虫剂	quisj	1
@@ -100525,7 +100344,6 @@ sort: by_weight
 仁川市	rfiru	1
 仁川镇	rfirv	1
 认出来	rfiul	1
-人初油	rfiuy	1
 人厨子	rfiuz	1
 韧劲儿	rfjbe	1
 壬基酚	rfjif	1
@@ -103267,7 +103085,6 @@ sort: by_weight
 四方坪	sifhp	1
 私房钱	sifhq	113
 四方台	sifht	1
-四方山	sifhu	1
 丝纺织	sifhv	1
 四方形	sifhx	1
 四方堰	sifhy	1
@@ -103569,7 +103386,6 @@ sort: by_weight
 泗纶镇	silyv	1
 四论宗	silyz	0
 司马彪	simab	1
-司马错	simac	1
 斯马尔	simae	1
 司马孚	simaf	1
 司马光	simag	1
@@ -103885,7 +103701,6 @@ sort: by_weight
 私生子	siugz	143
 寺上村	siuhc	1
 思伤脾	siuhp	1
-死伤者	siuhv	1
 司上乡	siuhx	1
 四时菜	siuic	0
 四十二	siuie	1
@@ -103893,7 +103708,6 @@ sort: by_weight
 四十七	siuiq	1
 四十五	siuiw	140
 四氏学	siuix	0
-四十一	siuiy	1
 四释尊	siuiz	1
 思山岭	siujl	1
 四扇屏	siujp	0
@@ -105934,7 +105748,6 @@ sort: by_weight
 松山乡	ssujx	1
 宋善玉	ssujy	1
 松树庵	ssuua	1
-松树村	ssuuc	1
 松树岗	ssuug	1
 松鼠猴	ssuuh	1
 松树岭	ssuul	1
@@ -106283,7 +106096,6 @@ sort: by_weight
 塑胶粒	sujnl	1
 素椒面	sujnm	1
 塑胶片	sujnp	1
-塑胶漆	sujnq	1
 塑胶套	sujnt	1
 塑胶纸	sujnv	1
 速捷时	sujpu	1
@@ -106327,7 +106139,6 @@ sort: by_weight
 素理想	sulix	2
 苏里亚	suliy	1
 苏兰鑫	suljx	1
-苏连第	sulmd	1
 素连接	sulmj	2
 苏联人	sulmr	1
 苏连托	sulmt	1
@@ -106467,7 +106278,6 @@ sort: by_weight
 苏士澍	suuiu	1
 苏山村	suujc	1
 苏姗妮	suujn	1
-苏山头	suujt	1
 苏山乡	suujx	1
 鹔鹴袍	suulp	0
 鹔鹴裘	suulq	0
@@ -106487,7 +106297,6 @@ sort: by_weight
 苏贞昌	suvfi	129
 素质的	suvid	1
 素质化	suvih	1
-素质差	suvii	0
 苏智良	suvil	1
 苏志威	suviw	1
 苏志燮	suvix	1
@@ -106945,7 +106754,6 @@ sort: by_weight
 孙传庭	syirt	1
 孙传尧	syiry	1
 孙楚楼	syiul	0
-孙楚寅	syiuy	1
 孙春兰	syiyl	1
 孙纯田	syiyt	1
 孙春生	syiyu	1
@@ -107890,9 +107698,7 @@ sort: by_weight
 陶氏梭	tcuis	0
 桃实仙	tcuix	1
 桃山村	tcujc	1
-套衫儿	tcuje	0
 桃山区	tcujq	1
-桃山镇	tcujv	1
 讨说法	tcuof	1
 桃树坪	tcuup	1
 逃暑饮	tcuuy	0
@@ -108173,7 +107979,6 @@ sort: by_weight
 台江路	tdjll	1
 台江区	tdjlq	1
 台江县	tdjlx	1
-太简单	tdjmd	1
 台谏官	tdjmg	1
 太焦线	tdjnx	1
 抬轿子	tdjnz	1
@@ -110135,7 +109940,6 @@ sort: by_weight
 坛山刻	tjujk	0
 谭山镇	tjujv	1
 炭山乡	tjujx	1
-檀树村	tjuuc	1
 谭树海	tjuuh	1
 探水棒	tjuvb	1
 探水竿	tjuvg	0
@@ -110188,7 +109992,6 @@ sort: by_weight
 探险家	tjxmj	1
 谈仙岭	tjxml	1
 谈闲天	tjxmt	1
-探险者	tjxmv	1
 碳纤维	tjxmw	140
 谭小环	tjxnh	1
 谈笑间	tjxnj	1
@@ -111294,7 +111097,6 @@ sort: by_weight
 调景岭	tnjkl	1
 调经散	tnjks	1
 调经丸	tnjkw	1
-条件的	tnjmd	1
 条件好	tnjmh	1
 挑拣出	tnjmi	1
 条件句	tnjmj	1
@@ -111303,7 +111105,6 @@ sort: by_weight
 条件者	tnjmv	1
 条件下	tnjmx	1
 挑脚汉	tnjnh	0
-调角器	tnjnq	1
 跳脚舞	tnjnw	0
 调节阀	tnjpf	1
 调节杆	tnjpg	1
@@ -112449,7 +112250,6 @@ sort: by_weight
 铜活字	tshoz	1
 铜虎符	tshuf	0
 铜壶门	tshum	0
-潼湖水	tshuu	1
 潼湖镇	tshuv	1
 铜护腕	tshuw	1
 同呼吸	tshux	1
@@ -112617,7 +112417,6 @@ sort: by_weight
 同伦型	tslyx	2
 桐楼乡	tslzx	1
 捅娄子	tslzz	1
-铜马祠	tsmac	0
 铜马法	tsmaf	0
 铜马军	tsmaj	0
 通马桶	tsmat	1
@@ -112987,7 +112786,6 @@ sort: by_weight
 筒子们	tszim	1
 童子尿	tszin	0
 桐子排	tszip	1
-童子怯	tsziq	1
 童子团	tszit	1
 童子试	tsziu	1
 桐梓镇	tsziv	1
@@ -113557,11 +113355,9 @@ sort: by_weight
 推车者	tviev	1
 退场式	tvihu	1
 推斥力	tviil	1
-推迟势	tviiu	3
 退出键	tviuj	1
 推出来	tviul	1
 推出去	tviuq	1
-退除役	tviuy	1
 腿抽筋	tvizj	1
 推进舱	tvjbc	1
 推进会	tvjbh	1
@@ -115087,7 +114883,6 @@ sort: by_weight
 社教部	uejnb	1
 折脚铛	uejni	0
 社交界	uejnj	1
-社交圈	uejnq	1
 社教司	uejns	1
 社交图	uejnt	1
 社交舞	uejnw	0
@@ -115130,7 +114925,6 @@ sort: by_weight
 摄录像	uelux	1
 蛇绿岩	uelvy	1
 社论栏	uelyl	1
-蛇麻草	uemac	1
 社民党	uembd	1
 摄梦符	uemgf	1
 折慢幢	uemjv	0
@@ -115359,7 +115153,6 @@ sort: by_weight
 沈德忠	ufdev	1
 沈德咏	ufdey	1
 沈荡镇	ufdhv	1
-神帝传	ufdii	1
 甚低频	ufdip	1
 什地镇	ufdiv	1
 沈丹萍	ufdjp	1
@@ -115478,7 +115271,6 @@ sort: by_weight
 神护草	ufhuc	0
 神户港	ufhug	1
 神虎门	ufhum	0
-神户市	ufhuu	1
 深沪镇	ufhuv	1
 深沪湾	ufhuw	1
 深呼吸	ufhux	248
@@ -115523,7 +115315,6 @@ sort: by_weight
 伸出头	ufiut	1
 渗出物	ufiuw	1
 渗出性	ufiux	1
-渗出液	ufiuy	1
 沈春阳	ufiyy	1
 沈金鳌	ufjba	1
 神津岛	ufjbd	1
@@ -117534,7 +117325,6 @@ sort: by_weight
 市党校	uidhx	1
 施蒂尔	uidie	1
 史堤芬	uidif	1
-侍帝晨	uidii	0
 市地级	uidij	1
 士底里	uidil	1
 施蒂纳	uidin	1
@@ -117797,7 +117587,6 @@ sort: by_weight
 石红英	uihsy	1
 石湖港	uihug	1
 石湖头	uihut	1
-似乎是	uihuu	1
 石湖镇	uihuv	1
 石湖仙	uihux	1
 石灰华	uihvh	1
@@ -117872,7 +117661,6 @@ sort: by_weight
 使出来	uiiul	1
 释处默	uiium	1
 十出戏	uiiux	1
-是出于	uiiuy	1
 石锤山	uiivu	1
 使垂下	uiivx	1
 仕春村	uiiyc	1
@@ -117914,7 +117702,6 @@ sort: by_weight
 石将军	uijlj	0
 石江镇	uijlv	1
 石江乡	uijlx	1
-时间段	uijmd	527
 什件儿	uijme	0
 时间里	uijml	1285
 时间片	uijmp	2
@@ -117925,7 +117712,6 @@ sort: by_weight
 实焦点	uijnd	1
 视交叉	uijni	1
 施胶剂	uijnj	1
-市郊区	uijnq	1
 石角头	uijnt	1
 施教者	uijnv	1
 市教委	uijnw	157
@@ -118084,7 +117870,6 @@ sort: by_weight
 矢量积	uillj	1
 市粮库	uillk	1
 矢量图	uillt	1
-适量水	uillu	1
 石梁乡	uillx	1
 湿两用	uilly	1
 试炼谷	uilmg	1
@@ -118144,7 +117929,6 @@ sort: by_weight
 石楼县	uilzx	1
 拾漏子	uilzz	0
 使麻痹	uimab	0
-石马村	uimac	1
 施马尔	uimae	1
 石马河	uimah	1
 石马寺	uimas	1
@@ -119048,7 +118832,6 @@ sort: by_weight
 山德拉	ujdel	1
 山德士	ujdeu	1
 山砀镇	ujdhv	1
-山地车	ujdii	1
 山地鸡	ujdij	1
 山地区	ujdiq	1
 山地人	ujdir	1
@@ -119355,7 +119138,6 @@ sort: by_weight
 闪烁器	ujuoq	1
 闪烁体	ujuot	0
 闪烁着	ujuov	1
-山鼠草	ujuuc	1
 杉树林	ujuul	1
 杉树坪	ujuup	1
 善书网	ujuuw	1
@@ -119392,7 +119174,6 @@ sort: by_weight
 山之韵	ujviy	1
 山栀子	ujviz	1
 山庄乡	ujvlx	1
-山啄木	ujvom	0
 山中乡	ujvsx	1
 山中作	ujvsz	1
 山茱萸	ujvuy	1
@@ -120506,7 +120287,6 @@ sort: by_weight
 数量化	uullh	1
 薯莨绸	uulli	1
 数量级	uullj	107
-数量少	uullu	1
 数量型	uullx	1
 熟练地	uulmd	1
 熟练工	uulmg	1
@@ -120663,7 +120443,6 @@ sort: by_weight
 舒适性	uuuix	282
 数十亿	uuuiy	115
 蜀山区	uuujq	1
-蜀山图	uuujt	1
 蜀山镇	uuujv	1
 蜀山笑	uuujx	1
 数数兼	uuuuj	1
@@ -120987,7 +120766,6 @@ sort: by_weight
 水葫芦	uvhul	1
 水浒肉	uvhur	1
 税户头	uvhut	0
-水户市	uvhuu	0
 水浒传	uvhuv	129
 水虎鱼	uvhuy	0
 水灰比	uvhvb	1
@@ -121325,7 +121103,6 @@ sort: by_weight
 谁投资	uvtzz	1
 谁杀了	uvual	1
 水砂纸	uvuav	1
-水哨马	uvucm	0
 水设备	uvueb	1
 水射流	uvuel	1
 水蛇腰	uvuey	1
@@ -122013,7 +121790,6 @@ sort: by_weight
 瘦伶伶	uzlkl	0
 受领人	uzlkr	1
 受领者	uzlkv	0
-收敛带	uzlmd	2
 收敛剂	uzlmj	1
 瘦脸轮	uzlml	1
 收敛水	uzlmu	1
@@ -122435,7 +122211,6 @@ sort: by_weight
 扎火囤	vahod	0
 炸藿香	vahox	1
 乍唬唬	vahuh	0
-查胡势	vahuu	0
 扎黑丹	vahwd	1
 轧花边	vahxb	1
 轧花厂	vahxi	1
@@ -123058,11 +122833,9 @@ sort: by_weight
 赵培智	vcpwv	1
 赵沁平	vcqbp	1
 赵其华	vcqih	1
-沼气池	vcqii	133
 赵齐坤	vcqik	1
 赵启明	vcqim	1
 赵启平	vcqip	1
-赵启三	vcqis	1
 赵启正	vcqiv	1
 赵齐贤	vcqix	1
 赵庆阁	vcqkg	1
@@ -123167,7 +122940,6 @@ sort: by_weight
 沼山镇	vcujv	1
 昭山乡	vcujx	1
 赵双连	vcull	1
-赵树丛	vcuuc	1
 赵树理	vcuul	1
 赵淑敏	vcuum	1
 赵澍萍	vcuup	1
@@ -123402,7 +123174,6 @@ sort: by_weight
 赵梓钧	vczij	1
 赵子龙	vczil	1
 赵子平	vczip	1
-赵自强	vcziq	1
 赵梓森	vczis	1
 爪字头	vczit	0
 赵子文	vcziw	1
@@ -124650,7 +124421,6 @@ sort: by_weight
 正交基	vgjnj	3
 征缴率	vgjnl	1
 正交码	vgjnm	1
-正交群	vgjnq	2
 证交所	vgjns	148
 正交值	vgjnv	1
 正交系	vgjnx	3
@@ -125299,7 +125069,6 @@ sort: by_weight
 张登义	vhdgy	1
 章党镇	vhdhv	1
 长堤村	vhdic	1
-张涤尘	vhdii	1
 长堤路	vhdil	1
 张涤生	vhdiu	1
 张迪哲	vhdiv	1
@@ -125550,7 +125319,6 @@ sort: by_weight
 账户就	vhhuj	1
 帐户卡	vhhuk	1
 长湖路	vhhul	1
-张虎生	vhhuu	1
 漳湖镇	vhhuv	1
 长湖围	vhhuw	1
 长湖乡	vhhux	1
@@ -125806,7 +125574,6 @@ sort: by_weight
 张量场	vhlli	2
 张量积	vhllj	2
 张量幂	vhllm	1
-张良善	vhllu	1
 张良镇	vhllv	1
 张良驯	vhllx	1
 张靓颖	vhlly	910
@@ -126164,7 +125931,6 @@ sort: by_weight
 张韶涵	vhuch	347
 张少军	vhucj	1
 张少康	vhuck	1
-张少媚	vhucm	1
 张少琴	vhucq	1
 张绍蓁	vhucv	1
 张少侠	vhucx	1
@@ -127029,7 +126795,6 @@ sort: by_weight
 职教法	vijnf	1
 酯交换	vijnh	1
 直角尺	vijni	1
-直角器	vijnq	0
 直叫人	vijnr	1
 支教团	vijnt	1
 直角石	vijnu	1
@@ -127133,7 +126898,6 @@ sort: by_weight
 质量好	villh	243
 质量奖	villj	1
 质量卡	villk	1
-质量数	villu	1
 质量型	villx	1
 质量优	villy	1
 直链烃	vilmt	1
@@ -127415,7 +127179,6 @@ sort: by_weight
 只剩下	viugx	1357
 至上海	viuhh	1
 至上论	viuhl	1
-纸上语	viuhy	0
 知识点	viuid	340
 知识化	viuih	1
 芝士炉	viuil	1
@@ -129172,7 +128935,6 @@ sort: by_weight
 中岭乡	vslkx	1
 重量级	vsllj	398
 重量轻	vsllq	1
-仲梁氏	vsllu	0
 中量型	vsllx	1
 中联航	vslmh	0
 钟连盛	vslmu	1
@@ -130097,7 +129859,6 @@ sort: by_weight
 主焦点	vujnd	1
 住交会	vujnh	1
 主焦煤	vujnm	1
-猪脚圈	vujnq	1
 主教堂	vujnt	1
 竹节参	vujpc	1
 竹节糕	vujpg	1
@@ -131394,7 +131155,6 @@ sort: by_weight
 洲市乡	vzuix	1
 周世宗	vzuiz	1
 舟山路	vzujl	1
-舟山镇	vzujv	1
 周树基	vzuuj	1
 周叔莲	vzuul	1
 周树人	vzuur	1
@@ -131957,7 +131717,6 @@ sort: by_weight
 外交部	wdjnb	652
 外交辞	wdjnc	1
 外交家	wdjnj	1
-外角球	wdjnq	1
 外交团	wdjnt	1
 外交上	wdjnu	1
 外交系	wdjnx	1
@@ -132419,7 +132178,6 @@ sort: by_weight
 文教河	wfjnh	1
 文教处	wfjni	1
 文教界	wfjnj	1
-文教区	wfjnq	1
 文教镇	wfjnv	1
 文教卫	wfjnw	1
 温郊乡	wfjnx	1
@@ -133873,13 +133631,11 @@ sort: by_weight
 王世子	whuiz	0
 网山村	whujc	1
 王善杰	whujj	1
-王善堂	whujt	1
 王双凤	whulf	1
 王双进	whulj	1
 王双全	whulq	1
 王双喜	whulx	1
 王树柏	whuub	1
-王树村	whuuc	1
 王树芳	whuuf	1
 王曙光	whuug	1
 王叔和	whuuh	1
@@ -134709,7 +134465,6 @@ sort: by_weight
 晚上你	wjuhn	1
 弯上去	wjuhq	1
 玩赏着	wjuhv	1
-万事达	wjuid	1
 万事发	wjuif	1
 万石弓	wjuig	1
 万士和	wjuih	1
@@ -134721,7 +134476,6 @@ sort: by_weight
 完善的	wjujd	1
 完善化	wjujh	1
 完善了	wjujl	1
-宛山塔	wjujt	1
 万山镇	wjujv	1
 万山乡	wjujx	1
 万树国	wjuug	1
@@ -135761,7 +135515,6 @@ sort: by_weight
 芜湖港	wuhug	1
 无护航	wuhuh	1
 五虎岭	wuhul	1
-芜湖市	wuhuu	1
 五户乡	wuhux	1
 无回笔	wuhvb	1
 乌灰鸫	wuhvd	0
@@ -135918,7 +135671,6 @@ sort: by_weight
 乌角巾	wujnj	0
 无胶棉	wujnm	1
 吴觉农	wujnn	1
-乌脚枪	wujnq	1
 乌蛟腾	wujnt	1
 五角锥	wujnv	2
 乌礁湾	wujnw	1
@@ -136081,7 +135833,6 @@ sort: by_weight
 吴亮星	wullx	1
 五粮液	wully	508
 五连包	wulmb	1
-伍连德	wulmd	1
 吴濂夫	wulmf	1
 五连冠	wulmg	1
 武联会	wulmh	1
@@ -136147,7 +135898,6 @@ sort: by_weight
 仵楼乡	wulzx	1
 屋漏雨	wulzy	0
 无漏子	wulzz	0
-舞马词	wumac	1
 乌马尔	wumae	1
 五马贵	wumag	0
 乌马河	wumah	1
@@ -136557,7 +136307,6 @@ sort: by_weight
 乌纱帽	wuuam	1
 乌纱帢	wuuaq	0
 乌沙镇	wuuav	1
-吴少明	wuucm	1
 乌梢蛇	wuucu	1
 吴绍周	wuucv	1
 吴少勋	wuucx	1
@@ -136617,7 +136366,6 @@ sort: by_weight
 吴双战	wuulv	1
 无双崖	wuuly	1
 五朔节	wuuoj	1
-无数次	wuuuc	734
 无数个	wuuug	1
 吴树华	wuuuh	1
 无数据	wuuuj	1
@@ -137313,7 +137061,6 @@ sort: by_weight
 维护会	wwhuh	1
 苇湖梁	wwhul	1
 威虎厅	wwhut	1
-威虎山	wwhuu	1
 维护者	wwhuv	1
 维护型	wwhux	1
 维护员	wwhuy	1
@@ -137865,7 +137612,6 @@ sort: by_weight
 未占用	wwvjy	1
 韦庄村	wwvlc	1
 伪装服	wwvlf	1
-尾状核	wwvlh	1
 伪装品	wwvlp	1
 伪装术	wwvlu	1
 伪装箱	wwvlx	1
@@ -138211,7 +137957,6 @@ sort: by_weight
 新当选	xbdhx	1
 新党员	xbdhy	1
 新荻村	xbdic	1
-新地产	xbdii	1
 辛迪加	xbdij	1
 心底里	xbdil	1
 新地图	xbdit	1
@@ -138454,7 +138199,6 @@ sort: by_weight
 新产品	xbijp	1
 新产业	xbijy	1
 新创建	xbilj	1
-新窗口	xbilk	1
 新创立	xbill	1
 新创意	xbily	1
 新川乡	xbirx	1
@@ -139665,7 +139409,6 @@ sort: by_weight
 犀角煎	xijnj	1
 硒酵母	xijnm	1
 洗脚盆	xijnp	1
-西郊桥	xijnq	1
 洗脚亭	xijnt	1
 洗脚刷	xijnu	1
 西郊镇	xijnv	1
@@ -139836,7 +139579,6 @@ sort: by_weight
 西楼梦	xilzm	0
 西楼夜	xilzy	1
 西楼子	xilzz	1
-西马村	ximac	1
 西马坊	ximaf	1
 洗马河	ximah	1
 西马厂	ximai	1
@@ -140162,7 +139904,6 @@ sort: by_weight
 西沙洲	xiuav	1
 西沙窝	xiuaw	1
 细沙乡	xiuax	1
-西稍门	xiucm	1
 西邵乡	xiucx	1
 西畲村	xiuec	1
 西社镇	xiuev	1
@@ -140186,7 +139927,6 @@ sort: by_weight
 西上庄	xiuhv	1
 膝上舞	xiuhw	0
 膝上型	xiuhx	1
-西上园	xiuhy	1
 席上作	xiuhz	1
 细十番	xiuif	0
 吸湿盒	xiuih	1
@@ -140210,7 +139950,6 @@ sort: by_weight
 蟋蟀草	xiukc	1
 西双山	xiulu	1
 戏说剧	xiuoj	0
-系数丛	xiuuc	2
 系数环	xiuuh	2
 喜树碱	xiuuj	1
 希舒美	xiuum	1
@@ -140697,7 +140436,6 @@ sort: by_weight
 猩红热	xkhsr	1
 猩红色	xkhss	1
 兴湖路	xkhul	1
-行扈氏	xkhuu	0
 行贿案	xkhva	1
 星辉村	xkhvc	1
 星回节	xkhvj	1
@@ -140975,7 +140713,6 @@ sort: by_weight
 性衰弱	xkukr	1
 兴衰史	xkuku	1
 行双礼	xkull	0
-杏树村	xkuuc	1
 杏树岗	xkuug	1
 邢书明	xkuum	1
 行书体	xkuut	1
@@ -141427,7 +141164,6 @@ sort: by_weight
 相交角	xljnj	2
 橡胶木	xljnm	1
 香蕉派	xljnp	1
-橡胶漆	xljnq	1
 香蕉人	xljnr	0
 香蕉酥	xljns	1
 相交图	xljnt	2
@@ -141499,7 +141235,6 @@ sort: by_weight
 向量模	xlllm	2
 乡良人	xlllr	0
 向量图	xlllt	2
-向量势	xlllu	2
 向量系	xlllx	2
 相怜爱	xllma	0
 相连接	xllmj	1
@@ -141832,7 +141567,6 @@ sort: by_weight
 想像中	xlxlv	1
 湘乡县	xlxlx	1
 乡贤祠	xlxmc	0
-巷贤镇	xlxmv	1
 向舷外	xlxmw	1
 象限仪	xlxmy	1
 香小筑	xlxnv	1
@@ -142871,7 +142605,6 @@ sort: by_weight
 小国民	xngom	1
 笑过去	xngoq	1
 效果图	xngot	517
-小过失	xngou	1
 小郭庄	xngov	1
 小国王	xngow	1
 小管家	xngrj	1
@@ -142991,7 +142724,6 @@ sort: by_weight
 小红枣	xnhsz	1
 小狐狸	xnhul	186
 小胡桃	xnhut	1
-小护士	xnhuu	142
 小湖镇	xnhuv	1
 小户型	xnhux	554
 小虎牙	xnhuy	1
@@ -143272,11 +143004,9 @@ sort: by_weight
 小羚羊	xnlky	0
 小凉河	xnllh	1
 小两口	xnllk	151
-小凉山	xnllu	1
 小梁州	xnllv	1
 小梁乡	xnllx	1
 萧良有	xnlly	1
-小脸蛋	xnlmd	1
 笑脸儿	xnlme	0
 笑脸鬼	xnlmg	1
 肖连恒	xnlmh	1
@@ -144309,7 +144039,6 @@ sort: by_weight
 谢崇礼	xpisl	1
 写出来	xpiul	799
 写出去	xpiuq	1
-谢楚余	xpiuy	1
 写春联	xpiyl	1
 协进会	xpjbh	1
 谢金燕	xpjby	1
@@ -144327,7 +144056,6 @@ sort: by_weight
 斜角的	xpjnd	1
 斜角缝	xpjnf	1
 斜角肌	xpjnj	1
-鞋脚钱	xpjnq	0
 邪教徒	xpjnt	1
 鞋脚手	xpjnu	0
 斜角纸	xpjnv	0
@@ -144388,7 +144116,6 @@ sort: by_weight
 谢良明	xpllm	1
 谢良平	xpllp	1
 谢良佐	xpllz	1
-谢联队	xplmd	1
 卸料器	xplnq	1
 谢六逸	xplqy	1
 燮龙吞	xplst	1
@@ -144826,7 +144553,6 @@ sort: by_weight
 修理站	xqliv	1
 修理业	xqliy	1
 绣岭宫	xqlkg	1
-修炼点	xqlmd	1
 修炼法	xqlmf	1
 修练书	xqlmu	1
 修练者	xqlmv	1
@@ -145376,7 +145102,6 @@ sort: by_weight
 熊汉中	xshjv	1
 雄黄酒	xshlj	1
 熊虎将	xshuj	0
-熊虎士	xshuu	0
 熊成基	xsigj	1
 熊昌义	xsihy	1
 熊出没	xsium	1
@@ -145526,7 +145251,6 @@ sort: by_weight
 学到老	xtdcl	1
 学道者	xtdcv	1
 学党章	xtdhv	1
-雪地车	xtdii	1
 雪地里	xtdil	1
 雪地鞋	xtdix	1
 血蛋白	xtdjb	1
@@ -145685,7 +145409,6 @@ sort: by_weight
 学龄前	xtlkq	1
 血领主	xtlkv	1
 薛灵芸	xtlky	1
-血镰刀	xtlmd	1
 雪莲粉	xtlmf	1
 雪莲果	xtlmg	1
 雪莲花	xtlmh	1
@@ -146273,7 +145996,6 @@ sort: by_weight
 须弥座	xumiz	1
 须曼那	xumjn	0
 续命幡	xumkf	0
-徐明华	xumkh	1
 续命丝	xumks	0
 续命汤	xumkt	1
 徐名世	xumku	1
@@ -146432,7 +146154,6 @@ sort: by_weight
 徐双喜	xuulx	1
 叙说着	xuuov	1
 徐拴龙	xuurl	1
-序数词	xuuuc	1
 序数和	xuuuh	1
 序数积	xuuuj	2
 序数幂	xuuum	1
@@ -147136,7 +146857,6 @@ sort: by_weight
 下山溪	xxujx	1
 下双坑	xxulk	1
 下双乡	xxulx	1
-下叔村	xxuuc	1
 下水道	xxuvd	313
 下水管	xxuvg	1
 下水船	xxuvi	1
@@ -147356,7 +147076,6 @@ sort: by_weight
 循环域	xyhry	2
 寻呼机	xyhuj	1
 寻呼台	xyhut	1
-驯虎师	xyhuu	1
 寻呼网	xyhuw	1
 寻呼业	xyhuy	1
 巡回车	xyhvi	1
@@ -147394,7 +147113,6 @@ sort: by_weight
 寻聆珠	xylkv	1
 荀令香	xylkx	0
 训练班	xylmb	1
-训练队	xylmd	1
 训练费	xylmf	1
 训练馆	xylmg	1
 训练场	xylmi	169
@@ -147636,7 +147354,6 @@ sort: by_weight
 砑红绡	yahsx	0
 鸦鹘关	yahug	0
 雅虎通	yahut	1
-鸦鹘石	yahuu	0
 雅灰蝶	yahvd	1
 压回来	yahvl	1
 压回去	yahvq	1
@@ -147804,7 +147521,6 @@ sort: by_weight
 鸦片酊	yapmd	1
 鸦片鬼	yapmg	1
 压片机	yapmj	1
-鸦片坭	yapmn	0
 雅片枪	yapmq	0
 压片糖	yapmt	1
 鸦片烟	yapmy	1
@@ -148497,7 +148213,6 @@ sort: by_weight
 隐生宙	ybugv	0
 尹盛铉	ybugx	1
 音声子	ybugz	0
-引上来	ybuhl	1
 引上去	ybuhq	1
 银狮奖	ybuij	0
 饮食网	ybuiw	1
@@ -148873,7 +148588,6 @@ sort: by_weight
 姚柬之	ycjmv	1
 姚建祥	ycjmx	1
 药交会	ycjnh	1
-要交钱	ycjnq	1
 咬鹃目	ycjrm	1
 咬鹃属	ycjru	1
 幺矩阵	ycjuv	1
@@ -149613,7 +149327,6 @@ sort: by_weight
 野山茶	yeuji	1
 野山鸡	yeujj	1
 野山坡	yeujp	1
-冶山镇	yeujv	1
 野山羊	yeujy	1
 叶双贵	yeulg	1
 叶叔华	yeuuh	1
@@ -150090,7 +149803,6 @@ sort: by_weight
 养狐场	yhhui	1
 养护剂	yhhuj	1
 养护品	yhhup	1
-杨虎山	yhhuu	1
 阳湖镇	yhhuv	1
 洋湖乡	yhhux	1
 阳回节	yhhvj	0
@@ -150200,7 +149912,6 @@ sort: by_weight
 羊角锤	yhjni	1
 羊角椒	yhjnj	1
 羊角拗	yhjnn	1
-羊角芹	yhjnq	0
 羊角塘	yhjnt	1
 羊角镇	yhjnv	1
 羊角乡	yhjnx	1
@@ -150295,7 +150006,6 @@ sort: by_weight
 杨凌区	yhlkq	1
 羊岭镇	yhlkv	1
 杨梁相	yhllx	1
-杨连第	yhlmd	1
 杨莲亭	yhlmt	1
 杨连升	yhlmu	1
 养廉银	yhlmy	1
@@ -151070,7 +150780,6 @@ sort: by_weight
 忆当年	yidhn	1
 一党制	yidhv	1
 一敌国	yidig	0
-一滴禅	yidii	0
 忆帝京	yidij	1
 伊迪丝	yidis	1
 一滴血	yidix	1
@@ -151320,7 +151029,6 @@ sort: by_weight
 一壶酒	yihuj	1
 一虎口	yihuk	0
 一忽拉	yihul	0
-一壶水	yihuu	1
 一斛珠	yihuv	1
 医护箱	yihux	1
 一回到	yihvd	1
@@ -151385,7 +151093,6 @@ sort: by_weight
 一出来	yiiul	1
 溢出区	yiiuq	2
 一出戏	yiiux	1
-译出语	yiiuy	0
 忆吹箫	yiivx	1
 忆莼菜	yiiyc	0
 宜春宫	yiiyg	0
@@ -151404,7 +151111,6 @@ sort: by_weight
 易筋经	yijbj	1
 已进入	yijbr	1
 义津镇	yijbv	1
-伊基斯	yijis	1
 伊基塔	yijit	1
 易饥症	yijiv	0
 依吉乡	yijix	1
@@ -151431,14 +151137,12 @@ sort: by_weight
 意见箱	yijmx	1
 一窖尘	yijni	0
 一角鲸	yijnj	1
-一角钱	yijnq	1
 一脚踏	yijnt	1
 一脚指	yijnv	0
 遗觉象	yijnx	1
 一角鱼	yijny	1
 一街村	yijpc	1
 一阶矩	yijpj	2
-一节课	yijpk	226
 异界篇	yijpp	1
 胰结石	yijpu	1
 一街乡	yijpx	1
@@ -151577,7 +151281,6 @@ sort: by_weight
 一辆车	yilli	386
 宜良县	yillx	1
 一两样	yilly	1
-一脸的	yilmd	276
 伊莲娜	yilmn	1
 易联众	yilmv	1
 医疗棒	yilnb	1
@@ -151907,7 +151610,6 @@ sort: by_weight
 伊斯顿	yisid	1
 一死儿	yisie	1
 伊斯纳	yisin	1
-一丝丝	yisis	164
 伊斯塔	yisit	1
 一三八	yisjb	1
 一三二	yisje	1
@@ -151943,7 +151645,6 @@ sort: by_weight
 以太风	yitdf	1
 一胎化	yitdh	1
 抑肽酶	yitdm	1
-一胎制	yitdv	0
 以太网	yitdw	433
 以太鳐	yitdy	1
 伊特拉	yitel	1
@@ -152043,7 +151744,6 @@ sort: by_weight
 仪式化	yiuih	1
 伊势湾	yiuiw	1
 一时性	yiuix	1
-以适应	yiuiy	1
 遗失在	yiuiz	1
 峄山碑	yiujb	0
 义山村	yiujc	1
@@ -152057,7 +151757,6 @@ sort: by_weight
 一闪眼	yiujy	0
 一双鞋	yiulx	1
 一说起	yiuoq	1
-艺术瓷	yiuuc	1
 一束花	yiuuh	1
 艺术家	yiuuj	1776
 艺术美	yiuum	1
@@ -152126,7 +151825,6 @@ sort: by_weight
 一枝花	yivih	110
 一只脚	yivij	149
 一之气	yiviq	1
-抑制素	yivis	1
 一指通	yivit	1
 一只手	yiviu	650
 一支支	yiviv	1
@@ -153045,7 +152743,6 @@ sort: by_weight
 沿山路	yjujl	1
 雁山区	yjujq	1
 岩山寺	yjujs	1
-宴山亭	yjujt	1
 沿山镇	yjujv	1
 岩山乡	yjujx	1
 燕双飞	yjulf	1
@@ -153099,7 +152796,6 @@ sort: by_weight
 胭脂烫	yjvid	1
 胭脂粉	yjvif	1
 胭脂红	yjvih	1
-研制出	yjvii	253
 胭脂蓝	yjvil	1
 颜志卿	yjviq	1
 胭脂碎	yjvis	1
@@ -153301,7 +152997,6 @@ sort: by_weight
 演奏者	yjzzv	1
 演奏员	yjzzy	1
 迎奥运	ykaoy	180
-影霸卡	ykbak	1
 鹰叭犬	ykbaq	1
 蝇霸鹟	ykbaw	1
 硬把子	ykbaz	1
@@ -154144,7 +153839,6 @@ sort: by_weight
 袁建新	yrjmx	1
 圆教村	yrjnc	1
 援交妹	yrjnm	0
-远郊区	yrjnq	1
 原教旨	yrjnv	1
 元觉乡	yrjnx	1
 袁洁莹	yrjpy	1
@@ -155178,7 +154872,6 @@ sort: by_weight
 月亮街	ytllj	1
 月亮门	ytllm	1
 月亮泡	ytllp	1
-月亮山	ytllu	1
 月亮湾	ytllw	1
 月亮椅	ytlly	1
 月料钱	ytlnq	0
@@ -155943,7 +155636,6 @@ sort: by_weight
 鱼梁河	yullh	1
 羽量级	yullj	1
 雨量器	yullq	1
-于良史	yullu	1
 浴帘杆	yulmg	1
 玉连环	yulmh	1
 俞连舟	yulmv	1
@@ -156283,13 +155975,11 @@ sort: by_weight
 预删除	yuuji	1
 羽山路	yuujl	1
 雨山区	yuujq	1
-玉山颓	yuujt	0
 鱼山镇	yuujv	1
 羽扇烷	yuujw	1
 渔山乡	yuujx	1
 玉双路	yuull	1
 余双喜	yuulx	1
-榆树村	yuuuc	1
 榆树壕	yuuuh	1
 于淑梅	yuuum	1
 玉束纳	yuuun	0
@@ -156352,7 +156042,6 @@ sort: by_weight
 余庄乡	yuvlx	1
 于庄子	yuvlz	1
 玉琢礁	yuvoj	1
-余卓民	yuvom	1
 俞卓伟	yuvow	1
 玉镯子	yuvoz	1
 于中好	yuvsh	1
@@ -157319,7 +157008,6 @@ sort: by_weight
 油尖旺	yzjmw	1
 有鉴于	yzjmy	1
 有较大	yzjnd	582
-有较强	yzjnq	254
 幼教网	yzjnw	1
 有教养	yzjny	1
 幼教组	yzjnz	1
@@ -157429,7 +157117,6 @@ sort: by_weight
 油卤卤	yzlul	0
 忧虑感	yzlvg	1
 有论坛	yzlyt	1
-游马村	yzmac	1
 油麻团	yzmat	0
 油麻镇	yzmav	1
 油麻乡	yzmax	1
@@ -157661,7 +157348,6 @@ sort: by_weight
 有时有	yzuiy	1
 有时在	yzuiz	1
 游山寺	yzujs	1
-油山镇	yzujv	1
 右书僮	yzuut	1
 油水活	yzuvh	0
 游说家	yzuvj	1
@@ -157809,7 +157495,6 @@ sort: by_weight
 游学生	yzxtu	1
 有学问	yzxtw	1
 有序化	yzxuh	1
-右序模	yzxum	2
 有序群	yzxuq	2
 由旭生	yzxuu	1
 有序型	yzxux	2
@@ -158061,7 +157746,6 @@ sort: by_weight
 枣花香	zchxx	1
 早婚者	zchyv	1
 早晨好	zcifh	1
-早晨时	zcifu	1
 造成的	zcigd	1
 造成了	zcigl	1
 早产儿	zcije	1
@@ -158761,7 +158445,6 @@ sort: by_weight
 赠乐天	zglet	1
 赠李白	zglib	1
 赠李翼	zgliy	1
-增量式	zgllu	1
 赠刘蕡	zglqf	1
 赠柳圆	zglqy	1
 赠梦得	zgmgd	1
@@ -159116,7 +158799,6 @@ sort: by_weight
 资产率	ziijl	1
 资产者	ziijv	1
 自掺杂	ziijz	1
-子窗口	ziilk	1
 字串表	ziirb	1
 紫川宁	ziirn	1
 淄川区	ziirq	1
@@ -160462,7 +160144,6 @@ sort: by_weight
 总是要	zsuiy	1
 总是在	zsuiz	1
 棕山羊	zsujy	1
-棕树村	zsuuc	1
 总书记	zsuuj	575
 总枢纽	zsuun	1
 总水平	zsuvp	1
@@ -160819,7 +160500,6 @@ sort: by_weight
 最底层	zvdic	178
 最低点	zvdid	238
 最低谷	zvdig	1
-最低潮	zvdii	0
 最低价	zvdij	418
 最低值	zvdiv	1
 最低温	zvdiw	1
