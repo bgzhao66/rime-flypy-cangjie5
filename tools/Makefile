@@ -14,6 +14,9 @@ all:
 
 	echo "All tables converted"
 
+install:
+	python3 ../plugins/rime-install.py --ime-name $(PRIMARY_NAME) --plugins
+
 .PHONY: clean
 clean:
 	rm -f ../$(PRIMARY_NAME)*.dict.yaml
