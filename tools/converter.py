@@ -946,60 +946,17 @@ def main(argv=None):
     char_dict = {L: c for L, c in sorted_dict.items() if L == 1}
     phrase_dict = {L: c for L, c in sorted_dict.items() if L >= 2}
 
+    phrase_name = f"{name}_phrase" if name else "phrase"
+    short_name = f"{name}_short" if name else "short"
+    extra_name = f"{name}_extra" if name else "extra"
+
     import_tables = []
-
     if args.phrase:
-        phrase_name = f"{name}_phrase" if name else "phrase"
-        filename = f"{out_dir}{phrase_name}.dict.yaml"
-        with open(filename, 'w', encoding='utf-8') as f:
-            print(get_header(phrase_name), file=f)
-            print_word_codes(phrase_dict, f)
-        print(f"Phrase codes written to {filename}", file=sys.stderr)
         import_tables.append(phrase_name)
-
     if args.short_code:
-        short_codes, short_used = generate_short_codes(entries, encode_result, used_codes)
-        used_codes |= short_used
-        short_dict = build_short_dict(entries, short_codes)
-        short_name = f"{name}_short" if name else "short"
-        filename = f"{out_dir}{short_name}.dict.yaml"
-        with open(filename, 'w', encoding='utf-8') as f:
-            print(get_header(short_name), file=f)
-            print_word_codes(short_dict, f)
-        print(f"Short codes written to {filename}", file=sys.stderr)
         import_tables.append(short_name)
-
-    if args.input_files:
-        extra_words = {}
-        for input_file in args.input_files:
-            extra_words = get_words_from_file(input_file, extra_words)
-        total_read = len(extra_words)
-
-        main_words = set(e['word'] for e in entries)
-        extra_words = {w: f for w, f in extra_words.items() if w not in main_words}
-        removed = total_read - len(extra_words)
-
-        print(
-            f"Read {total_read} extra words, removed {removed} already in main table, "
-            f"{len(extra_words)} remain.",
-            file=sys.stderr,
-        )
-
-        if extra_words:
-            extra_entries = build_extra_entries(extra_words)
-            extra_encode_result, extra_used_codes = incremental_encode(
-                extra_entries, initial_used_codes=used_codes)
-            used_codes |= extra_used_codes
-            extra_sorted_dict = build_sorted_dict(extra_entries, extra_encode_result)
-
-            if args.extra_table:
-                extra_name = f"{name}_extra" if name else "extra"
-                filename = f"{out_dir}{extra_name}.dict.yaml"
-                with open(filename, 'w', encoding='utf-8') as f:
-                    print(get_header(extra_name), file=f)
-                    print_word_codes(extra_sorted_dict, f)
-                print(f"Extra words written to {filename}", file=sys.stderr)
-                import_tables.append(extra_name)
+    if args.extra_table:
+        import_tables.append(extra_name)
 
     if args.chinese_code:
         char_name = name if name else "char"
@@ -1035,6 +992,52 @@ def main(argv=None):
             print_word_codes(char_dict, f, freq_base=10000)
         print(f"Character codes written to {filename}", file=sys.stderr)
 
+    if args.phrase:
+        filename = f"{out_dir}{phrase_name}.dict.yaml"
+        with open(filename, 'w', encoding='utf-8') as f:
+            print(get_header(phrase_name), file=f)
+            print_word_codes(phrase_dict, f)
+        print(f"Phrase codes written to {filename}", file=sys.stderr)
+
+    if args.short_code:
+        short_codes, short_used = generate_short_codes(entries, encode_result, used_codes)
+        used_codes |= short_used
+        short_dict = build_short_dict(entries, short_codes)
+        filename = f"{out_dir}{short_name}.dict.yaml"
+        with open(filename, 'w', encoding='utf-8') as f:
+            print(get_header(short_name), file=f)
+            print_word_codes(short_dict, f)
+        print(f"Short codes written to {filename}", file=sys.stderr)
+
+    if args.input_files:
+        extra_words = {}
+        for input_file in args.input_files:
+            extra_words = get_words_from_file(input_file, extra_words)
+        total_read = len(extra_words)
+
+        main_words = set(e['word'] for e in entries)
+        extra_words = {w: f for w, f in extra_words.items() if w not in main_words}
+        removed = total_read - len(extra_words)
+
+        print(
+            f"Read {total_read} extra words, removed {removed} already in main table, "
+            f"{len(extra_words)} remain.",
+            file=sys.stderr,
+        )
+
+        if extra_words:
+            extra_entries = build_extra_entries(extra_words)
+            extra_encode_result, extra_used_codes = incremental_encode(
+                extra_entries, initial_used_codes=used_codes)
+            used_codes |= extra_used_codes
+            extra_sorted_dict = build_sorted_dict(extra_entries, extra_encode_result)
+
+            if args.extra_table:
+                filename = f"{out_dir}{extra_name}.dict.yaml"
+                with open(filename, 'w', encoding='utf-8') as f:
+                    print(get_header(extra_name), file=f)
+                    print_word_codes(extra_sorted_dict, f)
+                print(f"Extra words written to {filename}", file=sys.stderr)
 
 # ============================================================
 # 單元測試輔助
