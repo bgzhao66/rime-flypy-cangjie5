@@ -24,16 +24,17 @@ RIME 一键安装脚本
 default.custom.yaml 中 schema_list 的条目采用如下格式：
     - {schema: <NAME>}
 
+退出码：
+    0    全部成功（含幂等跳过）
+    1    安装过程中有任务失败
+    2    参数错误
+    130  用户中断
+
 用法：
     python install.py --ime-name flypy_cangjie5
     python install.py --ime-name flypy_cangjie5 --plugins
     python install.py --ime-name flypy_cangjie5 --plugins --dry-run
     python install.py --rime-dir "D:/RimeConfig" --ime-name flypy_cangjie5 --plugins
-
-行为：
-    * 不带 --dry-run：直接写入，不生成任何备份文件
-    * 带 --dry-run：只打印计划和可操作性，不写入任何文件
-    * 无论从何处执行，脚本工作目录固定在脚本所在目录
 """
 
 import argparse
@@ -154,15 +155,17 @@ def check_target_writable(dst: Path) -> str | None:
 # 复制文件
 # ---------------------------------------------------------------------------
 
-def copy_file(src: Path, dst: Path, dry_run: bool) -> bool:
+def copy_file(src: Path, dst: Path, dry_run: bool, errors: list[str]) -> bool:
     err = check_source(src)
     if err:
-        print(f"  [跳过] {err}")
+        print(f"  [失败] {err}")
+        errors.append(err)
         return False
 
     err = check_target_writable(dst)
     if err:
-        print(f"  [错误] {err}")
+        print(f"  [失败] {err}")
+        errors.append(err)
         return False
 
     if dry_run:
@@ -170,8 +173,15 @@ def copy_file(src: Path, dst: Path, dry_run: bool) -> bool:
         print(f"  [计划] {action} {dst}  <-  {src}")
         return True
 
-    dst.parent.mkdir(parents=True, exist_ok=True)
-    shutil.copy2(src, dst)
+    try:
+        dst.parent.mkdir(parents=True, exist_ok=True)
+        shutil.copy2(src, dst)
+    except OSError as e:
+        msg = f"写入失败 {dst}: {e}"
+        print(f"  [失败] {msg}")
+        errors.append(msg)
+        return False
+
     print(f"  [安装] {src.name}  ->  {dst}")
     return True
 
@@ -180,7 +190,8 @@ def copy_file(src: Path, dst: Path, dry_run: bool) -> bool:
 # .custom.yaml 的智能合并
 # ---------------------------------------------------------------------------
 
-def merge_custom_yaml(src: Path, dst: Path, dry_run: bool) -> bool:
+def merge_custom_yaml(src: Path, dst: Path, dry_run: bool,
+                      errors: list[str]) -> bool:
     """
     合并 src 与 dst 的 patch 段：
         * patch 下的 list：去重后追加
@@ -189,30 +200,44 @@ def merge_custom_yaml(src: Path, dst: Path, dry_run: bool) -> bool:
     """
     err = check_source(src)
     if err:
-        print(f"  [跳过] {err}")
+        print(f"  [失败] {err}")
+        errors.append(err)
         return False
 
     if not dst.exists():
-        return copy_file(src, dst, dry_run)
+        return copy_file(src, dst, dry_run, errors)
 
     err = check_target_writable(dst)
     if err:
-        print(f"  [错误] {err}")
+        print(f"  [失败] {err}")
+        errors.append(err)
         return False
 
     try:
         import yaml  # type: ignore
     except ImportError:
-        print(f"  [提示] 未安装 pyyaml，将直接覆盖 {dst.name}")
+        print(f"  [警告] 未安装 pyyaml，将直接覆盖 {dst.name}")
         if dry_run:
             print(f"  [计划] 覆盖 {dst}  <-  {src}")
             return True
-        shutil.copy2(src, dst)
+        try:
+            shutil.copy2(src, dst)
+        except OSError as e:
+            msg = f"覆盖失败 {dst}: {e}"
+            print(f"  [失败] {msg}")
+            errors.append(msg)
+            return False
         print(f"  [覆盖] {src.name}  ->  {dst}")
         return True
 
-    src_data = yaml.safe_load(src.read_text(encoding="utf-8")) or {}
-    dst_data = yaml.safe_load(dst.read_text(encoding="utf-8")) or {}
+    try:
+        src_data = yaml.safe_load(src.read_text(encoding="utf-8")) or {}
+        dst_data = yaml.safe_load(dst.read_text(encoding="utf-8")) or {}
+    except (OSError, yaml.YAMLError) as e:
+        msg = f"读取 YAML 失败 ({src} / {dst}): {e}"
+        print(f"  [失败] {msg}")
+        errors.append(msg)
+        return False
 
     src_patch = src_data.get("patch") or {}
     dst_patch = dst_data.get("patch") or {}
@@ -231,7 +256,7 @@ def merge_custom_yaml(src: Path, dst: Path, dry_run: bool) -> bool:
 
     if not added_keys:
         print(f"  [跳过] {dst.name} 已是最新，无需合并")
-        return False
+        return True   # 幂等，不算失败
 
     dst_data["patch"] = merged
 
@@ -239,11 +264,18 @@ def merge_custom_yaml(src: Path, dst: Path, dry_run: bool) -> bool:
         print(f"  [计划] 合并 {dst}  patch: {', '.join(added_keys)}")
         return True
 
-    with dst.open("w", encoding="utf-8") as f:
-        yaml.safe_dump(dst_data, f,
-                       allow_unicode=True,
-                       sort_keys=False,
-                       default_flow_style=False)
+    try:
+        with dst.open("w", encoding="utf-8") as f:
+            yaml.safe_dump(dst_data, f,
+                           allow_unicode=True,
+                           sort_keys=False,
+                           default_flow_style=False)
+    except OSError as e:
+        msg = f"写入失败 {dst}: {e}"
+        print(f"  [失败] {msg}")
+        errors.append(msg)
+        return False
+
     print(f"  [合并] {dst.name}  patch: {', '.join(added_keys)}")
     return True
 
@@ -342,18 +374,27 @@ def _insert_schema_into_yaml(text: str, ime_name: str) -> str:
 
 
 def ensure_schema_in_default_custom(rime_dir: Path, ime_name: str,
-                                    dry_run: bool) -> bool:
+                                    dry_run: bool,
+                                    errors: list[str]) -> bool:
     """确保 <RIME>/default.custom.yaml 的 patch/schema_list 包含 ime_name。"""
     target = rime_dir / "default.custom.yaml"
-    text = target.read_text(encoding="utf-8") if target.exists() else ""
+
+    try:
+        text = target.read_text(encoding="utf-8") if target.exists() else ""
+    except OSError as e:
+        msg = f"读取失败 {target}: {e}"
+        print(f"  [失败] {msg}")
+        errors.append(msg)
+        return False
 
     if _schema_list_contains(text, ime_name):
         print(f"  [跳过] {target.name} 的 schema_list 已包含 {ime_name}")
-        return False
+        return True   # 幂等，不算失败
 
     err = check_target_writable(target)
     if err:
-        print(f"  [错误] {err}")
+        print(f"  [失败] {err}")
+        errors.append(err)
         return False
 
     if dry_run:
@@ -364,23 +405,33 @@ def ensure_schema_in_default_custom(rime_dir: Path, ime_name: str,
         return True
 
     new_text = _insert_schema_into_yaml(text, ime_name)
-    target.parent.mkdir(parents=True, exist_ok=True)
-    target.write_text(new_text, encoding="utf-8")
+    try:
+        target.parent.mkdir(parents=True, exist_ok=True)
+        target.write_text(new_text, encoding="utf-8")
+    except OSError as e:
+        msg = f"写入失败 {target}: {e}"
+        print(f"  [失败] {msg}")
+        errors.append(msg)
+        return False
+
     print(f"  [更新] {target.name}: patch/schema_list += {ime_name}")
     return True
 
 
 # ---------------------------------------------------------------------------
-# 插件安装（需要 ime_name）
+# 插件安装
 # ---------------------------------------------------------------------------
 
-def install_lua_dir(rime_dir: Path, dry_run: bool) -> None:
+def install_lua_dir(rime_dir: Path, dry_run: bool,
+                    errors: list[str]) -> None:
     """把 <SOURCE>/lua/*.lua 复制到 <RIME>/lua/（跳过 rime.lua）。"""
     src_lua = SOURCE_DIR / LUA_DIR_SRC
     dst_lua = rime_dir / LUA_DIR_DST
 
     if not src_lua.exists():
-        print(f"  [跳过] 源目录不存在: {src_lua}")
+        msg = f"源目录不存在: {src_lua}"
+        print(f"  [失败] {msg}")
+        errors.append(msg)
         return
 
     files = [
@@ -394,44 +445,54 @@ def install_lua_dir(rime_dir: Path, dry_run: bool) -> None:
         return
 
     if not dry_run:
-        dst_lua.mkdir(parents=True, exist_ok=True)
+        try:
+            dst_lua.mkdir(parents=True, exist_ok=True)
+        except OSError as e:
+            msg = f"创建目录失败 {dst_lua}: {e}"
+            print(f"  [失败] {msg}")
+            errors.append(msg)
+            return
 
     for f in files:
-        copy_file(f, dst_lua / f.name, dry_run)
+        copy_file(f, dst_lua / f.name, dry_run, errors)
 
 
-def install_plugins(rime_dir: Path, ime_name: str, dry_run: bool) -> None:
+def install_plugins(rime_dir: Path, ime_name: str, dry_run: bool,
+                    errors: list[str]) -> None:
     """
     安装插件：
-        * lua/*.lua           -> <RIME>/lua/
-        * lua/rime.lua        -> <RIME>/rime.lua
-        * latex/*.yaml        -> <RIME>/
+        * lua/*.lua              -> <RIME>/lua/
+        * lua/rime.lua           -> <RIME>/rime.lua
+        * latex/*.yaml           -> <RIME>/
         * <IME_NAME>.custom.yaml -> <RIME>/<IME_NAME>.custom.yaml（合并 patch）
     """
     print("[插件] 安装 lua/ 目录下的脚本")
-    install_lua_dir(rime_dir, dry_run)
+    install_lua_dir(rime_dir, dry_run, errors)
 
     print("\n[插件] 安装 rime.lua / latex")
     for src_rel, dst_rel in PLUGIN_FILE_MAP:
         src = SOURCE_DIR / src_rel
         dst = rime_dir / dst_rel
-        copy_file(src, dst, dry_run)
+        copy_file(src, dst, dry_run, errors)
 
     # <IME_NAME>.custom.yaml（插件配置文件，来源在脚本目录）
     custom_src = SOURCE_DIR / f"{ime_name}.custom.yaml"
     custom_dst = rime_dir / f"{ime_name}.custom.yaml"
     print(f"\n[插件] 合并 <{ime_name}>.custom.yaml")
     if custom_src.exists():
-        merge_custom_yaml(custom_src, custom_dst, dry_run)
+        merge_custom_yaml(custom_src, custom_dst, dry_run, errors)
     else:
-        print(f"  [警告] 未找到插件配置文件: {custom_src}")
+        msg = f"未找到插件配置文件: {custom_src}"
+        print(f"  [失败] {msg}")
+        errors.append(msg)
 
 
 # ---------------------------------------------------------------------------
 # 方案安装（--ime-name）
 # ---------------------------------------------------------------------------
 
-def install_ime(rime_dir: Path, ime_name: str, dry_run: bool) -> None:
+def install_ime(rime_dir: Path, ime_name: str, dry_run: bool,
+                errors: list[str]) -> None:
     """
     从脚本父目录安装：
         ../<IME_NAME>.schema.yaml  -> <RIME>/<IME_NAME>.schema.yaml
@@ -443,22 +504,26 @@ def install_ime(rime_dir: Path, ime_name: str, dry_run: bool) -> None:
     # 1. schema.yaml（精确匹配）
     schema_src = PARENT_DIR / f"{ime_name}.schema.yaml"
     if schema_src.exists():
-        copy_file(schema_src, rime_dir / schema_src.name, dry_run)
+        copy_file(schema_src, rime_dir / schema_src.name, dry_run, errors)
     else:
-        print(f"  [警告] 未找到方案文件: {schema_src}")
+        msg = f"未找到方案文件: {schema_src}"
+        print(f"  [失败] {msg}")
+        errors.append(msg)
 
     # 2. dict.yaml（前缀通配）
     pattern = f"{ime_name}*.dict.yaml"
     matched = sorted(PARENT_DIR.glob(pattern))
     if matched:
         for src in matched:
-            copy_file(src, rime_dir / src.name, dry_run)
+            copy_file(src, rime_dir / src.name, dry_run, errors)
     else:
-        print(f"  [警告] 未找到词典文件: {PARENT_DIR / pattern}")
+        msg = f"未找到词典文件: {PARENT_DIR / pattern}"
+        print(f"  [失败] {msg}")
+        errors.append(msg)
 
     # 3. 注册到 default.custom.yaml
     print(f"\n[方案] 注册 {ime_name} 到 default.custom.yaml")
-    ensure_schema_in_default_custom(rime_dir, ime_name, dry_run)
+    ensure_schema_in_default_custom(rime_dir, ime_name, dry_run, errors)
 
 
 # ---------------------------------------------------------------------------
@@ -502,6 +567,33 @@ def parse_args() -> argparse.Namespace:
         help="只检查与预览，不修改任何文件",
     )
     return ap.parse_args()
+
+
+def _print_summary(errors: list[str], dry_run: bool) -> int:
+    """打印汇总并返回退出码。"""
+    if errors:
+        print()
+        print("!" * 60)
+        print(f" ⚠️  安装过程中出现 {len(errors)} 项失败")
+        print("!" * 60)
+        for i, e in enumerate(errors, 1):
+            print(f"   {i:>2}. {e}")
+        print()
+        if dry_run:
+            print(" 这些失败项在真正执行时同样会失败，请先修正。")
+        else:
+            print(" 安装未全部完成，请修正后重试；已成功部分无需重复处理（幂等）。")
+        return 1
+
+    if dry_run:
+        print("✅ DRY-RUN 结束，未修改任何文件，所有任务均可正常执行。")
+        print("   移除 --dry-run 即可真正执行安装。")
+    else:
+        print("✅ 安装完成！请重新部署 RIME 使配置生效：")
+        print("   Windows 小狼毫：右键托盘图标 → 重新部署")
+        print("   macOS 鼠须管  ：右键菜单 → 重新部署")
+        print("   Linux Fcitx5  ：fcitx5-remote -r")
+    return 0
 
 
 def main() -> int:
@@ -553,25 +645,22 @@ def main() -> int:
         print(f"[!] 顶层预检: {top_err}")
     print()
 
+    # 收集失败项
+    errors: list[str] = []
+    if top_err:
+        errors.append(top_err)
+
     # 先装插件（合并 <IME_NAME>.custom.yaml）
     if args.plugins:
-        install_plugins(rime_dir, args.ime_name, dry_run)
+        install_plugins(rime_dir, args.ime_name, dry_run, errors)
         print()
 
     # 再装方案
     if args.ime_name:
-        install_ime(rime_dir, args.ime_name, dry_run)
+        install_ime(rime_dir, args.ime_name, dry_run, errors)
         print()
 
-    if dry_run:
-        print("✅ DRY-RUN 结束，未修改任何文件。")
-        print("   移除 --dry-run 即可真正执行安装。")
-    else:
-        print("✅ 安装完成！请重新部署 RIME 使配置生效：")
-        print("   Windows 小狼毫：右键托盘图标 → 重新部署")
-        print("   macOS 鼠须管  ：右键菜单 → 重新部署")
-        print("   Linux Fcitx5  ：fcitx5-remote -r")
-    return 0
+    return _print_summary(errors, dry_run)
 
 
 if __name__ == "__main__":
