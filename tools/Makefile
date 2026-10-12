@@ -16,6 +16,9 @@ all:
 
 	echo "All tables converted"
 
+install:
+	python3 ../plugins/rime-install.py --ime-name $(PRIMARY_NAME) --plugins
+
 mapping:
 	python3 ./mapping_bopomofo.py > mapping.txt
 
