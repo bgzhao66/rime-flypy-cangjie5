@@ -539,7 +539,8 @@ def generate_long_codes_for_chars(encode_result, used_codes):
         對每條路徑逐步追加 aux_seq 直至碼長 >= 4 且唯一；
         aux_seq 耗盡後追加 a, b, c, ... 直至唯一。
 
-    返回結構：{(word, toneless_seq): {long_code: [remaining_aux_seq, ...]}}
+    返回 (long_codes, long_used)。
+    long_codes 結構：{(word, toneless_seq): {long_code: [remaining_aux_seq, ...]}}
     """
     long_codes = defaultdict(dict)
     long_used = set(used_codes)
@@ -557,7 +558,7 @@ def generate_long_codes_for_chars(encode_result, used_codes):
                 long_codes[base_key][c] = rem_list
                 long_used.add(c)
 
-    return long_codes
+    return long_codes, long_used
 
 
 # ============================================================
@@ -572,6 +573,8 @@ def generate_short_codes(entries, encode_result, used_codes):
     - 按詞頻降序分配。
     - 簡碼只看雙拼主碼，與倉頡輔助碼無關。
       同一 (word, toneless_seq) 只需处理一次，分配一个简码。
+
+    返回 (short_codes, short_used)。
     """
     seen = {}
     for e in entries:
@@ -590,7 +593,7 @@ def generate_short_codes(entries, encode_result, used_codes):
         indexed.append((base_key, candidate, e['freq']))
 
     if not indexed:
-        return {}
+        return {}, set(used_codes)
 
     indexed.sort(key=lambda x: x[2], reverse=True)
 
@@ -605,7 +608,7 @@ def generate_short_codes(entries, encode_result, used_codes):
         short_codes[base_key] = candidate
         short_used.add(candidate)
 
-    return short_codes
+    return short_codes, short_used
 
 
 # ============================================================
@@ -955,7 +958,8 @@ def main(argv=None):
         import_tables.append(phrase_name)
 
     if args.short_code:
-        short_codes = generate_short_codes(entries, encode_result, used_codes)
+        short_codes, short_used = generate_short_codes(entries, encode_result, used_codes)
+        used_codes |= short_used
         short_dict = build_short_dict(entries, short_codes)
         short_name = f"{name}_short" if name else "short"
         filename = f"{out_dir}{short_name}.dict.yaml"
@@ -985,6 +989,7 @@ def main(argv=None):
             extra_entries = build_extra_entries(extra_words)
             extra_encode_result, extra_used_codes = incremental_encode(
                 extra_entries, initial_used_codes=used_codes)
+            used_codes |= extra_used_codes
             extra_sorted_dict = build_sorted_dict(extra_entries, extra_encode_result)
 
             if args.extra_table:
@@ -999,7 +1004,8 @@ def main(argv=None):
     if args.chinese_code:
         char_name = name if name else "char"
 
-        long_codes = generate_long_codes_for_chars(encode_result, used_codes)
+        long_codes, long_used = generate_long_codes_for_chars(encode_result, used_codes)
+        used_codes |= long_used
         if 1 not in char_dict:
             char_dict[1] = {}
 
@@ -1275,7 +1281,7 @@ class TestLongCode(unittest.TestCase):
         ]
         encode_result, used_codes = incremental_encode(entries)
         self.assertEqual(_find_code(encode_result, '你', ['ni']), 'ni')
-        long_codes = generate_long_codes_for_chars(encode_result, used_codes)
+        long_codes, _ = generate_long_codes_for_chars(encode_result, used_codes)
         self.assertEqual(_find_long_code(long_codes, '你', ['ni']), 'nifo')
 
     def test_multi_variant_long_codes_share_full_code_base(self):
@@ -1288,7 +1294,7 @@ class TestLongCode(unittest.TestCase):
         self.assertEqual(list(code_map.keys()), ['di'])
         self.assertEqual(len(code_map['di']), 2)
 
-        long_codes = generate_long_codes_for_chars(encode_result, used_codes)
+        long_codes, _ = generate_long_codes_for_chars(encode_result, used_codes)
         lc_map = long_codes[('低', ('di',))]
         self.assertIn('dimo', lc_map)
         self.assertIn('diio', lc_map)
@@ -1301,7 +1307,7 @@ class TestLongCode(unittest.TestCase):
         encode_result, used_codes = incremental_encode(entries)
         used_codes.add('nifo')
         used_codes.add('nifon')
-        long_codes = generate_long_codes_for_chars(encode_result, used_codes)
+        long_codes, _ = generate_long_codes_for_chars(encode_result, used_codes)
         self.assertEqual(_find_long_code(long_codes, '你', ['ni']), 'nifona')
 
 
@@ -1317,7 +1323,7 @@ class TestShortCode(unittest.TestCase):
         self.assertEqual(_find_code(encode_result, '你', ['ni']), 'ni')
         self.assertEqual(_find_code(encode_result, '妮', ['ni']), 'nif')
 
-        short_codes = generate_short_codes(entries, encode_result, used_codes)
+        short_codes, _ = generate_short_codes(entries, encode_result, used_codes)
         self.assertEqual(short_codes[('你', ('ni',))], 'n')
         self.assertNotIn(('妮', ('ni',)), short_codes)
 
@@ -1329,7 +1335,7 @@ class TestShortCode(unittest.TestCase):
              'full_code': 'abcdef', 'freq': (100, -1), 'aux_seqs': [[]]},
         ]
         encode_result, used_codes = incremental_encode(entries)
-        short_codes = generate_short_codes(entries, encode_result, used_codes)
+        short_codes, _ = generate_short_codes(entries, encode_result, used_codes)
         self.assertNotIn(('甲乙丙丁', ('jia', 'yi', 'bing', 'ding')), short_codes)
         self.assertEqual(short_codes[('甲乙丙', ('jia', 'yi', 'bing'))], 'abcde')
 
@@ -1341,7 +1347,7 @@ class TestShortCode(unittest.TestCase):
              'full_code': 'xyzabc', 'freq': (90, -1), 'aux_seqs': [[]]},
         ]
         encode_result, used_codes = incremental_encode(entries)
-        short_codes = generate_short_codes(entries, encode_result, used_codes)
+        short_codes, _ = generate_short_codes(entries, encode_result, used_codes)
         self.assertEqual(len(short_codes[('甲', ('jia',))]), 1)
         self.assertEqual(len(short_codes[('乙丙', ('yi', 'bing'))]), 5)
 
@@ -1353,7 +1359,7 @@ class TestShortCode(unittest.TestCase):
              'freq': (200, -1), 'aux_seqs': [[]]},
         ]
         encode_result, used_codes = incremental_encode(entries)
-        short_codes = generate_short_codes(entries, encode_result, used_codes)
+        short_codes, _ = generate_short_codes(entries, encode_result, used_codes)
         self.assertEqual(short_codes[('乙', ('yi',))], 'ab')
         self.assertNotIn(('甲', ('jia',)), short_codes)
 
@@ -1462,6 +1468,7 @@ class TestDeduplication(unittest.TestCase):
         entries = build_entries(char_codes, char_nonstandard, {}, freq_dict)
         self.assertEqual(len(entries), 1)
         self.assertEqual(entries[0]['freq'][0], 600)
+
 
 if __name__ == "__main__":
     main()
