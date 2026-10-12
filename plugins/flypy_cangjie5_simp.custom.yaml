@@ -1,0 +1,28 @@
+patch:
+  switches/+:
+    - name: ascii_punct #
+      states: [ ¥, $ ]
+      reset: 0
+  speller/alphabet: zyxwvutsrqponmlkjihgfedcba\\
+
+  engine/+:
+    translators/+:
+      - table_translator@latex_input
+    filters/+:
+      - lua_filter@show_quanpin
+
+  recognizer/patterns/latex_input: "^\\\\[a-zA-Z^_]+$"
+
+  schema/dependencies/+:
+    - latex
+
+  latex_input:
+    tag: latex_input
+    dictionary: latex
+    prefix: "\\"
+    enable_sentence: false
+    enable_completion: true # enable autocomplete
+    enable_user_dict: true # enable word frequency,  use with user_dict
+    user_dict: custom_latex_user # generate a file name custom_latex_user.txt
+    db_class: tabledb
+    tips: "[LaTeX]"
