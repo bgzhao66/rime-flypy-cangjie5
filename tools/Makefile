@@ -19,8 +19,9 @@ install:
 
 .PHONY: userdb
 userdb:
-	cd ./userdb && python3 ./txt_parser.py ./*.userdb.txt
+	cd ./userdb && python3 ../userdb_txt_parser.py ./*.userdb.txt
 
 .PHONY: clean
 clean:
 	rm -f ../$(PRIMARY_NAME)*.dict.yaml
+	rm -f ./userdb/*.dict.txt
