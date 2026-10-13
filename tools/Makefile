@@ -24,7 +24,7 @@ mapping:
 
 .PHONY: userdb
 userdb:
-	cd ./userdb && python3 ../userdb_txt_parser.py ./*.userdb.txt
+	cd ./userdb && python3 ../userdb_txt_parser.py ./$(PRIMARY_NAME).*.userdb.txt
 
 .PHONY: clean
 clean:
