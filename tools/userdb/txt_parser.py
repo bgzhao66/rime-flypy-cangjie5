@@ -4,6 +4,9 @@
 """
 把 userdb.txt 轉換為 RIME 全拼詞庫格式（無文件頭）。
 
+支援同時輸入多個 userdb.txt，所有條目合併處理：
+相同 (word, py seq) 的權重會跨檔案累加。
+
 輸入格式範例：
     zvee    罪惡    c=6 d=8.16794e-39 t=173161
 
@@ -568,23 +571,34 @@ def decode_code_part(code_part: str, word_part: str):
 # 轉換主流程
 # ---------------------------------------------------------------------------
 
-def convert(input_path: str, output_path: str) -> None:
-    with open(input_path, 'r', encoding='utf-8-sig') as f:
-        lines = f.readlines()
+def _iter_lines(input_paths):
+    """依次讀取多個輸入檔案，逐行 yield (path, raw_line)。"""
+    for path in input_paths:
+        with open(path, 'r', encoding='utf-8-sig') as f:
+            for line in f:
+                yield path, line.rstrip('\n')
+
+
+def convert(input_paths, output_path: str) -> None:
+    """把一個或多個 userdb.txt 轉換為 RIME 全拼詞庫格式。
+
+    input_paths 可以是單一字串或字串序列。
+    多個檔案的條目會合併，相同 (word, pinyin) 的 c 累加。
+    """
+    if isinstance(input_paths, str):
+        input_paths = [input_paths]
 
     # 使用 dict 保持插入順序，並對相同 (word, py seq) 累加 c
     merged = {}  # key: (word, pinyin_str) -> c
 
-    for line in lines:
-        raw = line.rstrip('\n')
-
+    for path, raw in _iter_lines(input_paths):
         # 只處理開頭符合 ^[a-z] 的行
         if not re.match(r'^[a-z]', raw):
             continue
 
         m = LINE_RE.match(raw)
         if not m:
-            print(f'[警告] 無法解析行：{raw}', file=sys.stderr)
+            print(f'[警告] {path}: 無法解析行：{raw}', file=sys.stderr)
             continue
 
         code, word, c_str, d, t = m.groups()
@@ -592,7 +606,7 @@ def convert(input_path: str, output_path: str) -> None:
 
         if c < 0:
             print(
-                f'[警告] c 為負數（c={c}），忽略條目：{raw}',
+                f'[警告] {path}: c 為負數（c={c}），忽略條目：{raw}',
                 file=sys.stderr,
             )
             continue
@@ -605,7 +619,7 @@ def convert(input_path: str, output_path: str) -> None:
         if code_len >= 2 * word_len:
             decoded = decode_code_part(code, word)
             if decoded is None:
-                print(f'[警告] 無法解碼：{raw}', file=sys.stderr)
+                print(f'[警告] {path}: 無法解碼：{raw}', file=sys.stderr)
                 continue
             pinyin_list = decoded
 
@@ -615,7 +629,10 @@ def convert(input_path: str, output_path: str) -> None:
                 front_code = code[:2 * (word_len - 1)]
                 front_pinyin = decode_code_part(front_code, front_word)
                 if front_pinyin is None:
-                    print(f'[警告] 無法解碼前部分：{raw}', file=sys.stderr)
+                    print(
+                        f'[警告] {path}: 無法解碼前部分：{raw}',
+                        file=sys.stderr,
+                    )
                     continue
                 pinyin_list.extend(front_pinyin)
 
@@ -633,23 +650,23 @@ def convert(input_path: str, output_path: str) -> None:
                     pinyin_list.append(matched[0])
                 elif len(matched) > 1:
                     print(
-                        f'[警告] 最後一個字「{last_char}」有多個拼音匹配聲母'
-                        f'「{target_initial}」：{matched}，忽略行：{raw}',
+                        f'[警告] {path}: 最後一個字「{last_char}」有多個拼音'
+                        f'匹配聲母「{target_initial}」：{matched}，忽略行：{raw}',
                         file=sys.stderr,
                     )
                     continue
                 else:
                     print(
-                        f'[警告] 最後一個字「{last_char}」沒有拼音匹配聲母'
-                        f'「{target_initial}」，忽略行：{raw}',
+                        f'[警告] {path}: 最後一個字「{last_char}」沒有拼音'
+                        f'匹配聲母「{target_initial}」，忽略行：{raw}',
                         file=sys.stderr,
                     )
                     continue
 
         else:
             print(
-                f'[警告] 編碼長度 {code_len} 不符合詞長 {word_len} 的預期，'
-                f'忽略行：{raw}',
+                f'[警告] {path}: 編碼長度 {code_len} 不符合詞長 {word_len} 的'
+                f'預期，忽略行：{raw}',
                 file=sys.stderr,
             )
             continue
@@ -724,10 +741,14 @@ def main() -> None:
     parser = argparse.ArgumentParser(
         description='把 userdb.txt 轉換為 RIME 全拼詞庫格式（無文件頭）'
     )
-    parser.add_argument('input', nargs='?', help='輸入檔案')
+    parser.add_argument(
+        'inputs',
+        nargs='*',
+        help='一個或多個輸入檔案（userdb.txt）',
+    )
     parser.add_argument(
         '-o', '--output',
-        default='userdb_pinyin.dict.yaml',
+        default='pinyin.dict.yaml',
         help='輸出檔案，預設為 pinyin.dict.yaml',
     )
     parser.add_argument(
@@ -740,10 +761,10 @@ def main() -> None:
     if args.selftest:
         sys.exit(_run_selftest())
 
-    if not args.input:
+    if not args.inputs:
         parser.error('未提供輸入檔案（或使用 --selftest）')
 
-    convert(args.input, args.output)
+    convert(args.inputs, args.output)
 
 
 if __name__ == '__main__':
