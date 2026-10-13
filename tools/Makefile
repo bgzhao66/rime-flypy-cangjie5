@@ -17,6 +17,10 @@ all:
 install:
 	python3 ../plugins/rime-install.py --ime-name $(PRIMARY_NAME) --plugins
 
+.PHONY: userdb
+userdb:
+	cd ./userdb && python3 ./txt_parser.py ./*.userdb.txt
+
 .PHONY: clean
 clean:
 	rm -f ../$(PRIMARY_NAME)*.dict.yaml
