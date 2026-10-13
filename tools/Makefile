@@ -22,6 +22,10 @@ install:
 mapping:
 	python3 ./mapping_bopomofo.py > mapping.txt
 
+.PHONY: userdb
+userdb:
+	cd ./userdb && python3 ./txt_parser.py ./*.userdb.txt
+
 .PHONY: clean
 clean:
 	rm -f ../$(PRIMARY_NAME)*.dict.yaml
