@@ -44,6 +44,7 @@ import re
 import argparse
 import unicodedata
 import unittest
+import glob
 from collections import defaultdict
 from itertools import product
 
@@ -190,6 +191,10 @@ PINYIN_DICT = "pinyin_trad.dict.txt"
 PINYIN_EXT1_DICT = "pinyin_trad_ext1.dict.txt"
 CANGJIE_CODE = "cangjie5.dict.yaml"
 
+def find_dict_files(directory="./userdb"):
+    """掃描目錄，返回符合 *.dict.txt 模式的文件列表"""
+    pattern = f"{directory}/*.dict.txt"
+    return glob.glob(pattern)
 
 def get_standard_code_from_file(file):
     """讀取 '拼音: 字1 字2 ...' 格式。"""
@@ -334,7 +339,7 @@ kCharacterCodes, kCharacterCodesNonstandard = merge_character_codes(
     kStandardCodes, kPinyinCodes)
 
 kPinyinPhrases = get_pinyin_phrase_from_files(PINYIN_PHRASES)
-kWordsFreq = get_frequency_from_files([PINYIN_DICT, PINYIN_EXT1_DICT])
+kWordsFreq = get_frequency_from_files([PINYIN_DICT, PINYIN_EXT1_DICT] + find_dict_files())
 kCangjieCodes = get_cangjie_code_from_file(CANGJIE_CODE)
 
 
