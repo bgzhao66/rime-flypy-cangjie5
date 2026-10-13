@@ -748,7 +748,7 @@ def main() -> None:
     )
     parser.add_argument(
         '-o', '--output',
-        default='pinyin.dict.yaml',
+        default='pinyin_userdb.dict.txt',
         help='輸出檔案，預設為 pinyin.dict.yaml',
     )
     parser.add_argument(
