@@ -17,9 +17,10 @@ all:
 install:
 	python3 ../plugins/rime-install.py --ime-name $(PRIMARY_NAME) --plugins
 
-.PHONY: userdb
-userdb:
-	cd ./userdb && python3 ../userdb_txt_parser.py ./$(PRIMARY_NAME).*.userdb.txt
+.PHONY: txt_userdb
+txt_userdb:
+	$(eval TXT_USERDB_FILES := $(shell python3 ./find_files.py --dir "./userdb/$(PRIMARY_NAME)" --name '*.userdb.txt' --type f))
+	python3 ./userdb_txt_parser.py $(TXT_USERDB_FILES) -o ./userdb/pinyin_userdb.dict.txt
 
 .PHONY: clean
 clean:
