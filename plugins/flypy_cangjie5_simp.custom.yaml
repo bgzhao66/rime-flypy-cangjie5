@@ -10,6 +10,7 @@ patch:
       - table_translator@latex_input
     filters/+:
       - lua_filter@show_quanpin
+      - simplifier
 
   recognizer/patterns/latex_input: "^\\\\[a-zA-Z^_]+$"
 
