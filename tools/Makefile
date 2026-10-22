@@ -19,9 +19,6 @@ all:
 install:
 	python3 ../plugins/rime-install.py --ime-name $(PRIMARY_NAME) --plugins
 
-mapping:
-	python3 ./mapping_bopomofo.py > mapping.txt
-
 .PHONY: txt_userdb
 txt_userdb:
 	$(eval TXT_USERDB_FILES := $(shell python3 ./find_files.py --dir "./userdb/$(PRIMARY_NAME)" --name '*.userdb.txt' --type f))
