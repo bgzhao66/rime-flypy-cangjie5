@@ -7,31 +7,31 @@ version: "0.1"
 sort: by_weight
 ...
 
-啊	a	419025
-不	b	1181288
-從	c	381861
+啊	a	83805
+不	b	590644
+從	c	127287
 的	d	4828296
 而	e	135909
-發	f	139208
-個	g	492618
-和	h	1329754
+發	f	69604
+個	g	246309
+和	h	664877
 吃	i	65323
 就	j	558434
-看	k	490082
+看	k	245041
 了	l	1500187
-嗎	m	1181900
-那	n	1077532
-哦	o	49770
-跑	p	45636
-去	q	661754
+嗎	m	295475
+你	n	973528
+哦	o	24885
+跑	p	22818
+去	q	330877
 人	r	250286
 所	s	44057
 他	t	343910
 是	u	1180959
-中	v	486430
+中	v	243215
 我	w	1192791
 下	x	163639
-有	y	1841724
+有	y	613908
 在	z	974742
 啊啊	aaa	802
 阿布	aab	594
@@ -740,6 +740,7 @@ sort: by_weight
 伽那	gan	1
 嘎曲	gaq	1
 呷嗽	gas	1
+嘎渣	gav	1
 尬舞	gaw	0
 嘎仙	gax	1
 伽耶	gay	1
@@ -30887,6 +30888,7 @@ sort: by_weight
 浮冰塊	fubkk	1
 府兵制	fubkv	1
 服兵役	fubky	1
+腹便便	fubmb	1
 復變量	fubml	2
 副編審	fubmu	1
 撫邊鄉	fubmx	1
@@ -69201,7 +69203,6 @@ sort: by_weight
 林佩琴	lbpwq	1
 林檎乾	lbqbg	0
 臨清村	lbqkc	1
-林慶輝	lbqkh	1
 臨青路	lbqkl	1
 臨清市	lbqku	1
 林青霞	lbqkx	247
@@ -72957,6 +72958,7 @@ sort: by_weight
 爛塌山	ljtau	1
 爛桃花	ljtch	0
 濫套子	ljtcz	1
+蘭特斯	ljtes	1
 藍塘鎮	ljthv	1
 蘭灘鄉	ljtjx	1
 爛攤子	ljtjz	1
@@ -145859,7 +145861,6 @@ sort: by_weight
 下流頭	xxlqt	0
 霞流鎮	xxlqv	1
 下龍潭	xxlst	1
-下龍灣	xxlsw	1
 下爐村	xxluc	1
 下陸區	xxluq	1
 狹顱症	xxluv	1
