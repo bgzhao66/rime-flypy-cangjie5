@@ -623,7 +623,7 @@ def generate_short_codes(entries, encode_result, used_codes):
 def build_entries(char_codes, char_nonstandard, phrase_dict, freq_dict):
     """
     構建所有待編碼的條目。
-    頻率以 (word, toneless_seq) 為唯一鍵累加，與輔助碼序列無關。
+    頻率以 (word, toneless_seq) 為唯一鍵，與輔助碼序列無關。
     每個 (word, toneless_seq) 對應一個 entry，其 aux_seqs 為該字詞
     所有可能的輔助碼序列。
     """
@@ -637,7 +637,7 @@ def build_entries(char_codes, char_nonstandard, phrase_dict, freq_dict):
         base_key = (word, tuple(toneless_seq))
         old_f, old_p = freq_map.get(base_key, (0, -sys.maxsize + 1))
         new_f, new_p = freq
-        freq_map[base_key] = (old_f + new_f, max(old_p, new_p))
+        freq_map[base_key] = (max(old_f, new_f), max(old_p, new_p))
 
     for char, pinyins in char_codes.items():
         for pinyin in pinyins:
