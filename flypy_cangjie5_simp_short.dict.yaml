@@ -7,31 +7,31 @@ version: "0.1"
 sort: by_weight
 ...
 
-啊	a	419025
-不	b	1181288
+啊	a	83805
+不	b	590644
 从	c	127287
 的	d	4828296
 而	e	165909
-发	f	139262
-个	g	492636
-和	h	1329754
+发	f	69631
+个	g	246318
+和	h	664877
 吃	i	65323
 就	j	558434
-看	k	490082
+看	k	245041
 了	l	1500187
-吗	m	886425
+吗	m	295475
 你	n	973528
-哦	o	51170
-跑	p	45636
-去	q	661754
+哦	o	25585
+跑	p	22818
+去	q	330877
 人	r	250286
 所	s	44057
 他	t	343910
 是	u	1180959
-中	v	486430
+中	v	243215
 我	w	1192791
 下	x	163639
-有	y	1227816
+有	y	613908
 在	z	974742
 啊啊	aaa	802
 阿布	aab	594
@@ -740,6 +740,7 @@ sort: by_weight
 伽那	gan	1
 嘎曲	gaq	1
 呷嗽	gas	1
+嘎渣	gav	1
 尬舞	gaw	0
 嘎仙	gax	1
 伽耶	gay	1
@@ -30951,6 +30952,7 @@ sort: by_weight
 浮冰群	fubkq	0
 府兵制	fubkv	1
 服兵役	fubky	1
+腹便便	fubmb	1
 复变量	fubml	2
 副编审	fubmu	1
 抚边乡	fubmx	1
@@ -73892,7 +73894,6 @@ sort: by_weight
 两班制	llbjv	1
 梁板乡	llbjx	1
 凉冰冰	llbkb	1
-梁冰潜	llbkq	1
 梁秉中	llbkv	1
 两边倒	llbmd	1
 两边厢	llbmx	0
@@ -146562,7 +146563,6 @@ sort: by_weight
 下流头	xxlqt	0
 霞流镇	xxlqv	1
 下龙潭	xxlst	1
-下龙湾	xxlsw	1
 下炉村	xxluc	1
 下陆区	xxluq	1
 狭颅症	xxluv	1
