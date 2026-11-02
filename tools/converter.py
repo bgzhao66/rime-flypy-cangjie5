@@ -994,7 +994,7 @@ def main(argv=None):
         filename = f"{out_dir}{char_name}.dict.yaml"
         with open(filename, 'w', encoding='utf-8') as f:
             print(get_header(char_name, import_tables), file=f)
-            print_word_codes(char_dict, f, freq_base=10000)
+            print_word_codes(char_dict, f)
         print(f"Character codes written to {filename}", file=sys.stderr)
 
     if args.phrase:
