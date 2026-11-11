@@ -1,8 +1,8 @@
-# RIME flypy-cangjie5-simp —「双拼逆仓」输入法方案
+# RIME flypy-cangjie5-s —「双拼逆仓」输入法方案
 
 ## 方案简介
 
-`flypy-cangjie5-simp`（双拼逆仓）是一套基于**小鹤双拼**与**仓颉五代逆序辅助码**的音形输入法方案，旨在简单、快速、准确地输入现代汉语、古诗词、文言文等数百万字词。
+`flypy-cangjie5-s`（双拼逆仓）是一套基于**小鹤双拼**与**仓颉五代逆序辅助码**的音形输入法方案，旨在简单、快速、准确地输入现代汉语、古诗词、文言文等数百万字词。
 
 ### 设计核心与特色
 
@@ -121,7 +121,7 @@ make install
 ```
 patch:
   schema_list:
-    - {schema: flypy_cangjie5_simp}
+    - {schema: flypy_cangjie5_s}
 ```
 
 #### 2. 安装码表与方案配置
@@ -130,8 +130,8 @@ patch:
 
 |来源文件|目标位置|
 |---|---|
-|`flypy_cangjie5_simp.schema.yaml`|`<RIME>/flypy_cangjie5_simp.schema.yaml`|
-|`flypy_cangjie5_simp*.dict.yaml`|`<RIME>/flypy_cangjie5_simp*.dict.yaml`|
+|`flypy_cangjie5_s.schema.yaml`|`<RIME>/flypy_cangjie5_s.schema.yaml`|
+|`flypy_cangjie5_s*.dict.yaml`|`<RIME>/flypy_cangjie5_s*.dict.yaml`|
 
 #### 3. 安装插件
 
@@ -142,7 +142,7 @@ patch:
 |`plugins/lua/*.lua`|`<RIME>/lua/`|
 |`plugins/lua/rime.lua`|`<RIME>/rime.lua`|
 |`plugins/latex/latex.*.yaml`|`<RIME>/latex.*.yaml`|
-|`plugins/flypy_cangjie5_simp.custom.yaml`|`<RIME>/flypy_cangjie5_simp.custom.yaml`|
+|`plugins/flypy_cangjie5_s.custom.yaml`|`<RIME>/flypy_cangjie5_s.custom.yaml`|
 
 #### 4. 重新部署
 

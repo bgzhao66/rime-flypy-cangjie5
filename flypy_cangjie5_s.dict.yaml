@@ -2,7 +2,7 @@
 # encoding: utf-8
 
 ---
-name: flypy_cangjie5_simp
+name: flypy_cangjie5_s
 version: "0.1"
 sort: by_weight
 max_phrase_length: 10
@@ -25,9 +25,9 @@ encoder:
     - length_equal: 7
       formula: "AaAbBaBbCaCbDaDbEaEbFaFbGaGb"
 import_tables:
-  - flypy_cangjie5_simp_phrase
-  - flypy_cangjie5_simp_short
-  - flypy_cangjie5_simp_extra
+  - flypy_cangjie5_s_phrase
+  - flypy_cangjie5_s_short
+  - flypy_cangjie5_s_extra
 ...
 
 啊	aa	83805
