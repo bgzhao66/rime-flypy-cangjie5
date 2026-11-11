@@ -78,6 +78,13 @@ done
 command -v opencc >/dev/null 2>&1 \
     || die "opencc not found; install it in WSL (e.g. sudo apt install opencc)"
 
+# Validate the OpenCC config before touching any target file. OpenCC can exit
+# 0 after printing "not found or not accessible", so also require non-empty
+# output from the probe conversion.
+probe=$(printf 'x' | opencc -c "$config") \
+    || die "opencc failed with config: $config"
+[[ -n $probe ]] || die "opencc failed with config: $config"
+
 if (($# > 0)); then
     files=("$@")
 else
@@ -110,6 +117,11 @@ for file in "${files[@]}"; do
 
     if ! opencc -c "$config" -i "$file" -o "$tmp"; then
         die "opencc failed on: $file"
+    fi
+
+    # Never replace a non-empty source with an empty result.
+    if [[ -s $file && ! -s $tmp ]]; then
+        die "opencc produced empty output for: $file"
     fi
 
     if cmp -s -- "$file" "$tmp"; then
