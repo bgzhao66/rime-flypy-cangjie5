@@ -1,8 +1,8 @@
-# RIME flypy-cangjie5-tw —「雙拼逆倉」輸入法方案
+# RIME flypy-cangjie5-hk —「雙拼逆倉」輸入法方案
 
 ## 方案簡介
 
-`flypy-cangjie5-tw`（雙拼逆倉）是一套基於**小鶴雙拼**與**倉頡五代逆序輔助碼**的音形輸入法方案，旨在以簡單、快速、準確且可控的方式，統一輸入現代漢語、古詩詞及文言文等數百萬字詞。
+`flypy-cangjie5-hk`（雙拼逆倉）是一套基於**小鶴雙拼**與**倉頡五代逆序輔助碼**的音形輸入法方案，旨在以簡單、快速、準確且可控的方式，統一輸入現代漢語、古詩詞及文言文等數百萬字詞。
 
 ### 設計核心與特色
 
@@ -125,7 +125,7 @@ YAML
 ```yaml
 patch:
   schema_list:
-    - {schema: flypy_cangjie5_tw}
+    - {schema: flypy_cangjie5_hk}
 ```
 
 #### 2. 安裝碼表與方案配置
@@ -134,8 +134,8 @@ patch:
 
 | **來源檔案**                     | **目標位置**                            |
 | ---------------------------- | ----------------------------------- |
-| `flypy_cangjie5_tw.schema.yaml` | `<RIME>/flypy_cangjie5_tw.schema.yaml` |
-| `flypy_cangjie5_tw*.dict.yaml`  | `<RIME>/flypy_cangjie5_tw*.dict.yaml`  |
+| `flypy_cangjie5_hk.schema.yaml` | `<RIME>/flypy_cangjie5_hk.schema.yaml` |
+| `flypy_cangjie5_hk*.dict.yaml`  | `<RIME>/flypy_cangjie5_hk*.dict.yaml`  |
 
 #### 3. 安裝插件（請保留原有子目錄結構）
 
@@ -144,7 +144,7 @@ patch:
 | `plugins/lua/*.lua`                  | `<RIME>/lua/*.lua`                  |
 | `plugins/lua/rime.lua`               | `<RIME>/rime.lua`                   |
 | `plugins/latex/latex.*.yaml`         | `<RIME>/latex.*.yaml`               |
-| `plugins/flypy_cangjie5_tw.custom.yaml` | `<RIME>/flypy_cangjie5_tw.custom.yaml` |
+| `plugins/flypy_cangjie5_hk.custom.yaml` | `<RIME>/flypy_cangjie5_hk.custom.yaml` |
 
 #### 4. 重新部署
 
