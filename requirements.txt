@@ -1,0 +1,15 @@
+# Python dependencies for this repository.
+# Install with: python -m pip install -r requirements.txt
+
+# tools/converter.py (--pypinyin) and tools/userdb_txt_parser.py
+pypinyin
+
+# plugins/rime-install.py (make install)
+PyYAML
+
+# tools/others/coverage_stats.py
+requests
+opencc-purepy
+
+# resources/cut_words.py
+jieba

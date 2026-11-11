@@ -5,7 +5,7 @@ PRIMARY_NAME = flypy_cangjie5_simp
 .SILENT:
 all:
 	python3 ./converter.py --name $(PRIMARY_NAME) --chinese-code  --phrase --short-code \
-				--extra-table  \
+				--extra-table  --pypinyin \
 				extra/essay.txt	    \
 				extra/360wdict-0.txt
 #				extra/360wdict-1.txt
