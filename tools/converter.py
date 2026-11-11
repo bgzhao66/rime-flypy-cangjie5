@@ -4,8 +4,9 @@ Pinyin → Shuangpin (Xiaohe) converter with incremental encoding.
 
 主要特性：
 - 主碼：每字雙拼（兩碼）拼接，全部小寫。
-- 頻率以「字詞 + 無調讀音序列」為唯一鍵累加，與輔助碼序列無關：
-  同一字詞的多個有調讀音，若無調形式相同，視為同一條目，頻率相加。
+- 頻率以「字詞 + 無調讀音序列」為唯一鍵，與輔助碼序列無關：
+  同一字詞的多個有調讀音，若無調形式相同，視為同一條目；
+  主詞庫取最大頻率，額外詞表則累加頻率。
 - 條目結構：每個 (word, toneless_seq) 對應一個 entry，
   其 aux_seqs 為該字詞所有可能的輔助碼序列（list of list）。
 - 增量編碼：對每個 (word, toneless_seq)，將其 aux_seqs 視為 trie 中的路徑，
@@ -33,8 +34,10 @@ Pinyin → Shuangpin (Xiaohe) converter with incremental encoding.
   不一致則打印錯誤日誌並忽略該詞。
 - 額外詞表：通過 input_files 傳入，每行 "word [frequency]"。
   已存在於主詞庫中的詞會被移除（按 word 去重）；
-  剩餘詞條的拼音合成僅使用標準拼音 (kCharacterCodes)，
+  剩餘詞條的拼音合成默認僅使用標準拼音 (kCharacterCodes)，
   不使用非標準拼音 (kCharacterCodesNonstandard)。
+  指定 --pypinyin 時，未收錄詞優先採用 pypinyin 的標準普通話整詞讀音
+  （strict 模式，詞組級別消歧多音字，如「重慶」），失敗時回退到笛卡爾積。
   基於主表 used_codes 進行增量編碼，輸出到 {name}_extra.dict.yaml。
 - 所有編碼（主碼、輔助碼、字母後綴、長碼、簡碼）均為小寫字母。
 """
@@ -45,8 +48,11 @@ import argparse
 import unicodedata
 import unittest
 import glob
+import functools
 from collections import defaultdict
 from itertools import product
+
+import pypinyin
 
 
 # ============================================================
@@ -623,11 +629,12 @@ def generate_short_codes(entries, encode_result, used_codes):
 def build_entries(char_codes, char_nonstandard, phrase_dict, freq_dict):
     """
     構建所有待編碼的條目。
-    頻率以 (word, toneless_seq) 為唯一鍵，與輔助碼序列無關。
+    頻率以 (word, toneless_seq) 為唯一鍵，與輔助碼序列無關；
+    同一鍵的多個來源取最大頻率。
     每個 (word, toneless_seq) 對應一個 entry，其 aux_seqs 為該字詞
     所有可能的輔助碼序列。
     """
-    # 第一遍：按 (word, toneless_seq) 累加頻率
+    # 第一遍：按 (word, toneless_seq) 取最大頻率
     freq_map = {}
 
     def collect(word, pinyin_seq):
@@ -771,13 +778,47 @@ def get_descartes_products(lists):
     return result
 
 
-def get_pinyin_seq_for_words(words):
-    """為每個詞查找無調拼音序列，僅使用標準拼音 (kCharacterCodes)。"""
+@functools.lru_cache(maxsize=None)
+def get_pypinyin_toneless_seq(word):
+    """
+    用 pypinyin 取得整詞的無聲調拼音，詞組級別可消歧多音字。
+    僅接受標準普通話讀音（strict 模式，遵循《漢語拼音方案》）：
+    非中文字符、未知或無法以本方案小鶴雙拼表示的音節一律拒絕。
+    音節數與字數不一致或存在空音節時返回 ()。
+    返回值為 tuple，便於 lru_cache 緩存。
+    """
+    seq = pypinyin.lazy_pinyin(
+        word, style=pypinyin.Style.NORMAL, strict=True,
+        errors=lambda chunk: [])
+    if len(seq) != len(word):
+        return ()
+    toneless = []
+    for s in seq:
+        # pypinyin 對未知字符會原樣返回，標準讀音必為 ASCII 字母。
+        if not s.isascii() or not s.isalpha():
+            return ()
+        t = get_toneless_pinyin(s)
+        toneless.append(t)
+    return tuple(toneless)
+
+
+def get_pinyin_seq_for_words(words, use_pypinyin=False):
+    """
+    為每個詞查找無調拼音序列。
+    默認僅使用標準拼音 (kCharacterCodes) 的笛卡爾積；
+    use_pypinyin=True 時，未收錄詞優先採用 pypinyin 的標準普通話整詞讀音，
+    取不到完整標準讀音時回退到笛卡爾積。
+    """
     result = {}
     for word in words:
         if word in kTonelessPinyinPhrases:
             result[word] = [list(seq) for seq in kTonelessPinyinPhrases[word]]
             continue
+        if use_pypinyin:
+            toneless = get_pypinyin_toneless_seq(word)
+            if toneless:
+                result[word] = [list(toneless)]
+                continue
         encodes = []
         ok = True
         for char in word:
@@ -799,13 +840,14 @@ def get_pinyin_seq_for_words(words):
     return result
 
 
-def build_extra_entries(words):
+def build_extra_entries(words, use_pypinyin=False):
     """
     為額外詞表構建待編碼條目。
     頻率以 (word, toneless_seq) 為唯一鍵累加，與輔助碼序列無關。
     每個 (word, toneless_seq) 對應一個 entry。
+    use_pypinyin=True 時，未收錄詞優先採用 pypinyin 的標準普通話整詞讀音。
     """
-    extra_pinyin = get_pinyin_seq_for_words(words)
+    extra_pinyin = get_pinyin_seq_for_words(words, use_pypinyin=use_pypinyin)
 
     # 第一遍：按 (word, toneless_seq) 累加頻率
     freq_map = {}
@@ -917,6 +959,8 @@ def parse_args(argv=None):
                         help="Write short codes (簡碼) to file")
     parser.add_argument("--extra-table", action="store_true",
                         help="Write extra words (from input_files) to a separate table")
+    parser.add_argument("--pypinyin", action="store_true",
+                        help="For extra words without known pinyin, use pypinyin instead of Descartes product of char pinyins")
     parser.add_argument("--test", action="store_true",
                         help="Run unit tests")
     parser.add_argument("input_files", nargs='*', default=[],
@@ -1031,7 +1075,8 @@ def main(argv=None):
         )
 
         if extra_words:
-            extra_entries = build_extra_entries(extra_words)
+            extra_entries = build_extra_entries(
+                extra_words, use_pypinyin=args.pypinyin)
             extra_encode_result, extra_used_codes = incremental_encode(
                 extra_entries, initial_used_codes=used_codes)
             used_codes |= extra_used_codes
@@ -1401,6 +1446,37 @@ class TestExtraWords(unittest.TestCase):
         result = get_pinyin_seq_for_words(words)
         self.assertNotIn('ꙮ', result)
 
+    def test_pypinyin_resolves_polyphone(self):
+        words = {'重庆': (100, -1)}
+        saved = kTonelessPinyinPhrases.pop('重庆', None)
+        try:
+            default_result = get_pinyin_seq_for_words(words)
+            self.assertIn(['zhong', 'qing'], default_result['重庆'])
+        finally:
+            if saved is not None:
+                kTonelessPinyinPhrases['重庆'] = saved
+        result = get_pinyin_seq_for_words(words, use_pypinyin=True)
+        self.assertEqual(result['重庆'], [['chong', 'qing']])
+
+    def test_pypinyin_keeps_phrase_context(self):
+        words = {'银行': (100, -1)}
+        result = get_pinyin_seq_for_words(words, use_pypinyin=True)
+        self.assertEqual(result['银行'], [['yin', 'hang']])
+
+    def test_pypinyin_falls_back_to_character_readings(self):
+        result = get_pinyin_seq_for_words({'㍿': (100, -1)}, use_pypinyin=True)
+        self.assertNotIn('㍿', result)
+
+    def test_pypinyin_normalizes_umlaut(self):
+        result = get_pinyin_seq_for_words({'女': (100, -1)}, use_pypinyin=True)
+        self.assertEqual(result['女'], [['nv']])
+
+    def test_pypinyin_rejects_non_han(self):
+        self.assertEqual(get_pypinyin_toneless_seq('A1中'), ())
+
+    def test_pypinyin_accepts_standard_special_syllable(self):
+        self.assertEqual(get_pypinyin_toneless_seq('噷'), ('hm',))
+
     def test_extra_encode_uses_main_used_codes(self):
         extra_entries = [
             {'word': 'X', 'toneless_seq': ['x'], 'full_code': 'ab',
@@ -1444,7 +1520,7 @@ class TestExtraWords(unittest.TestCase):
 class TestDeduplication(unittest.TestCase):
     def test_same_toneless_same_aux_dedup(self):
         """
-        同一字詞的多個有調讀音，若無調形式相同，視為同一條目，頻率相加。
+        同一字詞的多個有調讀音，若無調形式相同，視為同一條目（頻率取最大值）。
         每個 (word, toneless_seq) 對應一個 entry。
         """
         char_codes = {'你': ['nǐ', 'ni']}
@@ -1458,24 +1534,24 @@ class TestDeduplication(unittest.TestCase):
         entries = build_entries(char_codes, {}, {}, {})
         self.assertEqual(len(entries), 2)
 
-    def test_dedup_sums_freq(self):
+    def test_dedup_keeps_max_freq(self):
         """
-        频率按 (word, toneless_seq) 累加，与辅助码序列无关。
+        同一 (word, toneless_seq) 的多個來源取最大頻率。
         """
         char_codes = {'你': ['nǐ', 'ni']}
         freq_dict = {'你': {'ni': (500, -1)}}
         entries = build_entries(char_codes, {}, {}, freq_dict)
         self.assertEqual(len(entries), 1)
-        self.assertEqual(entries[0]['freq'][0], 1000)
+        self.assertEqual(entries[0]['freq'][0], 500)
         self.assertEqual(entries[0]['freq'][1], -1)
 
-    def test_dedup_sums_freq_different_sources(self):
+    def test_dedup_keeps_max_freq_different_sources(self):
         char_codes = {'你': ['nǐ']}
         char_nonstandard = {'你': ['ni']}
         freq_dict = {'你': {'ni': (300, -1)}}
         entries = build_entries(char_codes, char_nonstandard, {}, freq_dict)
         self.assertEqual(len(entries), 1)
-        self.assertEqual(entries[0]['freq'][0], 600)
+        self.assertEqual(entries[0]['freq'][0], 300)
 
 
 if __name__ == "__main__":
