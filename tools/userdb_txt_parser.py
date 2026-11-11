@@ -2,28 +2,28 @@
 # -*- coding: utf-8 -*-
 
 """
-把 userdb.txt 轉換為 RIME 全拼詞庫格式（無文件頭）。
+把 userdb.txt 转换为 RIME 全拼词库格式（无文件头）。
 
-支援同時輸入多個 userdb.txt，所有條目合併處理：
-相同 (word, py seq) 的權重會跨檔案累加。
+支援同时输入多个 userdb.txt，所有条目合并处理：
+相同 (word, py seq) 的权重会跨档案累加。
 
-輸入格式範例：
-    zvee    罪惡    c=6 d=8.16794e-39 t=173161
+输入格式范例：
+    zvee    罪恶    c=6 d=8.16794e-39 t=173161
 
-輸出格式：
-    罪惡\tzui e\t6
+输出格式：
+    罪恶\tzui e\t6
 
-規則：
-- 只處理開頭符合 ^[a-z] 的行，其餘（空行、# 註釋、空格開頭等）一律忽略。
-- 第一列為小鶴雙拼編碼（可能附帶輔助碼）。
-- 第二列為詞條，c= 為使用次數（作為 RIME 權重）。
-- 若 c < 0，輸出告警並忽略該條目。
-- 若詞長為 n，編碼長度至少為 2n：正常解碼，多餘字符視為輔助碼忽略。
-- 若編碼長度為 2n-1：前 n-1 個字正常解碼；
-  最後一個字優先採用普通話標準讀音（若其聲母與 code[-1] 相符），
-  否則從所有異讀音中篩選；若無法唯一確定，輸出告警並忽略該行。
-- 拼音獲取優先採用普通話標準讀音（pypinyin 的 heteronym=False）。
-- 輸出時，若 (word, py seq) 完全相同，則合併為一條，權重取 c 之和。
+规则：
+- 只处理开头符合 ^[a-z] 的行，其余（空行、# 注释、空格开头等）一律忽略。
+- 第一列为小鹤双拼编码（可能附带辅助码）。
+- 第二列为词条，c= 为使用次数（作为 RIME 权重）。
+- 若 c < 0，输出告警并忽略该条目。
+- 若词长为 n，编码长度至少为 2n：正常解码，多余字符视为辅助码忽略。
+- 若编码长度为 2n-1：前 n-1 个字正常解码；
+  最后一个字优先采用普通话标准读音（若其声母与 code[-1] 相符），
+  否则从所有异读音中筛选；若无法唯一确定，输出告警并忽略该行。
+- 拼音获取优先采用普通话标准读音（pypinyin 的 heteronym=False）。
+- 输出时，若 (word, py seq) 完全相同，则合并为一条，权重取 c 之和。
 """
 
 import re
@@ -33,7 +33,7 @@ from pypinyin import lazy_pinyin, pinyin, Style
 
 
 # ---------------------------------------------------------------------------
-# 小鶴雙拼音節表（直接以字串形式嵌入，開機時解析為 dict）
+# 小鹤双拼音节表（直接以字串形式嵌入，开机时解析为 dict）
 # ---------------------------------------------------------------------------
 
 XIAOHE_SYLLABLE_TABLE_RAW = r'''
@@ -452,9 +452,9 @@ XIAOHE_SYLLABLE_TABLE_RAW = r'''
 
 
 def _parse_syllable_table(raw: str) -> dict:
-    """把 '"code" : "pinyin",' 形式的字串解析為 dict。
+    """把 '"code" : "pinyin",' 形式的字串解析为 dict。
 
-    若同一 code 出現多次，後者覆蓋前者（例如 "lo" 最終為 "luo"）。
+    若同一 code 出现多次，后者覆盖前者（例如 "lo" 最终为 "luo"）。
     """
     table = {}
     for m in re.finditer(r'"([a-z]+)"\s*:\s*"([^"]+)"', raw):
@@ -466,23 +466,23 @@ XIAOHE_SYLLABLE_TABLE = _parse_syllable_table(XIAOHE_SYLLABLE_TABLE_RAW)
 
 
 # ---------------------------------------------------------------------------
-# 聲母工具（僅用於 2n-1 情況的單字母聲母匹配）
+# 声母工具（仅用于 2n-1 情况的单字母声母匹配）
 # ---------------------------------------------------------------------------
 
 NORMAL_INITIALS = set('bpmfdtnlgkhjqxrzcsyw')
 SPECIAL_INITIALS = {'v': 'zh', 'i': 'ch', 'u': 'sh'}
 
-# 允許 c 為負數
+# 允许 c 为负数
 LINE_RE = re.compile(r'^(\S+)\s+(\S+)\s+c=(-?\d+)\s+d=(\S+)\s+t=(\d+)\s*$')
 
 
 def normalize_pinyin(p: str) -> str:
-    """把 ü 統一替換為 v，方便比較。"""
+    """把 ü 统一替换为 v，方便比较。"""
     return p.replace('ü', 'v')
 
 
 def get_initial(p: str) -> str:
-    """取得拼音的聲母，零聲母返回空字串。"""
+    """取得拼音的声母，零声母返回空字串。"""
     p = normalize_pinyin(p)
     if p.startswith(('zh', 'ch', 'sh')):
         return p[:2]
@@ -492,7 +492,7 @@ def get_initial(p: str) -> str:
 
 
 def code_to_initial(code_char: str) -> str:
-    """把小鶴雙拼的單一字母映射為實際聲母，零聲母返回空字串。"""
+    """把小鹤双拼的单一字母映射为实际声母，零声母返回空字串。"""
     if code_char == 'v':
         return 'zh'
     if code_char == 'i':
@@ -501,18 +501,18 @@ def code_to_initial(code_char: str) -> str:
         return 'sh'
     if code_char in NORMAL_INITIALS:
         return code_char
-    return ''  # 零聲母
+    return ''  # 零声母
 
 
 # ---------------------------------------------------------------------------
-# 單音節解碼（直接查表）
+# 单音节解码（直接查表）
 # ---------------------------------------------------------------------------
 
 def decode_syllable(pair: str) -> list:
-    """把一組 2 字符的小鶴雙拼音節解碼為候選全拼列表。
+    """把一组 2 字符的小鹤双拼音节解码为候选全拼列表。
 
-    返回的拼音已把 ü 正規化為 v。
-    若輸入不是 2 字符或表中無此碼，返回空列表。
+    返回的拼音已把 ü 正规化为 v。
+    若输入不是 2 字符或表中无此码，返回空列表。
     """
     if len(pair) != 2:
         return []
@@ -523,17 +523,17 @@ def decode_syllable(pair: str) -> list:
 
 
 # ---------------------------------------------------------------------------
-# 漢字拼音查詢
+# 汉字拼音查询
 # ---------------------------------------------------------------------------
 
 def get_standard_pinyin(char: str) -> str:
-    """取得單一漢字的普通話標準讀音。"""
+    """取得单一汉字的普通话标准读音。"""
     result = lazy_pinyin(char, style=Style.NORMAL)
     return normalize_pinyin(result[0]) if result else ''
 
 
 def get_all_pinyin(char: str) -> list:
-    """取得單一漢字的所有讀音（去重、正規化）。"""
+    """取得单一汉字的所有读音（去重、正规化）。"""
     cands = pinyin(char, heteronym=True, style=Style.NORMAL)[0]
     seen = []
     for p in cands:
@@ -544,14 +544,14 @@ def get_all_pinyin(char: str) -> list:
 
 
 # ---------------------------------------------------------------------------
-# 多音節解碼
+# 多音节解码
 # ---------------------------------------------------------------------------
 
 def decode_code_part(code_part: str, word_part: str):
-    """解碼完整的雙拼編碼部分（每個字兩個字母），返回拼音列表。
+    """解码完整的双拼编码部分（每个字两个字母），返回拼音列表。
 
-    每個音節直接查表，結果唯一。
-    注意：只使用 code_part 的前 2n 個字符，多餘字符忽略。
+    每个音节直接查表，结果唯一。
+    注意：只使用 code_part 的前 2n 个字符，多余字符忽略。
     """
     n = len(word_part)
     if len(code_part) < 2 * n:
@@ -568,11 +568,11 @@ def decode_code_part(code_part: str, word_part: str):
 
 
 # ---------------------------------------------------------------------------
-# 轉換主流程
+# 转换主流程
 # ---------------------------------------------------------------------------
 
 def _iter_lines(input_paths):
-    """依次讀取多個輸入檔案，逐行 yield (path, raw_line)。"""
+    """依次读取多个输入档案，逐行 yield (path, raw_line)。"""
     for path in input_paths:
         with open(path, 'r', encoding='utf-8-sig') as f:
             for line in f:
@@ -580,25 +580,25 @@ def _iter_lines(input_paths):
 
 
 def convert(input_paths, output_path: str) -> None:
-    """把一個或多個 userdb.txt 轉換為 RIME 全拼詞庫格式。
+    """把一个或多个 userdb.txt 转换为 RIME 全拼词库格式。
 
-    input_paths 可以是單一字串或字串序列。
-    多個檔案的條目會合併，相同 (word, pinyin) 的 c 累加。
+    input_paths 可以是单一字串或字串序列。
+    多个档案的条目会合并，相同 (word, pinyin) 的 c 累加。
     """
     if isinstance(input_paths, str):
         input_paths = [input_paths]
 
-    # 使用 dict 保持插入順序，並對相同 (word, py seq) 累加 c
+    # 使用 dict 保持插入顺序，并对相同 (word, py seq) 累加 c
     merged = {}  # key: (word, pinyin_str) -> c
 
     for path, raw in _iter_lines(input_paths):
-        # 只處理開頭符合 ^[a-z] 的行
+        # 只处理开头符合 ^[a-z] 的行
         if not re.match(r'^[a-z]', raw):
             continue
 
         m = LINE_RE.match(raw)
         if not m:
-            print(f'[警告] {path}: 無法解析行：{raw}', file=sys.stderr)
+            print(f'[警告] {path}: 无法解析行：{raw}', file=sys.stderr)
             continue
 
         code, word, c_str, d, t = m.groups()
@@ -606,7 +606,7 @@ def convert(input_paths, output_path: str) -> None:
 
         if c < 0:
             print(
-                f'[警告] {path}: c 為負數（c={c}），忽略條目：{raw}',
+                f'[警告] {path}: c 为负数（c={c}），忽略条目：{raw}',
                 file=sys.stderr,
             )
             continue
@@ -619,7 +619,7 @@ def convert(input_paths, output_path: str) -> None:
         if code_len >= 2 * word_len:
             decoded = decode_code_part(code, word)
             if decoded is None:
-                print(f'[警告] {path}: 無法解碼：{raw}', file=sys.stderr)
+                print(f'[警告] {path}: 无法解码：{raw}', file=sys.stderr)
                 continue
             pinyin_list = decoded
 
@@ -630,7 +630,7 @@ def convert(input_paths, output_path: str) -> None:
                 front_pinyin = decode_code_part(front_code, front_word)
                 if front_pinyin is None:
                     print(
-                        f'[警告] {path}: 無法解碼前部分：{raw}',
+                        f'[警告] {path}: 无法解码前部分：{raw}',
                         file=sys.stderr,
                     )
                     continue
@@ -650,23 +650,23 @@ def convert(input_paths, output_path: str) -> None:
                     pinyin_list.append(matched[0])
                 elif len(matched) > 1:
                     print(
-                        f'[警告] {path}: 最後一個字「{last_char}」有多個拼音'
-                        f'匹配聲母「{target_initial}」：{matched}，忽略行：{raw}',
+                        f'[警告] {path}: 最后一个字「{last_char}」有多个拼音'
+                        f'匹配声母「{target_initial}」：{matched}，忽略行：{raw}',
                         file=sys.stderr,
                     )
                     continue
                 else:
                     print(
-                        f'[警告] {path}: 最後一個字「{last_char}」沒有拼音'
-                        f'匹配聲母「{target_initial}」，忽略行：{raw}',
+                        f'[警告] {path}: 最后一个字「{last_char}」没有拼音'
+                        f'匹配声母「{target_initial}」，忽略行：{raw}',
                         file=sys.stderr,
                     )
                     continue
 
         else:
             print(
-                f'[警告] {path}: 編碼長度 {code_len} 不符合詞長 {word_len} 的'
-                f'預期，忽略行：{raw}',
+                f'[警告] {path}: 编码长度 {code_len} 不符合词长 {word_len} 的'
+                f'预期，忽略行：{raw}',
                 file=sys.stderr,
             )
             continue
@@ -682,17 +682,17 @@ def convert(input_paths, output_path: str) -> None:
 
 
 # ---------------------------------------------------------------------------
-# 內建自測：以小鶴雙拼音節表作為測試用例
+# 内建自测：以小鹤双拼音节表作为测试用例
 # ---------------------------------------------------------------------------
 
 def _run_selftest() -> int:
-    """只測試 decode_syllable 對標準小鶴雙拼音節的還原。"""
+    """只测试 decode_syllable 对标准小鹤双拼音节的还原。"""
     import unittest
 
     class TestDecodeSyllable(unittest.TestCase):
 
         def test_all_syllables(self):
-            """遍歷完整映射表，驗證每個雙拼碼都能還原為對應全拼。"""
+            """遍历完整映射表，验证每个双拼码都能还原为对应全拼。"""
             for code, expected in XIAOHE_SYLLABLE_TABLE.items():
                 with self.subTest(code=code, expected=expected):
                     self.assertEqual(
@@ -701,18 +701,18 @@ def _run_selftest() -> int:
                     )
 
         def test_table_size(self):
-            """映射表應有數百個音節。"""
+            """映射表应有数百个音节。"""
             self.assertGreater(len(XIAOHE_SYLLABLE_TABLE), 300)
 
         def test_umlaut_normalized_to_v(self):
-            """ü 系列應正規化為 v。"""
+            """ü 系列应正规化为 v。"""
             self.assertEqual(decode_syllable("lv"), ["lv"])
             self.assertEqual(decode_syllable("nv"), ["nv"])
             self.assertEqual(decode_syllable("lt"), ["lve"])
             self.assertEqual(decode_syllable("nt"), ["nve"])
 
         def test_duplicate_code_last_wins(self):
-            """重複碼 'lo' 後者覆蓋前者，最終為 'luo'。"""
+            """重复码 'lo' 后者覆盖前者，最终为 'luo'。"""
             self.assertEqual(decode_syllable("lo"), ["luo"])
 
         def test_invalid_length(self):
@@ -739,22 +739,22 @@ def _run_selftest() -> int:
 
 def main() -> None:
     parser = argparse.ArgumentParser(
-        description='把 userdb.txt 轉換為 RIME 全拼詞庫格式（無文件頭）'
+        description='把 userdb.txt 转换为 RIME 全拼词库格式（无文件头）'
     )
     parser.add_argument(
         'inputs',
         nargs='*',
-        help='一個或多個輸入檔案（userdb.txt）',
+        help='一个或多个输入档案（userdb.txt）',
     )
     parser.add_argument(
         '-o', '--output',
         default='pinyin_userdb.dict.txt',
-        help='輸出檔案，預設為 pinyin.dict.yaml',
+        help='输出档案，预设为 pinyin.dict.yaml',
     )
     parser.add_argument(
         '--selftest',
         action='store_true',
-        help='只執行內建的小鶴雙拼音節解碼自測，不進行轉換',
+        help='只执行内建的小鹤双拼音节解码自测，不进行转换',
     )
     args = parser.parse_args()
 
@@ -762,7 +762,7 @@ def main() -> None:
         sys.exit(_run_selftest())
 
     if not args.inputs:
-        parser.error('未提供輸入檔案（或使用 --selftest）')
+        parser.error('未提供输入档案（或使用 --selftest）')
 
     convert(args.inputs, args.output)
 
