@@ -22,6 +22,8 @@ switches:
     states: [ 中文, 西文 ]
   - name: full_shape
     states: [ 半角, 全角 ]
+  - name: traditionalization
+    states: [ 汉字, 漢字 ]
   - name: extended_charset
     states: [ 常用, 增广 ]
   - name: ascii_punct
@@ -78,8 +80,10 @@ reverse_lookup:
     - xform/([nl])ue/$1üe/
     - xform/([jqxy])v/$1u/
 
-simplifier:
-  tips: all  # 简化字模式下提示对应的传统汉字
+traditionalize:
+  opencc_config: s2tw.json
+  option_name: traditionalization
+  tips: all
 
 punctuator:
   import_preset: symbols
