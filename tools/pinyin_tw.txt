@@ -119,10 +119,10 @@ UNICODE: bì # 泌
 UNICODE: bì # 璧
 UNICODE: bì # 畀
 UNICODE: bì # 畢
-UNICODE: bì # 痺
+UNICODE: bì # 痹
 UNICODE: bì # 睥
 UNICODE: bì # 碧
-UNICODE: bì # 祕
+UNICODE: bì # 秘
 UNICODE: bì # 秘
 UNICODE: bì # 篦
 UNICODE: bì # 篳
@@ -304,7 +304,7 @@ UNICODE: chuán # 椽
 UNICODE: chuán # 船
 UNICODE: chuán # 遄
 UNICODE: chuáng # 幢
-UNICODE: chuáng # 床
+UNICODE: chuáng # 牀
 UNICODE: chuí # 垂
 UNICODE: chuí # 捶
 UNICODE: chuí # 搥
@@ -320,7 +320,7 @@ UNICODE: chuò # 齪
 UNICODE: chuān # 川
 UNICODE: chuān # 穿
 UNICODE: chuāng # 創
-UNICODE: chuāng # 囪
+UNICODE: chuāng # 囱
 UNICODE: chuāng # 瘡
 UNICODE: chuāng # 窗
 UNICODE: chuī # 吹
@@ -474,7 +474,7 @@ UNICODE: chú # 雛
 UNICODE: chún # 屯
 UNICODE: chún # 淳
 UNICODE: chún # 純
-UNICODE: chún # 脣
+UNICODE: chún # 唇
 UNICODE: chún # 醇
 UNICODE: chún # 鶉
 UNICODE: chā # 叉
@@ -513,7 +513,7 @@ UNICODE: chěng # 逞
 UNICODE: chěng # 騁
 UNICODE: chī # 吃
 UNICODE: chī # 哧
-UNICODE: chī # 喫
+UNICODE: chī # 吃
 UNICODE: chī # 嗤
 UNICODE: chī # 痴
 UNICODE: chī # 笞
@@ -600,7 +600,7 @@ UNICODE: càn # 璨
 UNICODE: càn # 粲
 UNICODE: cái # 才
 UNICODE: cái # 材
-UNICODE: cái # 纔
+UNICODE: cái # 才
 UNICODE: cái # 裁
 UNICODE: cái # 財
 UNICODE: cán # 慚
@@ -657,7 +657,7 @@ UNICODE: cún # 存
 UNICODE: cā # 嚓
 UNICODE: cā # 擦
 UNICODE: cāi # 猜
-UNICODE: cān # 參
+UNICODE: cān # 蔘
 UNICODE: cān # 餐
 UNICODE: cān # 驂
 UNICODE: cāng # 倉
@@ -667,17 +667,17 @@ UNICODE: cāng # 艙
 UNICODE: cāng # 蒼
 UNICODE: cāo # 操
 UNICODE: cāo # 糙
-UNICODE: cēn # 參
+UNICODE: cēn # 蔘
 UNICODE: cēng # 噌
 UNICODE: cī # 差
 UNICODE: cī # 疵
 UNICODE: cī # 雌
 UNICODE: cōng # 匆
-UNICODE: cōng # 囪
+UNICODE: cōng # 囱
 UNICODE: cōng # 從
 UNICODE: cōng # 樅
 UNICODE: cōng # 聰
-UNICODE: cōng # 蔥
+UNICODE: cōng # 葱
 UNICODE: cū # 粗
 UNICODE: cū # 麤
 UNICODE: cūn # 村
@@ -756,7 +756,7 @@ UNICODE: duàn # 斷
 UNICODE: duàn # 段
 UNICODE: duàn # 緞
 UNICODE: duàn # 鍛
-UNICODE: duì # 兌
+UNICODE: duì # 兑
 UNICODE: duì # 對
 UNICODE: duì # 懟
 UNICODE: duì # 敦
@@ -1150,7 +1150,7 @@ UNICODE: fēn # 酚
 UNICODE: fēn # 雰
 UNICODE: fēng # 丰
 UNICODE: fēng # 封
-UNICODE: fēng # 峰
+UNICODE: fēng # 峯
 UNICODE: fēng # 楓
 UNICODE: fēng # 烽
 UNICODE: fēng # 瘋
@@ -1384,7 +1384,7 @@ UNICODE: gāng # 肛
 UNICODE: gāng # 鋼
 UNICODE: gāo # 咎
 UNICODE: gāo # 皋
-UNICODE: gāo # 睪
+UNICODE: gāo # 睾
 UNICODE: gāo # 篙
 UNICODE: gāo # 糕
 UNICODE: gāo # 羔
@@ -1442,7 +1442,7 @@ UNICODE: gōu # 句
 UNICODE: gōu # 枸
 UNICODE: gōu # 溝
 UNICODE: gōu # 篝
-UNICODE: gōu # 鉤
+UNICODE: gōu # 鈎
 UNICODE: gū # 估
 UNICODE: gū # 呱
 UNICODE: gū # 咕
@@ -1715,7 +1715,7 @@ UNICODE: hé # 禾
 UNICODE: hé # 紇
 UNICODE: hé # 荷
 UNICODE: hé # 褐
-UNICODE: hé # 覈
+UNICODE: hé # 核
 UNICODE: hé # 貉
 UNICODE: hé # 閡
 UNICODE: hé # 閤
@@ -1753,7 +1753,7 @@ UNICODE: hóu # 猴
 UNICODE: hóu # 篌
 UNICODE: hù # 互
 UNICODE: hù # 怙
-UNICODE: hù # 戶
+UNICODE: hù # 户
 UNICODE: hù # 戽
 UNICODE: hù # 扈
 UNICODE: hù # 滬
@@ -1983,7 +1983,7 @@ UNICODE: jiāng # 漿
 UNICODE: jiāng # 疆
 UNICODE: jiāng # 薑
 UNICODE: jiāng # 豇
-UNICODE: jiāng # 韁
+UNICODE: jiāng # 繮
 UNICODE: jiāo # 交
 UNICODE: jiāo # 嬌
 UNICODE: jiāo # 徼
@@ -2745,7 +2745,7 @@ UNICODE: léi # 罍
 UNICODE: léi # 羸
 UNICODE: léi # 鐳
 UNICODE: léi # 雷
-UNICODE: léng # 棱
+UNICODE: léng # 稜
 UNICODE: léng # 楞
 UNICODE: léng # 稜
 UNICODE: lì # 例
@@ -2956,7 +2956,7 @@ UNICODE: lǐ # 澧
 UNICODE: lǐ # 理
 UNICODE: lǐ # 禮
 UNICODE: lǐ # 蠡
-UNICODE: lǐ # 裡
+UNICODE: lǐ # 裏
 UNICODE: lǐ # 邐
 UNICODE: lǐ # 醴
 UNICODE: lǐ # 里
@@ -3003,7 +3003,7 @@ UNICODE: ma # 嘛
 UNICODE: me # 麼
 UNICODE: miàn # 瞑
 UNICODE: miàn # 面
-UNICODE: miàn # 麵
+UNICODE: miàn # 麪
 UNICODE: miào # 妙
 UNICODE: miào # 廟
 UNICODE: miào # 繆
@@ -3137,7 +3137,7 @@ UNICODE: mì # 冪
 UNICODE: mì # 密
 UNICODE: mì # 汨
 UNICODE: mì # 泌
-UNICODE: mì # 祕
+UNICODE: mì # 秘
 UNICODE: mì # 秘
 UNICODE: mì # 糸
 UNICODE: mì # 蜜
@@ -3287,7 +3287,7 @@ UNICODE: niào # 溺
 UNICODE: nián # 年
 UNICODE: nián # 拈
 UNICODE: nián # 粘
-UNICODE: nián # 鯰
+UNICODE: nián # 鮎
 UNICODE: nián # 黏
 UNICODE: niáng # 娘
 UNICODE: niáng # 孃
@@ -3905,7 +3905,7 @@ UNICODE: qú # 臞
 UNICODE: qú # 衢
 UNICODE: qú # 鴝
 UNICODE: qú # 麴
-UNICODE: qún # 群
+UNICODE: qún # 羣
 UNICODE: qún # 裙
 UNICODE: qī # 七
 UNICODE: qī # 妻
@@ -3949,7 +3949,7 @@ UNICODE: qū # 軀
 UNICODE: qū # 驅
 UNICODE: qūn # 逡
 UNICODE: qǐ # 乞
-UNICODE: qǐ # 啟
+UNICODE: qǐ # 啓
 UNICODE: qǐ # 杞
 UNICODE: qǐ # 稽
 UNICODE: qǐ # 綺
@@ -3967,7 +3967,7 @@ UNICODE: ruì # 瑞
 UNICODE: ruì # 睿
 UNICODE: ruì # 芮
 UNICODE: ruì # 蚋
-UNICODE: ruì # 銳
+UNICODE: ruì # 鋭
 UNICODE: ruí # 蕤
 UNICODE: ruò # 偌
 UNICODE: ruò # 弱
@@ -4062,8 +4062,8 @@ UNICODE: shuài # 蟀
 UNICODE: shuàn # 涮
 UNICODE: shuì # 帨
 UNICODE: shuì # 睡
-UNICODE: shuì # 稅
-UNICODE: shuì # 說
+UNICODE: shuì # 税
+UNICODE: shuì # 説
 UNICODE: shuò # 妁
 UNICODE: shuò # 數
 UNICODE: shuò # 朔
@@ -4082,7 +4082,7 @@ UNICODE: shuāng # 孀
 UNICODE: shuāng # 瀧
 UNICODE: shuāng # 雙
 UNICODE: shuāng # 霜
-UNICODE: shuō # 說
+UNICODE: shuō # 説
 UNICODE: shuǎ # 耍
 UNICODE: shuǎi # 甩
 UNICODE: shuǎng # 爽
@@ -4266,7 +4266,7 @@ UNICODE: shē # 奢
 UNICODE: shē # 畬
 UNICODE: shē # 賒
 UNICODE: shēn # 伸
-UNICODE: shēn # 參
+UNICODE: shēn # 蔘
 UNICODE: shēn # 呻
 UNICODE: shēn # 娠
 UNICODE: shēn # 深
@@ -4300,7 +4300,7 @@ UNICODE: shī # 尸
 UNICODE: shī # 屍
 UNICODE: shī # 師
 UNICODE: shī # 施
-UNICODE: shī # 溼
+UNICODE: shī # 濕
 UNICODE: shī # 濕
 UNICODE: shī # 獅
 UNICODE: shī # 虱
@@ -4448,7 +4448,7 @@ UNICODE: sāi # 思
 UNICODE: sāi # 腮
 UNICODE: sāi # 鰓
 UNICODE: sān # 三
-UNICODE: sān # 參
+UNICODE: sān # 蔘
 UNICODE: sāng # 喪
 UNICODE: sāng # 桑
 UNICODE: sāo # 搔
@@ -4543,7 +4543,7 @@ UNICODE: tuàn # 彖
 UNICODE: tuán # 團
 UNICODE: tuán # 摶
 UNICODE: tuán # 糰
-UNICODE: tuì # 蛻
+UNICODE: tuì # 蜕
 UNICODE: tuì # 退
 UNICODE: tuí # 隤
 UNICODE: tuí # 頹
@@ -4564,7 +4564,7 @@ UNICODE: tuān # 湍
 UNICODE: tuī # 推
 UNICODE: tuō # 托
 UNICODE: tuō # 拖
-UNICODE: tuō # 脫
+UNICODE: tuō # 脱
 UNICODE: tuō # 託
 UNICODE: tuō # 魠
 UNICODE: tuǐ # 腿
@@ -4597,8 +4597,8 @@ UNICODE: tàng # 燙
 UNICODE: tàng # 趟
 UNICODE: tào # 套
 UNICODE: tái # 抬
-UNICODE: tái # 檯
-UNICODE: tái # 臺
+UNICODE: tái # 枱
+UNICODE: tái # 台
 UNICODE: tái # 苔
 UNICODE: tái # 跆
 UNICODE: tái # 邰
@@ -4806,7 +4806,7 @@ UNICODE: wèi # 畏
 UNICODE: wèi # 胃
 UNICODE: wèi # 蔚
 UNICODE: wèi # 蝟
-UNICODE: wèi # 衛
+UNICODE: wèi # 衞
 UNICODE: wèi # 謂
 UNICODE: wèi # 遺
 UNICODE: wèi # 餵
@@ -4847,7 +4847,7 @@ UNICODE: wò # 握
 UNICODE: wò # 斡
 UNICODE: wò # 沃
 UNICODE: wò # 渥
-UNICODE: wò # 臥
+UNICODE: wò # 卧
 UNICODE: wò # 齷
 UNICODE: wù # 兀
 UNICODE: wù # 務
@@ -4899,7 +4899,7 @@ UNICODE: wēi # 葳
 UNICODE: wēi # 逶
 UNICODE: wēi # 隈
 UNICODE: wēn # 塭
-UNICODE: wēn # 溫
+UNICODE: wēn # 温
 UNICODE: wēn # 瘟
 UNICODE: wēng # 嗡
 UNICODE: wēng # 翁
@@ -4930,7 +4930,7 @@ UNICODE: wū # 屋
 UNICODE: wū # 巫
 UNICODE: wū # 惡
 UNICODE: wū # 於
-UNICODE: wū # 汙
+UNICODE: wū # 污
 UNICODE: wū # 污
 UNICODE: wū # 烏
 UNICODE: wū # 誣
@@ -5025,7 +5025,7 @@ UNICODE: xiá # 黠
 UNICODE: xián # 咸
 UNICODE: xián # 啣
 UNICODE: xián # 嫌
-UNICODE: xián # 嫻
+UNICODE: xián # 嫺
 UNICODE: xián # 弦
 UNICODE: xián # 涎
 UNICODE: xián # 癇
@@ -5049,7 +5049,7 @@ UNICODE: xiè # 懈
 UNICODE: xiè # 械
 UNICODE: xiè # 榭
 UNICODE: xiè # 泄
-UNICODE: xiè # 洩
+UNICODE: xiè # 泄
 UNICODE: xiè # 渫
 UNICODE: xiè # 瀉
 UNICODE: xiè # 瀣
@@ -5246,7 +5246,7 @@ UNICODE: xù # 卹
 UNICODE: xù # 婿
 UNICODE: xù # 序
 UNICODE: xù # 恤
-UNICODE: xù # 敘
+UNICODE: xù # 敍
 UNICODE: xù # 旭
 UNICODE: xù # 洫
 UNICODE: xù # 畜
@@ -5401,15 +5401,15 @@ UNICODE: yuán # 轅
 UNICODE: yuán # 黿
 UNICODE: yuè # 岳
 UNICODE: yuè # 嶽
-UNICODE: yuè # 悅
+UNICODE: yuè # 悦
 UNICODE: yuè # 月
 UNICODE: yuè # 樂
 UNICODE: yuè # 籥
 UNICODE: yuè # 粵
-UNICODE: yuè # 說
+UNICODE: yuè # 説
 UNICODE: yuè # 越
 UNICODE: yuè # 躍
-UNICODE: yuè # 閱
+UNICODE: yuè # 閲
 UNICODE: yuè # 龠
 UNICODE: yuān # 冤
 UNICODE: yuān # 宛
@@ -5474,7 +5474,7 @@ UNICODE: yán # 沿
 UNICODE: yán # 炎
 UNICODE: yán # 研
 UNICODE: yán # 筵
-UNICODE: yán # 簷
+UNICODE: yán # 檐
 UNICODE: yán # 蜒
 UNICODE: yán # 言
 UNICODE: yán # 閻
@@ -5554,7 +5554,7 @@ UNICODE: yì # 曳
 UNICODE: yì # 殪
 UNICODE: yì # 毅
 UNICODE: yì # 泄
-UNICODE: yì # 洩
+UNICODE: yì # 泄
 UNICODE: yì # 浥
 UNICODE: yì # 溢
 UNICODE: yì # 熠
@@ -5715,12 +5715,12 @@ UNICODE: yù # 鬻
 UNICODE: yù # 鷸
 UNICODE: yùn # 孕
 UNICODE: yùn # 惲
-UNICODE: yùn # 慍
+UNICODE: yùn # 愠
 UNICODE: yùn # 暈
 UNICODE: yùn # 熨
-UNICODE: yùn # 蘊
+UNICODE: yùn # 藴
 UNICODE: yùn # 運
-UNICODE: yùn # 醞
+UNICODE: yùn # 醖
 UNICODE: yùn # 韞
 UNICODE: yùn # 韻
 UNICODE: yú # 予
@@ -5788,7 +5788,7 @@ UNICODE: yān # 焉
 UNICODE: yān # 煙
 UNICODE: yān # 燕
 UNICODE: yān # 胭
-UNICODE: yān # 菸
+UNICODE: yān # 煙
 UNICODE: yān # 鄢
 UNICODE: yān # 醃
 UNICODE: yān # 閹
@@ -5799,7 +5799,7 @@ UNICODE: yāng # 泱
 UNICODE: yāng # 秧
 UNICODE: yāng # 鞅
 UNICODE: yāng # 鴦
-UNICODE: yāo # 么
+UNICODE: yāo # 幺
 UNICODE: yāo # 吆
 UNICODE: yāo # 喲
 UNICODE: yāo # 夭
@@ -5870,7 +5870,7 @@ UNICODE: yū # 瘀
 UNICODE: yū # 紆
 UNICODE: yū # 迂
 UNICODE: yūn # 暈
-UNICODE: yūn # 氳
+UNICODE: yūn # 氲
 UNICODE: yǎ # 啞
 UNICODE: yǎ # 氬
 UNICODE: yǎ # 雅
@@ -5953,7 +5953,7 @@ UNICODE: yǔn # 允
 UNICODE: yǔn # 殞
 UNICODE: yǔn # 狁
 UNICODE: yǔn # 隕
-UNICODE: zhe # 著
+UNICODE: zhe # 着
 UNICODE: zhuài # 拽
 UNICODE: zhuàn # 傳
 UNICODE: zhuàn # 撰
@@ -5983,7 +5983,7 @@ UNICODE: zhuó # 濯
 UNICODE: zhuó # 灼
 UNICODE: zhuó # 琢
 UNICODE: zhuó # 茁
-UNICODE: zhuó # 著
+UNICODE: zhuó # 着
 UNICODE: zhuó # 酌
 UNICODE: zhuó # 鐲
 UNICODE: zhuā # 抓
@@ -6058,7 +6058,7 @@ UNICODE: zhá # 鍘
 UNICODE: zhá # 閘
 UNICODE: zhái # 宅
 UNICODE: zhái # 翟
-UNICODE: zháo # 著
+UNICODE: zháo # 着
 UNICODE: zhè # 浙
 UNICODE: zhè # 蔗
 UNICODE: zhè # 這
@@ -6167,7 +6167,7 @@ UNICODE: zhù # 祝
 UNICODE: zhù # 箸
 UNICODE: zhù # 粥
 UNICODE: zhù # 苧
-UNICODE: zhù # 著
+UNICODE: zhù # 着
 UNICODE: zhù # 蛀
 UNICODE: zhù # 註
 UNICODE: zhù # 鑄
@@ -6207,7 +6207,7 @@ UNICODE: zhāng # 蟑
 UNICODE: zhāo # 招
 UNICODE: zhāo # 昭
 UNICODE: zhāo # 朝
-UNICODE: zhāo # 著
+UNICODE: zhāo # 着
 UNICODE: zhāo # 釗
 UNICODE: zhē # 折
 UNICODE: zhē # 螫
@@ -6557,7 +6557,7 @@ UNICODE: è # 鄂
 UNICODE: è # 鍔
 UNICODE: è # 閼
 UNICODE: è # 阨
-UNICODE: è # 顎
+UNICODE: è # 齶
 UNICODE: è # 餓
 UNICODE: è # 鱷
 UNICODE: èi # 欸
@@ -6625,7 +6625,7 @@ UNICODE: ǎi # 矮
 UNICODE: ǎi # 藹
 UNICODE: ǎi # 靄
 UNICODE: ǎn # 俺
-UNICODE: ǎo # 媼
+UNICODE: ǎo # 媪
 UNICODE: ǎo # 拗
 UNICODE: ǎo # 襖
 UNICODE: ǒu # 偶
