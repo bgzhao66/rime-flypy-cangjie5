@@ -2,7 +2,7 @@
 # encoding: utf-8
 
 ---
-name: flypy_cangjie5_phrase
+name: flypy_cangjie5_tw_phrase
 version: "0.1"
 sort: by_weight
 ...

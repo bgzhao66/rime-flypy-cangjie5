@@ -2,7 +2,7 @@
 # encoding: utf-8
 
 schema:
-  schema_id: flypy_cangjie5
+  schema_id: flypy_cangjie5_tw
   name: 雙拼逆倉
   version: "1.0"
   author:
@@ -58,7 +58,7 @@ speller:
   #max_code_length: 5  # 五碼頂字上屏
 
 translator:
-  dictionary: flypy_cangjie5
+  dictionary: flypy_cangjie5_tw
   enable_charset_filter: true
   enable_sentence: true
   enable_encoder: true

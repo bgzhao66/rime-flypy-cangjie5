@@ -1,6 +1,6 @@
 export PYTHONHASHSEED=0
 
-PRIMARY_NAME = flypy_cangjie5
+PRIMARY_NAME = flypy_cangjie5_tw
 
 .SILENT:
 all:
