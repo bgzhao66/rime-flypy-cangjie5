@@ -325,35 +325,46 @@ def _insert_schema_into_yaml(text: str, ime_name: str) -> str:
     if m:
         base_indent = m.group(1)
         item_indent = base_indent + "  "
-        rest = text[m.end():]
-        lines = rest.split("\n")
+        lines = text[m.end():].splitlines(keepends=True)
 
         consumed = 0
         last_content_end = 0
-        for i, line in enumerate(lines):
-            has_newline = (i < len(lines) - 1)
-            step = len(line) + (1 if has_newline else 0)
-
-            if not line.strip():
-                consumed += step
+        for line in lines:
+            body = line.rstrip("\r\n")
+            if not body.strip():
+                consumed += len(line)
                 continue
 
-            stripped = line.lstrip()
-            line_indent = len(line) - len(stripped)
+            stripped = body.lstrip(" \t")
+            line_indent = len(body) - len(stripped)
             belongs = (
                 line_indent > len(base_indent)
                 and (stripped.startswith("-")
                      or line_indent > len(item_indent))
             )
-            if belongs:
-                consumed += step
-                last_content_end = consumed
-            else:
+            if not belongs:
                 break
+            consumed += len(line)
+            last_content_end = consumed
 
-        insert_pos = m.end() + last_content_end
+        if last_content_end:
+            # Insert right after the last list item. If the file ended
+            # without a newline, terminate that item first so the new entry
+            # starts on its own line.
+            insert_pos = m.end() + last_content_end
+            prefix = "" if text[insert_pos - 1] in "\r\n" else "\n"
+        else:
+            # Empty schema_list: insert after the header line itself.
+            newline_at = text.find("\n", m.end())
+            if newline_at == -1:
+                insert_pos = len(text)
+                prefix = "\n"
+            else:
+                insert_pos = newline_at + 1
+                prefix = ""
+
         new_line = f"{item_indent}{new_item_line}\n"
-        return text[:insert_pos] + new_line + text[insert_pos:]
+        return text[:insert_pos] + prefix + new_line + text[insert_pos:]
 
     m2 = re.search(r"^patch[ \t]*:[ \t]*$", text, re.MULTILINE)
     if m2:
