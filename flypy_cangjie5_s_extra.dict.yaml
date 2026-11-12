@@ -536,7 +536,6 @@ sort: by_weight
 爱肯	aikfbb	70
 爱酷	aikurb	80
 艾酷	aikurt	91
-爱困	aikyd	454
 艾蔻	aikze	389
 爱辣	ailalb	100
 爱拉	ailatb	384
@@ -1443,8 +1442,7 @@ sort: by_weight
 奥乔	aoqnl	53
 敖犬	aoqrk	844
 澳区	aoquke	84
-傲群	aoqy	63
-袄裙	aoqyr	45
+傲群	aoqyq	63
 奥日	aori	109
 奥瑞	aorv	741
 奥锐	aorvu	212
@@ -1807,7 +1805,6 @@ sort: by_weight
 巴市	bauibay	552
 靶室	bauigt	56
 巴实	bauika	162
-罢驶	bauikw	0
 爸是	bauioc	976
 八扇	baujmh	426
 岜山	baujuu	63
@@ -2589,7 +2586,6 @@ sort: by_weight
 薄头	bctzkt	265
 爆杀	bcuadf	105
 薄沙	bcuaht	41
-报梢	bcucb	0
 宝少	bcuch	37
 爆晒	bcudwf	133
 爆射	bcuei	10215
@@ -2893,7 +2889,6 @@ sort: by_weight
 白玻	bdboeh	276
 白博	bdboih	58
 掰不	bdbuf	277
-败部	bdbulb	374
 百补	bdbuym	46
 佰备	bdbww	148
 白操	bdccdh	39
@@ -3382,7 +3377,7 @@ sort: by_weight
 柏祥	bdxlqd	63
 摆向	bdxlrq	417
 白贤	bdxmo	243
-白藓	bdxmqh	0
+白藓	bdxmqht	0
 柏霄	bdxnbd	63
 柏小	bdxncd	244
 白孝	bdxndh	78
@@ -3434,7 +3429,6 @@ sort: by_weight
 白圆	bdyroh	53
 白永	bdyse	339
 白勇	bdyss	525
-拜阅	bdytuhl	0
 拜岳	bdytuho	323
 百悦	bdytum	288
 百阅	bdytuml	50
@@ -3555,9 +3549,8 @@ sort: by_weight
 笨珍	bfvfh	68
 本震	bfvfv	173
 本征	bfvgm	912
-本长	bfvho	1868
-本帐	bfvhod	110
-贲张	bfvhoj	824
+本长	bfvhod	1868
+本帐	bfvhodl	110
 本智	bfviado	132
 本值	bfvimd	115
 本庄	bfvl	80
@@ -3642,7 +3635,6 @@ sort: by_weight
 帮的	bhdeiq	3434
 绑的	bhdeiv	75
 绑得	bhdeivh	33
-梆笛	bhdiwd	0
 帮定	bhdkoqj	91
 棒点	bhdmf	68
 帮多	bhdo	363
@@ -4256,7 +4248,6 @@ sort: by_weight
 拌粉	bjffhq	100
 半疯	bjfgkf	145
 瘢风	bjfgkk	0
-搬风	bjfgkq	0
 半放	bjfhk	335
 版房	bjfhsl	265
 班方	bjfhsm	89
@@ -5411,7 +5402,6 @@ sort: by_weight
 伯建	bojmqo	123
 波焦	bojnf	43
 博杰	bojpfj	3083
-砵酒	bojqw	0
 播剧	bojun	2804
 博聚	bojuo	109
 博佳	bojxg	38
@@ -5578,7 +5568,7 @@ sort: by_weight
 博视	bouiuji	48
 博帅	boukb	50
 波叔	bouuee	1003
-卜树	bouui	131
+卜树	bouuiy	131
 博顺	bouy	42
 拨手	bouzqq	0
 博者	boveaj	48
@@ -6397,7 +6387,6 @@ sort: by_weight
 北带	bwddblt	152
 被戴	bwddc	4591
 北戴	bwddcl	325
-被逮	bwddel	2862
 北代	bwddpl	208
 贝得	bwdeib	144
 杯的	bwdeid	680
@@ -6469,10 +6458,9 @@ sort: by_weight
 北光	bwglu	322
 杯锅	bwgobd	0
 杯果	bwgodd	324
-被官	bwgrrl	4977
-北管	bwgrrlh	154
-被管	bwgrrlha	18
-北官	bwgrrlj	52
+被管	bwgrrlh	18
+被官	bwgrrlj	4977
+北官	bwgrrlja	52
 北工	bwgsmlm	1122
 北贡	bwgso	82
 北菇	bwgurlt	132
@@ -6867,7 +6855,6 @@ sort: by_weight
 北宣	bwxrm	165
 北雄	bwxsgl	139
 北雪	bwxtm	177
-备询	bwxya	771
 被训	bwxyl	1605
 北巡	bwxyv	89
 北雅	bwyagl	125
@@ -9914,7 +9901,6 @@ sort: by_weight
 大靖	dajkb	241
 大静	dajkdk	42
 大景	dajkfk	2276
-搭景	dajkfq	0
 达景	dajkfy	330
 大靓	dajkukq	419
 打竞	dajkuq	0
@@ -11780,7 +11766,6 @@ sort: by_weight
 邓康	dgkh	49
 登康	dgkhe	42
 邓侃	dgkju	63
-灯控	dgksmf	439
 邓昆	dgkyp	93
 灯口	dgkzr	18
 等啦	dgla	74
@@ -11804,8 +11789,8 @@ sort: by_weight
 灯亮	dgllu	2326
 邓亮	dgllue	450
 邓柳	dglql	56
-邓路	dglure	141
 邓璐	dglurem	137
+邓路	dglurer	141
 等路	dglurh	5539
 邓律	dglv	120
 邓率	dglvj	42
@@ -12186,7 +12171,6 @@ sort: by_weight
 党乡	dhxlh	48
 当响	dhxlr	48
 当孝	dhxnd	60
-挡修	dhxqh	128
 党选	dhxru	557
 当夏	dhxxe	848
 裆下	dhxxyl	786
@@ -12214,7 +12198,6 @@ sort: by_weight
 迪埃	diaik	206
 迪艾	diaiky	55
 帝艾	diaikyt	55
-底案	diandij	0
 笛安	dianvh	207
 帝安	dianvyj	136
 底奥	diaoki	86
@@ -12439,10 +12422,8 @@ sort: by_weight
 低金	dijbco	5347
 翟金	dijbcs	44
 底筋	dijbsih	145
-帝进	dijbt	172
-低进	dijbto	0
 翟进	dijbts	51
-涤尽	dijby	420
+帝进	dijbty	172
 底迹	dijiciy	295
 底基	dijigi	2267
 翟静	dijkds	38
@@ -12568,7 +12549,6 @@ sort: by_weight
 地灭	dimpf	81
 迪姆	dimuiyv	289
 地牧	dimuk	103
-地目	dimuug	897
 地美	dimwkg	1002
 迪美	dimwky	168
 翟嵋	dimwus	114
@@ -12716,7 +12696,6 @@ sort: by_weight
 地树	diuui	355
 地输	diuung	2503
 翟水	diuves	61
-抵税	diuvuq	2200
 地顺	diuyo	1822
 帝舜	diuyq	217
 低者	diveao	3333
@@ -12820,7 +12799,6 @@ sort: by_weight
 翟耀	diycg	86
 帝尧	diycuy	186
 弟也	diyed	328
-滴液	diyeke	0
 底液	diyeki	1365
 迪扬	diyhh	62
 翟逸	diyiis	5341
@@ -14135,7 +14113,6 @@ sort: by_weight
 点招	dmvcry	3159
 点遮	dmvef	49
 钿筝	dmvgd	0
-店章	dmvhji	0
 电张	dmvhol	94
 点智	dmviay	618
 点支	dmviey	15225
@@ -14148,7 +14125,6 @@ sort: by_weight
 滇中	dmvsle	2545
 电帚	dmvzbl	0
 电王	dmwhgl	362
-电碗	dmwjul	0
 店我	dmwoii	206
 点五	dmwumy	29
 滇味	dmwwd	230
@@ -14236,7 +14212,6 @@ sort: by_weight
 刁军	dnjyq	79
 调考	dnkcs	267
 掉开	dnkdt	190
-调课	dnkedi	0
 调客	dnkeri	173
 掉坑	dnkg	179
 调坎	dnkjo	0
@@ -14303,7 +14278,6 @@ sort: by_weight
 雕制	dnvin	166
 刁志	dnvips	212
 吊重	dnvsg	96
-调驻	dnvugi	0
 吊住	dnvugr	34
 叼住	dnvugro	31
 雕纹	dnwfkb	452
@@ -14523,7 +14497,6 @@ sort: by_weight
 夺休	doxq	0
 多血	doxtt	252
 剁下	doxxyhm	11
-堕崖	doyag	0
 夺银	doybv	1689
 多液	doyek	86
 多耶	doyel	158
@@ -14549,7 +14522,6 @@ sort: by_weight
 掇坐	dozogq	0
 碟啊	dpaa	37
 蝶彩	dpcdh	11214
-叠词	dpcir	110
 碟到	dpdcnm	45
 叠代	dpddpe	57
 爹的	dpdeic	1570
@@ -14591,7 +14563,6 @@ sort: by_weight
 叠涩	dpse	37
 叠伞	dpsj	92
 跌速	dpsul	1507
-碟煞	dpuaf	0
 碟刹	dpuan	635
 跌声	dpughr	1186
 嗲声	dpughrg	159
@@ -14613,7 +14584,6 @@ sort: by_weight
 蝶妖	dpyck	47
 碟要	dpycv	67
 蝶翼	dpyic	803
-叠映	dpykk	0
 叠院	dpyru	264
 蝶鱼	dpyuml	74
 碟鱼	dpyumm	54
@@ -14793,7 +14763,6 @@ sort: by_weight
 段柳	drlqlh	49
 段龙	drlsp	352
 段磊	drlw	209
-短漏	drlzbo	0
 短马	drmam	63
 短码	drmamo	50
 段敏	drmbk	212
@@ -14981,8 +14950,7 @@ sort: by_weight
 东奔	dsbft	151
 董浜	dsbhct	82
 董必	dsbiht	42
-东比	dsbip	314
-冻毙	dsbipi	0
+东比	dsbipk	314
 东碧	dsbir	52
 董办	dsbjct	850
 动板	dsbjem	436
@@ -16198,7 +16166,6 @@ sort: by_weight
 杜总	duzsp	350
 杜祖	duzu	38
 嘟嘴	duzvb	9242
-度晬	duzvji	0
 对奥	dvao	23425
 对辩	dvbmj	659
 堆边	dvbms	59
@@ -16422,7 +16389,6 @@ sort: by_weight
 对浴	dvyure	91
 对雨	dvyuy	1107
 对韵	dvyym	66
-对造	dvzc	0
 对则	dvzen	157
 堆子	dvzidg	0
 堆资	dvzio	294
@@ -16434,7 +16400,6 @@ sort: by_weight
 盾兵	dybkch	136
 囤兵	dybkcw	144
 蹲便	dybmk	134
-炖补	dybuy	0
 囤菜	dycdd	18
 遯辞	dycijy	0
 顿村	dycyi	192
@@ -16457,7 +16422,6 @@ sort: by_weight
 趸儿	dyeru	0
 蹲防	dyfhsr	17
 囤房	dyfhsw	2020
-蹲俯	dyfui	0
 敦夫	dyfuoyq	72
 钝感	dygjp	318
 炖好	dyhcdf	56
@@ -16490,7 +16454,6 @@ sort: by_weight
 囤塌	dytamw	0
 顿特	dyte	82
 蹲跳	dytn	200
-钝头	dytzko	150
 墩上	dyuhmg	594
 钝伤	dyuhs	51
 蹲式	dyuimr	800
@@ -16914,7 +16877,6 @@ sort: by_weight
 恶烷	eewjum	52
 鄂皖	eewjur	164
 饿醒	eexkmn	160
-恶讯	eexy	430
 俄亚	eeyac	139
 扼压	eeyai	319
 恶曜	eeycg	282
@@ -17958,7 +17920,6 @@ sort: by_weight
 风草	fgccjht	0
 封层	fgcg	202
 讽词	fgciri	0
-奉厝	fgcoa	0
 峰丛	fgcsm	238
 奉从	fgcso	0
 丰悴	fgcvj	66
@@ -19403,7 +19364,7 @@ sort: by_weight
 方舞	fhwuq	128
 房务	fhwush	102
 房务	fhwusi	102
-方无	fhwuu	2648
+方无	fhwuuy	2648
 方未	fhwwd	3581
 房维	fhwwghv	124
 房维	fhwwgiv	124
@@ -19464,8 +19425,6 @@ sort: by_weight
 方仙	fhxmuyo	41
 访销	fhxnbi	0
 防效	fhxnkn	167
-仿傚	fhxnko	0
-倣效	fhxnkoy	0
 方啸	fhxnl	41
 房晓	fhxnuh	97
 房晓	fhxnui	97
@@ -20909,7 +20868,6 @@ sort: by_weight
 福天	futmkim	280
 府天	futmkima	92
 付天	futmkom	532
-附添	futmpn	0
 佛驮	futoko	0
 浮托	futope	311
 扶托	futopq	54
@@ -22076,7 +22034,6 @@ sort: by_weight
 高婷	gctknyv	306
 高甜	gctmm	96
 高添	gctmp	108
-高䠷	gctno	0
 高拓	gctor	349
 糕团	gctr	296
 高彤	gctsh	116
@@ -22618,7 +22575,6 @@ sort: by_weight
 葛杰	gejpft	59
 个节	gejplo	12312
 哥姐	gejpm	708
-革旧	gejqa	0
 哥就	gejqum	1552
 个觉	gejtuo	242
 葛佳	gejxg	118
@@ -22700,7 +22656,6 @@ sort: by_weight
 葛磊	gelwr	1323
 格蕾	gelwwd	327
 各楼	gelzvh	2270
-鸽楼	gelzvo	0
 戈玛	gemami	100
 葛敏	gemb	182
 葛民	gembp	64
@@ -23184,7 +23139,7 @@ sort: by_weight
 更萌	ggmgb	29
 耿梦	ggmgi	0
 更猛	ggmgt	254
-梗米	ggmid	185
+梗米	ggmidd	185
 耿明	ggmkb	84
 耿某	ggmz	2906
 耿楠	ggnjj	54
@@ -23226,7 +23181,6 @@ sort: by_weight
 更窄	ggvd	179
 耿志	ggvip	380
 更钟	ggvslm	288
-鲠住	ggvugn	0
 耿文	ggwfk	124
 更旺	ggwhgm	2807
 耕王	ggwhgq	157
@@ -23378,7 +23332,6 @@ sort: by_weight
 港漂	ghpnf	593
 刚破	ghpoe	983
 岗坡	ghpoeu	110
-钢胚	ghpw	0
 钢企	ghqim	42851
 港企	ghqime	3512
 刚起	ghqiub	38
@@ -23605,7 +23558,6 @@ sort: by_weight
 甘兰	gjljmt	67
 甘岭	gjlkit	841
 甘玲	gjlkitm	79
-甘凉	gjllft	1144
 干量	gjllg	312
 敢裸	gjlodm	61
 敢裸	gjlodn	61
@@ -23727,7 +23679,6 @@ sort: by_weight
 甘陕	gjujt	58
 感舒	gjuuni	1156
 甘舒	gjuunt	49
-淦水	gjuvee	0
 赶水	gjuveg	414
 干水	gjuvem	2839
 感顺	gjuyo	60
@@ -23782,8 +23733,7 @@ sort: by_weight
 干雄	gjxs	52
 肝虚	gjxuc	0
 干下	gjxxymm	737
-干训	gjxyl	92
-感训	gjxyli	0
+干训	gjxylm	92
 甘亚	gjyact	73
 干呀	gjyah	39
 赶鸭	gjyam	143
@@ -25290,7 +25240,6 @@ sort: by_weight
 观湖	grhub	1282
 官湖	grhubj	103
 关湖	grhubt	136
-观护	grhuse	291
 管户	grhush	416
 莞惠	grhvp	531
 关惠	grhvpt	75
@@ -25943,7 +25892,6 @@ sort: by_weight
 宫或	gshom	44
 公胡	gshub	60
 贡湖	gshubm	40
-公忽	gshup	0
 宫会	gshvij	356
 工慧	gshvp	1119
 宫惠	gshvpj	37
@@ -26574,7 +26522,6 @@ sort: by_weight
 鼓翮	guhemg	0
 股和	guherb	26702
 谷合	guherco	90
-沽河	guheree	242
 谷衡	guhgn	50
 顾航	guhhnmh	50
 顾汉	guhjem	39
@@ -27206,8 +27153,7 @@ sort: by_weight
 顾友	guyzem	43
 谷幽	guyzic	131
 古优	guyzuj	38
-呱噪	guzcd	98
-鼓藻	guzcdg	0
+鼓藻	guzcd	0
 古皂	guzcp	83
 古仔	guzdd	2629
 菇仔	guzddt	154
@@ -27284,7 +27230,6 @@ sort: by_weight
 归号	gvhcslr	0
 圭和	gvherg	61
 归和	gvherlh	239
-妫河	gvherv	134
 桂宏	gvhsi	129
 桂红	gvhsmd	116
 鬼狐	gvhuo	90
@@ -27622,17 +27567,16 @@ sort: by_weight
 挂证	gxvg	237
 挂纸	gxvip	57
 罫纸	gxvipw	0
-寡占	gxvjr	364
 挂桩	gxvlg	0
 挂柱	gxvugq	0
-瓜形	gxxk	58
+瓜形	gxxkh	58
 剐刑	gxxkn	41
 瓜香	gxxla	58
 刮雪	gxxtm	253
 瓜亚	gxya	61
 瓜月	gxytbh	0
 寡语	gxyur	162
-聒躁	gxzcd	0
+聒躁	gxzcds	0
 聒子	gxzids	0
 滚啊	gyaa	41
 滚鞍	gyanv	0
@@ -27974,7 +27918,6 @@ sort: by_weight
 好补	hcbuy	504
 好呗	hcbwo	31
 好财	hccdhv	0
-号次	hccio	0
 好脆	hccvu	93
 郝村	hccy	39
 浩达	hcdake	240
@@ -28953,7 +28896,6 @@ sort: by_weight
 何北	hebwp	304
 鹤北	hebwpo	134
 贺蓓	hebwrk	37
-核备	hebww	347
 何备	hebwwo	99
 和曹	heccah	8993
 合踩	hecddor	151
@@ -28962,7 +28904,6 @@ sort: by_weight
 合参	hecjh	594
 喝参	hecjhr	310
 何灿	hecju	94
-盒餐	hecjv	0
 何错	hecoaoo	107
 贺聪	hecsp	651
 何聪	hecspo	230
@@ -29487,7 +29428,6 @@ sort: by_weight
 何内	henwbo	308
 何频	hepbo	250
 河牌	hepdje	37
-核派	hepdvd	0
 何派	hepdvo	53
 合排	hepdyo	192
 和朋	hepgb	50197
@@ -30424,7 +30364,6 @@ sort: by_weight
 航区	hhquk	856
 杭瑞	hhrv	261
 杭苏	hhsuc	225
-航太	hhtd	988
 航体	hhtim	506
 杭天	hhtmkd	418
 航通	hhtsb	7330
@@ -31903,7 +31842,6 @@ sort: by_weight
 火枫	hofgk	162
 货方	hofhsoy	906
 火伕	hofuofo	0
-伙伕	hofuoo	0
 或否	hofz	2899
 获高	hogcrt	4574
 货改	hogdko	895
@@ -31934,7 +31872,6 @@ sort: by_weight
 活衬	hoifi	0
 活成	hoigse	1018
 活虫	hoisie	750
-活储	hoiua	0
 货出	hoiuuo	536
 霍春	hoiya	50
 霍津	hojbq	45
@@ -35187,7 +35124,6 @@ sort: by_weight
 花藤	hxtge	54
 化腾	hxtgm	3907
 花汤	hxthh	148
-画糖	hxthrm	0
 华唐	hxthro	230
 华糖	hxthrof	97
 化糖	hxthrofa	80
@@ -36106,7 +36042,6 @@ sort: by_weight
 侯元	hzyruo	148
 吼猿	hzyrvr	0
 侯永	hzyseo	396
-候用	hzysqo	0
 侯月	hzytbo	158
 后跃	hzytk	238
 侯悦	hzytu	146
@@ -36360,7 +36295,6 @@ sort: by_weight
 查威	iawwvd	40
 茶溪	iaxik	102
 查悉	iaxipd	208
-茶行	iaxkn	944
 差向	iaxlrt	52
 插线	iaxmj	372
 岔线	iaxmjc	49
@@ -36421,7 +36355,6 @@ sort: by_weight
 超变	icbme	46
 超博	icboi	81
 超杯	icbwf	544
-吵嘈	iccca	0
 超层	iccg	484
 潮词	iccir	72
 鼌错	iccoaa	0
@@ -36432,7 +36365,6 @@ sort: by_weight
 抄到	icdcnq	829
 嘲道	icdcur	425
 超带	icddbg	662
-超贷	icddo	0
 钞袋	icddvo	0
 炒的	icdeif	13369
 朝党	icdhuj	93
@@ -36601,7 +36533,6 @@ sort: by_weight
 超浅	icqmjg	44
 朝侨	icqnl	140
 勦窃	icqphv	0
-抄球	icqqe	116
 超全	icqrg	3896
 抄去	icqui	66
 炒区	icquk	41
@@ -37242,7 +37173,6 @@ sort: by_weight
 辰华	ifhxjm	39
 陈骅	ifhxjnn	36
 陈花	ifhxpn	165
-沉厚	ifhzde	191
 陈后	ifhzr	131
 陈朝	ificbn	786
 琛琛	ififdm	88
@@ -37969,7 +37899,7 @@ sort: by_weight
 诚丰	igfgjiq	346
 成峰	igfgjiu	123
 程风	igfgkhh	172
-程放	igfhk	150
+程放	igfhkh	150
 惩防	igfhshn	2338
 程芳	igfhsht	261
 成芳	igfhsit	281
@@ -38544,7 +38474,7 @@ sort: by_weight
 城欣	igxbog	118
 橙心	igxbpd	21
 城心	igxbpg	231
-程心	igxbphp	1193
+程心	igxbphpa	1193
 成芯	igxbpit	188
 成信	igxbri	1231
 成希	igxibi	869
@@ -39251,7 +39181,6 @@ sort: by_weight
 常坐	ihzog	1248
 唱作	ihzosr	2800
 吃啊	iiaa	1377
-炽爱	iiaief	48
 持螯	iiaoi	0
 持宝	iibciq	182
 池本	iibfme	43
@@ -39320,7 +39249,6 @@ sort: by_weight
 吃虎	iihunr	36
 吃虎	iihuur	36
 池会	iihvie	95
-饬回	iihvrn	339
 持汇	iihvsq	2166
 吃花	iihxpr	36
 赤魂	iihyig	65
@@ -39673,7 +39601,6 @@ sort: by_weight
 床楞	illgsi	0
 窗里	illig	683
 创力	illiso	2264
-窗櫺	illkr	580
 闯炼	illmcl	251
 闯炼	illmdl	251
 床模	ilmoki	650
@@ -39842,7 +39769,6 @@ sort: by_weight
 传里	irligo	322
 传利	irlin	465
 传立	irlito	156
-椽梁	irlldd	264
 传量	irllg	103
 传亮	irlln	148
 传亮	irllu	148
@@ -39857,11 +39783,9 @@ sort: by_weight
 传雷	irlww	69
 船楼	irlzv	0
 川民	irmbpl	177
-船锚	irmc	499
 传明	irmkb	592
 川名	irmkrl	101
-船木	irmu	281
-椽木	irmud	0
+船木	irmud	281
 川煤	irmwdl	251
 川美	irmwkl	1898
 川眉	irmwul	561
@@ -39885,7 +39809,7 @@ sort: by_weight
 川前	irqmn	178
 川桥	irqnll	106
 传切	irqp	1430
-川穹	irqs	99
+川穹	irqsn	99
 穿裙	irqy	1334
 船入	irruhh	359
 穿素	irsuf	0
@@ -40548,7 +40472,6 @@ sort: by_weight
 锤兵	ivbkc	44
 吹不	ivbu	29
 吹大	ivdak	3154
-搥打	ivdanqq	0
 捶地	ivdid	437
 吹点	ivdmf	61
 吹断	ivdrl	652
@@ -40587,7 +40510,6 @@ sort: by_weight
 吹扫	ivsc	408
 捶死	ivsip	120
 吹他	ivtad	153
-吹糖	ivthrr	0
 吹填	ivtmc	321
 吹田	ivtmwr	116
 槌头	ivtzkd	63
@@ -42138,7 +42060,6 @@ sort: by_weight
 急打	jidann	859
 即答	jidara	308
 几刀	jidchh	535
-祭祷	jidcib	0
 激到	jidcne	284
 及到	jidcnn	8165
 急到	jidcnnm	392
@@ -42906,8 +42827,6 @@ sort: by_weight
 姬斯	jisilv	146
 既死	jisipam	81
 季思	jisiphw	336
-亟思	jisipm	0
-亟思	jisipn	0
 继思	jisipv	53
 籍司	jisirhs	260
 冀三	jisjml	197
@@ -44004,7 +43923,6 @@ sort: by_weight
 净税	jkuvui	53
 景顺	jkuyoa	10585
 京顺	jkuyoy	1380
-警兆	jkvcot	0
 净宅	jkvdp	0
 京浙	jkvely	189
 井镇	jkvfct	90
@@ -45415,7 +45333,6 @@ sort: by_weight
 建处	jmiuyn	156
 减筹	jmizii	79
 间抽	jmizw	211
-捡金	jmjbcqc	0
 渐紧	jmjbfe	306
 贱籍	jmjiab	27
 见及	jmjiebn	349
@@ -45438,7 +45355,6 @@ sort: by_weight
 建警	jmjkrn	100
 菅井	jmjktt	94
 剑将	jmjlio	103
-湔江	jmjlmeea	134
 简江	jmjlmh	216
 建疆	jmjlmnn	428
 剑江	jmjlmo	224
@@ -45718,7 +45634,6 @@ sort: by_weight
 减煠	jmvad	0
 建闸	jmval	93
 建渣	jmvamn	427
-建照	jmvcfn	0
 尖爪	jmvcof	53
 渐窄	jmvdse	130
 剑者	jmveao	49
@@ -45904,7 +45819,6 @@ sort: by_weight
 角吧	jnbaun	49
 焦斌	jnbbm	59
 叫白	jnbdar	548
-交棒	jnbhqy	2465
 角边	jnbmsn	186
 脚标	jnbnfb	122
 角表	jnbnv	132
@@ -46812,7 +46726,6 @@ sort: by_weight
 结项	jpxlovm	62
 姐相	jpxlu	147
 戒相	jpxlui	0
-解县	jpxmin	0
 接舷	jpxmiq	42
 解先	jpxmun	41
 捷先	jpxmuq	272
@@ -47168,7 +47081,6 @@ sort: by_weight
 究细	jqxiwj	104
 旧西	jqxiwl	118
 九兴	jqxkck	210
-旧型	jqxkg	1299
 九型	jqxkgk	192
 旧性	jqxkmlp	0
 就醒	jqxkmy	36
@@ -47213,11 +47125,9 @@ sort: by_weight
 救子	jqzidi	1647
 久子	jqzidn	674
 酒渍	jqzioee	79
-救总	jqzspi	0
 九组	jqzumk	479
 玖尊	jqzyim	74
 就揍	jqzzky	224
-眷保	jrbcd	0
 绢裱	jrbnv	0
 捐册	jrcem	0
 卷到	jrdcn	517
@@ -47325,8 +47235,6 @@ sort: by_weight
 觉天	jttmk	132
 撅臀	jttyb	793
 觉神	jtufl	177
-掘拾	jtuirqq	0
-攫食	jtuivq	0
 橛竖	jtuutd	0
 觉受	jtuze	264
 觉照	jtvcf	47
@@ -47492,7 +47400,6 @@ sort: by_weight
 鞠瑾	jujbm	92
 居今	jujbns	253
 居觐	jujbus	37
-跼蹐	jujibr	0
 巨基	jujigs	244
 巨济	jujils	89
 举肌	jujinf	43
@@ -47609,7 +47516,6 @@ sort: by_weight
 巨胖	juphq	140
 距平	jupkjr	393
 巨瀑	jupue	38
-锯琴	juqbn	456
 据其	juqicq	96
 俱起	juqiuo	0
 拒请	juqkbqi	64
@@ -47674,7 +47580,6 @@ sort: by_weight
 莒山	juujut	290
 巨帅	juukbs	90
 巨爽	juulk	40
-巨硕	juuoo	42
 剧说	juuous	173
 聚束	juuuls	74
 巨鼠	juuuv	567
@@ -48102,7 +48007,7 @@ sort: by_weight
 架机	jxjinkd	1875
 加几	jxjinkh	2075
 加剂	jxjinky	1241
-加吉	jxjirk	396
+加吉	jxjirkg	396
 贾吉	jxjirm	112
 佳记	jxjiuo	84
 贾晶	jxjka	190
@@ -49511,7 +49416,6 @@ sort: by_weight
 凯硕	kduoo	341
 开栓	kdurg	941
 开树	kduui	46
-开数	kduuk	0
 铠鼠	kduuv	41
 开刷	kdux	190
 开顺	kduy	224
@@ -49599,7 +49503,6 @@ sort: by_weight
 科宾	kebbch	273
 柯斌	kebbm	59
 壳薄	kebcig	121
-苛薄	kebcit	0
 可白	kebdam	10
 克比	kebipj	402
 壳板	kebjeg	86
@@ -50574,7 +50477,6 @@ sort: by_weight
 堪怜	kjlmi	134
 看刘	kjlq	953
 看略	kjlt	166
-堪虑	kjlvp	0
 看嘛	kjmac	80
 看嘛	kjmad	80
 刊目	kjmuu	46
@@ -50669,7 +50571,7 @@ sort: by_weight
 快红	kkhs	48
 快汇	kkhvs	283
 块化	kkhxp	2847
-快拆	kkid	511
+快拆	kkidy	511
 快肠	kkihh	50
 快充	kkisu	10574
 块间	kkjma	289
@@ -51377,7 +51279,6 @@ sort: by_weight
 库赫	kuhec	70
 裤和	kuherl	722
 酷航	kuhhn	569
-苦旱	kuhjjt	0
 酷黑	kuhwf	1538
 苦橙	kuigt	212
 苦禅	kuijjt	92
@@ -51708,7 +51609,6 @@ sort: by_weight
 口甲	kzjxl	109
 寇军	kzjy	120
 寇俊	kzjye	48
-扣考	kzkc	0
 扣开	kzkdt	432
 口宽	kzkru	134
 抠抠	kzkzk	363
@@ -51873,7 +51773,6 @@ sort: by_weight
 拉蓬	lapgj	204
 拉盘	lapjtq	543
 蜡铺	lapubl	192
-拉胚	lapwm	0
 拉配	lapwu	113
 拉亲	laqbd	0
 辣气	laqiny	0
@@ -51995,7 +51894,6 @@ sort: by_weight
 林鼎	lbdkld	59
 林鼎	lbdknd	59
 林定	lbdkod	126
-遴定	lbdkoy	0
 林店	lbdmrd	156
 林铎	lbdoq	263
 林端	lbdrb	152
@@ -52684,8 +52582,8 @@ sort: by_weight
 老机	lcjinj	43
 老纪	lcjiujv	1330
 老建	lcjmqj	157
-老叫	lcjnl	11
-老脚	lcjnlj	0
+老叫	lcjnlj	11
+老脚	lcjnljb	0
 老杰	lcjpfj	59
 劳佳	lcjxgt	200
 老贾	lcjxoj	1188
@@ -53510,7 +53408,6 @@ sort: by_weight
 冷电	lgdmu	164
 冷端	lgdrb	64
 冷东	lgdsdi	40
-冷度	lgdu	124
 冷堆	lgdvg	532
 冷吨	lgdyu	165
 愣儿	lgerup	0
@@ -53797,7 +53694,6 @@ sort: by_weight
 朗下	lhxxy	226
 郎下	lhxxyi	102
 琅玡	lhyahm	404
-瑯琊	lhyalmm	0
 狼妖	lhyck	168
 郎窑	lhycu	0
 郎杨	lhyh	49
@@ -54353,7 +54249,6 @@ sort: by_weight
 粒剂	lijinf	185
 利机	lijinh	1493
 利几	lijinhh	75
-里肌	lijinw	313
 离机	lijiny	1541
 里急	lijipw	288
 李寄	lijird	39
@@ -56243,7 +56138,6 @@ sort: by_weight
 蓝釉	ljyzwt	61
 兰藻	ljzcd	0
 烂在	ljzdgf	2566
-滥葬	ljzht	0
 岚子	ljzidu	136
 兰紫	ljzift	70
 兰姿	ljziv	188
@@ -56418,7 +56312,6 @@ sort: by_weight
 绫濑	lkldov	310
 灵来	lkldt	218
 灵乐	lkled	76
-聆乐	lkleds	0
 凌丽	lklib	49
 陵里	lklignw	74
 令里	lkligow	411
@@ -56484,7 +56377,6 @@ sort: by_weight
 凌群	lkqyq	42
 灵刃	lkrfi	489
 令仁	lkrfm	41
-凌日	lkriai	234
 凌然	lkrjf	570
 凌如	lkrur	41
 凌瑞	lkrvb	80
@@ -56499,7 +56391,6 @@ sort: by_weight
 领他	lktado	1191
 凌涛	lktcii	1623
 领太	lktdio	110
-领台	lktdro	321
 凌特	lktei	1134
 岭特	lkteiu	39
 菱塘	lkthr	80
@@ -57787,7 +57678,7 @@ sort: by_weight
 连走	lmzzo	21
 料啊	lnaa	101
 廖爱	lnai	49
-廖安	lnan	105
+廖安	lnanv	105
 廖斌	lnbb	1131
 廖彬	lnbbh	127
 廖兵	lnbkci	49
@@ -58288,7 +58179,6 @@ sort: by_weight
 落料	lolnj	271
 倮倮	lolod	444
 摞摞	lolofq	158
-㑩㑩	lolono	0
 骆骆	lolorn	327
 罗鲁	lolua	39
 罗路	lolurw	208
@@ -58448,7 +58338,6 @@ sort: by_weight
 罗数	louuk	89
 罗舒	louun	350
 罗书	louusw	1011
-漯水	louveee	0
 罗顺	louy	140
 罗寿	louziw	54
 落闸	loval	114
@@ -58662,7 +58551,6 @@ sort: by_weight
 列板	lpbjem	74
 劣憋	lpbpp	0
 猎才	lpcdh	76
-列册	lpce	0
 裂带	lpddb	77
 劣的	lpdeif	2120
 猎的	lpdeik	451
@@ -58723,7 +58611,6 @@ sort: by_weight
 猎鲨	lpuam	163
 猎神	lpufl	2460
 列式	lpuimmi	443
-冽霜	lpul	0
 猎鼠	lpuuv	62
 列收	lpuzk	251
 烈震	lpvfvm	91
@@ -58743,7 +58630,6 @@ sort: by_weight
 猎熊	lpxsf	270
 猎鸭	lpyam	65
 劣药	lpyci	1556
-烈燄	lpyjfm	0
 裂岩	lpyjr	80
 猎影	lpykh	76
 列屿	lpyummu	1597
@@ -58914,7 +58800,6 @@ sort: by_weight
 留罐	lqgrgh	91
 刘冠	lqgri	754
 刘关	lqgrky	2025
-流贯	lqgroe	0
 刘官	lqgrryj	170
 留观	lqgruh	1135
 刘观	lqgruy	91
@@ -59764,7 +59649,6 @@ sort: by_weight
 乱办	lrbj	583
 栾波	lrbo	77
 栾大	lrdak	99
-乱刀	lrdchh	748
 卵带	lrddbh	178
 乱点	lrdmf	1174
 乱炖	lrdyu	1597
@@ -59772,7 +59656,6 @@ sort: by_weight
 栾凤	lrfge	117
 栾峰	lrfgjy	262
 乱翻	lrfj	682
-乱盖	lrgdth	273
 乱给	lrgw	28
 乱华	lrhxjh	11
 卵化	lrhxph	81
@@ -60850,7 +60733,6 @@ sort: by_weight
 陆频	lupbo	49
 陆品	lupbr	108
 卢品	lupbry	56
-路跑	lupcu	6727
 鲁派	lupdv	140
 陆派	lupdvn	132
 鲁蓬	lupgj	945
@@ -61064,7 +60946,6 @@ sort: by_weight
 陆叔	luuue	45
 卢叔	luuuey	39
 陆树	luuuin	40
-路树	luuuir	395
 陆纾	luuunn	52
 陆书	luuusn	303
 路书	luuusr	1545
@@ -61187,7 +61068,6 @@ sort: by_weight
 卢新	luxbly	345
 陆欣	luxbon	762
 路欣	luxbor	36
-炉心	luxbpf	79
 鲁信	luxbrn	1703
 陆信	luxbrno	103
 露希	luxibmk	82
@@ -61722,7 +61602,6 @@ sort: by_weight
 吕群	lvqyq	78
 绿裙	lvqyr	374
 吕仁	lvrfmr	460
-绿人	lvrfov	0
 吕让	lvrhm	132
 绿日	lvria	57
 绿然	lvrjfv	135
@@ -61831,7 +61710,6 @@ sort: by_weight
 吕新	lvxblr	499
 吕欣	lvxbo	1036
 绿欣	lvxbov	462
-滤心	lvxbpe	0
 铝芯	lvxbpo	328
 绿心	lvxbpv	352
 绿信	lvxbr	64
@@ -61943,7 +61821,6 @@ sort: by_weight
 勒保	lwbcd	57
 雷爆	lwbce	195
 雷宝	lwbcim	38
-垒包	lwbcui	48
 雷包	lwbcum	38
 泪崩	lwbg	148
 雷比	lwbipm	641
@@ -62488,7 +62365,6 @@ sort: by_weight
 娄利	lzlin	77
 楼栏	lzljm	43
 楼罗	lzloid	0
-漏列	lzlpn	40
 楼路	lzlur	126
 漏露	lzlure	0
 漏率	lzlvj	99
@@ -64111,7 +63987,6 @@ sort: by_weight
 门卡	mfka	997
 们靠	mfkc	1159
 门科	mfkej	1709
-闷亏	mfkv	0
 门岭	mflki	96
 门令	mflkil	47
 门梁	mfll	1509
@@ -64816,7 +64691,6 @@ sort: by_weight
 觅芳	mifhsb	46
 米房	mifhsf	610
 米方	mifhsfy	395
-秘访	mifhsh	0
 米范	mifjuf	4600
 米复	mifuef	191
 密符	mifuijh	58
@@ -64955,7 +64829,6 @@ sort: by_weight
 米胎	mitdrf	176
 密体	mitim	52
 米提	mitiof	2410
-秘探	mitjd	0
 米田	mitmwf	402
 谜图	mituyi	57
 秘杀	miuad	63
@@ -64978,7 +64851,6 @@ sort: by_weight
 米数	miuukf	608
 泌水	miuveeea	37
 密顺	miuy	90
-米寿	miuzif	50
 米哲	miver	134
 瞇着	miveub	0
 密侦	mivfo	39
@@ -65041,7 +64913,6 @@ sort: by_weight
 弥彦	miyjhn	39
 米延	miyjmf	220
 米岩	miyjrf	57
-瞇眼	miyjvb	0
 米延	miyjvf	220
 迷影	miykh	86
 觅影	miykhb	51
@@ -66041,7 +65912,6 @@ sort: by_weight
 棉衫	mmujh	197
 面书	mmuus	294
 沔水	mmuveee	0
-渑水	mmuveeea	0
 面水	mmuvem	482
 面窄	mmvds	542
 面真	mmvf	962
@@ -66070,7 +65940,6 @@ sort: by_weight
 面叶	mmyej	69
 棉一	mmyimd	364
 缅语	mmyurv	104
-面允	mmyyu	184
 免邮	mmyzl	951
 棉油	mmyzwd	1858
 面再	mmzdb	1293
@@ -67914,7 +67783,7 @@ sort: by_weight
 没走	mwzzo	6333
 某宝	mzbci	6079
 某笔	mzbi	3464
-谋兵	mzbk	55
+谋兵	mzbkc	55
 牟丛	mzcs	81
 某翠	mzcv	40
 某村	mzcy	6736
@@ -68330,7 +68199,6 @@ sort: by_weight
 那潜	naqma	100
 那前	naqmn	784
 纳乔	naqnl	6606
-拿翘	naqnm	0
 纳切	naqphv	40
 拿球	naqqe	72372
 纳丘	naqqm	62
@@ -68606,7 +68474,6 @@ sort: by_weight
 脑雾	ncwus	25
 闹醒	ncxkml	190
 脑下	ncxx	75
-脑压	ncyai	0
 挠由	ncyzwq	68
 奶啊	ndaa	17
 嬭媪	ndaot	0
@@ -68699,7 +68566,6 @@ sort: by_weight
 乃正	ndvg	654
 乃止	ndvim	92
 奶质	ndvio	424
-耐撞	ndvl	0
 奶中	ndvs	3286
 奈温	ndwftk	60
 耐玩	ndwju	465
@@ -68973,7 +68839,6 @@ sort: by_weight
 倪东	nidsdo	38
 逆动	nidss	65
 泥堵	niduae	72
-泥堆	nidvg	0
 倪尔	nierfo	42
 你儿	nieruo	2992
 拟发	nifae	58722
@@ -69022,7 +68887,6 @@ sort: by_weight
 尼察	niiafs	212
 你查	niiam	48
 倪晨	niifv	188
-暱称	niigfa	1613
 妮称	niigfv	82
 倪成	niigso	158
 拟成	niigsq	4800
@@ -69947,12 +69811,10 @@ sort: by_weight
 尿白	nnbd	70
 尿杯	nnbwf	411
 尿到	nndcns	235
-尿袋	nndd	420
 鸟的	nndei	3857
 尿多	nndoi	577
 嗯对	nndvi	63
 尿斗	nndzj	332
-鸟房	nnfhs	0
 尿钙	nngd	322
 尿罐	nngrg	99
 尿汞	nngse	43
@@ -69962,7 +69824,6 @@ sort: by_weight
 尿臭	nniz	89
 鸟科	nnkej	62
 尿了	nnle	1312
-鸟梨	nnlid	0
 尿疗	nnln	4265
 鸟毛	nnmc	242
 鸟名	nnmkr	69
@@ -70418,7 +70279,6 @@ sort: by_weight
 暖雪	nrxtm	46
 暖玉	nryui	45
 弄吧	nsba	166
-农保	nsbcd	4942
 弄爆	nsbce	43
 浓白	nsbda	140
 弄甏	nsbg	0
@@ -70490,7 +70350,6 @@ sort: by_weight
 农山	nsuj	134
 弄熟	nsuuf	171
 浓水	nsuvee	129
-农宅	nsvdp	710
 弄着	nsveu	413
 浓粧	nsvlg	0
 浓装	nsvlve	42
@@ -70533,7 +70392,6 @@ sort: by_weight
 努埃	nuai	357
 努把	nubau	377
 怒爆	nubc	141
-奴从	nucs	0
 怒打	nuda	26
 怒到	nudcn	42
 努德	nude	114
@@ -70598,7 +70456,6 @@ sort: by_weight
 女给	nvgw	0
 女豪	nvhco	69
 女欢	nvhr	82
-女厨	nviu	73
 女金	nvjb	227
 女几	nvjin	56
 女经	nvjkm	684
@@ -70701,7 +70558,6 @@ sort: by_weight
 内缸	nwghmo	51
 内管	nwgrroh	1653
 内估	nwgur	840
-内规	nwgvu	0
 内沟	nwgzi	240
 内勾	nwgzio	91
 内怀	nwhkf	0
@@ -70770,7 +70626,6 @@ sort: by_weight
 内折	nwvel	366
 内长	nwvhoo	2185
 内张	nwvhoon	1988
-内姪	nwvigov	0
 内植	nwvimod	327
 内站	nwvjr	595
 内钟	nwvslo	119
@@ -70811,13 +70666,11 @@ sort: by_weight
 哦诗	oouii	0
 噢是	oouio	38
 哦我	oowo	354
-噢咻	ooxq	0
 喔呀	ooyah	0
 噢耶	ooye	260
 哦也	ooyed	174
 哦耶	ooyel	200
 噢咿	ooyik	0
-喔哟	ooyoi	0
 欧霸	oubab	329
 偶吧	oubauo	1749
 偶巴	oubauoa	247
@@ -70968,7 +70821,6 @@ sort: by_weight
 欧盛	ouugt	1300
 偶上	ouuhm	73
 偶是	ouuio	299
-偶拾	ouuir	0
 欧树	ouuuis	219
 欧数	ouuuk	81
 欧水	ouuv	73
@@ -73205,7 +73057,6 @@ sort: by_weight
 泊怀	pohkfe	0
 泊湖	pohube	268
 破魂	pohyi	38
-泼猴	pohz	174
 坡后	pohzr	79
 破拆	poidy	7669
 破厂	poihh	96
@@ -73273,7 +73124,6 @@ sort: by_weight
 破势	pouis	57
 破摔	pouk	127
 破书	pouus	117
-破水	pouve	729
 破招	povcr	288
 破者	povea	61
 破着	poveum	0
@@ -73782,7 +73632,6 @@ sort: by_weight
 沛凝	pwnk	51
 陪跑	pwpcu	2453
 裴平	pwpkj	90
-配票	pwpn	1467
 培培	pwpwr	622
 裴裴	pwpwv	381
 配气	pwqin	1433
@@ -73914,8 +73763,7 @@ sort: by_weight
 秦枫	qbfgkq	232
 秦方	qbfhsq	408
 秦芳	qbfhsqt	136
-秦父	qbfukq	41
-擒伏	qbfukqo	0
+秦父	qbfukqc	41
 琴夫	qbfuom	256
 秦富	qbfuw	1401
 秦福	qbfuwq	101
@@ -74041,7 +73889,6 @@ sort: by_weight
 秦乃	qbnds	198
 秦能	qbngpq	161
 秦妮	qbnipq	50
-亲暱	qbniry	869
 亲匿	qbnirys	121
 亲鸟	qbnnmy	43
 琴女	qbnvvm	1087
@@ -74773,7 +74620,6 @@ sort: by_weight
 祁鸣	qimkmi	41
 齐铭	qimkryo	40
 期棉	qimmbt	3659
-期勉	qimms	326
 乞免	qimmu	0
 七秒	qimnhj	474
 齐苗	qimnwyt	39
@@ -74796,7 +74642,7 @@ sort: by_weight
 戚某	qimzdi	1403
 奇纳	qinabk	183
 齐娜	qinaly	299
-奇拿	qinaq	439
+奇拿	qinaqk	439
 起呢	qinep	386
 骑呢	qinepn	66
 器能	qingpr	661
@@ -74879,7 +74725,7 @@ sort: by_weight
 弃赛	qisdoy	2454
 漆色	qiseue	239
 其色	qiseut	53
-起私	qisii	347
+起私	qisiig	347
 启思	qisiph	134
 启思	qisipiw	134
 齐思	qisipyw	609
@@ -74985,7 +74831,6 @@ sort: by_weight
 齐输	qiuuny	76
 漆书	qiuuse	0
 妻书	qiuusji	43
-淇水	qiuvee	85
 漆水	qiuveee	44
 其税	qiuvut	2209
 齐顺	qiuyoy	99
@@ -75149,7 +74994,6 @@ sort: by_weight
 起笑	qixnkg	252
 齐晓	qixnuy	3461
 齐协	qixpcy	37
-弃械	qixpt	0
 七修	qixqhj	60
 期修	qixqht	454
 齐秀	qixqsyh	202
@@ -75707,7 +75551,6 @@ sort: by_weight
 强锋	qlfgj	247
 抢房	qlfhs	7566
 强防	qlfhsn	3692
-樯帆	qlfji	0
 襁负	qlfuol	0
 强高	qlgc	1934
 枪稿	qlgcb	76
@@ -76089,7 +75932,6 @@ sort: by_weight
 钱公	qmgsio	234
 乾宫	qmgsr	140
 前功	qmgss	0
-牵罟	qmgurkw	0
 前沽	qmgurte	140
 嵌固	qmguruw	50
 钱贵	qmgvo	1546
@@ -76411,7 +76253,6 @@ sort: by_weight
 前舒	qmuun	230
 灊水	qmuvee	0
 欠谁	qmuvg	259
-浅睡	qmuvme	0
 前刷	qmux	342
 钱顺	qmuyoo	186
 铅渣	qmvam	938
@@ -76463,7 +76304,6 @@ sort: by_weight
 前旺	qmwhgta	112
 前汪	qmwhgte	98
 钱网	qmwhkob	316
-牵亡	qmwhvk	0
 浅湾	qmwjne	42
 前弯	qmwjnt	412
 前吴	qmwukt	242
@@ -76721,7 +76561,6 @@ sort: by_weight
 巧姐	qnjpmm	129
 巧解	qnjpqm	406
 巧娟	qnjrb	3136
-桥剧	qnjun	0
 乔佳	qnjxgh	66
 乔加	qnjxrh	703
 乔嘉	qnjxrhg	633
@@ -76931,7 +76770,6 @@ sort: by_weight
 乔兹	qnziih	145
 巧做	qnzok	274
 巧作	qnzos	0
-巧嘴	qnzvb	205
 切爱	qpai	0
 切半	qpbjq	615
 怯步	qpbuh	346
@@ -76985,7 +76823,6 @@ sort: by_weight
 切伤	qpuhs	196
 切制	qpvin	336
 怯战	qpvji	624
-窃占	qpvjr	268
 切朱	qpvud	397
 切完	qpwj	728
 且午	qpwuj	143
@@ -77834,7 +77671,6 @@ sort: by_weight
 全星	qrxkmoa	308
 全香	qrxla	991
 权项	qrxlodm	1268
-全衔	qrxmn	0
 泉先	qrxmuh	730
 全小	qrxnc	1884
 权协	qrxpc	524
@@ -82026,7 +81862,6 @@ sort: by_weight
 思蜀	siuuiw	41
 死书	siuusm	87
 撕书	siuusq	953
-汜水	siuveee	65
 司水	siuves	522
 四水	siuvew	619
 思睡	siuvm	210
@@ -82329,7 +82164,7 @@ sort: by_weight
 三交	sjjnkm	627
 三胶	sjjnkmb	81
 叁角	sjjnqin	177
-三截	sjjpg	745
+三截	sjjpgm	745
 三劫	sjjps	102
 伞就	sjjquo	66
 三觉	sjjtum	47
@@ -82397,7 +82232,6 @@ sort: by_weight
 三热	sjref	343
 三忍	sjrfp	290
 三融	sjrsi	262
-糁入	sjruh	0
 三瑞	sjrvb	116
 三锐	sjrvu	238
 三嫂	sjsc	426
@@ -82931,7 +82765,7 @@ sort: by_weight
 宋汉	sshje	179
 宋怀	sshkf	80
 宋皇	sshlgj	188
-松环	sshrf	83
+松环	sshrfd	83
 宋欢	sshro	178
 宋洪	sshsc	225
 宋泓	sshsi	846
@@ -83176,7 +83010,6 @@ sort: by_weight
 宋水	ssuve	217
 宋顺	ssuy	121
 宋守	ssuzij	68
-嵩寿	ssuziu	0
 送赵	ssvc	216
 宋照	ssvcf	189
 宋兆	ssvco	70
@@ -83528,7 +83361,7 @@ sort: by_weight
 速卡	sukay	69
 宿可	sukerjm	53
 苏可	sukert	173
-苏垦	sukf	50
+苏垦	sukfg	50
 苏康	sukhe	289
 苏坎	sukj	108
 速看	sukju	47
@@ -83919,7 +83752,6 @@ sort: by_weight
 遂国	svgoiyw	95
 穗莞	svgru	429
 碎股	svgue	531
-睢河	svherb	0
 濉河	svhere	63
 随何	svherno	86
 虽或	svhom	117
@@ -84582,7 +84414,6 @@ sort: by_weight
 塔玛	tamamgm	502
 他么	tamei	253
 它么	tameij	36
-牠们	tamfsh	2491
 她忙	tamhv	16
 塔曼	tamj	256
 塔魔	tamoi	58
@@ -85050,7 +84881,6 @@ sort: by_weight
 太寒	tdhjy	839
 太黄	tdhlck	260
 太火	tdho	2963
-汰换	tdhrk	841
 泰宏	tdhsi	196
 太红	tdhsm	641
 台呼	tdhud	276
@@ -85233,7 +85063,6 @@ sort: by_weight
 太庆	tdqkkk	146
 泰强	tdqli	73
 太谦	tdqmc	49
-台钱	tdqmji	290
 抬钱	tdqmjq	67
 台签	tdqmmi	299
 泰桥	tdqnl	149
@@ -88121,7 +87950,6 @@ sort: by_weight
 拖班	tobjgqm	0
 托布	tobubq	209
 托杯	tobwf	335
-拓碑	tobwjq	51
 脱北	tobwp	623
 脱层	tocg	389
 拓词	tocirq	242
@@ -88450,7 +88278,6 @@ sort: by_weight
 团减	trjmr	129
 团家	trjx	238
 团客	trker	2690
-团康	trkhe	381
 团控	trksmw	1724
 团空	trksmwj	231
 团林	trlb	138
@@ -88942,7 +88769,6 @@ sort: by_weight
 桐溪	tsxikd	188
 通西	tsxiwy	421
 桶形	tsxkhd	511
-筒形	tsxkhh	34
 同幸	tsxkjb	112
 通邢	tsxkly	969
 同星	tsxkmba	3358
@@ -89382,7 +89208,6 @@ sort: by_weight
 褪黑	tvhw	207
 退成	tvigsy	128
 推持	tviii	83
-推窗	tvil	649
 推床	tvild	155
 推传	tviri	255
 推近	tvjblq	359
@@ -89628,7 +89453,6 @@ sort: by_weight
 头围	tzwws	767
 透性	tzxkmy	1068
 头向	tzxlryh	2695
-投现	tzxmuq	0
 头小	tzxnc	3276
 头旋	tzxro	43
 投选	tzxru	1677
@@ -90413,7 +90237,6 @@ sort: by_weight
 社出	ueiuui	1039
 摄出	ueiuuq	490
 摄进	uejbtq	2073
-设籍	uejiai	316
 蛇姬	uejillv	216
 射鸡	uejimh	102
 射剂	uejinh	327
@@ -90522,7 +90345,6 @@ sort: by_weight
 摄位	uewwtq	57
 舌痿	uewwvh	69
 慑心	uexbpp	39
-蛇信	uexbr	0
 蛇型	uexkg	82
 涉性	uexkme	922
 射星	uexkmh	154
@@ -91972,7 +91794,6 @@ sort: by_weight
 胜越	ugytvb	162
 盛越	ugytvi	43
 胜宇	ugyudbj	204
-賸余	ugyudbo	247
 盛宇	ugyudi	1666
 盛玉	ugyuii	147
 省域	ugyumf	2380
@@ -94194,7 +94015,6 @@ sort: by_weight
 弑神	uiuflk	1779
 石神	uiuflm	130
 石申	uiuflml	37
-仕绅	uiuflo	0
 世神	uiuflp	115
 拾沈	uiufuq	160
 蚀甚	uiufvn	0
@@ -94605,7 +94425,6 @@ sort: by_weight
 史贤	uixmol	66
 石贤	uixmom	99
 是仙	uixmuao	1328
-释宪	uixmuh	821
 失先	uixmuhh	174
 士先	uixmuj	654
 石先	uixmumh	45
@@ -94954,7 +94773,6 @@ sort: by_weight
 山冰	ujbke	39
 衫并	ujbkt	61
 闪变	ujbmel	112
-擅变	ujbmeq	0
 擅便	ujbmkq	0
 山标	ujbnf	103
 善博	ujboit	63
@@ -95269,7 +95087,6 @@ sort: by_weight
 闪孕	ujyyd	110
 山云	ujyyiu	299
 闪游	ujyzdl	57
-山友	ujyzeu	1639
 善佑	ujyzrt	84
 汕优	ujyzu	890
 膳杂	ujza	90
@@ -95841,7 +95658,6 @@ sort: by_weight
 树风	uufgkdh	40
 舒风	uufgko	245
 竖放	uufhkl	231
-抒放	uufhkq	0
 术防	uufhsin	179
 输方	uufhsk	972
 舒方	uufhso	73
@@ -96158,7 +95974,6 @@ sort: by_weight
 数指	uuviaf	497
 书指	uuviaiq	1170
 叔只	uuvicy	42
-叔姪	uuvigy	0
 熟制	uuvinyh	876
 赎之	uuviob	45
 淑芝	uuvioet	76
@@ -96670,7 +96485,6 @@ sort: by_weight
 刷个	uxge	1442
 刷光	uxgl	282
 刷好	uxhc	562
-耍狠	uxhf	821
 刷车	uxie	338
 耍剑	uxjmn	122
 刷街	uxjp	173
@@ -98670,7 +98484,6 @@ sort: by_weight
 整锭	vgdkodo	0
 郑典	vgdmct	1801
 正店	vgdmrm	0
-徵调	vgdnrh	513
 挣多	vgdoi	2113
 郑多	vgdoit	37
 正端	vgdrbm	317
@@ -99027,7 +98840,6 @@ sort: by_weight
 郑茜	vgqmw	130
 郑乔	vgqnlth	749
 郑巧	vgqns	481
-争球	vgqqen	3654
 郑秋	vgqqft	239
 郑权	vgqret	128
 正全	vgqrgm	25568
@@ -99085,7 +98897,6 @@ sort: by_weight
 郑彤	vgtsh	183
 郑同	vgtsrt	328
 郑屠	vgtua	508
-政途	vgtudmy	0
 郑少	vguch	959
 郑绍	vgucrt	1168
 郑韶	vgucrty	101
@@ -99743,8 +99554,7 @@ sort: by_weight
 长剧	vhjun	1562
 张聚	vhjuo	78
 张居	vhjurn	265
-长居	vhjurp	2496
-长踞	vhjurpr	62
+长踞	vhjurp	62
 张巨	vhjusn	1110
 张炬	vhjusnf	295
 张矩	vhjusno	126
@@ -100641,7 +100451,6 @@ sort: by_weight
 志恩	vienpg	63
 枝儿	vierud	0
 汁儿	vierue	305
-姪儿	vieruv	0
 枝发	vifaedia	99
 志发	vifaeg	1036
 致发	vifaem	1278
@@ -100806,7 +100615,6 @@ sort: by_weight
 志昌	viihag	37
 止持	viiiiy	517
 直颤	viijo	113
-植床	viildd	0
 知床	viildo	42
 智闯	viilmo	191
 智创	viilno	372
@@ -100834,10 +100642,9 @@ sort: by_weight
 指继	vijidq	838
 智及	vijieon	100
 治际	vijife	25
-指基	vijig	46896
-植基	vijigd	1572
 之基	vijigi	1
 智基	vijigo	57
+指基	vijigq	46896
 纸基	vijigv	293
 制机	vijinhd	3789
 直机	vijinjda	73
@@ -100963,7 +100770,6 @@ sort: by_weight
 至立	vilitm	225
 智立	vilito	162
 制礼	viliuhi	410
-职篮	viljts	1183
 芷蓝	viljtt	83
 志凌	vilke	63
 智灵	vilkfo	68
@@ -101056,7 +100862,6 @@ sort: by_weight
 只弄	vinst	13
 直女	vinvvj	223
 知女	vinvvo	772
-姪女	vinvvvv	71
 稚内	vinwbh	81
 支内	vinwbj	17
 治贫	vipboe	520
@@ -101430,7 +101235,6 @@ sort: by_weight
 智讯	vixyjo	442
 智勋	vixys	106
 志勋	vixysg	99
-植牙	viyahdm	957
 之牙	viyahi	558
 知呀	viyahor	62
 致阴	viybbm	148
@@ -101551,7 +101355,6 @@ sort: by_weight
 只增	vizgar	15
 智子	vizidon	1695
 知子	vizidona	258
-姪子	vizidv	42
 直自	viziuj	0
 知自	viziuo	5092
 指做	vizokq	270
@@ -101894,8 +101697,8 @@ sort: by_weight
 粘痰	vjtjff	416
 站谈	vjtjfy	165
 站摊	vjtjg	58
-站厅	vjtkn	2044
-站亭	vjtkny	665
+站厅	vjtkny	2044
+站亭	vjtknyy	665
 斩天	vjtmkk	67
 展天	vjtmks	1176
 战拖	vjtod	96
@@ -101996,7 +101799,6 @@ sort: by_weight
 斩刑	vjxkn	0
 占香	vjxlay	267
 展翔	vjxlm	88
-展显	vjxmc	219
 粘纤	vjxmjf	146
 斩仙	vjxmuk	762
 战仙	vjxmuy	1064
@@ -102390,7 +102192,6 @@ sort: by_weight
 斫蜋	volhvm	0
 卓利	volin	52
 卓莉	voliny	51
-桌历	volisym	466
 卓灵	volkf	42
 卓玲	volki	153
 卓领	volko	43
@@ -102433,7 +102234,6 @@ sort: by_weight
 桌山	vouj	503
 桌数	vouuky	935
 斫手	vouzqm	0
-桌罩	vovc	0
 卓正	vovgm	422
 卓智	vovia	345
 卓芝	vovioy	145
@@ -103379,7 +103179,6 @@ sort: by_weight
 中象	vsxlol	357
 中想	vsxlpl	2265
 中祥	vsxlqli	412
-重嫌	vsxmchv	0
 中显	vsxmcl	31932
 钟县	vsxmiob	212
 终线	vsxmj	44
@@ -103741,7 +103540,6 @@ sort: by_weight
 朱昌	vuihah	1164
 朱昶	vuihahi	148
 祝昌	vuihai	121
-驻唱	vuihan	148
 朱畅	vuihhhl	139
 猪厂	vuihhkm	171
 驻厂	vuihhnm	1775
@@ -103796,7 +103594,6 @@ sort: by_weight
 主井	vujkty	288
 主镜	vujku	2852
 祝江	vujlmi	182
-助讲	vujltb	189
 朱暕	vujmfha	88
 竹尖	vujmkhf	45
 朱剑	vujmnho	1371
@@ -104122,7 +103919,6 @@ sort: by_weight
 朱叔	vuuuehy	91
 朱树	vuuuih	72
 煮数	vuuukj	40
-潴水	vuuvee	0
 朱水	vuuvehe	927
 主税	vuuvuy	141
 朱顺	vuuyo	405
@@ -104137,7 +103933,6 @@ sort: by_weight
 朱喆	vuverhg	80
 朱着	vuveuh	48
 朱镇	vuvfchoa	291
-驻诊	vuvfhni	0
 朱祯	vuvfoh	155
 逐帧	vuvfoy	570
 朱振	vuvfvhq	1046
@@ -104554,7 +104349,6 @@ sort: by_weight
 周殿	vzdme	265
 轴点	vzdmf	85
 周调	vzdn	692
-骤跌	vzdp	0
 周端	vzdrb	110
 周栋	vzdsdb	1660
 周动	vzdss	328
@@ -104714,7 +104508,6 @@ sort: by_weight
 周钧	vzjymb	294
 周君	vzjyr	857
 周卡	vzka	242
-周考	vzkcs	581
 周楷	vzkda	56
 周恺	vzkdu	368
 周科	vzkejbh	752
@@ -105133,7 +104926,6 @@ sort: by_weight
 袜船	wairr	0
 瓦金	wajbc	459
 瓦经	wajkm	147
-蛙镜	wajkul	0
 䍪羯	wajpv	0
 嗢噱	wajto	0
 哇咔	wakay	22
@@ -105201,7 +104993,6 @@ sort: by_weight
 外范	wdfjun	90
 外附	wdfuinn	0
 外盖	wdgd	220
-歪哥	wdger	0
 外冈	wdghk	196
 外古	wdgur	134
 外柜	wdgv	94
@@ -105345,8 +105136,7 @@ sort: by_weight
 文参	wfcjh	96
 问错	wfcoal	18
 文聪	wfcsp	157
-文翠	wfcvjy	89
-文粹	wfcvjyf	0
+文翠	wfcvjys	89
 问村	wfcyil	159
 稳打	wfdan	319
 文打	wfdany	290
@@ -106107,7 +105897,6 @@ sort: by_weight
 汪璧	whbiie	36
 王比	whbipm	174
 王碧	whbir	433
-网版	whbjeb	404
 汪兵	whbkce	216
 汪冰	whbke	141
 王秉	whbkl	447
@@ -106906,7 +106695,6 @@ sort: by_weight
 汪山	whujue	56
 旺衰	whukv	777
 王霜	whulu	1764
-望朔	whuob	0
 王烁	whuod	2220
 王槊	whuodm	97
 王硕	whuoo	2736
@@ -107558,7 +107346,6 @@ sort: by_weight
 弯眉	wjmwuy	283
 万梅	wjmwym	306
 玩泥	wjnipme	104
-顽逆	wjniu	209
 湾南	wjnjje	812
 宛南	wjnjjj	232
 万南	wjnjjm	476
@@ -109960,7 +109747,6 @@ sort: by_weight
 微捐	wwjrbhq	275
 魏娟	wwjrbhv	190
 伟娟	wwjrbo	92
-微卷	wwjru	3431
 薇蕨	wwjtot	0
 位觉	wwjtuo	62
 为橘	wwjub	518
@@ -110275,7 +110061,6 @@ sort: by_weight
 维人	wwrfov	234
 未让	wwrhmj	2437
 韦然	wwrjfq	37
-危弱	wwromn	0
 胃弱	wwromw	182
 魏荣	wwrsdh	448
 伟荣	wwrsdo	132
@@ -110575,7 +110360,6 @@ sort: by_weight
 伟希	wwxibo	92
 未息	wwxipj	413
 魏喜	wwxirhg	435
-微曦	wwxish	0
 未洗	wwxiu	592
 卫西	wwxiws	105
 魏兴	wwxkchf	546
@@ -112144,7 +111928,7 @@ sort: by_weight
 喜年	xinmqg	238
 系年	xinmqhoa	920
 西涅	xinpg	8590
-戏虐	xintm	320
+戏虐	xintme	320
 西奴	xinuem	80
 熄怒	xinupf	244
 希努	xinus	57
@@ -113009,7 +112793,7 @@ sort: by_weight
 邢树	xkuuimd	39
 兴顺	xkuy	786
 星顺	xkuyo	119
-星照	xkvcf	590
+星照	xkvcfa	590
 姓赵	xkvck	65
 兴兆	xkvcof	659
 幸者	xkveag	88
@@ -114311,7 +114095,6 @@ sort: by_weight
 仙力	xmliso	133
 鲜蓝	xmljt	90
 纤缆	xmlju	71
-限龄	xmlkiny	0
 岘岭	xmlkiu	76
 显良	xmllva	61
 冼练	xmlmci	37
@@ -115944,7 +115727,6 @@ sort: by_weight
 消瘀	xnyuyek	177
 消雨	xnyuyem	68
 晓芸	xnyyiat	1422
-校运	xnyyid	0
 消云	xnyyie	459
 肖云	xnyyif	901
 霄云	xnyyim	288
@@ -116238,7 +116020,6 @@ sort: by_weight
 谢丕	xppim	50
 绁袢	xppjqv	0
 谢萍	xppkj	187
-谢票	xppnf	0
 协迫	xppoa	61
 谢普	xppua	177
 谢璞	xppuo	140
@@ -116405,7 +116186,7 @@ sort: by_weight
 谢西	xpxiwi	160
 谢兴	xpxkc	928
 协兴	xpxkcj	754
-蝎型	xpxkg	139
+蝎型	xpxkgl	139
 谢幸	xpxkji	42
 谢星	xpxkmia	547
 谢醒	xpxkmim	67
@@ -116681,7 +116462,6 @@ sort: by_weight
 绣水	xquvev	87
 修者	xqvea	242
 秀真	xqvfc	253
-休诊	xqvfhoi	0
 秀智	xqvia	5332
 休职	xqvico	0
 秀装	xqvlv	128
@@ -116883,7 +116663,6 @@ sort: by_weight
 谖堂	xrthgi	0
 旋踢	xrtihyr	43
 玄霆	xrtkgy	81
-选填	xrtmcy	189
 玄铁	xrtpo	774
 选通	xrtsbyy	116
 轩同	xrtsrkb	64
@@ -118934,7 +118713,6 @@ sort: by_weight
 夏敦	xxdyk	135
 下吨	xxdyum	42
 下窦	xxdzk	98
-下腭	xxees	89
 下儿	xxerum	10346
 夏儿	xxeruml	81
 夏发	xxfaem	266
@@ -119487,7 +119265,6 @@ sort: by_weight
 驯狗	xygzrn	80
 巡海	xyhdy	143
 薰赫	xyhect	0
-洵河	xyhere	0
 巡河	xyherye	251
 薰豁	xyhort	0
 窨户	xyhusj	0
@@ -119595,7 +119372,6 @@ sort: by_weight
 迅系	xyxify	53
 迅兴	xyxkc	130
 寻相	xyxlus	57
-循线	xyxmjh	1622
 寻线	xyxmjs	260
 寻贤	xyxmo	62
 迅销	xyxnb	3474
@@ -119640,7 +119416,6 @@ sort: by_weight
 压比	yabipmp	260
 牙斑	yabjgmm	271
 亚兵	yabkcmo	166
-崖边	yabmsu	1229
 押镖	yabn	1750
 亚标	yabnf	42
 雅表	yabnv	253
@@ -119705,7 +119480,7 @@ sort: by_weight
 亚高	yagcrmy	1248
 亚格	yagermda	137
 亚根	yagfvm	53
-亚钢	yaghk	125
+亚钢	yaghkm	125
 亚港	yaghum	594
 压杆	yagjjmd	672
 雅国	yagoim	580
@@ -119763,7 +119538,6 @@ sort: by_weight
 亚晋	yajba	82
 雅金	yajbcmc	639
 亚今	yajbn	169
-轧进	yajbtk	0
 亚季	yajidm	690
 亚纪	yajiumv	123
 押记	yajiuq	147
@@ -120476,7 +120250,6 @@ sort: by_weight
 音旁	ybphs	43
 阴皮	ybpie	113
 瘾癖	ybpijk	92
-殷盼	ybpjh	0
 殷萍	ybpkjh	98
 银平	ybpkjo	2338
 尹平	ybpkjsm	119
@@ -120890,7 +120663,6 @@ sort: by_weight
 姚迪	ycdiwvy	6877
 姚丹	ycdjy	347
 妖丹	ycdjyv	65
-药锭	ycdkot	314
 姚定	ycdkov	102
 尧典	ycdmcj	73
 姚电	ycdmu	473
@@ -120915,7 +120687,6 @@ sort: by_weight
 耀房	ycfhsf	168
 姚方	ycfhsv	193
 姚芳	ycfhsvt	181
-邀访	ycfhsy	0
 姚父	ycfukv	68
 姚副	ycfun	114
 姚富	ycfuwv	72
@@ -121107,7 +120878,6 @@ sort: by_weight
 要忙	ycmhvm	2937
 姚蜜	ycmii	71
 姚曼	ycmjev	58
-幺麽	ycmoivia	0
 药末	ycmojt	596
 榣木	ycmudd	0
 姚穆	ycmuh	41
@@ -121284,7 +121054,6 @@ sort: by_weight
 姚万	ycwjs	127
 要武	ycwumm	4108
 姚武	ycwumv	149
-邀舞	ycwuqy	83
 要无	ycwuum	2187
 摇兀	ycwuuq	0
 姚圩	ycwwdv	74
@@ -121447,6 +121216,7 @@ sort: by_weight
 夜登	yedgt	132
 叶底	yediir	252
 叶底	yedimr	252
+𢬍笛	yediwq	0
 耶迪	yediws	82
 掖单	yedjjq	46
 叶丹	yedjyr	1143
@@ -121900,6 +121670,7 @@ sort: by_weight
 叶希	yexibr	51
 业系	yexif	1046
 叶系	yexifr	38
+𢬍息	yexip	0
 叶细	yexiwr	128
 叶西	yexiwrm	73
 业兴	yexkct	748
@@ -124730,7 +124501,6 @@ sort: by_weight
 毅行	yixknyha	591
 衣行	yixknyhb	177
 溢香	yixlae	164
-刈香	yixlak	0
 逸香	yixlayha	514
 易享	yixlda	517
 易翔	yixlma	299
@@ -125075,7 +124845,6 @@ sort: by_weight
 沿底	yjdime	1094
 沿堤	yjdio	53
 颜淡	yjdjf	129
-研订	yjdknmi	0
 堰顶	yjdkog	43
 严定	yjdkomj	491
 言顶	yjdkoy	462
@@ -125539,7 +125308,6 @@ sort: by_weight
 研墨	yjmogm	130
 眼魔	yjmoib	334
 岩魔	yjmoiu	59
-研末	yjmojm	0
 严母	yjmuim	509
 验目	yjmuunb	333
 揜目	yjmuuq	0
@@ -129445,7 +129213,6 @@ sort: by_weight
 于蒲	yupubmt	38
 棫朴	yupuyd	313
 于朴	yupuym	145
-玉珮	yupwbmm	0
 于佩	yupwbmoa	285
 余沛	yupwbo	43
 宇培	yupwrj	338
@@ -129649,7 +129416,6 @@ sort: by_weight
 鱼跳	yutnon	73
 宇陀	yutopjn	50
 预托	yutopnq	479
-鱼拓	yutor	147
 于铁	yutpom	1643
 俞铁	yutpoo	106
 于团	yutrhm	1724
@@ -130002,7 +129768,6 @@ sort: by_weight
 于希	yuxibmk	1272
 语熙	yuxifi	205
 宇系	yuxifj	46
-於戏	yuxiiye	391
 榆溪	yuxikd	36
 于溪	yuxikm	56
 预喜	yuxirn	33703
@@ -130922,7 +130687,7 @@ sort: by_weight
 游合	yzhereo	544
 又喝	yzhevn	20
 由恒	yzhgm	3062
-游航	yzhhne	260
+游航	yzhhneh	260
 又涵	yzhjen	195
 有旱	yzhjjk	64
 油黄	yzhlce	47
@@ -130963,7 +130728,6 @@ sort: by_weight
 游车	yzieqek	393
 輶车	yzieqj	0
 友陈	yzifdk	1581
-游尘	yzifg	371
 友臣	yzifl	59
 右丞	yzigmk	0
 幼承	yzigov	41
@@ -131598,7 +131362,6 @@ sort: by_weight
 游姓	yzxkmev	148
 尤姓	yzxkmi	45
 有姓	yzxkmkva	608
-油行	yzxkne	0
 友行	yzxknkha	213
 由杏	yzxkr	46
 游香	yzxlaeh	584
@@ -132637,7 +132400,6 @@ sort: by_weight
 梓豪	zihcod	162
 子皓	zihcr	99
 梓浩	zihcrd	12
-自号	zihcsh	179
 子毫	zihcun	106
 渍害	zihdre	116
 子害	zihdrn	94
@@ -133107,7 +132869,6 @@ sort: by_weight
 子舒	ziuun	81
 子输	ziuunn	70
 自书	ziuush	857
-淄水	ziuveee	0
 字水	ziuvej	135
 子水	ziuven	1085
 紫水	ziuvey	82
@@ -133150,7 +132911,6 @@ sort: by_weight
 子战	zivji	689
 子展	zivjv	508
 子状	zivlkn	139
-自撰	zivrc	0
 子重	zivsgn	1006
 子忠	zivspn	52
 子株	zivudnd	530
@@ -133717,7 +133477,6 @@ sort: by_weight
 作时	zouiioaa	6883
 做实	zouikojb	23556
 左氏	zouipk	69
-佐膳	zoujro	0
 做熟	zouuf	1695
 左数	zouuk	92
 昨收	zouzka	2085
@@ -133803,8 +133562,7 @@ sort: by_weight
 做最	zozve	151
 钻笔	zrbi	58
 钻草	zrccj	52
-䰖儿	zreru	0
-纂儿	zreruh	0
+䰖儿	zrerus	0
 钻管	zrgr	125
 钻回	zrhvr	135
 钻口	zrkz	108
@@ -134025,7 +133783,6 @@ sort: by_weight
 总纂	zszr	44
 宗宗	zszsf	55
 总最	zszv	439
-纵走	zszz	0
 祖阿	zuaa	320
 足啊	zuaar	148
 祖爱	zuaie	52
@@ -134616,7 +134373,7 @@ sort: by_weight
 邹郁	zzyulnk	75
 邹渝	zzyun	228
 邹瑜	zzyunn	95
-邹雨	zzyuy	1285
+邹雨	zzyuyn	1285
 邹云	zzyyi	679
 邹运	zzyyin	54
 走有	zzyzb	685
@@ -135676,7 +135433,6 @@ sort: by_weight
 爱护学	aihuxt	64
 爱回家	aihvjx	1190
 瑷珲区	aihvquk	370
-瑷珲县	aihvxmi	300
 爱花的	aihxde	101
 矮化的	aihxdei	64
 爱吵架	aiicjx	62
@@ -138366,7 +138122,6 @@ sort: by_weight
 八一三	bayisj	306
 把一生	bayiug	456
 把一只	bayivi	51
-八佾舞	bayiwuq	375
 把一些	bayixp	1349
 巴依亚	bayiyac	107
 八一一	bayiyi	684
@@ -138528,7 +138283,6 @@ sort: by_weight
 薄板的	bcbjde	80
 薄板厂	bcbjih	78
 包办了	bcbjle	94
-包班制	bcbjvi	261
 薄饼店	bcbkdm	44
 薄变厚	bcbmhz	45
 报表集	bcbnji	40
@@ -138775,7 +138529,6 @@ sort: by_weight
 保护带	bchuddb	584
 保护盾	bchudy	232
 保护盖	bchugd	1232
-保护级	bchujie	0
 保护基	bchujig	23979
 保护镜	bchujk	118
 保护角	bchujn	497
@@ -139140,7 +138893,6 @@ sort: by_weight
 保全工	bcqrgs	153
 爆全场	bcqrih	1205
 宝泉路	bcqrlu	338
-保全业	bcqrye	0
 抱任何	bcrfhe	608
 报人员	bcrfyr	1886
 保人员	bcrfyro	1786
@@ -139351,7 +139103,6 @@ sort: by_weight
 包装在	bcvlzd	711
 宝中宝	bcvsbci	52
 保重点	bcvsdm	1497
-包种茶	bcvsia	462
 鲍仲良	bcvsll	94
 鲍忠武	bcvswu	177
 褓中物	bcvswuh	0
@@ -139607,11 +139358,9 @@ sort: by_weight
 白变种	bdbmvs	102
 白玻璃	bdboli	74
 摆不开	bdbukd	338
-摆不平	bdbupk	1237
 白不四	bdbusi	0
 百步梯	bdbuti	137
 百步沙	bdbuua	94
-百步蛇	bdbuue	387
 百步走	bdbuzz	435
 百倍的	bdbwde	1795
 柏倍德	bdbwdep	83
@@ -139957,7 +139706,6 @@ sort: by_weight
 白礼顿	bdlidy	208
 百里风	bdlifg	452
 白里泛	bdlifj	48
-百里侯	bdlihz	288
 百丽春	bdliiy	158
 白莉莉	bdlilin	110
 佰利联	bdlilm	6523
@@ -140330,7 +140078,6 @@ sort: by_weight
 白种男	bdvsnj	37
 白中仁	bdvsrfm	5031
 白忠义	bdvsyi	82
-白煮蛋	bdvudj	399
 白术各	bdvuger	54
 白铸铁	bdvutp	0
 柏舟操	bdvzcc	0
@@ -141634,7 +141381,6 @@ sort: by_weight
 班程农	bjigns	42
 半成熟	bjiguu	463
 板厂村	bjihcy	234
-伴唱带	bjihdd	0
 半场赢	bjihyk	73
 半齿音	bjiiyb	0
 半金属	bjjbuu	70
@@ -143449,7 +143195,6 @@ sort: by_weight
 玻璃品	bolipb	82
 玻璃桥	boliqn	215
 玻璃泉	boliqre	0
-玻璃圈	boliqru	0
 玻璃人	bolirf	2905
 波里斯	bolisile	510
 伯里斯	bolisilo	78
@@ -146651,7 +146396,6 @@ sort: by_weight
 贝尔比	bwerbi	162
 贝儿多	bwerdo	72
 贝尔顿	bwerdy	146
-北二高	bwergc	262
 贝尔奖	bwerjl	772
 贝尔杰	bwerjpf	286
 贝尔卡	bwerka	787
@@ -146807,7 +146551,6 @@ sort: by_weight
 北湖路	bwhulu	666
 悲回风	bwhvfg	333
 北回线	bwhvxm	285
-揹黑锅	bwhwgob	0
 被黑客	bwhwke	121
 北华路	bwhxlu	65
 北化院	bwhxyr	208
@@ -151296,7 +151039,6 @@ sort: by_weight
 大爱城	daaiig	74
 大爱台	daaitd	270
 答案吧	daanba	1057
-答案卷	daanjr	324
 答案是	daanuio	7396
 大案子	daanzi	252
 大八卦	dabagx	106
@@ -151329,7 +151071,6 @@ sort: by_weight
 打包工	dabcgs	94
 打包好	dabchc	1105
 大宝剑	dabcjmn	132
-大爆满	dabcmj	0
 大薄片	dabcpm	40
 大爆破	dabcpo	314
 大宝坡	dabcpoe	206
@@ -151369,7 +151110,6 @@ sort: by_weight
 大阪地	dabjdi	325
 大半地	dabjdid	81
 大班额	dabjee	901
-大搬风	dabjfg	0
 大板根	dabjgf	334
 达板城	dabjigs	520
 大阪城	dabjigsk	376
@@ -151417,7 +151157,6 @@ sort: by_weight
 大玻璃	daboli	713
 大博文	dabowf	47
 大博弈	daboyi	2851
-大脖子	dabozid	318
 大别墅	dabpuu	898
 大不安	dabuan	0
 打不败	dabubd	36
@@ -151449,7 +151188,6 @@ sort: by_weight
 大不幸	dabuxk	152
 打不响	dabuxlr	228
 大埔墟	dabuxu	60
-大不易	dabuyi	0
 大步子	dabuzi	126
 大步走	dabuzz	1911
 打背包	dabwbcu	73
@@ -151587,7 +151325,6 @@ sort: by_weight
 大胆的	dadjdei	24797
 大丹狗	dadjgz	0
 大胆讲	dadjjl	85
-打弹珠	dadjvu	472
 大单位	dadjww	1701
 大丁村	dadkcy	586
 大订单	dadkdj	8576
@@ -151604,7 +151341,6 @@ sort: by_weight
 打电脑	dadmnc	93
 打点钱	dadmqm	81
 搭电梯	dadmti	629
-打电玩	dadmwj	0
 大殿选	dadmxr	0
 大电影	dadmyk	19519
 大电源	dadmyr	85
@@ -151702,7 +151438,6 @@ sort: by_weight
 大法庭	dafatk	405
 大发生	dafaug	158
 大份的	daffde	25
-打粉底	daffdi	0
 大分裂	dafflp	243
 大分类	dafflw	369
 大分歧	daffqie	1448
@@ -152040,12 +151775,10 @@ sort: by_weight
 大回复	dahvfu	68
 大回朝	dahvic	221
 大会场	dahvihh	153
-大会串	dahvir	0
 打灰机	dahvjin	91
 大惠民	dahvmb	80
 大毁灭	dahvmp	54
 大会厅	dahvtk	0
-大会师	dahvui	166
 大会山	dahvuj	80
 大会状	dahvvl	0
 大彗星	dahvxk	216
@@ -152082,7 +151815,6 @@ sort: by_weight
 大馄饨	dahyty	110
 大混战	dahyvj	72
 大厚本	dahzbf	35
-大喉咙	dahzls	0
 打齁睡	dahzuv	0
 打后腰	dahzyc	2227
 打猴子	dahzzi	50
@@ -152101,7 +151833,6 @@ sort: by_weight
 大车队	daiedv	502
 打车费	daiefw	3352
 大车轮	daiely	128
-大车拼	daiepb	0
 打车去	daiequi	222
 打车人	daierf	455
 搭车人	daierfo	242
@@ -152155,8 +151886,7 @@ sort: by_weight
 大铲岛	daijdc	380
 大蟾蜍	daijiu	39
 达产率	daijlv	877
-达产期	daijqi	996
-打禅七	daijqiu	0
+达产期	daijqib	996
 大产权	daijqr	2856
 大铲湾	daijwj	778
 大产业	daijye	41
@@ -152187,7 +151917,6 @@ sort: by_weight
 大金工	dajbgs	66
 大进化	dajbhx	158
 大金花	dajbhxp	42
-大进击	dajbji	0
 打近角	dajbjn	963
 大进军	dajbjy	128
 大进口	dajbkzr	983
@@ -152281,7 +152010,6 @@ sort: by_weight
 大教主	dajnvu	263
 大角逐	dajnvuo	75
 大角湾	dajnwj	70
-大脚丫	dajnya	165
 大脚印	dajnyb	452
 大角羊	dajnyh	240
 大交易	dajnyi	7048
@@ -152349,7 +152077,6 @@ sort: by_weight
 大家事	dajxuin	0
 大家说	dajxuo	14068
 打架者	dajxvea	93
-大家长	dajxvho	2012
 大家文	dajxwf	301
 大家网	dajxwh	504
 大家玩	dajxwj	2291
@@ -152588,10 +152315,8 @@ sort: by_weight
 大陆棉	dalummb	0
 大路面	dalummlk	71
 大陆派	dalupd	93
-大陆片	dalupm	100
 大路坡	dalupoe	1318
 大陆区	daluqu	433
-大陆热	dalure	83
 达鲁萨	dalusa	87
 大陆团	dalutr	538
 大陆生	daluug	620
@@ -152894,7 +152619,6 @@ sort: by_weight
 大庆站	daqkvj	80
 大腔当	daqldh	25
 打抢跪	daqlgv	0
-大抢购	daqlgz	0
 打墙脚	daqljn	0
 大钱包	daqmbc	48
 大乾慧	daqmhv	268
@@ -152931,8 +152655,7 @@ sort: by_weight
 大全套	daqrtc	599
 大券商	daqruh	8416
 大全张	daqrvh	0
-大圈仔	daqrzd	0
-大圈子	daqrzid	294
+大圈子	daqrzidk	294
 大缺口	daqtkz	637
 大区别	daqubp	114
 打趣道	daqudc	4756
@@ -153096,7 +152819,6 @@ sort: by_weight
 打铁的	datpde	0
 大铁锅	datpgo	364
 大铁锤	datpiv	370
-打铁匠	datpjl	0
 打铁男	datpnj	67
 打铁铺	datppu	186
 大铁桥	datpqn	49
@@ -153125,7 +152847,6 @@ sort: by_weight
 大同西	datsxi	38
 大统一	datsyi	241
 大土地	datudi	629
-大突破	datupo	11211
 打图书	datuuu	0
 大兔子	datuzi	524
 打兔子	datuzid	119
@@ -153135,13 +152856,11 @@ sort: by_weight
 大腿处	datviu	418
 大腿肌	datvji	4501
 大腿上	datvuh	365
-大腿舞	datvwu	0
 大腿围	datvww	297
 大屯里	datyli	38
 大屯路	datylu	966
 大头宝	datzbc	161
 大头棒	datzbh	41
-大头兵	datzbk	38
 大头的	datzde	1831
 打头的	datzdei	0
 大头佛	datzfu	61
@@ -153298,7 +153017,6 @@ sort: by_weight
 大收获	dauzho	1805
 大手脚	dauzjn	0
 打手掌	dauzvh	41
-打手心	dauzxb	33
 大栅门	davamf	84
 达扎寺	davasi	57
 大朝会	davchvi	10
@@ -153350,7 +153068,6 @@ sort: by_weight
 大致是	daviuio	1116
 大纸箱	davixlu	456
 大支援	daviyr	38
-大制作	davizos	595
 大战场	davjih	1793
 大战舰	davjjm	97
 大战诗	davjui	0
@@ -153619,7 +153336,6 @@ sort: by_weight
 大秀瑜	daxqyu	61
 大旋风	daxrfg	45
 大选民	daxrmb	152
-大选区	daxrqu	0
 大雄殿	daxsdm	77
 大胸怀	daxshk	426
 大熊湖	daxshu	86
@@ -153632,7 +153348,6 @@ sort: by_weight
 大学村	daxtcy	76
 大学的	daxtde	48244
 大学东	daxtds	528
-大学服	daxtfu	0
 大雪谷	daxtgu	65
 大削减	daxtjm	154
 大学林	daxtlb	43
@@ -153649,7 +153364,6 @@ sort: by_weight
 大学者	daxtve	540
 大学站	daxtvj	110
 打雪战	daxtvji	0
-大学问	daxtwf	2046
 大学西	daxtxi	207
 大学学	daxtxt	8653
 大学一	daxtyi	3654
@@ -155522,8 +155236,7 @@ sort: by_weight
 等几年	dgjinm	41
 等级品	dgjipb	609
 登记上	dgjiuh	10
-登记时	dgjiui	3815
-登机室	dgjiuig	0
+登记时	dgjiuii	3815
 登机闸	dgjiva	89
 登记照	dgjivc	293
 登记账	dgjivh	109
@@ -155609,7 +155322,6 @@ sort: by_weight
 登录框	dglukl	213
 登陆框	dgluklg	70
 登路普	dglupua	36
-登陆热	dgluref	0
 登陆日	dgluri	1793
 登录市	dgluui	1545
 登录时	dgluuii	54
@@ -155707,7 +155419,6 @@ sort: by_weight
 登山费	dgujfw	263
 登山界	dgujjpl	788
 登山客	dgujke	647
-登山口	dgujkzr	300
 登山路	dgujlu	545
 登山跑	dgujpc	13
 登山赛	dgujsd	516
@@ -156112,7 +155823,7 @@ sort: by_weight
 帝艾斯	diaisi	2529
 迪艾斯	diaisil	48
 地爱着	diaive	320
-迪安帝	diandi	193
+迪安帝	diandib	193
 抵岸价	dianjx	149
 狄安娜	diannal	286
 迪安娜	diannaly	91
@@ -156172,7 +155883,6 @@ sort: by_weight
 迪比科	dibikej	37
 迪比斯	dibisil	108
 滴鼻液	dibiye	79
-地板操	dibjcc	171
 地板价	dibjjx	1151
 地板流	dibjlq	713
 地板球	dibjqq	1234
@@ -156183,7 +155893,6 @@ sort: by_weight
 地标级	dibnji	383
 地表面	dibnmm	98
 地标式	dibnui	933
-低标准	dibnvy	5427
 地标性	dibnxk	2696
 迪伯伦	diboly	39
 底部的	dibude	17863
@@ -156704,8 +156413,7 @@ sort: by_weight
 地球的	diqqde	14831
 地球地	diqqdi	294
 地球化	diqqhx	58
-地球时	diqqui	621
-地球史	diqquik	67
+地球时	diqquii	621
 地球位	diqqww	58
 地球学	diqqxt	47
 地区部	diqubu	4117
@@ -156836,7 +156544,6 @@ sort: by_weight
 递送的	dissde	496
 地松鼠	dissuu	37
 低俗的	disude	1945
-低速档	disudhm	337
 低速度	disudu	653
 底隧道	disvdc	455
 迪泰尔	ditder	54
@@ -156884,7 +156591,6 @@ sort: by_weight
 地上的	diuhde	14398
 地上铁	diuhtp	81
 地上长	diuhvh	128
-地上物	diuhwu	0
 地上学	diuhxt	94
 地市报	diuibc	52
 迪士比	diuibi	366
@@ -157109,7 +156815,6 @@ sort: by_weight
 滴下的	dixxdeie	289
 地下根	dixxgf	44
 地下湖	dixxhu	101
-地下化	dixxhx	390
 地下人	dixxrfo	613
 地下生	dixxug	372
 地下站	dixxvj	579
@@ -158316,8 +158021,7 @@ sort: by_weight
 丁凯文	dkkdwf	40
 丁克坚	dkkejmg	82
 丁克森	dkkesf	1355
-丁克族	dkkezu	456
-顶客族	dkkezuk	0
+丁克族	dkkezuk	456
 丁奎岭	dkkvlk	94
 丁口册	dkkzce	0
 丁拉基	dklaji	328
@@ -158473,8 +158177,7 @@ sort: by_weight
 丁志宇	dkviyu	74
 顶撞的	dkvlde	111
 丁庄梦	dkvlmg	71
-定妆照	dkvlvc	10542
-定装照	dkvlvcf	0
+定妆照	dkvlvcf	10542
 定中国	dkvsgo	721
 定中心	dkvsxb	263
 定州城	dkvzig	93
@@ -158823,7 +158526,6 @@ sort: by_weight
 电机带	dmjidd	120
 电机的	dmjide	2841
 电击的	dmjidei	287
-电击法	dmjifai	0
 电极糊	dmjihu	37
 点击查	dmjiia	413
 点击量	dmjill	16406
@@ -158843,10 +158545,8 @@ sort: by_weight
 电机一	dmjiyi	87
 电机组	dmjizu	4744
 电竞人	dmjkrf	763
-电检法	dmjmfa	0
 电监局	dmjmju	76
 电建路	dmjmlu	50
-电检制	dmjmvi	0
 踮脚走	dmjnzz	121
 电解的	dmjpde	52
 电接触	dmjpiui	184
@@ -158882,7 +158582,6 @@ sort: by_weight
 电缆槽	dmljcc	46
 靛蓝的	dmljde	41
 电缆管	dmljgr	93
-电缆车	dmljie	0
 电缆皮	dmljpi	110
 电缆盘	dmljpj	156
 电缆长	dmljvh	74
@@ -158934,7 +158633,6 @@ sort: by_weight
 电脑人	dmncrf	119
 电脑太	dmnctdi	135
 电脑上	dmncuhm	3525
-电脑鼠	dmncuuv	176
 电脑收	dmncuz	308
 电脑针	dmncvf	62
 电脑纸	dmncvi	78
@@ -159046,7 +158744,6 @@ sort: by_weight
 点着的	dmvcde	289
 电召费	dmvcfw	1146
 点着了	dmvcle	90
-点召令	dmvclk	0
 电真空	dmvfks	104
 店掌柜	dmvhgv	83
 碘制剂	dmviji	44
@@ -159060,7 +158757,6 @@ sort: by_weight
 点缀出	dmvviu	413
 点缀物	dmvvwu	45
 滇文化	dmwfhx	98
-电蚊香	dmwfxl	1001
 槙文彦	dmwfyj	130
 电玩店	dmwjdm	245
 电玩城	dmwjig	2015
@@ -159134,14 +158830,12 @@ sort: by_weight
 点右键	dmyzjm	98
 电游室	dmyzui	180
 点灶灯	dmzcdg	0
-电宰厂	dmzdih	102
 电子本	dmzibf	230
 电子笔	dmzibiu	325
 电子波	dmzibo	62
 电子档	dmzidhm	407
 电子地	dmzidid	241
 电子稿	dmzigc	227
-电子锅	dmzigo	0
 电子股	dmzigue	10284
 电子海	dmzihd	99
 电子冲	dmziis	44
@@ -159271,7 +158965,6 @@ sort: by_weight
 雕刻工	dnkegs	174
 雕刻画	dnkehx	348
 雕刻出	dnkeiu	483
-雕刻匠	dnkejl	315
 吊客眉	dnkemw	131
 雕刻牌	dnkepd	42
 雕刻上	dnkeuh	134
@@ -159331,7 +159024,6 @@ sort: by_weight
 调蓄池	dnxuii	363
 调一次	dnyici	36
 调一调	dnyidn	53
-吊衣架	dnyijx	283
 刁亦男	dnyinj	5393
 调一下	dnyixx	273
 吊唁簿	dnyjbui	219
@@ -159386,7 +159078,6 @@ sort: by_weight
 多变态	dobmtd	53
 多边性	dobmxkmn	74
 多波段	dobodr	326
-躲不掉	dobudn	0
 躲不过	dobugo	3660
 多布杰	dobujp	1093
 多不了	dobulnn	38
@@ -159808,7 +159499,6 @@ sort: by_weight
 多汁的	dovidei	1310
 多脂的	dovidein	163
 多指教	dovijn	82
-多指症	dovivg	228
 多赚点	dovrdm	1508
 多重彩	dovscd	48
 多重的	dovsde	2608
@@ -159933,12 +159623,10 @@ sort: by_weight
 谍战片	dpvjpm	1210
 蝶形的	dpxkde	45
 蹀躞带	dpxpdd	181
-碟影机	dpykji	0
 碟影片	dpykpm	0
 碟子湖	dpzihu	250
 丢包率	dqbclv	445
 丢包术	dqbcuu	90
-丢不掉	dqbudn	0
 丢不了	dqbuln	40
 丢不起	dqbuqi	110
 丢倒头	dqdctz	0
@@ -161243,7 +160931,6 @@ sort: by_weight
 董耀中	dsycvs	627
 东摇西	dsycxi	45
 东阳关	dsyhgr	62
-东洋剑	dsyhjm	0
 冻羊肉	dsyhrz	239
 懂一点	dsyidm	438
 董宜东	dsyidsd	40
@@ -162663,7 +162350,6 @@ sort: by_weight
 逗留至	dzlqvi	252
 都留下	dzlqxx	97
 都留在	dzlqzdg	191
-都马调	dzmadn	0
 斗马节	dzmajp	44
 都敏俊	dzmbjy	21943
 都买了	dzmdle	707
@@ -163080,7 +162766,6 @@ sort: by_weight
 恩戈格	engege	161
 恩格莫	engemo	46
 恩甘定	engjdk	66
-恩给制	engwvi	1
 恩科诺	enkeno	116
 恩科西	enkexi	42
 恩孔卡	enkska	57
@@ -163213,7 +162898,6 @@ sort: by_weight
 二高中	ergcvsl	104
 尔高中	ergcvsln	48
 而高兴	ergcxk	2135
-二哥大	ergeda	0
 二个维	ergeww	49
 二个字	ergezi	14
 耳根厢	ergfxlu	0
@@ -163241,7 +162925,6 @@ sort: by_weight
 二环线	erhrxm	2176
 而轰动	erhsds	311
 耳护子	erhuzi	0
-儿化音	erhxyb	381
 耳后的	erhzde	274
 而后者	erhzve	28332
 而后又	erhzyz	260
@@ -163894,7 +163577,6 @@ sort: by_weight
 发泡的	fapcde	96
 发泡灸	fapcjq	45
 发泡体	fapcti	374
-法拍屋	fapdwu	557
 发片日	fapmri	363
 发票单	fapndj	242
 发票后	fapnhz	27
@@ -164403,7 +164085,6 @@ sort: by_weight
 芬兰化	ffljhxp	208
 粉蓝色	ffljse	815
 芬兰颂	ffljss	36
-芬兰浴	ffljyur	66
 粉领族	fflkzu	77
 分两次	ffllci	8285
 分两个	ffllge	468
@@ -166167,7 +165848,6 @@ sort: by_weight
 房屋基	fhwujig	661
 房屋局	fhwuju	638
 房屋署	fhwuuu	176
-房屋税	fhwuuv	425
 房屋长	fhwuvh	161
 房屋中	fhwuvs	2749
 房屋业	fhwuye	1288
@@ -166507,7 +166187,6 @@ sort: by_weight
 犯法的	fjfade	1470
 反讽的	fjfgde	475
 反封锁	fjfgso	233
-反方向	fjfhxl	4505
 泛泛的	fjfjde	1089
 泛泛地	fjfjdi	427
 范范范	fjfjfj	184
@@ -167592,7 +167271,6 @@ sort: by_weight
 富城路	fuiglur	1128
 阜城门	fuigmfs	47
 傅程鹏	fuigpg	1692
-负成长	fuigvh	0
 傅成玉	fuigyui	13018
 负场次	fuihci	47
 副厂件	fuihjm	882
@@ -168836,7 +168514,6 @@ sort: by_weight
 费多托	fwdoto	99
 费多少	fwdouc	483
 飞叠杯	fwdpbw	47
-飞碟球	fwdpqq	0
 飞碟社	fwdpue	37
 非短期	fwdrqi	496
 费短信	fwdrxb	54
@@ -169354,7 +169031,6 @@ sort: by_weight
 非洲红	fwvzhs	90
 非洲化	fwvzhx	53
 非洲产	fwvzij	352
-非洲菫	fwvzjb	0
 非洲军	fwvzjy	321
 非洲绿	fwvzlv	77
 非洲棉	fwvzmm	40
@@ -169381,7 +169057,6 @@ sort: by_weight
 废物的	fwwudei	2459
 飞舞的	fwwudein	1736
 废物堆	fwwudv	139
-废五金	fwwujb	260
 废物库	fwwuku	73
 飞舞着	fwwuve	22
 非为了	fwwwle	225
@@ -169410,7 +169085,6 @@ sort: by_weight
 飞行量	fwxkll	401
 飞行类	fwxklw	114
 飞行梦	fwxkmg	874
-飞行伞	fwxksj	129
 飞行艇	fwxktk	128
 飞行师	fwxkuib	206
 飞行石	fwxkuir	115
@@ -169860,8 +169534,7 @@ sort: by_weight
 高福源	gcfuyr	61
 高富有	gcfuyz	59
 高飞的	gcfwde	268
-郜飞机	gcfwji	475
-搞飞机	gcfwjin	152
+郜飞机	gcfwjin	475
 高费率	gcfwlv	526
 高沸物	gcfwwu	64
 高飞行	gcfwxk	132
@@ -171487,7 +171160,6 @@ sort: by_weight
 葛建中	gejmvs	46
 葛建伟	gejmww	119
 个阶段	gejpdre	20074
-个旧县	gejqxm	197
 隔绝的	gejtde	1486
 歌剧的	gejude	2021
 歌剧节	gejujpl	815
@@ -173669,7 +173341,6 @@ sort: by_weight
 广贤路	glxmlur	39
 光线是	glxmui	380
 光纤数	glxmuu	143
-光纤维	glxmww	356
 光现象	glxmxl	131
 光效高	glxngc	104
 光效率	glxnlv	99
@@ -174393,7 +174064,6 @@ sort: by_weight
 国民的	gombde	9622
 过敏的	gombdei	5066
 国民队	gombdv	979
-国民车	gombie	816
 国民谋	gombmz	41
 国民权	gombqr	0
 国民社	gombue	47
@@ -175529,7 +175199,6 @@ sort: by_weight
 关志成	grviig	65
 官至江	grvijl	37
 管制局	grviju	563
-管制品	grvipb	378
 管制期	grviqi	320
 关之前	grviqm	74
 管制塔	grvita	77
@@ -176620,7 +176289,6 @@ sort: by_weight
 工作忙	gszomh	10962
 工作牌	gszopd	762
 工作片	gszopm	96
-工作权	gszoqre	0
 工作群	gszoqy	497
 工作人	gszorf	3131
 工作态	gszotdp	69
@@ -177753,7 +177421,7 @@ sort: by_weight
 桂城南	gvignj	124
 龟丞相	gvigxl	41
 鬼缠身	gvijuf	67
-轨迹线	gvjixm	138
+轨迹线	gvjixmj	138
 桂晶晶	gvjkjk	155
 硅晶体	gvjkti	425
 硅晶圆	gvjkyr	132
@@ -178953,7 +178621,6 @@ sort: by_weight
 好前程	hcqmig	254
 号潜艇	hcqmtk	2631
 好巧网	hcqnwh	55
-好球带	hcqqdd	0
 号球员	hcqqyr	1058
 好热啊	hcreaa	59
 好热闹	hcrenc	41
@@ -181978,7 +181645,6 @@ sort: by_weight
 贺若氏	heroui	151
 和若曦	heroxi	552
 和软文	herrwf	146
-核融合	hershe	440
 赫荣亮	hersll	36
 和如皋	herugc	79
 河入海	heruhd	87
@@ -183391,7 +183057,6 @@ sort: by_weight
 很合适	hfheui	1031
 很合我	hfhewo	34
 狠狠爱	hfhfai	266
-狠狠的	hfhfdei	0
 恨恨恨	hfhfhf	91
 狠狠揍	hfhfzz	243
 很坏的	hfhkde	1109
@@ -184794,7 +184459,6 @@ sort: by_weight
 怀女孩	hknvhdo	159
 坏品味	hkpbww	86
 坏朋友	hkpgyz	177
-坏痞子	hkpizid	0
 坏苹果	hkpkgo	126
 坏人们	hkrfmf	64
 怀仁市	hkrfui	172
@@ -189944,7 +189608,6 @@ sort: by_weight
 绘图师	hvtuuib	99
 会推出	hvtviu	16761
 回头儿	hvtzer	288
-回头书	hvtzuu	138
 回头转	hvtzvr	63
 回头望	hvtzwh	132
 回头香	hvtzxl	49
@@ -190748,7 +190411,6 @@ sort: by_weight
 华隆储	hxlsiu	164
 华龙路	hxlslu	212
 华隆路	hxlslur	46
-划龙舟	hxlsvz	1725
 华勒斯	hxlwsil	72
 华勒沙	hxlwua	0
 华伦达	hxlyda	37
@@ -191269,7 +190931,6 @@ sort: by_weight
 花子虚	hxzixu	77
 华子鱼	hxziyu	1063
 画作品	hxzopb	1309
-划座位	hxzoww	138
 化作用	hxzoys	460
 化组合	hxzuhe	263
 华樽杯	hxzybw	176
@@ -191408,7 +191069,6 @@ sort: by_weight
 混元石	hyyrui	44
 混元珠	hyyrvu	38
 魂欲断	hyyudr	44
-婚友社	hyyzue	0
 魂游戏	hyyzxi	43
 混杂的	hyzadei	1568
 混杂著	hyzavu	314
@@ -192785,7 +192445,6 @@ sort: by_weight
 车博汇	iebohvs	186
 扯簸箕	ieboji	0
 车簸箕	iebojic	0
-扯不清	iebuqk	0
 车陂街	iebwjp	159
 车大砲	iedapcu	0
 车打芝	iedavi	39
@@ -192826,7 +192485,6 @@ sort: by_weight
 彻骨寒	ieguhj	68
 车毂辘	iegulup	146
 车鼓弄	ieguns	0
-车鼓阵	ieguvf	0
 车购易	iegzyi	68
 车豪宅	iehcvd	46
 车海中	iehdvs	139
@@ -193376,7 +193034,6 @@ sort: by_weight
 陈菲菲	iffwfwy	120
 陈飞虎	iffwhu	137
 陈飞龙	iffwls	806
-尘肺症	iffwvg	196
 陈飞舟	iffwvz	77
 陈飞宇	iffwyu	86
 陈高峰	ifgcfg	61
@@ -196379,7 +196036,6 @@ sort: by_weight
 程念慈	ignmci	144
 成年队	ignmdv	5001
 成年了	ignmle	320
-成年礼	ignmli	1132
 成年期	ignmqi	1107
 成年犬	ignmqr	84
 成年型	ignmxk	89
@@ -197135,7 +196791,6 @@ sort: by_weight
 长命水	ihmkuv	87
 常美丽	ihmwli	77
 昌宁郡	ihnkjy	121
-长年菜	ihnmcd	0
 长年的	ihnmde	1064
 常年来	ihnmld	866
 肠黏膜	ihnmmo	46
@@ -198183,8 +197838,7 @@ sort: by_weight
 传奇品	irqipb	494
 传奇曲	irqiqu	57
 川崎市	irqiuib	902
-川埼症	irqivg	0
-川崎症	irqivgm	0
+川埼症	irqivgm	0
 川崎制	irqivi	49
 川崎站	irqivj	41
 川崎主	irqivu	179
@@ -198427,7 +198081,6 @@ sort: by_weight
 虫化石	ishxui	78
 重婚的	ishyde	345
 重婚者	ishyve	64
-充场面	isihmm	406
 充斥着	isiive	2862
 冲冲冲	isisis	2415
 重重山	isisuj	91
@@ -199139,7 +198792,6 @@ sort: by_weight
 处置区	iuviqu	102
 础知识	iuviui	671
 处置组	iuvizu	1269
-出状况	iuvlkl	532
 初装修	iuvlxq	98
 出专辑	iuvrji	323
 出众的	iuvsde	32421
@@ -199672,7 +199324,6 @@ sort: by_weight
 金碧坊	jbbifh	62
 金璧辉	jbbihv	43
 金币卡	jbbika	160
-金臂人	jbbirf	0
 紧闭着	jbbiveu	38
 金斑马	jbbjma	171
 近半数	jbbjuu	68
@@ -202383,8 +202034,7 @@ sort: by_weight
 极利于	jiliyu	55
 吉兰太	jiljtdi	51
 机灵的	jilkde	1294
-机灵地	jilkdi	209
-畸零地	jilkdid	0
+机灵地	jilkdid	209
 吉灵汉	jilkhj	194
 急伶俐	jilkli	0
 纪灵灵	jilklkf	229
@@ -202706,7 +202356,6 @@ sort: by_weight
 冀热察	jireia	106
 冀热辽	jireln	124
 几人看	jirfkj	37
-级任制	jirfvi	121
 级任务	jirfwu	621
 即日到	jiridc	302
 祭日的	jiride	100
@@ -204872,7 +204521,6 @@ sort: by_weight
 江门人	jlmfrfo	138
 蒋梦婕	jlmgjp	7157
 江密峰	jlmifg	112
-江米人	jlmirf	0
 姜明安	jlmkan	2768
 江明波	jlmkbo	423
 蒋明红	jlmkhs	114
@@ -205932,7 +205580,6 @@ sort: by_weight
 健客网	jmkewh	163
 建科院	jmkeyr	137
 健康宝	jmkhbci	47
-健康醋	jmkhcu	0
 健康岛	jmkhdc	413
 健康地	jmkhdi	6747
 健康度	jmkhdu	1993
@@ -206066,7 +205713,6 @@ sort: by_weight
 剪片子	jmpmzi	79
 简朴的	jmpnde	2029
 检票机	jmpnji	276
-拣破烂	jmpoljm	0
 俭朴的	jmpude	297
 简沛恩	jmpwen	37
 键配合	jmpwhe	41
@@ -206240,7 +205886,6 @@ sort: by_weight
 检针器	jmvfqird	64
 见真情	jmvfqk	16
 减震筒	jmvfts	172
-见真章	jmvfvh	1470
 见证了	jmvgle	1779
 简政强	jmvgql	91
 见证书	jmvguu	47
@@ -206334,7 +205979,6 @@ sort: by_weight
 兼香型	jmxlxk	199
 艰险的	jmxmde	919
 蹇先佛	jmxmfu	69
-捡现成	jmxmig	0
 蹇先任	jmxmrf	114
 简先生	jmxmug	274
 茧纤维	jmxmww	0
@@ -207448,7 +207092,6 @@ sort: by_weight
 界梁子	jpllzid	200
 接连的	jplmdei	2519
 接连地	jplmdi	144
-结连理	jplmli	0
 接连着	jplmve	89
 杰罗恩	jploen	57
 杰洛米	jplomid	112
@@ -209595,7 +209238,6 @@ sort: by_weight
 家菜馆	jxcdgr	58
 夹彩塑	jxcdsu	0
 夹层的	jxcgde	330
-夹层屋	jxcgwu	0
 加刺激	jxciji	261
 家餐馆	jxcjgr	2912
 家蚕丝	jxcjsi	43
@@ -211869,7 +211511,6 @@ sort: by_weight
 开香槟	kdxlbb	58
 开箱机	kdxlji	103
 开箱子	kdxlzi	600
-开先例	kdxmli	248
 开小号	kdxnhc	212
 开销户	kdxnhu	138
 开晓胜	kdxnug	863
@@ -211880,7 +211521,6 @@ sort: by_weight
 开学了	kdxtle	2538
 开学礼	kdxtli	392
 开学前	kdxtqm	375
-开饮机	kdybji	0
 开业的	kdyede	13108
 开业后	kdyehz	59
 开业了	kdyele	103
@@ -213446,7 +213086,6 @@ sort: by_weight
 看得多	kjdedo	964
 看的懂	kjdedsg	103
 看得惯	kjdegr	71
-看得开	kjdekd	0
 看得着	kjdeve	16
 看得我	kjdewo	2402
 看的我	kjdewoi	417
@@ -213710,7 +213349,6 @@ sort: by_weight
 快电子	kkdmzi	95
 块多的	kkdode	218
 快多了	kkdole	1
-快动作	kkdszo	159
 块分类	kkfflw	76
 快疯掉	kkfgdn	77
 快疯了	kkfgle	485
@@ -214443,7 +214081,6 @@ sort: by_weight
 孔宙碑	ksvzbw	0
 空文件	kswfjm	12
 空五军	kswujy	40
-空屋率	kswulv	0
 空屋子	kswuzi	117
 孔维东	kswwds	40
 孔维克	kswwke	79
@@ -214610,7 +214247,6 @@ sort: by_weight
 苦瓠子	kuhuzi	0
 库查尔	kuiaerf	1454
 裤叉儿	kuiaeru	0
-苦茶油	kuiayz	122
 裤衩子	kuiazi	184
 苦橙叶	kuigye	40
 库成员	kuigyr	38
@@ -215081,7 +214717,6 @@ sort: by_weight
 喇叭网	labawh	66
 喇叭响	labaxlr	111
 喇叭袖	labaxq	383
-拉保险	labcxm	0
 拉比奥	labiao	2107
 拉绊着	labjve	0
 拉便便	labmbm	41
@@ -215204,7 +214839,6 @@ sort: by_weight
 拉魂腔	lahyql	0
 拉扯着	laieve	123
 拉长的	laihde	2144
-腊肠树	laihuu	0
 拉仇恨	laizhf	1387
 拉臭臭	laiziz	173
 拉抽屉	laizti	0
@@ -215228,7 +214862,6 @@ sort: by_weight
 垃圾级	lajiji	2391
 垃圾街	lajijp	84
 拉吉拉	lajila	190
-垃圾量	lajill	1886
 垃圾能	lajing	460
 拉季奇	lajiqi	1014
 拉基奇	lajiqir	320
@@ -215243,7 +214876,6 @@ sort: by_weight
 垃圾相	lajixlug	0
 拉吉亚	lajiya	38
 垃圾鱼	lajiyu	523
-拉警报	lajkbc	451
 拉镜头	lajktz	0
 辣酱面	lajlmm	70
 辣椒吧	lajnbau	37
@@ -216187,7 +215819,6 @@ sort: by_weight
 林师傅	lbuifui	1132
 磷石膏	lbuigc	1056
 临时冠	lbuigr	118
-临时会	lbuihv	52283
 临时车	lbuiie	516
 临时奖	lbuijl	114
 林师杰	lbuijp	78
@@ -216721,7 +216352,6 @@ sort: by_weight
 老广广	lcglgl	0
 老广州	lcglvz	514
 老广文	lcglwf	0
-捞过界	lcgojp	203
 老郭家	lcgojx	70
 老果园	lcgoyr	79
 老棺材	lcgrcd	0
@@ -216782,7 +216412,6 @@ sort: by_weight
 老虎嘴	lchuzv	546
 老化的	lchxde	9185
 老化机	lchxji	51
-老话题	lchxti	0
 老化水	lchxuv	476
 老混忘	lchywh	0
 老茶馆	lciagr	240
@@ -216918,7 +216547,6 @@ sort: by_weight
 老民警	lcmbjk	668
 老麦克	lcmdke	83
 老门槛	lcmfkj	0
-老米饭	lcmifj	0
 老米家	lcmijx	57
 老蜜蜡	lcmila	231
 老满儿	lcmjer	0
@@ -216984,7 +216612,6 @@ sort: by_weight
 老人服	lcrffu	884
 老人沟	lcrfgz	137
 老人会	lcrfhv	0
-老人茶	lcrfia	0
 劳人科	lcrfke	90
 老人皮	lcrfpi	58
 老人参	lcrfuf	695
@@ -217124,7 +216751,6 @@ sort: by_weight
 老西安	lcxian	120
 老希尔	lcxierf	110
 老习惯	lcxigr	0
-老戏迷	lcximi	0
 老西藏	lcxizh	54
 老型号	lcxkhc	548
 老乡啊	lcxlaa	10
@@ -217810,7 +217436,6 @@ sort: by_weight
 冷僻字	lgpizi	181
 冷平流	lgpklq	0
 冷起动	lgqidss	62
-冷气房	lgqifh	0
 冷气车	lgqiie	0
 冷氢化	lgqkhx	775
 冷清秋	lgqkqq	510
@@ -220306,7 +219931,6 @@ sort: by_weight
 礼品城	lipbig	186
 礼品酒	lipbjq	346
 李品科	lipbke	1305
-礼品书	lipbuu	36
 礼品展	lipbvj	303
 梨品种	lipbvs	59
 李鹏飞	lipgfw	1526
@@ -223224,7 +222848,6 @@ sort: by_weight
 揽雀尾	ljqtww	78
 蓝驱车	ljquie	376
 兰若寺	ljresi	103
-榄仁树	ljrfuu	0
 懒人鞋	ljrfxp	111
 兰如剑	ljrujm	58
 兰萨拉	ljsala	47
@@ -223435,7 +223058,6 @@ sort: by_weight
 零风险	lkfgxm	4599
 零方案	lkfhan	0
 零负担	lkfudj	1190
-零付款	lkfukr	0
 领福利	lkfuli	437
 零服务	lkfuwu	160
 零费率	lkfwlv	1218
@@ -224161,7 +223783,6 @@ sort: by_weight
 两三节	llsjjp	46
 两三事	llsjui	168
 两三时	llsjuii	44
-两三下	llsjxx	0
 两三页	llsjye	35
 两三元	llsjyr	857
 两三月	llsjyt	254
@@ -227020,7 +226641,6 @@ sort: by_weight
 刘淮松	lqhkss	216
 刘怀志	lqhkvi	298
 硫磺的	lqhlde	366
-硫磺谷	lqhlgu	211
 硫磺矿	lqhlkl	287
 刘皇叔	lqhluu	266
 硫磺熏	lqhlxy	1306
@@ -227741,8 +227361,6 @@ sort: by_weight
 刘力贞	lqlivfo	57
 刘立志	lqlivi	158
 琉璃盏	lqlivj	36
-琉璃砖	lqlivr	0
-琉璃珠	lqlivu	130
 刘立柱	lqlivug	71
 刘立文	lqliwf	45
 刘立伟	lqliww	348
@@ -229394,7 +229012,6 @@ sort: by_weight
 刘逸云	lqyiyy	89
 留言吧	lqyjba	42
 刘燕斌	lqyjbbmy	247
-留言册	lqyjcem	0
 流沿儿	lqyjer	0
 刘艳峰	lqyjfg	127
 刘艳芳	lqyjfh	111
@@ -229752,7 +229369,6 @@ sort: by_weight
 卵巢瘤	lriclq	80
 栾城集	lrigji	0
 乱穿靴	lrirxt	0
-乱集团	lrjitr	135
 栾菊杰	lrjujp	71
 乱家子	lrjxzi	0
 栾克军	lrkejy	101
@@ -230027,7 +229643,6 @@ sort: by_weight
 笼统的	lstsde	3115
 笼统讲	lstsjl	59
 龙图智	lstuvi	350
-龙吐珠	lstuvu	0
 龙头包	lstzbc	77
 龙头菜	lstzcd	63
 龙头队	lstzdv	49
@@ -231104,7 +230719,6 @@ sort: by_weight
 芦芽山	luyauj	111
 录音的	luybde	2915
 录音档	luybdh	166
-录音间	luybjm	399
 录音键	luybjmq	80
 录音门	luybmf	588
 录音片	luybpm	111
@@ -231224,7 +230838,6 @@ sort: by_weight
 铝板材	lvbjcd	145
 吕兵兵	lvbkbk	107
 绿标车	lvbnie	603
-铝箔包	lvbobc	334
 绿波带	lvboddb	248
 绿薄荷	lvbohe	46
 旅博会	lvbohvi	1330
@@ -231265,7 +230878,6 @@ sort: by_weight
 铝单板	lvdjbj	44
 绿东村	lvdscy	106
 律动的	lvdsde	492
-律动感	lvdsgj	0
 绿动机	lvdsji	49
 吕东明	lvdsmk	50
 吕洞山	lvdsuj	51
@@ -231969,7 +231581,6 @@ sort: by_weight
 类推的	lwtvde	38
 雷少东	lwucds	63
 镭射标	lwuebn	90
-雷射刀	lwuedc	0
 镭射灯	lwuedg	215
 雷射光	lwueglu	92
 镭射膜	lwuemo	101
@@ -236244,7 +235855,6 @@ sort: by_weight
 满期日	mjqiri	47
 慢棋赛	mjqisd	234
 满青春	mjqkiy	36
-满球数	mjqquu	0
 满全城	mjqrig	72
 蛮热的	mjrede	14
 满人间	mjrfjm	89
@@ -239987,8 +239597,7 @@ sort: by_weight
 拿满分	namjff	262
 那漫山	namjuj	85
 那满山	namjuju	65
-拿命来	namkld	74
-纳命来	namkldt	0
+拿命来	namkldt	74
 那明明	namkmk	55
 那名男	namknj	4030
 南无佛	namofu	0
@@ -240401,7 +240010,6 @@ sort: by_weight
 脑栓通	ncurts	340
 闹水荒	ncuvhl	92
 脑受损	ncuzsy	81
-脑中枢	ncvsuu	210
 硇洲岛	ncvzdc	182
 闹戏儿	ncxier	0
 脑形成	ncxkig	42
@@ -242001,7 +241609,6 @@ sort: by_weight
 难讨好	njtchc	94
 南台岛	njtddc	54
 楠泰尔	njtderf	263
-南台湾	njtdwj	980
 南太务	njtdwu	58
 南泰熙	njtdxi	1452
 南太行	njtdxk	172
@@ -242541,7 +242148,6 @@ sort: by_weight
 尿不出	nnbuiu	10
 尿不尽	nnbujb	344
 尿布台	nnbutd	324
-尿布疹	nnbuvf	774
 尿道的	nndcde	337
 尿等待	nndgdd	121
 尿滴沥	nndili	42
@@ -242552,7 +242158,6 @@ sort: by_weight
 鸟脚类	nnjnlw	71
 尿结石	nnjpui	1057
 鸟瞰的	nnkjde	151
-尿疗法	nnlnfa	297
 鸟龙种	nnlsvs	113
 鸟类的	nnlwde	2218
 鸟鸣声	nnmkug	431
@@ -242664,11 +242269,9 @@ sort: by_weight
 聂凌峰	nplkfg	659
 聂磊案	nplwan	95
 聂磊涉	nplwue	202
-捏面人	npmmrf	821
 聂梅生	npmwug	6032
 捏捏脚	npnpjn	47
 捏捏捏	npnpnp	104
-涅槃经	nppjjkm	495
 聂日明	nprimk	134
 嗫嚅着	npruve	26
 聂瑞平	nprvpk	224
@@ -242842,7 +242445,6 @@ sort: by_weight
 牛肉汁	nqrzvi	59
 牛肉粥	nqrzvz	72
 牛肉馅	nqrzxm	612
-牛肉秀	nqrzxq	0
 牛思道	nqsidc	121
 牛饲料	nqsiln	79
 牛饲养	nqsiyh	134
@@ -243038,7 +242640,6 @@ sort: by_weight
 农化工	nshxgs	382
 弄混了	nshyle	558
 浓厚地	nshzdi	175
-弄车鼓	nsiegu	0
 农场村	nsihcy	234
 农场的	nsihde	6164
 农场局	nsihju	37
@@ -243080,7 +242681,6 @@ sort: by_weight
 农民节	nsmbjp	88
 农民家	nsmbjx	1595
 农民军	nsmbjy	753
-农民历	nsmbli	354
 农民式	nsmbui	144
 农民学	nsmbxt	426
 农忙期	nsmhqi	46
@@ -243102,7 +242702,6 @@ sort: by_weight
 浓肉汤	nsrzth	98
 弄死了	nssile	326
 农索堡	nssobc	58
-浓缩版	nssobj	0
 浓缩的	nssode	2251
 浓缩池	nssoii	167
 弄疼了	nstgle	17
@@ -243307,7 +242906,6 @@ sort: by_weight
 女郎中	nvlhvs	40
 女力士	nvliui	102
 女领导	nvlkdc	380
-女联会	nvlmhv	0
 女萝岩	nvloyj	23
 女律师	nvlvui	1795
 女码农	nvmans	19
@@ -243405,7 +243003,7 @@ sort: by_weight
 女装区	nvvlqu	150
 女装业	nvvlye	55
 女状元	nvvlyr	479
-女助教	nvvujn	431
+女助教	nvvujnk	431
 女助理	nvvuli	3820
 女助手	nvvuuz	1134
 女娲宫	nvwags	65
@@ -243510,7 +243108,6 @@ sort: by_weight
 内地剧	nwdiju	1852
 内迪克	nwdike	54
 内地片	nwdipm	426
-内丹功	nwdjgs	0
 内定了	nwdkle	36
 内电解	nwdmjp	160
 内动力	nwdsli	856
@@ -246861,7 +246458,6 @@ sort: by_weight
 破净股	pojkgu	5499
 破净率	pojklv	141
 迫降场	pojlih	195
-酦酵乳	pojnru	0
 破解过	pojpgo	11
 破解组	pojpzu	19
 破旧的	pojqde	8315
@@ -246906,7 +246502,6 @@ sort: by_weight
 迫切的	poqpde	16622
 迫切地	poqpdi	3699
 破绕前	porcqm	80
-破嗓子	poshzi	0
 破碎带	posvdd	391
 破碎的	posvde	6535
 破碎法	posvfa	60
@@ -248678,7 +248273,6 @@ sort: by_weight
 气囊囊	qinhnh	0
 齐尼奥	qiniao	4184
 齐尼奇	qiniqi	364
-七娘妈	qinlma	385
 七娘山	qinluj	286
 绮年华	qinmhx	95
 七年来	qinmld	4525
@@ -249777,7 +249371,6 @@ sort: by_weight
 轻生者	qkugve	620
 庆盛站	qkugvj	39
 轻声笑	qkugxn	48
-轻声字	qkugzi	0
 请上车	qkuhie	53
 清时代	qkuidd	317
 轻视的	qkuide	1149
@@ -250204,7 +249797,6 @@ sort: by_weight
 强齐聚	qlqijuo	91
 强气流	qlqilq	10
 枪骑士	qlqiui	339
-强强滚	qlqlgy	0
 强强联	qlqllm	15093
 强强连	qlqllmq	48
 强强强	qlqlql	129
@@ -250942,7 +250534,6 @@ sort: by_weight
 前往家	qmwhjx	348
 钱王铺	qmwhpu	42
 前往者	qmwhve	51
-牵亡阵	qmwhvf	0
 千万不	qmwjbu	1096
 前湾村	qmwjcy	100
 前湾港	qmwjgh	425
@@ -252161,7 +251752,6 @@ sort: by_weight
 权田修	qrtmxq	220
 泉天下	qrtmxx	36
 全天下	qrtmxxy	1
-全天域	qrtmyu	68
 全天游	qrtmyz	132
 全贴合	qrtphe	7300
 全同步	qrtsbu	125
@@ -252504,7 +252094,7 @@ sort: by_weight
 缺少点	qtucdm	35
 缺少性	qtucxk	201
 缺省的	qtugde	65
-却生生	qtugug	189
+却生生	qtugugm	189
 确实的	qtuide	1646
 确实地	qtuidi	349
 确实很	qtuihf	43127
@@ -253428,7 +253018,6 @@ sort: by_weight
 热水洗	reuvxiu	1961
 热水浴	reuvyu	1431
 热扎板	revabje	70
-热爪哇	revcwa	0
 热真空	revfks	37
 热指数	reviuu	46
 热衷的	revsde	5861
@@ -254925,7 +254514,6 @@ sort: by_weight
 软青皮	rrqkpi	0
 阮虔芷	rrqmvi	374
 软权力	rrqrli	139
-软人才	rrrfcd	0
 软弱的	rrrode	3337
 软弱地	rrrodi	66
 软弱者	rrrove	74
@@ -255399,7 +254987,6 @@ sort: by_weight
 如是问	ruuiwf	77
 如山的	ruujde	642
 汝山谷	ruujgu	106
-入山证	ruujvg	226
 如山之	ruujvi	471
 入睡后	ruuvhz	68
 入水口	ruuvkz	528
@@ -255852,7 +255439,6 @@ sort: by_weight
 萨托鲁	satolu	792
 撒石灰	sauihv	115
 撒手鐗	sauzjmb	494
-撒纸钱	saviqm	0
 萨瓦迪	sawadiw	165
 萨瓦多	sawado	37
 萨瓦林	sawalb	51
@@ -256220,7 +255806,6 @@ sort: by_weight
 瑟琳娜	selbna	59
 色牢度	selcdu	3151
 色盲的	semhde	101
-色瞇瞇	semimidnb	0
 色迷人	semirf	0
 色谱的	sepude	43
 色情的	seqkde	1569
@@ -256628,7 +256213,6 @@ sort: by_weight
 司和子	sihezi	47
 四横路	sihglu	120
 嘶喊着	sihjve	11
-四坏球	sihkqq	49
 斯霍夫	sihofu	43
 私伙局	sihoju	90
 斯霍特	sihote	39
@@ -257195,7 +256779,6 @@ sort: by_weight
 斯图亚	situya	37
 司徒耀	situyc	268
 死神赛	siufsd	392
-四神汤	siufth	552
 私生饭	siugfj	988
 四圣兽	siuguz	221
 死生也	siugye	71
@@ -257287,7 +256870,6 @@ sort: by_weight
 死亡塔	siwhta	46
 死亡税	siwhuv	51
 死亡证	siwhvg	428
-死亡学	siwhxt	298
 丝网印	siwhyb	77
 四王子	siwhzi	32
 四万个	siwjge	376
@@ -257611,7 +257193,6 @@ sort: by_weight
 三国戏	sjgoxi	37
 三关口	sjgrkz	467
 三管轮	sjgrly	63
-三冠王	sjgrwh	31205
 三工区	sjgsqu	56
 三公园	sjgsyr	116
 三股的	sjgude	53
@@ -257702,7 +257283,6 @@ sort: by_weight
 三角线	sjjnxm	162
 三节的	sjjpde	1197
 三节高	sjjpgc	68
-三界公	sjjpgs	0
 三节棍	sjjpgy	551
 三结义	sjjpyi	69
 散就散	sjjqsj	116
@@ -258687,7 +258267,6 @@ sort: by_weight
 松江人	ssjlrf	45
 松江上	ssjluh	136
 松江市	ssjlui	244
-宋江阵	ssjlvfq	0
 宋江之	ssjlvi	42
 宋江云	ssjlyy	80
 宋剑斌	ssjmbb	70
@@ -261572,7 +261151,6 @@ sort: by_weight
 讨好人	tchcrf	97
 讨好他	tchcta	48
 讨好她	tchctad	37
-讨海人	tchdrf	0
 桃核雕	tchedn	231
 陶汉林	tchjlb	13557
 套环儿	tchrer	0
@@ -261591,7 +261169,6 @@ sort: by_weight
 桃花季	tchxjid	94
 桃花涧	tchxjma	239
 桃花结	tchxjpr	40
-桃花劫	tchxjps	670
 桃花林	tchxlb	364
 桃花里	tchxli	45
 桃花岭	tchxlk	214
@@ -261626,9 +261203,7 @@ sort: by_weight
 淘金贷	tcjbdd	819
 淘金地	tcjbdi	747
 淘金河	tcjbhe	126
-淘金客	tcjbke	1661
 淘金乐	tcjble	91
-淘金梦	tcjbmg	0
 淘金人	tcjbrf	69
 淘金山	tcjbuj	212
 淘金站	tcjbvj	44
@@ -261643,7 +261218,6 @@ sort: by_weight
 陶建平	tcjmpk	116
 陶交会	tcjnhv	43
 讨交情	tcjnqkb	0
-讨救兵	tcjqbk	0
 讨决裂	tcjtlp	0
 陶嘉乐	tcjxle	74
 陶嘉明	tcjxmk	301
@@ -261711,7 +261285,6 @@ sort: by_weight
 陶庆梅	tcqkmw	52
 陶晴贤	tcqkxm	37
 陶秋普	tcqqpu	130
-讨人情	tcrfqk	0
 桃仁粥	tcrfvz	58
 淘日本	tcribf	61
 陶然成	tcrjig	285
@@ -266827,7 +266400,6 @@ sort: by_weight
 同名的	tsmkde	3612
 同名端	tsmkdr	52
 童明康	tsmkkh	383
-同命鸟	tsmknn	379
 童名谦	tsmkqm	5420
 同名人	tsmkrf	998
 同名诗	tsmkui	80
@@ -268043,7 +267615,6 @@ sort: by_weight
 头疼病	tztgbk	68
 头疼事	tztgui	354
 头疼医	tztgyi	853
-偷听器	tztkqi	72
 头条吧	tztnba	58
 头条网	tztnwh	136
 头痛的	tztsde	5094
@@ -268758,7 +268329,6 @@ sort: by_weight
 邵仲毅	ucvsyi	392
 邵周成	ucvzig	40
 邵文忠	ucwfvs	51
-烧王船	ucwhir	0
 稍晚的	ucwjde	1404
 稍晚些	ucwjxp	15
 邵维杰	ucwwjp	146
@@ -272643,7 +272213,6 @@ sort: by_weight
 石虎村	uihucy	48
 石湖村	uihucyi	42
 石湖荡	uihudh	132
-石斛兰	uihulj	305
 实葫芦	uihulu	97
 石胡荽	uihusv	257
 石虎塘	uihuth	50
@@ -273613,7 +273182,6 @@ sort: by_weight
 施人诚	uirfigs	113
 食人鲳	uirfih	165
 似人间	uirfjma	61
-噬人菌	uirfjy	0
 石人岭	uirflk	53
 诗人们	uirfmf	500
 使人迷	uirfmi	104
@@ -275088,7 +274656,6 @@ sort: by_weight
 山林地	ujlbdi	231
 山林湖	ujlbhu	56
 山林场	ujlbih	294
-山老鼠	ujlcuu	0
 山里村	ujlicy	88
 山里来	ujlild	122
 山里头	ujlitz	110
@@ -276015,11 +275582,9 @@ sort: by_weight
 栓塞的	ursede	77
 拴娃娃	urwawa	0
 书报社	uubcue	41
-竖白旗	uubdqi	0
 数百位	uubdww	72
 数百亿	uubdyi	98
 书本的	uubfde	632
-书笔记	uubiji	0
 鼠标点	uubndmf	424
 鼠标手	uubnuz	996
 书博会	uubohv	336
@@ -276104,7 +275669,6 @@ sort: by_weight
 数号码	uuhcma	197
 数很多	uuhfdo	265
 舒红兵	uuhsbk	254
-疏洪道	uuhsdc	291
 舒洪水	uuhsuv	49
 疏忽的	uuhude	866
 赎回的	uuhvde	57335
@@ -276555,7 +276119,7 @@ sort: by_weight
 水泵轴	uvbgvz	69
 谁帮谁	uvbhuv	39
 水帮鱼	uvbhyu	0
-水笔子	uvbizi	0
+水笔子	uvbizid	0
 水半球	uvbjqq	0
 水兵服	uvbkfu	38
 睡病虫	uvbkis	1
@@ -277250,7 +276814,6 @@ sort: by_weight
 刷卡金	uxkajb	1042
 刷卡族	uxkazu	549
 刷喇叭	uxlaba	81
-耍老千	uxlcqm	322
 耍龙灯	uxlsdg	109
 刷绿漆	uxlvqi	156
 刷排名	uxpdmk	130
@@ -277273,7 +276836,6 @@ sort: by_weight
 刷信誉	uxxbyu	1894
 刷系统	uxxits	101
 耍像儿	uxxler	0
-耍噱头	uxxttz	0
 刷下限	uxxxxm	143
 刷牙法	uxyafa	124
 刷一遍	uxyibm	441
@@ -277384,7 +276946,6 @@ sort: by_weight
 受不住	uzbuvug	1208
 收不住	uzbuvugv	215
 手不稳	uzbuwf	277
-守备率	uzbwlv	0
 守备师	uzbwui	52
 手操作	uzcczo	1027
 手彩儿	uzcder	146
@@ -277661,7 +277222,6 @@ sort: by_weight
 守林人	uzlbrf	75
 寿老人	uzlcrf	522
 受了寒	uzlehj	127
-受冷落	uzlglo	0
 手里的	uzlide	3366
 受理点	uzlidm	964
 受理后	uzlihz	67
@@ -277686,7 +277246,6 @@ sort: by_weight
 兽类的	uzlwde	70
 守擂者	uzlwve	121
 首轮的	uzlyde	16888
-首轮片	uzlypm	0
 首轮签	uzlyqm	158
 售楼价	uzlzjx	69
 收楼令	uzlzlk	54
@@ -277728,7 +277287,6 @@ sort: by_weight
 收派员	uzpdyr	597
 手捧花	uzpghx	578
 手捧着	uzpgve	82
-瘦皮猴	uzpihz	0
 收盘于	uzpjyu	12
 受骗的	uzpmde	2923
 受骗了	uzpmle	1679
@@ -277988,7 +277546,6 @@ sort: by_weight
 受冤屈	uzyrqu	86
 寿永年	uzysnm	58
 授予的	uzyude	43631
-手语歌	uzyuge	0
 授予人	uzyurf	724
 授予日	uzyuri	42856
 手语舞	uzyuwu	108
@@ -281119,8 +280676,7 @@ sort: by_weight
 整机厂	vgjiih	2290
 正激励	vgjilis	271
 征集人	vgjirf	4541
-政集团	vgjitr	874
-正集团	vgjitrh	422
+政集团	vgjitrh	874
 郑继文	vgjiwf	62
 正极线	vgjixm	55
 正经的	vgjkde	2290
@@ -281259,7 +280815,6 @@ sort: by_weight
 整脸子	vglmzi	0
 郑罗茜	vgloqm	2745
 蒸馏的	vglqde	129
-蒸馏法	vglqfa	277
 蒸馏出	vglqiu	70
 政六街	vglqjp	53
 正六品	vglqpb	36
@@ -281405,7 +280960,6 @@ sort: by_weight
 正三品	vgsjpb	102
 郑三炮	vgsjpc	65
 正三位	vgsjww	164
-证所税	vgsouv	0
 郑松柏	vgssbd	138
 郑松标	vgssbn	363
 郑松兴	vgssxk	129
@@ -287815,7 +287369,6 @@ sort: by_weight
 战五胜	vjwuug	253
 战无双	vjwuul	92
 战五渣	vjwuva	373
-站卫兵	vjwwbk	0
 詹卫东	vjwwds	181
 战卫华	vjwwhx	38
 詹伟坚	vjwwjm	104
@@ -289776,7 +289329,6 @@ sort: by_weight
 钟晓阳	vsxnyh	37
 重写的	vsxpde	110
 终修成	vsxqig	506
-中选区	vsxrqu	0
 中选择	vsxrze	21258
 钟雄兵	vsxsbk	48
 中学过	vsxtgo	64
@@ -290184,7 +289736,6 @@ sort: by_weight
 猪肝汤	vugjth	420
 朱感生	vugjug	43
 猪肝粥	vugjvz	284
-竹竿舞	vugjwu	387
 猪拐子	vugkzi	0
 朱广彬	vuglbb	70
 珠光宝	vuglbc	37
@@ -290900,7 +290451,6 @@ sort: by_weight
 筑土墙	vutuql	289
 猪腿肉	vutvrz	12
 煮透的	vutzde	226
-猪头肥	vutzfw	0
 猪头石	vutzui	88
 朱砂点	vuuadm	83
 朱砂符	vuuafu	244
@@ -293101,7 +292651,6 @@ sort: by_weight
 瓦瑟纳	wasena	36
 瓦斯尔	wasier	80
 瓦斯高	wasigc	36
-瓦斯车	wasiie	0
 瓦斯克	wasikeu	158
 瓦斯枪	wasiql	60
 瓦斯托	wasito	94
@@ -293186,7 +292735,6 @@ sort: by_weight
 外地车	wddiie	6250
 外地来	wddild	168
 外弹道	wddjdc	45
-外丹功	wddjgs	0
 外电源	wddmyr	124
 外电子	wddmzid	104
 外东北	wddsbw	229
@@ -298428,7 +297976,6 @@ sort: by_weight
 王有义	whyzyik	39
 网友语	whyzyu	94
 王友云	whyzyy	52
-尪仔标	whzdbn	0
 王在全	whzdqr	42
 王在山	whzduj	174
 网在线	whzdxm	527
@@ -301729,7 +301276,6 @@ sort: by_weight
 五面镜	wummjk	40
 无面目	wummmu	402
 雾面屏	wummpk	244
-无冕王	wummwh	497
 屋面为	wummww	85
 吴妙贞	wumnvf	81
 五秒钟	wumnvs	1328
@@ -306488,7 +306034,6 @@ sort: by_weight
 西北湖	xibwhu	270
 西北狼	xibwlh	588
 细贝萌	xibwmg	1148
-西北台	xibwtd	0
 西北天	xibwtm	71
 西北土	xibwtu	80
 西北省	xibwug	648
@@ -306683,7 +306228,6 @@ sort: by_weight
 西瓜头	xigxtz	764
 西瓜属	xigxuu	192
 西瓜王	xigxwh	124
-洗沟球	xigzqq	0
 嘻哈帮	xihabh	92
 席哈克	xihake	213
 西哈鲁	xihalu	82
@@ -308209,7 +307753,6 @@ sort: by_weight
 兴盛源	xkugyrf	68
 行商的	xkuhde	692
 行商品	xkuhpb	505
-形上学	xkuhxt	53
 性上瘾	xkuhyb	59
 行识别	xkuibp	299
 形势的	xkuidei	35334
@@ -308543,7 +308086,6 @@ sort: by_weight
 向别人	xlbprf	584
 向布鲁	xlbulu	185
 相不明	xlbumk	43
-想不透	xlbutz	136
 香不香	xlbuxla	210
 响不响	xlbuxlr	27
 向北的	xlbwde	606
@@ -309417,7 +308959,6 @@ sort: by_weight
 相适配	xluipw	106
 向世人	xluirf	218
 向世卫	xluiww	179
-向湿性	xluixkmh	0
 翔实业	xluiye	65
 香山帮	xlujbh	57
 香山龙	xlujls	80
@@ -311097,8 +310638,7 @@ sort: by_weight
 小火龙	xnhols	136
 小伙们	xnhomf	892
 小火苗	xnhomn	431
-消火器	xnhoqi	0
-消火气	xnhoqin	0
+消火器	xnhoqir	0
 小火球	xnhoqq	44
 小火山	xnhouj	90
 小火蒸	xnhovg	137
@@ -312411,7 +311951,6 @@ sort: by_weight
 小休息	xnxqxi	54
 萧秀霞	xnxqxx	37
 小轩窗	xnxril	61
-小选区	xnxrqu	117
 小漩涡	xnxrwo	13
 小萱萱	xnxrxr	104
 枭雄的	xnxsde	275
@@ -314427,7 +313966,6 @@ sort: by_weight
 学者的	xtvede	7197
 学者们	xtvemf	4792
 薛镇村	xtvfcy	386
-穴诊仪	xtvfyi	0
 薛振源	xtvfyr	607
 薛长林	xtvhlb	36
 薛长锐	xtvhrv	1664
@@ -316891,7 +316429,6 @@ sort: by_weight
 熏制的	xyvide	281
 巡指间	xyvijm	0
 熏制品	xyvipb	116
-蕈状云	xyvlyy	209
 熏猪肉	xyvurz	57
 询问部	xywfbu	135
 询问的	xywfde	4590
@@ -322123,7 +321660,6 @@ sort: by_weight
 一把锁	yibaso	657
 一把屎	yibaui	0
 一霸手	yibauzq	40
-一把罩	yibavc	0
 一把香	yibaxl	94
 宜宾北	yibbbw	154
 宜宾酒	yibbjq	107
@@ -323141,7 +322677,6 @@ sort: by_weight
 翼健康	yijmkhe	67
 已建立	yijmli	80
 一间楼	yijmlz	43
-一肩挑	yijmtn	2752
 以建设	yijmue	18
 医检师	yijmuibs	0
 夷坚志	yijmvi	398
@@ -324255,7 +323790,6 @@ sort: by_weight
 已删除	yiujiu	323
 依山郡	yiujjy	478
 一山头	yiujtz	82
-一闪神	yiujufl	0
 一扇扇	yiujujm	317
 以双方	yiulfh	33
 一双飞	yiulfw	40
@@ -326148,7 +325682,6 @@ sort: by_weight
 硬广告	ykglgc	1151
 荧光海	ykglhd	41
 荧光黄	ykglhl	950
-萤光剂	ykgljin	0
 荧光绿	ykgllve	1229
 荧光漆	ykglqi	44
 荧光体	ykglti	158
@@ -326325,7 +325858,6 @@ sort: by_weight
 英里长	yklivh	703
 盈利信	yklixb	159
 盈利型	yklixkg	97
-硬里子	yklizi	248
 英灵殿	yklkdm	256
 应凌迟	yklkii	56
 英灵们	yklkmf	282
@@ -326366,7 +325898,6 @@ sort: by_weight
 英帕拉	ykpala	133
 鹰派的	ykpdde	4286
 英派尔	ykpder	58
-硬脾气	ykpiqi	0
 营盘村	ykpjcy	632
 硬盘灯	ykpjdg	50
 硬盘拷	ykpjkc	44
@@ -327531,7 +327062,6 @@ sort: by_weight
 袁云才	yryycd	135
 袁云华	yryyhx	58
 袁友范	yryzfj	0
-园游会	yryzhv	704
 源优化	yryzhx	183
 原油船	yryzir	370
 原有机	yryzji	881
@@ -329528,7 +329058,6 @@ sort: by_weight
 娱乐台	yuletd	499
 育乐台	yuletdr	300
 娱乐通	yulets	475
-娱乐税	yuleuv	54
 娱乐我	yulewo	92
 娱乐行	yulexkn	3959
 裕廊岛	yulhdc	412
@@ -329669,8 +329198,7 @@ sort: by_weight
 与民族	yumbzu	79
 与矛盾	yumcdy	2044
 羽毛装	yumcvlv	139
-与贸易	yumcyi	55
-羽毛衣	yumcyiv	0
+与贸易	yumcyih	55
 于迈凯	yumdkd	63
 于麦克	yumdke	86
 于迈克	yumdkeu	59
@@ -333508,7 +333036,6 @@ sort: by_weight
 有专家	yzvrjx	152
 有专门	yzvrmf	2795
 有专人	yzvrrf	408
-有赚头	yzvrtz	449
 右转向	yzvrxl	1727
 有专业	yzvrye	1085
 釉中彩	yzvscd	84
@@ -336727,7 +336254,6 @@ sort: by_weight
 子弟们	zidimf	142
 自地面	zidimm	110
 字地址	zidivi	118
-子弟戏	zidixi	0
 子弹带	zidjdd	104
 子弹袋	zidjddv	77
 子弹队	zidjdv	803
@@ -337410,7 +336936,6 @@ sort: by_weight
 自由论	ziyzly	89
 自由马	ziyzma	80
 自由女	ziyznv	71
-自由球	ziyzqq	1826
 自由热	ziyzre	44
 自有人	ziyzrfoh	30
 自由塔	ziyzta	159
@@ -337439,7 +336964,6 @@ sort: by_weight
 自在客	zizdke	42
 自在人	zizdrf	204
 自责的	zizede	691
-自责分	zizeff	0
 髭髭着	zizive	0
 子子子	zizizi	43
 自作曲	zizoqu	117
@@ -338543,7 +338067,6 @@ sort: by_weight
 总要有	zsycyz	220
 综艺咖	zsyika	744
 纵一路	zsyilu	162
-综艺团	zsyitr	356
 宗一童	zsyits	92
 总言之	zsyjvi	177
 总研制	zsyjvin	88
@@ -340223,7 +339746,6 @@ sort: by_weight
 艾尼维亚	ainiwwya	58
 爱你一世	ainiyiui	2018
 爱你自己	ainiziji	46
-碍难照办	ainjvcbj	0
 爱侬家政	ainsjxvg	46
 爱农驿站	ainsyivj	73
 埃内斯托	ainwsito	339
@@ -340756,7 +340278,6 @@ sort: by_weight
 安诚保险	anigbcxm	918
 安昌古镇	anihguvf	125
 暗池交易	aniijnyi	182
-暗吃一惊	aniiyijk	395
 暗疮疤痕	anilbahf	47
 暗疮皮肤	anilpifu	60
 安川电机	anirdmji	788
@@ -341415,7 +340936,6 @@ sort: by_weight
 傲骨贤妻	aoguxmqi	2420
 澳海澜庭	aohdljtk	48
 奥汉伦斯	aohjlysi	192
-奥会模式	aohvmoui	0
 澳华花园	aohxhxyr	49
 奥金佐沃	aojbzowo	93
 澳际留学	aojilqxt	107
@@ -341724,7 +341244,6 @@ sort: by_weight
 拔刀断席	badcdrxi	0
 八代雅阁	baddyage	566
 巴德斯利	badesili	538
-拔得头筹	badetziz	16281
 巴德学院	badextyr	131
 巴登巴登	badgbadg	107
 巴蒂罗姆	badilomu	52
@@ -342515,7 +342034,6 @@ sort: by_weight
 报道事件	bcdcuijm	342
 宝岛双雄	bcdculxs	127
 报道中国	bcdcvsgo	44
-报导文学	bcdcwfxt	0
 宝岛一村	bcdcyicy	590
 宝岛眼镜	bcdcyjjk	1329
 宝带东路	bcdddslu	51
@@ -342536,7 +342054,6 @@ sort: by_weight
 保胆取石	bcdjquui	146
 保单失效	bcdjuixn	334
 保单无效	bcdjwuxn	39
-饱啖一顿	bcdjyidy	0
 保定东站	bcdkdsvj	415
 保定风帆	bcdkfgfj	151
 保定房产	bcdkfhij	100
@@ -342553,7 +342070,6 @@ sort: by_weight
 保定银行	bcdkybhh	138
 保定英利	bcdkykli	236
 保钓人士	bcdnrfui	913
-饱读诗书	bcduuiuu	0
 宝墩古城	bcdyguig	49
 宝墩文化	bcdywfhx	87
 保额分红	bceeffhs	356
@@ -342583,7 +342099,6 @@ sort: by_weight
 报复措施	bcfucoui	1344
 报辅导班	bcfudcbj	165
 保付代理	bcfuddli	62
-报复关税	bcfugruv	239
 薄扶林道	bcfulbdc	96
 报复社会	bcfuuehv	276
 抱负水准	bcfuuvvy	210
@@ -342666,7 +342181,6 @@ sort: by_weight
 曝光一组	bcglyizu	6319
 曝光组合	bcglzuhe	54
 包裹保险	bcgobcxm	0
-包裹表决	bcgobnjt	1
 报国尽忠	bcgojbvs	202
 包裹快递	bcgokkdi	306
 报国之情	bcgoviqk	37
@@ -343013,7 +342527,6 @@ sort: by_weight
 宝来轿车	bcldjnie	185
 宝来证券	bcldvgqr	341
 保乐力加	bclelijx	1255
-宝里宝气	bclibcqi	323
 保利百合	bclibdhe	62
 保利博纳	bclibona	411
 暴力慈善	bcliciuj	158
@@ -343551,7 +343064,6 @@ sort: by_weight
 保险承保	bcxmigbc	483
 保险成本	bcxmigbf	254
 保险承担	bcxmigdj	81
-保险给付	bcxmjifu	0
 保险集团	bcxmjitr	8324
 保鲜技术	bcxmjiuu	785
 保险机制	bcxmjivi	2775
@@ -343916,7 +343428,6 @@ sort: by_weight
 拜城石窟	bdiguiku	0
 败常乱俗	bdihlrsu	0
 白吃白住	bdiibdvu	0
-百吃不厌	bdiibuyj	482
 白炽灯光	bdiidggl	94
 白炽灯泡	bdiidgpc	441
 白川方明	bdirfhmk	144
@@ -343976,7 +343487,6 @@ sort: by_weight
 百家超市	bdjxicuia	91
 白家老号	bdjxlchc	39
 百家乐网	bdjxlewh	52
-百家齐鸣	bdjxqimk	0
 白家桥村	bdjxqncy	86
 百家商场	bdjxuhih	60
 百家之言	bdjxviyj	0
@@ -344371,7 +343881,6 @@ sort: by_weight
 百万瓦特	bdwjwate	45
 百万新娘	bdwjxbnl	915
 百万左右	bdwjzoyz	393
-百武彗星	bdwuhvxk	0
 白屋人家	bdwurfjx	0
 百味餐厅	bdwwcjtk	59
 百威酒店	bdwwjqdm	61
@@ -344616,7 +344125,6 @@ sort: by_weight
 奔驰配件	bfiipwjm	52
 奔驰汽车	bfiiqiie	2974
 奔驰如电	bfiirudm	0
-奔驰如雷	bfiirulw	0
 奔驰维修	bfiiwwxq	39
 本金斯利	bfjbsili	342
 本金总额	bfjbzsee	2680
@@ -347417,7 +346925,6 @@ sort: by_weight
 玻璃装饰	bolivlui	164
 玻璃温室	boliwfui	124
 玻璃屋顶	boliwudk	209
-玻璃帷幕	boliwwmu	0
 玻璃心肝	bolixbgj	0
 玻璃信息	bolixbxi	55
 玻璃相框	bolixlkl	78
@@ -349814,7 +349321,6 @@ sort: by_weight
 不问青黄	buwfqkhl	0
 不问原因	buwfyryb	96
 不枉百步	buwhbdbu	0
-不枉此生	buwhciug	194
 不忘初衷	buwhiuvs	18
 不忘历史	buwhliui	11
 补完计划	buwjjihx	61
@@ -350087,7 +349593,6 @@ sort: by_weight
 布衣苇带	buyiwwdda	0
 不以为苦	buyiwwku	368
 不意味着	buyiwwve	1571
-不以为忤	buyiwwwu	435
 补益心脾	buyixbpi	152
 不易消化	buyixnhx	3459
 布衣小民	buyixnmb	169
@@ -351284,7 +350789,6 @@ sort: by_weight
 贝尼尼奥	bwniniao	89
 贝尼斯特	bwnisite	293
 贝尼特斯	bwnitesi	21315
-卑南文化	bwnjwfhx	0
 北宁公园	bwnkgsyr	82
 贝内索娃	bwnwsowa	57
 北欧风格	bwoufgge	732
@@ -351449,15 +350953,12 @@ sort: by_weight
 备受关注	bwuzgrvu	122142
 倍受关注	bwuzgrvua	3660
 被收购方	bwuzgzfh	2774
-备受好评	bwuzhcpk	0
 备受欢迎	bwuzhryka	2831
 备受礼遇	bwuzliyu	0
 备受青睐	bwuzqklda	3715
 被授权的	bwuzqrde	401
 被授权商	bwuzqruh	186
 倍受重视	bwuzvsui	75
-倍受瞩目	bwuzvumua	0
-备受威胁	bwuzwwxp	0
 被收养的	bwuzyhde	341
 被收养人	bwuzyhrf	96
 被诏辄成	bwvcveig	0
@@ -351504,7 +351005,6 @@ sort: by_weight
 北新国际	bwxbgoji	83
 北新华街	bwxbhxjp	160
 悲欣交集	bwxbjnji	132
-背信忘义	bwxbwhyi	0
 北溪二号	bwxierhc	33
 悲喜剧的	bwxijude	139
 贝西拉伊	bwxilayi	119
@@ -353990,13 +353490,11 @@ sort: by_weight
 大宝法王	dabcfawh	471
 打包发行	dabcfaxk	384
 大薄煎饼	dabcjmbk	51
-大爆冷门	dabclgmf	1003
 打保龄球	dabclkqq	1040
 大宝森节	dabcsfjp	48
 大饱私囊	dabcsinh	0
 打包托运	dabctoyy	106
 打包设备	dabcuebw	75
-大包小包	dabcxnbc	0
 大白菜汤	dabdcdth	48
 打败对手	dabddvuz	802
 大败而归	dabdergv	61
@@ -354076,7 +353574,6 @@ sort: by_weight
 答不上来	dabuuhld	1599
 打不上球	dabuuhqq	1031
 打不上去	dabuuhqu	39
-搭不上线	dabuuhxm	0
 大步向前	dabuxlqm	1556
 打不下去	dabuxxqu	48
 大不应是	dabuykui	0
@@ -354155,7 +353652,6 @@ sort: by_weight
 大地唱片	dadiihpm	64
 大地产商	dadiijuh	875
 大地传媒	dadiirmw	4612
-大地重生	dadiisug	0
 大地基准	dadijivy	80
 大地惊雷	dadijklw	162
 大地母亲	dadimuqb	164
@@ -354225,7 +353721,6 @@ sort: by_weight
 大肚子的	daduzide	811
 大肚子茶	daduziia	139
 大队的人	dadvderf	123
-大队接力	dadvjpli	233
 大吨位的	dadywwde	370
 大豆各庄	dadzgevl	50
 大豆黄酮	dadzhlts	68
@@ -354266,7 +353761,6 @@ sort: by_weight
 大发牢骚	dafalcsc	437
 大发其财	dafaqicd	13
 大发汽车	dafaqiie	248
-大发神威	dafaufww	506
 大分三神	daffsjuf	528
 大芬油画	daffyzhx	42
 大分子的	daffzide	211
@@ -354308,7 +353802,6 @@ sort: by_weight
 大幅削减	dafuxtjm	7968
 大幅下跌	dafuxxdp	81600
 大幅下调	dafuxxtn	10854
-大费唇舌	dafwiyue	0
 大非减持	dafwjmii	162
 大费神思	dafwufsi	0
 大搞特搞	dagctegc	174
@@ -354361,7 +353854,6 @@ sort: by_weight
 大果紫檀	dagozitj	136
 大官富贵	dagrfugv	0
 大观公园	dagrgsyr	346
-达官显要	dagrxmyc	0
 大公国的	dagsgode	252
 打工皇帝	dagshldi	2658
 打工创业	dagsilye	38
@@ -354436,7 +353928,6 @@ sort: by_weight
 大红双喜	dahsulxi	58
 大洪水的	dahsuvde	82
 打虎不着	dahubuve	0
-大呼过瘾	dahugoyb	11426
 大湖股份	dahuguff	3660
 大呼救命	dahujqmk	324
 大呼上当	dahuuhdh	763
@@ -354481,7 +353972,6 @@ sort: by_weight
 打混葫芦	dahyhulu	0
 打诨说笑	dahyuoxn	0
 大后掠角	dahzltjn	61
-大吵一顿	daicyidy	0
 打车服务	daiefuwu	1572
 打车过去	daiegoqu	120
 打车回家	daiehvjx	1330
@@ -354547,7 +354037,6 @@ sort: by_weight
 大尺码的	daiimade	56
 大吃一斤	daiiyijb	12
 大船渡市	dairduui	91
-大出锋头	daiufgtza	215
 打出头棍	daiutzgy	0
 打出水平	daiuuvpk	10
 大出意外	daiuyiwd	185
@@ -354557,7 +354046,6 @@ sort: by_weight
 大金发苔	dajbfatd	0
 大金空调	dajbkstn	109
 打进冷宫	dajblggs	43
-大近视眼	dajbuiyj	0
 大金重工	dajbvsgs	2462
 打进楔子	dajbxpzi	66
 大金字塔	dajbzita	258
@@ -354575,7 +354063,6 @@ sort: by_weight
 打击速度	dajisudu	48
 打击偷猎	dajitzlp	65
 打脊魍魉	dajiwhll	0
-打击异己	dajiyiji	0
 打击走私	dajizzsi	2044
 大惊大险	dajkdaxm	0
 打净捞干	dajklcgj	0
@@ -354650,7 +354137,6 @@ sort: by_weight
 大军区级	dajyquji	595
 打卡上班	dakauhbj	381
 打卡下班	dakaxxbj	60
-大考中心	dakcvsxb	0
 打开包裹	dakdbcgo	743
 打开宝箱	dakdbcxl	310
 打开冰箱	dakdbkxl	99
@@ -354722,7 +354208,6 @@ sort: by_weight
 大浪湾道	dalhwjdc	118
 大朗医院	dalhyiyr	87
 达里奥福	daliaofu	118
-大力帮忙	dalibhmh	0
 大理苍山	dalichuj	72
 大理段氏	dalidrui	232
 大理洱海	dalierhd	137
@@ -354734,7 +354219,6 @@ sort: by_weight
 达利国际	daligoji	53
 大力灌篮	daligrlj	743
 大理公主	daligsvu	123
-大力鼓吹	daliguiv	0
 大力抽射	daliizue	10702
 大力金刚	dalijbgh	69
 大理机场	dalijiih	134
@@ -354745,7 +354229,6 @@ sort: by_weight
 大理丽江	dalilijl	98
 大力培养	dalipwyh	26
 大力推动	dalitvds	147
-大力推荐	dalitvjm	0
 大力射门	daliuemf	2405
 大力神的	daliufde	141
 大理石材	daliuicd	66
@@ -354858,15 +354341,12 @@ sort: by_weight
 大陆集团	dalujitr	1158
 大陆礁层	dalujncg	0
 大陆居民	dalujumb	27
-大陆劳工	dalulcgs	0
 大陆隆堆	dalulsdv	0
 大陆隆起	dalulsqi	0
 大陆旅游	dalulvyz	472
 大陆女星	dalunvxk	1032
 大陆气团	daluqitr	332
 大陆企业	daluqiye	2408
-大陆市场	daluuiih	8131
-大陆政策	daluvgce	1389
 打路庄板	daluvlbj	1
 大陆周边	daluvzbm	82
 大陆外的	daluwdde	64
@@ -355041,7 +354521,6 @@ sort: by_weight
 大片空白	dapmksbd	110
 大片森林	dapmsflb	166
 大片土地	dapmtudi	1479
-打破惯例	dapogrli	0
 打破规则	dapogvze	521
 打破行业	dapohhye	13
 打破沉默	dapoifmo	2209
@@ -355223,7 +354702,6 @@ sort: by_weight
 大唐西市	dathxiui	1155
 大唐线缆	dathxmlj	186
 大唐移动	dathyids	656
-大体而言	datieryj	0
 答题技巧	datijiqn	874
 大体轮廓	datilyko	156
 答题模板	datimubj	416
@@ -355249,7 +354727,6 @@ sort: by_weight
 大团桃园	datrtcyr	104
 大同大学	datsdaxt	613
 打通道路	datsdclu	165
-打通关节	datsgrjp	338
 大通公司	datsgssi	139
 大同公司	datsgssia	112
 大通公园	datsgsyr	120
@@ -355390,7 +354867,6 @@ sort: by_weight
 大智禅寺	daviijsi	111
 大致了解	davilnjp	1181
 大致浏览	davilqlj	61
-打知名度	davimkdu	0
 大直升机	daviugji	78
 大致说明	daviuomk	53
 大植英次	daviykci	57
@@ -355398,15 +354874,11 @@ sort: by_weight
 大展襟抱	davjjbbc	0
 大战僵尸	davjjlui	416
 大战开始	davjkdui	799
-大展魅力	davjmwli	0
 大展期间	davjqijm	93
 大展拳脚	davjqrjn	5827
 打桩工程	davlgsig	52
 打桩模子	davlmuzi	82
-大专教育	davrjnyu	0
-大专联考	davrlmkc	0
 大赚特赚	davrtevr	160
-大专暑训	davruuxy	0
 大赚一笔	davryibi	164
 大众宝来	davsbcld	829
 大众保险	davsbcxm	4559
@@ -355452,7 +354924,6 @@ sort: by_weight
 大众论坛	davslytj	67
 大众迈腾	davsmdtg	1627
 大冢明夫	davsmkfu	45
-大众媒介	davsmwjp	222
 大众媒体	davsmwti	2607
 大众美食	davsmwui	118
 大众评审	davspkuf	182
@@ -355571,7 +355042,6 @@ sort: by_weight
 大型单位	daxkdjww	151
 大型电机	daxkdmji	140
 大型电缆	daxkdmlj	79
-大型电脑	daxkdmnc	0
 大型电玩	daxkdmwj	86
 大型吊车	daxkdnie	547
 大型雕塑	daxkdnsu	212
@@ -355606,7 +355076,6 @@ sort: by_weight
 大型酒吧	daxkjqba	157
 大型酒店	daxkjqdm	709
 大兴旧宫	daxkjqgs	221
-大型家电	daxkjxdm	1312
 大型客户	daxkkehu	1488
 大型客车	daxkkeie	2975
 大型客机	daxkkeji	8398
@@ -355662,7 +355131,6 @@ sort: by_weight
 大显电子	daxmdmzi	290
 大限之日	daxmviri	377
 达县中学	daxmvsxt	53
-大显威风	daxmwwfg	0
 大小爱吃	daxnaiii	51
 大小比例	daxnbili	514
 大小不变	daxnbubm	70
@@ -355740,9 +355208,7 @@ sort: by_weight
 大学篮球	daxtljqq	1821
 大学领导	daxtlkdc	216
 大学恋爱	daxtlmai	174
-大学联考	daxtlmkc	0
 大学联盟	daxtlmmg	831
-大学联招	daxtlmvc	0
 大学路口	daxtlukz	87
 大学论坛	daxtlytj	42
 大学名称	daxtmkig	82
@@ -355785,8 +355251,6 @@ sort: by_weight
 大学英文	daxtykwf	50
 大学园路	daxtyrlu	43
 大学院系	daxtyrxi	86
-大学院校	daxtyrxn	471
-大学自治	daxtzivi	79
 大侠郭靖	daxxgojk	92
 大侠谷站	daxxguvj	43
 打下基础	daxxjiiu	17565
@@ -357516,7 +356980,6 @@ sort: by_weight
 登录用户	dgluyshu	35
 登录游戏	dgluyzxi	4571
 登楼望阙	dglzwhqt	0
-登门造访	dgmfzcfh	605
 等你爱我	dgniaiwo	277
 等你归来	dgnigvld	95
 等你回家	dgnihvjx	284
@@ -357722,7 +357185,6 @@ sort: by_weight
 当局称迷	dhjuigmi	0
 当局可以	dhjukeyi	482
 当家球星	dhjxqqxk	176
-当家小生	dhjxxnug	1067
 荡口古镇	dhkzguvf	98
 当牢节级	dhlcjpji	177
 当劳之急	dhlcviji	0
@@ -357861,7 +357323,6 @@ sort: by_weight
 第八大街	dibadajp	397
 第八十条	dibauitn	18
 第八中学	dibavsxt	154
-第八艺术	dibayiuu	268
 第八医院	dibayiyr	176
 低保标准	dibcbnvy	3442
 迪堡大学	dibcdaxt	38
@@ -358075,7 +357536,6 @@ sort: by_weight
 地方曲艺	difhquyi	58
 地方人民	difhrfmb	8531
 地方人情	difhrfqk	0
-地方人士	difhrfui	0
 敌方人员	difhrfyr	107
 地方司法	difhsifa	428
 地方特征	difhtevg	42
@@ -358107,7 +357567,6 @@ sort: by_weight
 地方银行	difhybhh	4291
 地方饮食	difhybui	70
 地方音乐	difhybyt	39
-地方议会	difhyihv	1663
 地方艺术	difhyiuu	38
 地方医院	difhyiyr	284
 地方院校	difhyrxn	470
@@ -358193,7 +357652,6 @@ sort: by_weight
 地产药材	diijyccd	120
 地产杂志	diijzavi	40
 地产咨询	diijzixy	698
-嫡传弟子	diirdizi	289
 滴虫感染	diisgjrj	149
 递进关系	dijbgrxi	328
 敌进我进	dijbwojb	132
@@ -358212,7 +357670,6 @@ sort: by_weight
 地基加固	dijijxgu	123
 地基开挖	dijikdwa	41
 敌机空袭	dijiksxi	39
-地瘠人稀	dijirfxi	0
 迪吉苏斯	dijisusi	0
 低技术的	dijiuude	98
 地基下沉	dijixxif	483
@@ -358238,7 +357695,6 @@ sort: by_weight
 第九战区	dijqvjqu	444
 第九中学	dijqvsxt	139
 滴酒未沾	dijqwwvj	10
-第九艺术	dijqyiuu	767
 第九医院	dijqyiyr	84
 第九纵队	dijqzsdv	150
 蒂爵珠宝	dijtvubc	74
@@ -358324,7 +357780,6 @@ sort: by_weight
 地理商标	diliuhbn	47
 地理实体	diliuitia	191
 地理障碍	dilivhai	116
-地利之便	dilivibm	0
 地理专业	dilivrye	62
 地理中国	dilivsgo	542
 地理文化	diliwfhx	97
@@ -358450,7 +357905,6 @@ sort: by_weight
 低年龄段	dinmlkdr	21
 迪诺水镇	dinouvvf	152
 迪诺佐夫	dinozofu	69
-地牛发威	dinqfaww	0
 地暖安装	dinranvl	42
 地暖地板	dinrdibj	100
 地暖施工	dinruigs	38
@@ -358466,7 +357920,6 @@ sort: by_weight
 底盘护甲	dipjhujx	76
 底盘技术	dipjjiuu	1644
 底盘系统	dipjxits	1687
-地盘下陷	dipjxxxm	0
 底盘异响	dipjyixl	55
 地平高度	dipkgcdu	117
 地坪涂料	dipktuln	41
@@ -358610,7 +358063,6 @@ sort: by_weight
 第四权力	disiqrli	67
 第四赛季	disisdji	14
 第四条款	disitnkr	564
-第四世界	disiuijpa	118
 第四十条	disiuitn	59
 第四师团	disiuitr	41
 第四十章	disiuivh	10
@@ -358862,16 +358314,12 @@ sort: by_weight
 第十一中	diuiyivs	72
 低山丘陵	diujqqlk	11
 滴水不进	diuvbujb	137
-滴水不沾	diuvbuvj	96
 滴水藏海	diuvchhd	42
 滴水丹屏	diuvdjpk	101
 滴水观音	diuvgryb	377
 滴水公益	diuvgsyi	138
-滴水漏斗	diuvlzdz	171
 低水平的	diuvpkde	3091
-滴水未沾	diuvwwvj	0
 缔顺科技	diuykeji	972
-低收入户	diuzruhu	0
 低手上篮	diuzuhlj	1449
 低照度下	divcduxx	49
 地窄路险	divdluxm	0
@@ -358941,7 +358389,6 @@ sort: by_weight
 地质工程	divigsig	448
 地质工作	divigszo	742
 地质构造	divigzzc	2296
-地质活动	divihods	212
 地质环境	divihrjk	2743
 地质化学	divihxxt	108
 地质储量	diviiull	3149
@@ -359031,7 +358478,6 @@ sort: by_weight
 帝王洁具	diwhjpju	1928
 帝王陵墓	diwhlkmu	324
 帝王三国	diwhsjgo	57
-帝王条款	diwhtnkr	0
 帝王生活	diwhugho	312
 帝王世纪	diwhuiji	39
 帝王政治	diwhvgvi	0
@@ -359098,7 +358544,6 @@ sort: by_weight
 地形限制	dixkxmvi	208
 底线得分	dixmdeff	109
 底线公平	dixmgspk	75
-底线抽球	dixmizqq	0
 底线击球	dixmjiqq	296
 底线切入	dixmqpru	217
 底线思维	dixmsiww	41
@@ -359131,14 +358576,12 @@ sort: by_weight
 地下洞穴	dixxdsxt	338
 地下都市	dixxduui	16
 地下二层	dixxercg	37
-地下夫人	dixxfurf	0
 地下敷设	dixxfuue	79
 地下飞机	dixxfwji	51
 地下广场	dixxglih	231
 地下管网	dixxgrwh	8270
 地下管线	dixxgrxm	9875
 地下公园	dixxgsyr	94
-地下核爆	dixxhebc	0
 地下河流	dixxhelq	51
 地下核试	dixxheui	0
 地下巷道	dixxhhdc	53
@@ -359180,7 +358623,6 @@ sort: by_weight
 地下丝绒	dixxsirs	392
 地下停车	dixxtkie	1653
 地下通汇	dixxtshv	162
-地下投资	dixxtzzi	0
 地下社会	dixxuehv	62
 地下设施	dixxueui	1067
 地下生意	dixxugyi	68
@@ -359195,14 +358637,12 @@ sort: by_weight
 地下水质	dixxuvvi	503
 地下秩序	dixxvixu	38
 地下污染	dixxwurj	107
-地下舞厅	dixxwutk	0
 地下无双	dixxwuul	0
 地下摇滚	dixxycgy	185
 地下一层	dixxyicg	6046
 地下婴儿	dixxyker	111
 地下乐队	dixxytdv	133
 地下油库	dixxyzku	78
-地下有知	dixxyzvi	0
 地下油行	dixxyzxk	0
 底下奏乐	dixxzzyt	0
 迪雅巴克	diyabake	1
@@ -359360,7 +358800,6 @@ sort: by_weight
 第一师团	diyiuitr	139
 第一时尚	diyiuiuh	243
 第一税务	diyiuvwu	150
-第一顺位	diyiuyww	0
 第一手的	diyiuzde	2297
 第一首歌	diyiuzge	355
 敌意收购	diyiuzgz	928
@@ -360259,7 +359698,6 @@ sort: by_weight
 顶尖大学	dkjmdaxt	2239
 顶尖电子	dkjmdmzi	59
 顶尖对决	dkjmdvjt	339
-顶尖好手	dkjmhcuz	0
 顶尖车手	dkjmieuz	344
 顶尖技术	dkjmjiuu	1862
 顶尖教育	dkjmjnyu	60
@@ -360377,7 +359815,6 @@ sort: by_weight
 鼎盛中华	dkugvshx	86
 鼎盛文化	dkugwfhx	82
 鼎盛王朝	dkugwhic	191
-顶上功夫	dkuhgsfu	0
 顶上战争	dkuhvjvg	117
 定时定点	dkuidkdm	70
 定时定额	dkuidkee	130
@@ -360655,7 +360092,6 @@ sort: by_weight
 巅峰之作	dmfgvizo	5059
 巅峰作品	dmfgzopb	136
 碘仿纱条	dmfhuatn	58
-典范长存	dmfjihcy	138
 颠番面皮	dmfjmmpi	0
 典范转移	dmfjvryi	55
 垫付不起	dmfubuqi	53
@@ -360703,7 +360139,6 @@ sort: by_weight
 电话调查	dmhxdnia	1473
 电话分机	dmhxffji	82
 电话访谈	dmhxfhtj	256
-电话访问	dmhxfhwf	0
 电话翻译	dmhxfjyi	72
 电话干扰	dmhxgjrc	46
 电话国码	dmhxgoma	0
@@ -360735,7 +360170,6 @@ sort: by_weight
 电话投票	dmhxtzpn	218
 电话投诉	dmhxtzsu	74
 电话投注	dmhxtzvu	1041
-电化设备	dmhxuebwa	0
 电话实名	dmhxuimk	170
 电话诈骗	dmhxvapm	4036
 电话支付	dmhxvifu	827
@@ -361100,7 +360534,6 @@ sort: by_weight
 电脑截图	dmncjptu	74
 电脑加工	dmncjxgs	39
 电脑开机	dmnckdji	244
-电脑看板	dmnckjbj	55
 电脑空间	dmncksjm	89
 电脑控制	dmncksvi	1825
 电脑里面	dmnclimm	453
@@ -361116,12 +360549,10 @@ sort: by_weight
 电脑美工	dmncmwgs	0
 电脑内存	dmncnwcy	228
 电脑品牌	dmncpbpd	611
-电脑排版	dmncpdbj	0
 电脑派位	dmncpdww	1570
 电脑奇才	dmncqicd	66
 电脑前面	dmncqmmm	407
 电脑驱动	dmncquds	53
-电脑软体	dmncrrti	0
 电脑死机	dmncsiji	141
 电脑散热	dmncsjre	80
 电脑损坏	dmncsyhk	43
@@ -361171,7 +360602,6 @@ sort: by_weight
 电脑一族	dmncyizu	327
 电脑硬盘	dmncykpj	1170
 电脑娱乐	dmncyule	218
-电脑择友	dmnczeyz	0
 电脑自动	dmnczids	976
 电脑资料	dmncziln	255
 电脑咨询	dmnczixy	0
@@ -361341,11 +360771,9 @@ sort: by_weight
 电通公司	dmtsgssi	129
 电通集团	dmtsjitr	122
 电通科技	dmtskeji	154
-点土成金	dmtuigjb	0
 点头表示	dmtzbnui	850
 点头幌脑	dmtzhlnc	0
 点头默许	dmtzmoxu	69
-店头市场	dmtzuiih	366
 点头示意	dmtzuiyi	772
 钿头云篦	dmtzyybi	270
 电声产品	dmugijpb	694
@@ -361502,7 +360930,6 @@ sort: by_weight
 电玩地带	dmwjdidd	995
 电玩产品	dmwjijpb	40
 电玩快打	dmwjkkda	41
-电玩软体	dmwjrrti	0
 点污染源	dmwurjyr	442
 淀谓之滓	dmwwvizi	1
 电信大厦	dmxbdaua	62
@@ -361732,7 +361159,6 @@ sort: by_weight
 电影续作	dmykxuzo	41
 电影银幕	dmykybmu	748
 电影艺人	dmykyirf	59
-电影艺术	dmykyiuu	3230
 电影研究	dmykyjjq	431
 电影营销	dmykykxn	2518
 电影院里	dmykyrli	455
@@ -361776,7 +361202,6 @@ sort: by_weight
 电泳涂装	dmystuvl	38
 电泳显示	dmysxmui	64
 电晕放电	dmyyfhdm	63
-电宰猪肉	dmzdvurz	0
 电子安防	dmzianfh	385
 电子保单	dmzibcdj	1904
 电子报告	dmzibcgc	99
@@ -361875,7 +361300,6 @@ sort: by_weight
 电子开关	dmzikdgr	159
 电子课本	dmzikebf	135
 电子科学	dmzikext	110
-电子看板	dmzikjbj	518
 电子快门	dmzikkmf	293
 电子控制	dmziksvi	3090
 电子领域	dmzilkyu	2263
@@ -361885,7 +361309,6 @@ sort: by_weight
 电子卖场	dmzimdih	4339
 电子门禁	dmzimfjb	155
 电子门票	dmzimfpn	981
-电子秘书	dmzimiuu	0
 电子密钥	dmzimiyc	38
 电子墨水	dmzimouv	588
 电子目录	dmzimulu	45
@@ -361919,7 +361342,6 @@ sort: by_weight
 电子体育	dmzitiyu	90
 电子陀螺	dmzitolo	65
 电子通关	dmzitsgr	180
-电子通勤	dmzitsqb	0
 电子图像	dmzituxl	108
 电子沙盘	dmziuapj	210
 电子社区	dmziuequ	90
@@ -362014,7 +361436,6 @@ sort: by_weight
 电子跃迁	dmziytqm	40
 电子娱乐	dmziyule	823
 电子运动	dmziyyds	92
-电子邮递	dmziyzdi	0
 电子邮购	dmziyzgz	0
 电子油门	dmziyzmf	862
 电子载体	dmzizdti	69
@@ -362026,7 +361447,6 @@ sort: by_weight
 佃租制度	dmzuvidu	25
 掉宝系统	dnbcxits	53
 雕版印刷	dnbjybux	748
-调拨车道	dnboiedc	0
 调拨物资	dnbowuzi	62
 调不出来	dnbuiuld	46
 调仓换股	dnchhrgu	12998
@@ -362314,13 +361734,11 @@ sort: by_weight
 多哥总统	dogezsts	81
 多国合作	dogohezo	351
 多国家的	dogojxde	168
-多国企业	dogoqiye	0
 多国银行	dogoybhh	41
 夺冠庆典	dogrqkdm	12
 夺冠热门	dogrremf	123
 多功能的	dogsngde	3080
 多功能房	dogsngfh	67
-多轨录音	dogvluyb	376
 多哈宣言	dohaxryj	109
 多喝几杯	dohejibw	19
 多核技术	dohejiuu	56
@@ -362482,7 +361900,6 @@ sort: by_weight
 多头获利	dotzholi	2715
 多头持仓	dotziich	4629
 多头交易	dotzjnyi	455
-多头马车	dotzmaie	0
 多头排列	dotzpdlp	23292
 多头平仓	dotzpkch	661
 多头头寸	dotztzcy	14249
@@ -362551,7 +361968,6 @@ sort: by_weight
 多种文体	dovswfti	44
 多中心的	dovsxbde	494
 多重系统	dovsxits	96
-多重性格	dovsxkge	163
 多种因素	dovsybsu	12723
 多重要素	dovsycsu	37
 多重宇宙	dovsyuvz	201
@@ -362603,7 +362019,6 @@ sort: by_weight
 多余部分	doyubuff	441
 多余的话	doyudehx	438
 多余的事	doyudeui	47
-多语教育	doyujnyu	0
 多余空间	doyuksjm	108
 多语种的	doyuvsde	108
 多云的天	doyydetm	247
@@ -362614,7 +362029,6 @@ sort: by_weight
 多有意思	doyzyisi	45
 躲在暗处	dozdaniu	96
 墯甑不顾	dozgbugua	0
-多姿多采	dozidocda	675
 夺子战争	dozivjvg	83
 多做多错	dozodoco	104
 多做贡献	dozogsxm	22
@@ -362651,15 +362065,12 @@ sort: by_weight
 跌破净值	dppojkvi	1081
 跌停板价	dptkbjjx	182
 蝶式套利	dpuitcli	125
-碟式刹车	dpuiuaie	63
-碟式煞车	dpuiuaiea	0
-碟式相机	dpuixlji	0
+碟式刹车	dpuiuaiea	63
 谍战电影	dpvjdmyk	313
 谍战特工	dpvjtegs	58
 谍战小说	dpvjxnuo	312
 跌无可跌	dpwukedp	2126
-碟形天线	dpxktmxm	95
-碟型天线	dpxktmxma	0
+碟形天线	dpxktmxma	95
 喋血风云	dpxtfgyy	40
 喋血孤岛	dpxtgudc	802
 喋血孤城	dpxtguig	126
@@ -362905,7 +362316,6 @@ sort: by_weight
 东宝生物	dsbcugwu	3500
 东宝实业	dsbcuiye	128
 东宝置业	dsbcviye	460
-东奔西跳	dsbfxitn	0
 东本愿寺	dsbfyrsi	188
 东邦大学	dsbhdaxt	41
 东半球的	dsbjqqde	154
@@ -363439,7 +362849,6 @@ sort: by_weight
 动画原创	dshxyril	74
 动画造型	dshxzcxk	52
 动画总监	dshxzsjm	183
-洞察机先	dsiajixm	0
 洞察力的	dsialide	626
 洞察能力	dsiangli	393
 洞察中国	dsiavsgo	431
@@ -363618,7 +363027,6 @@ sort: by_weight
 东陵大盗	dslkdadc	157
 东菱电器	dslkdmqi	453
 东陵公园	dslkgsyr	140
-冬令进补	dslkjbbu	1358
 东凌粮油	dslkllyz	5596
 冻龄美女	dslkmwnv	99
 东岭南街	dslknjjp	156
@@ -363945,7 +363353,6 @@ sort: by_weight
 动手实践	dsuzuijm	530
 动手术的	dsuzuude	961
 东朝阳路	dsvcyhlu	156
-东折西绕	dsvexirc	1
 东正教会	dsvgjnhv	92
 东正教徒	dsvgjntu	116
 东证期货	dsvgqiho	1751
@@ -363956,10 +363363,8 @@ sort: by_weight
 东直门北	dsvimfbw	126
 东直门店	dsvimfdm	43
 东直门站	dsvimfvj	407
-东转西晃	dsvrxihl	0
 动众劳师	dsvslcui	0
 动中有静	dsvsyzjk	140
-洞烛机先	dsvujixm	0
 洞烛入微	dsvuruww	0
 东周列国	dsvzlpgo	52
 东周水厂	dsvzuvih	38
@@ -364223,7 +363628,6 @@ sort: by_weight
 动作悬疑	dszoxryi	398
 动作迅速	dszoxysu	948
 动作要领	dszoyclk	2375
-动作演员	dszoyjyr	735
 动作影片	dszoykpm	312
 动作造型	dszozcxk	130
 动作姿态	dszozitd	102
@@ -364348,7 +363752,6 @@ sort: by_weight
 独家品种	dujxpbvs	13763
 独家披露	dujxpilu	2510
 杜家疃村	dujxtrcy	7476
-渡假胜地	dujxugdia	507
 度假圣地	dujxugdib	439
 度假生活	dujxugho	1265
 独家生意	dujxugyi	0
@@ -364652,7 +364055,6 @@ sort: by_weight
 读者关注	duvegrvu	866
 读者评价	duvepkjx	100
 读者人数	duverfuu	78
-读者投书	duvetzuu	0
 读者需要	duvexuyc	237
 读者眼球	duveyjqq	187
 渎职行为	duvixkww	2201
@@ -364990,7 +364392,6 @@ sort: by_weight
 趸交保费	dyjnbcfw	686
 蹲踞旋转	dyjuxrvr	58
 蹲了下去	dylexxqu	20
-敦品励学	dypblixta	0
 盾皮鱼纲	dypiyugh	70
 敦沛金融	dypwjbrs	1387
 敦谦沙洲	dyqmuavz	227
@@ -365000,7 +364401,6 @@ sort: by_weight
 顿时觉得	dyuijtde	227
 蹲式马桶	dyuimats	50
 顿时明白	dyuimkbd	44
-顿失所依	dyuisoyi	0
 遁世逃名	dyuitcmk	0
 顿失滔滔	dyuitctc	70
 顿时醒悟	dyuixkwu	119
@@ -365363,7 +364763,6 @@ sort: by_weight
 恶女阿楚	eenvaaiu	449
 饿殍遍地	eepnbmdi	55
 厄普代克	eepuddke	64
-峨然矗立	eerjiuli	0
 俄苏文学	eesuwfxt	47
 厄他培南	eetapwnj	61
 恶童日记	eetsriji	123
@@ -365546,7 +364945,6 @@ sort: by_weight
 二次硫化	ercilqhx	89
 二次雷达	ercilwda	1687
 二次碰撞	ercipgvl	309
-二次全倒	erciqrdc	0
 二次损伤	ercisyuh	179
 二次探底	ercitjdi	3620
 二次设备	erciuebw	2224
@@ -365797,7 +365195,6 @@ sort: by_weight
 儿童书包	ertsuubc	69
 儿童书籍	ertsuuji	209
 儿童手机	ertsuzji	854
-儿童受虐	ertsuznt	0
 儿童收养	ertsuzyh	121
 儿童之家	ertsvijx	353
 儿童专家	ertsvrjx	70
@@ -365901,7 +365298,6 @@ sort: by_weight
 儿时游戏	eruiyzxi	129
 二手电梯	eruzdmti	46
 二手车网	eruziewh	441
-二手传播	eruzirbo	0
 二手机器	eruzjiqi	65
 二手机械	eruzjixp	67
 二手家电	eruzjxdm	239
@@ -368256,7 +367652,6 @@ sort: by_weight
 丰源集团	fgyrjitra	73
 丰源食品	fgyruipb	76
 丰原药业	fgyrycye	3048
-蜂涌而出	fgyseriua	325
 蜂涌而至	fgyservia	151
 丰永利行	fgyslixk	88
 风月宝鉴	fgytbcjm	498
@@ -368330,7 +367725,6 @@ sort: by_weight
 防爆装置	fhbcvlvi	68
 防暴武器	fhbcwuqi	65
 方浜中路	fhbhvslu	66
-防弊除害	fhbiiuhd	0
 防冰装置	fhbkvlvi	44
 方便操作	fhbmcczo	1307
 方便大家	fhbmdajx	1520
@@ -369087,7 +368481,6 @@ sort: by_weight
 方言地图	fhyjditu	0
 方言歌曲	fhyjgequ	154
 方言节目	fhyjjpmu	164
-放眼天下	fhyjtmxx	205
 方言说唱	fhyjuoih	42
 方言喜剧	fhyjxiju	41
 方言研究	fhyjyjjq	47
@@ -369309,7 +368702,6 @@ sort: by_weight
 泛华保险	fjhxbcxm	97
 繁华过后	fjhxgohz	155
 泛华公司	fjhxgssi	76
-繁花锦簇	fjhxjbcu	0
 泛华集团	fjhxjitr	653
 繁华街道	fjhxjpdc	636
 繁华落尽	fjhxlojb	572
@@ -370332,7 +369724,6 @@ sort: by_weight
 附加产品	fujxijpb	440
 附加技能	fujxjing	159
 附加镜头	fujxjktz	70
-附加价值	fujxjxvi	5223
 附加能力	fujxngli	67
 富家千金	fujxqmjb	1452
 附加条款	fujxtnkr	2549
@@ -370769,7 +370160,6 @@ sort: by_weight
 腐生植物	fuugviwub	0
 福生有基	fuugyzji	0
 浮上水面	fuuhuvmm	43
-浮上心头	fuuhxbtz	0
 俯式冰橇	fuuibkqn	124
 福士苍汰	fuuichtd	175
 富士电机	fuuidmji	239
@@ -370917,7 +370307,6 @@ sort: by_weight
 复制基金	fuvijijb	223
 复制技术	fuvijiuu	441
 复制链接	fuvilmjp	270
-付之阙如	fuviqtru	663
 复制速度	fuvisudu	138
 复制图片	fuvitupm	46
 复制设备	fuviuebw	132
@@ -371621,7 +371010,6 @@ sort: by_weight
 非凡运动	fwfjyyds	39
 肥肥白白	fwfwbdbd	46
 肥肥大大	fwfwdada	85
-肥肥胖胖	fwfwphph	102
 沸沸腾腾	fwfwtgtg	59
 飞歌导航	fwgedchh	213
 菲格罗阿	fwgeloaa	114
@@ -371651,7 +371039,6 @@ sort: by_weight
 飞鹤奶粉	fwhendff	103
 飞鹤乳业	fwheruye	4196
 非核武器	fwhewuqi	321
-非核武区	fwhewuqu	0
 非货币化	fwhobihx	152
 绯红女巫	fwhsnvwu	78
 绯红之心	fwhsvixb	45
@@ -373353,7 +372740,6 @@ sort: by_weight
 高手过招	gcuzgovc	2288
 高手寂寞	gcuzjimo	60
 高手林立	gcuzlbli	147
-高手云集	gcuzyyji	2486
 高折射率	gcveuelv	128
 高枕而眠	gcvfermm	0
 高枕无事	gcvfwuui	0
@@ -373678,7 +373064,6 @@ sort: by_weight
 改变角度	gdbmjndu	76
 改变结构	gdbmjpgz	216
 改变决定	gdbmjtdk	402
-改编剧本	gdbmjubf	1696
 改变口音	gdbmkzyb	42
 改变立场	gdbmliih	1793
 改编漫画	gdbmmjhx	76
@@ -373794,7 +373179,6 @@ sort: by_weight
 概率预报	gdlvyubc	371
 盖伦英语	gdlyykyu	102
 盖马高原	gdmagcyr	59
-改面革心	gdmmgexb	0
 概念不清	gdnmbuqk	355
 概念操作	gdnmcczo	52
 概念策划	gdnmcehx	65
@@ -374003,7 +373387,6 @@ sort: by_weight
 哥哥嫂嫂	gegescsc	15
 各个专业	gegevrye	502
 各个学校	gegextxn	678
-咯咯作响	gegezoxl	19
 葛根塔娜	gegftana	53
 各干各的	gegjgede	53
 各国大学	gegodaxt	174
@@ -374295,7 +373678,6 @@ sort: by_weight
 镉镍电池	genpdmii	61
 歌葩地图	gepaditu	299
 割皮救女	gepijqnv	63
-各辟蹊径	gepiqijk	205
 葛佩莉亚	gepwliyaa	73
 歌曲比赛	gequbisd	62
 歌曲内容	gequnwrs	220
@@ -374687,7 +374069,6 @@ sort: by_weight
 隔夜利率	geyelilv	7168
 隔一个月	geyigeyt	26
 各衣另饭	geyilkfj	0
-各异其趣	geyiqiqu	0
 戈伊亚斯	geyiyasi	384
 铬盐行业	geyjhhye	84
 格言警句	geyjjkju	154
@@ -374996,7 +374377,6 @@ sort: by_weight
 更深半夜	ggufbjye	0
 更深层次	ggufcgci	21208
 更深了解	gguflnjp	134
-更生保护	ggugbchu	0
 更生人士	ggugrfui	50
 更适合你	gguiheni	461
 更正登记	ggvgdgji	168
@@ -376577,7 +375957,6 @@ sort: by_weight
 广式腊味	gluilaww	39
 广式香肠	gluixlih	39
 光山县人	glujxmrf	57
-广受好评	gluzhcpk	0
 光照不足	glvcbuzu	298
 光照方向	glvcfhxl	45
 光照范围	glvcfjww	69
@@ -377227,7 +376606,6 @@ sort: by_weight
 国金证券	gojbvgqr	76101
 国金中心	gojbvsxb	1347
 国际安全	gojianqr	6109
-国际奥会	gojiaohv	0
 国际包裹	gojibcgo	138
 国际保健	gojibcjm	209
 国际保理	gojibcli	391
@@ -377338,7 +376716,6 @@ sort: by_weight
 国际巨星	gojijuxk	6063
 国际价格	gojijxge	1789
 国际家居	gojijxjua	2498
-国际驾照	gojijxvc	453
 国际价值	gojijxvi	78
 国际家园	gojijxyr	38
 国际课程	gojikeig	1308
@@ -377606,7 +376983,6 @@ sort: by_weight
 国家借款	gojxjpkr	43
 国家救济	gojxjqji	37
 国家崛起	gojxjtqi	485
-国家剧院	gojxjuyr	795
 国家立场	gojxliih	10
 国家历史	gojxliui	1261
 国家领海	gojxlkhd	60
@@ -378012,7 +377388,6 @@ sort: by_weight
 国泰小盘	gotdxnpj	186
 国腾电子	gotgdmzi	11671
 国腾集团	gotgjitr	286
-国统纲领	gotsghlk	0
 国统管道	gotsgrdc	141
 国通管业	gotsgrye	1954
 国通快递	gotskkdi	207
@@ -379107,7 +378482,6 @@ sort: by_weight
 工地安全	gsdianqr	237
 工地搬砖	gsdibjvr	108
 攻敌不备	gsdibubw	43
-公地放领	gsdifhlk	0
 工地管理	gsdigrli	786
 工地监控	gsdijmks	38
 工地入口	gsdirukz	221
@@ -379190,11 +378564,9 @@ sort: by_weight
 公告内容	gsgcnwrs	36
 公告天下	gsgctmxx	460
 公告显示	gsgcxmui	84
-公告现值	gsgcxmvi	0
 公告消息	gsgcxnxi	561
 贡格尔河	gsgeerhe	51
 公广集团	gsgljitr	190
-功过参半	gsgocjbj	347
 功过相酬	gsgoxliz	0
 公关案例	gsgranli	96
 公关策略	gsgrcelt	500
@@ -379592,7 +378964,6 @@ sort: by_weight
 供给需求	gsjixuqq	815
 公鸡下蛋	gsjixxdj	92
 功绩勋章	gsjixyvh	224
-共济一堂	gsjiyith	0
 供给预测	gsjiyuce	72
 功济宇内	gsjiyunw	0
 攻击欲望	gsjiyuwh	1381
@@ -380294,7 +379665,6 @@ sort: by_weight
 工商黄页	gsuhhlye	0
 工商处罚	gsuhiufa	87
 工伤鉴定	gsuhjmdk	130
-工商阶级	gsuhjpji	0
 工伤纠纷	gsuhjqff	79
 工伤康复	gsuhkhfu	757
 工商联界	gsuhlmjp	303
@@ -380354,7 +379724,6 @@ sort: by_weight
 攻守平衡	gsuzpkhg	6206
 拱手投降	gsuztzxl	0
 攻守转换	gsuzvrhr	1971
-拱手作揖	gsuzzoyi	0
 公债风险	gsvdfgxm	43
 公债利息	gsvdlixi	85
 弓折矢尽	gsveuijb	1
@@ -380523,7 +379892,6 @@ sort: by_weight
 工业保护	gsyebchu	380
 工业包装	gsyebcvl	133
 工业比重	gsyebivs	721
-功业彪炳	gsyebnbk	0
 工业北路	gsyebwlu	932
 工业草酸	gsyeccsr	112
 工业材料	gsyecdln	402
@@ -380723,7 +380091,6 @@ sort: by_weight
 公益人士	gsyirfui	1255
 公益人物	gsyirfwu	243
 工艺人员	gsyirfyr	120
-公益软体	gsyirrti	0
 公益诉讼	gsyisuss	13324
 工艺特色	gsyitese	57
 公益团队	gsyitrdv	1043
@@ -380965,7 +380332,6 @@ sort: by_weight
 工作量法	gszollfa	380
 工作履历	gszolvli	101
 工作类别	gszolwbp	119
-工作伦理	gszolyli	0
 工作满意	gszomjyi	167
 工作满足	gszomjzu	77
 工作面积	gszommji	65
@@ -381618,7 +380984,6 @@ sort: by_weight
 姑娘的心	gunldexb	164
 姑娘漂亮	gunlpnll	93
 孤贫颠连	gupbdmlm	0
-骨牌理论	gupdlily	0
 骨盆变形	gupfbmxk	113
 骨盆前倾	gupfqmqk	114
 骨盆运动	gupfyyds	110
@@ -382886,7 +382251,6 @@ sort: by_weight
 好不习惯	hcbuxigr	40
 毫不意外	hcbuyiwd	173
 好不自在	hcbuzizd	252
-毫不做作	hcbuzozo	0
 薅草锣鼓	hccclogu	54
 耗材配件	hccdpwjm	49
 好词好句	hccihcju	277
@@ -383146,7 +382510,6 @@ sort: by_weight
 毫无察觉	hcwuiajt	1192
 毫无出路	hcwuiulu	266
 毫无进展	hcwujbvj	2560
-毫无机心	hcwujixb	0
 毫无交集	hcwujnji	45
 毫无倦意	hcwujryi	115
 毫无困难	hcwukynj	219
@@ -383160,7 +382523,6 @@ sort: by_weight
 毫无退路	hcwutvlu	420
 毫无头绪	hcwutzxu	1067
 毫无胜算	hcwuugsr	91
-毫无章法	hcwuvhfa	1872
 毫无问题	hcwuwfti	2747
 好恶心啊	hcwuxbaa	25
 毫无兴趣	hcwuxkqu	2734
@@ -383190,7 +382552,6 @@ sort: by_weight
 好像昨天	hcxlzotm	10
 好贤礼士	hcxmliui	0
 好些年了	hcxpnmle	38
-好学专辑	hcxtvrji	0
 豪侠强徒	hcxxqltu	0
 号巡洋舰	hcxyyhjm	2978
 好耶广告	hcyeglgc	42
@@ -383837,7 +383198,6 @@ sort: by_weight
 海滩酒吧	hdtjjqba	37
 海滩咖啡	hdtjkafw	37
 海滩派对	hdtjpddv	68
-海滩排球	hdtjpdqq	0
 海滩烧烤	hdtjuckc	42
 海滩浴场	hdtjyuih	46
 还挺好看	hdtkhckj	246
@@ -384318,7 +383678,6 @@ sort: by_weight
 海逸豪庭	hdyihctk	173
 海逸君绰	hdyijyio	45
 还以为是	hdyiwwui	876
-还以颜色	hdyiyjse	17234
 海岩作品	hdyjzopb	56
 海盈科技	hdykkeji	184
 海源别墅	hdyrbpuu	96
@@ -384749,7 +384108,6 @@ sort: by_weight
 合成一个	heigyige	148
 合成一体	heigyiti	74
 合成原料	heigyrln	223
-合成乐器	heigytqi	338
 合成钻石	heigzrui	168
 合唱比赛	heihbisd	409
 合唱编配	heihbmpw	47
@@ -386014,7 +385372,6 @@ sort: by_weight
 航电系统	hhdmxits	7612
 航都大厦	hhdzdaua	122
 航发动力	hhfadsli	47
-航发中心	hhfavsxb	229
 绗缝工艺	hhfggsyi	50
 杭盖乐队	hhgdytdv	360
 杭歌剧院	hhgejuyr	96
@@ -386407,7 +385764,6 @@ sort: by_weight
 喊不出来	hjbuiuld	35
 寒不可衣	hjbukeyi	0
 悍不畏死	hjbuwwsi	141
-含悲忍泪	hjbwrflw	0
 寒从脚起	hjcsjnqi	90
 喊打喊杀	hjdahjua	635
 涵道风扇	hjdcfguj	61
@@ -388607,7 +387963,6 @@ sort: by_weight
 缓慢降落	hrmjjllo	168
 缓慢转动	hrmjvrds	72
 缓慢移动	hrmjyids	672
-环幕电影	hrmudmyk	84
 环能国际	hrnggoji	441
 患难见弃	hrnjjmqi	0
 患难相扶	hrnjxlfu	0
@@ -388672,7 +388027,6 @@ sort: by_weight
 环球影院	hrqqykyr	40
 环球资源	hrqqziyr	2557
 环绕地球	hrrcdiqq	1450
-环绕喇叭	hrrclaba	0
 环绕世界	hrrcuijp	83
 环绕音箱	hrrcybxl	51
 环绕音效	hrrcybxn	542
@@ -389474,7 +388828,6 @@ sort: by_weight
 湖边钓鱼	hubmdnyu	119
 湖边垂钓	hubmivdn	69
 湖边小屋	hubmxnwu	61
-互别苗头	hubpmntz	355
 互补关系	hubugrxi	1861
 互补产品	hubuijpb	160
 互不重叠	hubuisdp	145
@@ -389938,7 +389291,6 @@ sort: by_weight
 湖畔佳苑	hupjjxyra	94
 湖畔人家	hupjrfjx	40
 湖畔诗人	hupjuirf	0
-护坡工程	hupogsig	0
 琥珀核桃	hupohetc	39
 湖泊环境	hupohrjk	49
 琥珀化石	hupohxui	56
@@ -390193,7 +389545,6 @@ sort: by_weight
 虎啸山林	huxnujlb	52
 虎啸鹰扬	huxnykyh	0
 虎兄豹弟	huxsbcdi	246
-呼兄唤弟	huxshrdi	0
 虎兄虎弟	huxshudi	94
 胡须种植	huxuvsvi	166
 虎牙斗鱼	huyadzyu	12
@@ -391093,7 +390444,6 @@ sort: by_weight
 黑麦面包	hwmdmmbc	317
 黑米手机	hwmiuzji	513
 黑曼巴蛇	hwmjbaue	70
-黑面琵鹭	hwmmpilu	404
 黑默丁格	hwmodkge	110
 黑魔法师	hwmofaui	104
 黑木耳粉	hwmuerff	100
@@ -391279,7 +390629,6 @@ sort: by_weight
 华安债券	hxanvdqr	37
 华安证券	hxanvgqr	13396
 华安中国	hxanvsgo	223
-化暗为明	hxanwwmk	316
 华安优选	hxanyzxr	78
 华奥中心	hxaovsxba	75
 华彬集团	hxbbjitr	1012
@@ -391306,7 +390655,6 @@ sort: by_weight
 滑板滑雪	hxbjhxxt	100
 滑板少年	hxbjucnm	173
 花瓣状的	hxbjvlde	60
-滑板运动	hxbjyyds	873
 滑板游戏	hxbjyzxi	93
 滑冰技巧	hxbkjiqn	48
 滑冰选手	hxbkxruz	415
@@ -391355,7 +390703,6 @@ sort: by_weight
 华地国际	hxdigoji	183
 华帝股份	hxdiguff	7408
 华帝燃具	hxdirjju	67
-划地为王	hxdiwwwh	393
 划单人艇	hxdjrftk	112
 花旦演员	hxdjyjyr	42
 华鼎担保	hxdkdjbc	103
@@ -391972,7 +391319,6 @@ sort: by_weight
 华佗论箭	hxtolyjm	449
 华佗药房	hxtoycfh	45
 华拓医药	hxtoyiyc	154
-华佗再世	hxtozduib	424
 华铁传媒	hxtpirmw	157
 滑铁卢桥	hxtpluqn	86
 华通集团	hxtsjitr	175
@@ -392022,7 +391368,6 @@ sort: by_weight
 滑石板村	hxuibjcy	314
 划时代的	hxuiddde	7457
 花式调酒	hxuidnjq	221
-花式滑冰	hxuihxbk	0
 华视传媒	hxuiirmw	8010
 化石记录	hxuijilu	266
 花式九球	hxuijqqq	341
@@ -392031,7 +391376,6 @@ sort: by_weight
 花式摩托	hxuimoto	95
 化石能源	hxuingyr	12206
 花式台球	hxuitdqq	324
-花式撞球	hxuivlqq	626
 花市小学	hxuixnxt	211
 化石遗址	hxuiyivi	85
 花市枣苑	hxuizcyr	40
@@ -392632,9 +391976,7 @@ sort: by_weight
 婚前同居	hyqmtsju	70
 婚前试爱	hyqmuiai	183
 混日子的	hyrizide	682
-浑然忘我	hyrjwhwo	188
 混入其中	hyruqivs	250
-荤素不忌	hysubuji	0
 荤汤腊水	hythlauv	0
 婚纱定制	hyuadkvi	68
 婚纱品牌	hyuapbpd	370
@@ -392674,7 +392016,6 @@ sort: by_weight
 混血人种	hyxtrfvs	91
 混血组合	hyxtzuhe	38
 婚姻爱情	hyybaiqk	848
-婚姻暴力	hyybbcli	0
 婚姻保险	hyybbcxm	114
 婚姻背后	hyybbwhz	104
 婚姻管理	hyybgrli	89
@@ -392683,7 +392024,6 @@ sort: by_weight
 婚姻基础	hyybjiiu	294
 婚姻挤压	hyybjiya	105
 婚姻纠纷	hyybjqff	472
-婚姻恳谈	hyybkftj	0
 婚姻伦理	hyyblyli	57
 婚姻破裂	hyybpolp	58
 婚姻契约	hyybqiyt	45
@@ -392746,7 +392086,6 @@ sort: by_weight
 后防五老	hzfhwulc	123
 喉干舌燥	hzgjuezc	286
 后果可怕	hzgokepa	47
-后果堪虞	hzgokjyu	302
 后宫动漫	hzgsdsmj	40
 后宫美人	hzgsmwrf	99
 后宫嫔妃	hzgspbfw	198
@@ -393180,7 +392519,6 @@ sort: by_weight
 超对称性	icdvifxk	131
 超额报酬	iceebciz	53
 超额保险	iceebcxm	46
-超额贷款	iceeddkr	141
 超额费用	iceefwys	70
 超额供给	iceegsji	118
 超额利差	iceeliia	105
@@ -393190,7 +392528,6 @@ sort: by_weight
 超额现金	iceexmjb	264
 超额需求	iceexuqq	65
 朝丰家园	icfgjxyr	88
-嘲讽漫骂	icfgmjma	0
 朝反方向	icfjfhxl	135
 超凡工艺	icfjgsyi	69
 超凡技术	icfjjiuu	55
@@ -393771,7 +393108,6 @@ sort: by_weight
 拆出资金	idiuzijb	9283
 钗脚漏痕	idjnlzhf	0
 拆借市场	idjpuiih	1667
-拆款利率	idkrlilv	0
 豺狼来了	idlhldle	105
 柴里煤矿	idlimwkl	105
 柴门霍夫	idmfhofu	0
@@ -394144,7 +393480,6 @@ sort: by_weight
 陈年往事	ifnmwhui	714
 陈彷公路	ifphgslu	42
 趁热灶火	ifrezcho	0
-趁人不备	ifrfbubw	861
 沉入水中	ifruuvvs	924
 沉思冥想	ifsimkxl	49
 陈三五娘	ifsjwunl	469
@@ -394203,7 +393538,6 @@ sort: by_weight
 沉吟片刻	ifybpmke	272
 衬衣搭配	ifyidapw	653
 陈毅广场	ifyiglih	193
-陈义过高	ifyigogc	0
 陈毅将军	ifyijljy	63
 衬衣面料	ifyimmln	42
 陈毅市长	ifyiuivh	77
@@ -394429,7 +393763,6 @@ sort: by_weight
 承兑合同	igdvhets	52
 承兑协议	igdvxpyi	134
 承兑银行	igdvybhh	328
-惩恶奖善	igeejluj	75
 惩罚措施	igfacoui	111
 惩罚犯罪	igfafjzv	391
 成发集团	igfajitr	178
@@ -395109,7 +394442,6 @@ sort: by_weight
 称重显示	igvsxmui	43
 成文法律	igwffalv	38
 成问题的	igwftide	1181
-称王封后	igwhfghz	365
 骋望骊都	igwhlidz	91
 乘务培训	igwupwxy	39
 乘务人员	igwurfyr	34
@@ -395181,7 +394513,6 @@ sort: by_weight
 诚信物流	igxbwulq	46
 诚信危机	igxbwwji	1463
 诚信信息	igxbxbxi	1912
-诚信原则	igxbyrze	1813
 诚信友善	igxbyzuj	18
 橙心优选	igxbyzxr	115
 诚信责任	igxbzerf	291
@@ -395866,7 +395197,6 @@ sort: by_weight
 常青集团	ihqkjitra	51
 长青农化	ihqknshx	282
 偿清债务	ihqkvdwu	113
-长青学苑	ihqkxtyr	0
 厂区规划	ihqugvhx	125
 厂区人员	ihqurfyr	189
 厂区占地	ihquvjdi	192
@@ -396103,7 +395433,6 @@ sort: by_weight
 唱作才女	ihzocdnv	190
 唱作才子	ihzocdzi	296
 唱作歌手	ihzogeuz	958
-唱作俱佳	ihzojujx	0
 唱作念打	ihzonmdaa	0
 唱作新人	ihzoxbrf	51
 迟宾之馆	iibbvigr	0
@@ -396207,7 +395536,6 @@ sort: by_weight
 持久生命	iijqugmk	257
 持久性的	iijqxkde	587
 持久作战	iijqzovj	395
-齿颊留香	iijxlqxl	0
 持卡就医	iikajqyi	530
 吃烤全羊	iikcqryh	11
 齿科材料	iikecdln	258
@@ -396383,7 +395711,6 @@ sort: by_weight
 吃自来食	iizildui	0
 吃子孙饭	iizisyfj	299
 赤字政策	iizivgce	173
-赤字预算	iiziyusr	233
 吃自在饭	iizizdfj	0
 浐灞半岛	ijbabjdc	65
 产地检疫	ijdijmyi	777
@@ -397039,7 +396366,6 @@ sort: by_weight
 创意时装	ilyiuivl	43
 创意十足	ilyiuizu	2985
 创意手工	ilyiuzgs	173
-创意指导	ilyividc	142
 创意制作	ilyivizo	556
 创意之作	ilyivizoa	132
 创意展台	ilyivjtd	111
@@ -398644,7 +397970,6 @@ sort: by_weight
 楚汉春秋	iuhjiyqq	402
 楚汉争雄	iuhjvgxs	214
 楚汉文化	iuhjwfhx	101
-出乎寻常	iuhuxyih	369
 初回特典	iuhvtedm	365
 除灰系统	iuhvxits	61
 除黑眼圈	iuhwyjqr	133
@@ -399058,7 +398383,6 @@ sort: by_weight
 处事不公	iuuibugs	109
 厨师大赛	iuuidasd	77
 出市代表	iuuiddbn	226
-处世待人	iuuiddrf	0
 初始登记	iuuidgji	2905
 初始定位	iuuidkww	72
 出事儿了	iuuierle	94
@@ -399380,7 +398704,6 @@ sort: by_weight
 垂直移动	ivviyids	164
 垂直运动	ivviyyds	246
 垂直运输	ivviyyuu	85
-椎心蚀骨	ivxbuigu	0
 吹响号角	ivxlhcjn	1031
 搥胸顿足	ivxsdyzub	0
 垂于将来	ivyujlld	151
@@ -399579,7 +398902,6 @@ sort: by_weight
 纯元皇后	iyyrhlhz	252
 春源食品	iyyruipb	42
 春苑小区	iyyrxnqu	41
-春元演习	iyyryjxi	0
 春雨工程	iyyugsig	145
 淳于珊珊	iyyuujuj	78
 春运表情	iyyybnqk	70
@@ -399898,7 +399220,6 @@ sort: by_weight
 金光明经	jbglmkjk	0
 金光四射	jbglsiue	0
 金光圣母	jbglugmu	66
-金光闪耀	jbglujyc	210
 巾帼风采	jbgofgcd	154
 巾帼建功	jbgojmgs	400
 巾帼家政	jbgojxvg	37
@@ -400398,7 +399719,6 @@ sort: by_weight
 金轮国师	jblygoui	42
 金轮集团	jblyjitr	297
 金镂梅科	jblzmwke	0
-金镂玉衣	jblzyuyi	0
 金马大使	jbmadaui	87
 金马路站	jbmaluvj	95
 金马仑道	jbmalydc	1
@@ -400523,7 +399843,6 @@ sort: by_weight
 近期预测	jbqiyuce	246
 尽情发挥	jbqkfahv	1919
 金氰化钾	jbqkhxjx	162
-近情近理	jbqkjblia	0
 尽情尖叫	jbqkjmjn	50
 尽情狂欢	jbqkklhr	819
 尽情吐露	jbqktulu	278
@@ -402207,7 +401526,6 @@ sort: by_weight
 技工院校	jigsyrxn	975
 矶谷廉介	jigulmjp	74
 击鼓骂曹	jigumacc	93
-击鼓申冤	jiguufyr	0
 稽古之力	jiguvili	0
 极轨卫星	jigvwwxk	70
 寄给他们	jigwtamf	24
@@ -403578,7 +402896,6 @@ sort: by_weight
 集体农场	jitinsih	236
 集体农业	jitinsye	67
 集体努力	jitinuli	295
-集体诉讼	jitisuss	13447
 集体宿舍	jitisuue	3353
 机体损伤	jitisyuh	82
 集体谈判	jititjpj	535
@@ -404590,7 +403907,6 @@ sort: by_weight
 肌研极润	jiyjjiry	42
 挤眼弄眉	jiyjnsmw	0
 极严重的	jiyjvsde	144
-机缘凑巧	jiyrczqn	0
 积怨很深	jiyrhfuf	119
 妓院老板	jiyrlcbj	144
 集约发展	jiytfavj	1765
@@ -405158,7 +404474,6 @@ sort: by_weight
 经济车速	jkjiiesu	75
 经济成本	jkjiigbf	4462
 经济成熟	jkjiiguu	147
-经济成长	jkjiigvh	0
 经济成效	jkjiigxn	83
 竞技场的	jkjiihde	2512
 竞技场景	jkjiihjk	49
@@ -405901,7 +405216,6 @@ sort: by_weight
 精神专注	jkufvrvu	69
 精神转移	jkufvryi	50
 精神追求	jkufvvqq	175
-精神外遇	jkufwdyu	0
 精神问题	jkufwfti	4672
 精神武器	jkufwuqi	46
 惊神未定	jkufwwdk	0
@@ -406262,8 +405576,7 @@ sort: by_weight
 精英大学	jkykdaxt	680
 精英弟子	jkykdizi	44
 经营分析	jkykffxi	3505
-精英分子	jkykffzia	396
-菁英分子	jkykffzib	0
+精英分子	jkykffzib	396
 经营风格	jkykfgge	2610
 经营方案	jkykfhan	452
 经营方法	jkykfhfa	408
@@ -407387,7 +406700,6 @@ sort: by_weight
 减工偷料	jmgstzln	0
 健宫医院	jmgsyiyra	150
 坚固机身	jmgujiuf	71
-鉴古推今	jmgutvjb	0
 坚固阵地	jmguvfdi	75
 坚固异常	jmguyiih	76
 贱贵穷通	jmgvqsts	0
@@ -407909,7 +407221,6 @@ sort: by_weight
 健全食品	jmqruipb	456
 俭确之教	jmqtvijn	25
 渐趋明朗	jmqumklh	1370
-渐趋式微	jmquuiww	0
 坚韧不屈	jmrfbuqu	240
 见仁见知	jmrfjmvic	0
 坚韧耐磨	jmrfndmo	71
@@ -408405,7 +407716,6 @@ sort: by_weight
 建业集团	jmyejitr	1127
 菅野美穂	jmyemwsva	38
 兼业农户	jmyenshu	231
-箭也似的	jmyeuide	0
 建业实业	jmyeuiye	151
 见样学样	jmyhxtyh	0
 简易包扎	jmyibcza	38
@@ -409900,7 +409210,6 @@ sort: by_weight
 姐姐来了	jpjpldle	58
 结节龙科	jpjplske	63
 姐姐妹妹	jpjpmwmw	86
-节节攀高	jpjppjgc	0
 节节攀升	jpjppjug	205
 节节下挫	jpjpxxco	493
 解酒方法	jpjqfhfa	67
@@ -410595,7 +409904,6 @@ sort: by_weight
 韭菜饺子	jqcdjnzi	233
 韭菜馅饼	jqcdxmbk	69
 九层之台	jqcgvitd	342
-就此罢手	jqcibauz	0
 就此罢休	jqcibaxq	22
 就此而论	jqcierly	167
 就此了结	jqcilnjp	473
@@ -411177,7 +410485,6 @@ sort: by_weight
 捐精补贴	jrjkbutp	56
 卷甲重来	jrjxvsld	107
 捐款风波	jrkrfgbo	40
-卷款潜逃	jrkrqmtc	2318
 卷浪翻波	jrlhfjbo	55
 卷帘大将	jrlmdajl	122
 涓流充电	jrlqisdm	108
@@ -411214,7 +410521,6 @@ sort: by_weight
 迥不相同	jsbuxlts	273
 迥隔霄壤	jsgexnrh	0
 炯炯有光	jsjsyzgl	0
-窘态百出	jstdbdiu	317
 囧探佳人	jstjjxrf	52
 绝爱之城	jtaiviig	150
 倔巴棍子	jtbagyzi	0
@@ -411600,7 +410906,6 @@ sort: by_weight
 聚氨酯胶	juanvijn	668
 聚氨酯类	juanvilw	76
 倨傲怠慢	juaoddmj	0
-倨傲鲜腆	juaoxmtm	0
 举报案件	jubcanjm	1165
 举报保护	jubcbchu	51
 举报材料	jubccdln	7408
@@ -412483,7 +411788,6 @@ sort: by_weight
 佳禾食品	jxheuipb	666
 嘉和一品	jxheyipb	586
 嘉禾影城	jxheykig	53
-加护病房	jxhubkfh	459
 贾湖骨笛	jxhugudi	83
 嘉湖山庄	jxhuujvl	141
 嘉湖银座	jxhuybzo	774
@@ -412849,7 +412153,6 @@ sort: by_weight
 假日广场	jxriglih	272
 假日国际	jxrigoji	49
 假日海滩	jxrihdtj	517
-假日花市	jxrihxui	0
 假日花园	jxrihxyr	67
 假日除外	jxriiuwd	106
 假日理财	jxrilicd	321
@@ -413073,7 +412376,6 @@ sort: by_weight
 家庭养花	jxtkyhhx	47
 家庭养老	jxtkyhlc	3759
 家庭医疗	jxtkyiln	821
-家庭医师	jxtkyiui	48
 家庭医学	jxtkyixt	186
 家庭宴会	jxtkyjhv	81
 家庭园艺	jxtkyryi	0
@@ -413226,7 +412528,6 @@ sort: by_weight
 价值周期	jxvivzqi	67
 价值洼地	jxviwadi	5458
 价值稳定	jxviwfdk	261
-加值网路	jxviwhlu	0
 价值形态	jxvixktd	240
 价值限额	jxvixmee	54
 价值要素	jxviycsu	74
@@ -413321,7 +412622,6 @@ sort: by_weight
 加压装置	jxyavlvi	63
 佳肴美馔	jxycmwvra	51
 家业凋零	jxyednlk	0
-迦叶尊者	jxyezyve	435
 家养动物	jxyhdswu	140
 家养宠物	jxyhiswu	204
 嘉阳集团	jxyhjitr	173
@@ -413340,7 +412640,6 @@ sort: by_weight
 加以证明	jxyivgmk	368
 加以限制	jxyixmvi	3197
 加以修改	jxyixqgd	482
-假以颜色	jxyiyjse	0
 加以组织	jxyizuvi	11
 假言命题	jxyjmkti	54
 嘉应制药	jxykviyc	11117
@@ -414338,7 +413637,6 @@ sort: by_weight
 开放接口	kdfhjpkz	1500
 开放开放	kdfhkdfh	38
 开放课程	kdfhkeig	508
-开放空间	kdfhksjm	1218
 开放领空	kdfhlkks	337
 开放门户	kdfhmfhu	890
 开放内测	kdfhnwce	2834
@@ -414368,7 +413666,6 @@ sort: by_weight
 凯歌夫人	kdgefurf	72
 开个玩笑	kdgewjxn	848
 凯歌香槟	kdgexlbb	699
-开光点眼	kdgldmyj	0
 开光祈福	kdglqifu	64
 开光仪式	kdglyiui	130
 开国方略	kdgofhlt	0
@@ -414787,7 +414084,6 @@ sort: by_weight
 开元杂报	kdyrzabc	0
 凯悦酒店	kdytjqdm	1504
 开运动会	kdyydshv	509
-开运化妆	kdyyhxvl	0
 开凿运河	kdzcyyhe	159
 可爱宝宝	keaibcbc	296
 可爱宝贝	keaibcbw	200
@@ -415121,7 +414417,6 @@ sort: by_weight
 可处理的	keiulide	87
 可出售的	keiuuzde	220
 可出租的	keiuzude	60
-克尽己职	kejbjivi	188
 可进入的	kejbrude	139
 科金斯基	kejbsiji	106
 氪金玩家	kejbwjjx	276
@@ -415676,7 +414971,6 @@ sort: by_weight
 咳声打气	keugdaqi	0
 可生产的	keugijde	65
 可升级的	keugjide	524
-咳声叹息	keugtjxi	0
 可胜在敌	keugzddi	73
 克绳祖武	keugzuwu	153
 可上可下	keuhkexx	32
@@ -416135,7 +415429,6 @@ sort: by_weight
 可运行的	keyyxkde	204
 可允许的	keyyxude	63
 可运用的	keyyysde	139
-可造之材	kezcvicda	963
 可再生的	kezdugde	1080
 可增加的	kezgjxde	91
 可自定义	kezidkyi	200
@@ -416437,7 +415730,6 @@ sort: by_weight
 抗氧化的	khyhhxde	2576
 抗氧化酶	khyhhxmw	203
 抗疫精神	khyijkuf	18
-抗议文学	khyiwfxt	0
 抗疫物资	khyiwuzi	16
 康益休闲	khyixqxm	254
 抗疫英雄	khyiykxs	17
@@ -417822,7 +417114,6 @@ sort: by_weight
 空中封锁	ksvsfgso	50
 空中防御	ksvsfhyu	799
 空中放油	ksvsfhyz	284
-空中夫妻	ksvsfuqi	0
 空中飞车	ksvsfwie	0
 空中飞舞	ksvsfwwu	439
 空中飞行	ksvsfwxk	4413
@@ -417852,7 +417143,6 @@ sort: by_weight
 空中交警	ksvsjnjk	63
 空中交通	ksvsjnts	3096
 空中教学	ksvsjnxt	0
-空中交易	ksvsjnyi	0
 空中接口	ksvsjpkz	325
 空中解体	ksvsjpti	2129
 空中救援	ksvsjqyr	724
@@ -417909,7 +417199,6 @@ sort: by_weight
 空中卫士	ksvswwui	61
 空中袭击	ksvsxiji	286
 空中悬停	ksvsxrtk	298
-空中学校	ksvsxtxn	0
 空中下载	ksvsxxzd	57
 空中巡航	ksvsxyhh	268
 空中隐形	ksvsybxk	83
@@ -417919,7 +417208,6 @@ sort: by_weight
 空中预警	ksvsyujk	1656
 空中运送	ksvsyyss	56
 空中运输	ksvsyyuu	753
-空中造雨	ksvszcyu	0
 空中载具	ksvszdju	158
 空中作战	ksvszovj	3708
 空位投篮	kswwtzlj	3002
@@ -418123,7 +417411,6 @@ sort: by_weight
 亏损总额	kvsyzsee	21532
 喟叹不已	kvtjbuyi	74
 魁星点斗	kvxkdmdz	68
-奎星高照	kvxkgcvc	0
 溃疡形成	kvyhxkig	90
 窥御激夫	kvyujifu	90
 馈赠佳品	kvzgjxpb	181
@@ -418337,7 +417624,6 @@ sort: by_weight
 口碑指数	kzbwviuu	147
 口碑效应	kzbwxnyk	1555
 口碑营销	kzbwykxn	2317
-口才辨给	kzcdbmgw	112
 口才好的	kzcdhcde	38
 口袋怪兽	kzddgkuz	49
 口袋空空	kzddksks	130
@@ -418442,7 +417728,6 @@ sort: by_weight
 口舌干燥	kzuegjzc	169
 口舌之便	kzuevibm	0
 扣身衫子	kzufujzi	0
-口述历史	kzuuliui	4655
 口水大战	kzuvdavj	586
 口授心传	kzuzxbir	0
 口罩戴好	kzvcddhc	10
@@ -418481,7 +417766,6 @@ sort: by_weight
 拉德福德	ladefude	484
 拉迪格岛	ladigedc	96
 拉蒂洛娃	ladilowa	61
-拉丁风情	ladkfgqk	249
 拉丁歌手	ladkgeuz	127
 拉丁教会	ladkjnhv	0
 拉丁爵士	ladkjtui	63
@@ -418536,7 +417820,6 @@ sort: by_weight
 垃圾发电	lajifadm	12573
 垃圾焚化	lajiffhx	39
 垃圾分拣	lajiffjm	407
-垃圾分类	lajifflw	15637
 垃圾分选	lajiffxr	87
 垃圾广告	lajiglgc	121
 垃圾工作	lajigszo	71
@@ -418550,7 +417833,6 @@ sort: by_weight
 拉基斯基	lajisiji	69
 垃圾填埋	lajitmmd	1749
 垃圾时间	lajiuijm	16185
-垃圾食物	lajiuiwu	1006
 垃圾债券	lajivdqr	1892
 垃圾污染	lajiwurj	657
 垃圾围城	lajiwwig	2421
@@ -418880,7 +418162,6 @@ sort: by_weight
 临潼中学	lbtsvsxt	151
 麟吐玉书	lbtuyuuu	0
 临商银行	lbuhybhh	1921
-瞵视昂藏	lbuiahch	0
 临时爸爸	lbuibaba	117
 临时报名	lbuibcmk	125
 临时拨款	lbuibokr	5100
@@ -418930,7 +418211,6 @@ sort: by_weight
 临时宿舍	lbuisuue	451
 临时停工	lbuitkgs	47
 临时停牌	lbuitkpd	43766
-临时条款	lbuitnkr	58
 临时设施	lbuiueui	1157
 临时商铺	lbuiuhpu	103
 临时施工	lbuiuigs	167
@@ -418959,7 +418239,6 @@ sort: by_weight
 临时学籍	lbuixtji	102
 临时需要	lbuixuyc	439
 临时业务	lbuiyewu	86
-临事以惧	lbuiyiju	0
 临时医嘱	lbuiyivu	58
 临时用地	lbuiysdi	1677
 临时用电	lbuiysdm	766
@@ -418989,7 +418268,6 @@ sort: by_weight
 林中小屋	lbvsxnwu	515
 临终遗言	lbvsyiyj	413
 林无静树	lbwujkuu	0
-临危不乱	lbwwbulr	2386
 临危履冰	lbwwlvbk	0
 临危效命	lbwwxnmk	0
 临危自悔	lbwwzihv	0
@@ -419246,11 +418524,9 @@ sort: by_weight
 老区建设	lcqujmue	148
 老人保险	lcrfbcxm	112
 老人大学	lcrfdaxt	69
-老人福利	lcrffuli	0
 老人公寓	lcrfgsyu	551
 老人护理	lcrfhuli	447
 老人理发	lcrflifa	254
-老人年金	lcrfnmjb	0
 老人农业	lcrfnsye	80
 老人生日	lcrfugri	73
 老人政府	lcrfvgfu	51
@@ -419317,7 +418593,6 @@ sort: by_weight
 唠这扯那	lcveiena	0
 老真北路	lcvfbwlu	36
 老战士的	lcvjuide	201
-老庄哲学	lcvlvext	73
 老中青少	lcvsqkuc	96
 老挝国防	lcwogofh	308
 老挝航空	lcwohhks	188
@@ -420583,7 +419858,6 @@ sort: by_weight
 沥青地面	liqkdimm	48
 沥青卷材	liqkjrcd	85
 沥青砂浆	liqkuajl	47
-离情依依	liqkyiyi	0
 力求得到	liqqdedc	42
 力求精确	liqqjkqt	56
 力求简单	liqqjmdj	218
@@ -420797,7 +420071,6 @@ sort: by_weight
 历史民族	liuimbzu	52
 历史谜团	liuimitr	319
 里士满区	liuimjqu	103
-历史名词	liuimkci	742
 历史名茶	liuimkia	46
 历史名将	liuimkjl	914
 历史名镇	liuimkvf	85
@@ -421432,7 +420705,6 @@ sort: by_weight
 懒人听书	ljrftkuu	150
 懒人投资	ljrftzzi	113
 懒人神器	ljrfufqi	25
-懒人植物	ljrfviwu	0
 蓝色版本	ljsebjbf	251
 蓝色标记	ljsebnji	127
 蓝色标签	ljsebnqm	37
@@ -421632,7 +420904,6 @@ sort: by_weight
 蓝牙应用	ljyaykys	43
 蓝印户口	ljybhukz	13024
 拦腰斩断	ljycvjdr	728
-兰阳平原	ljyhpkyr	0
 蓝洋温泉	ljyhwfqr	36
 懒洋洋的	ljyhyhde	1107
 懒洋洋地	ljyhyhdi	820
@@ -421763,7 +421034,6 @@ sort: by_weight
 灵魂守卫	lkhyuzww	145
 灵魂争霸	lkhyvgba	42
 灵魂之歌	lkhyvige	43
-灵魂之窗	lkhyviil	0
 灵魂之力	lkhyvili	150
 灵魂之旅	lkhyvilv	148
 灵魂之石	lkhyviui	45
@@ -421795,7 +421065,6 @@ sort: by_weight
 伶俐聪敏	lklicsmb	0
 伶俐乖觉	lkligkjt	0
 玲离尽致	lklijbvi	41
-另立门户	lklimfhu	0
 伶俐嘴乖	lklizvgk	0
 伶伶俐俐	lklklili	0
 凌乱短发	lklrdrfa	110
@@ -421850,7 +421119,6 @@ sort: by_weight
 铃木一朗	lkmuyilh	107
 铃木一郎	lkmuyilha	43
 铃木郁子	lkmuyuzi	200
-另谋发展	lkmzfavj	395
 令你感到	lknigjdc	41
 令你失望	lkniuiwh	204
 岭南大道	lknjdadc	381
@@ -421887,7 +421155,6 @@ sort: by_weight
 领取武器	lkquwuqi	38
 领取药品	lkquycpb	138
 领取坐骑	lkquzoqi	61
-令人不齿	lkrfbuii	0
 令人动容	lkrfdsrs	5477
 令人乏味	lkrffaww	186
 令人愤慨	lkrfffkd	736
@@ -421899,7 +421166,6 @@ sort: by_weight
 令人称道	lkrfigdc	2312
 令人产生	lkrfijug	1442
 令人垂涎	lkrfivxm	2320
-令人激赏	lkrfjiuh	0
 令人惊奇	lkrfjkqi	3774
 令人惊喜	lkrfjkxi	7126
 令人惊异	lkrfjkyi	809
@@ -421922,7 +421188,6 @@ sort: by_weight
 令人想起	lkrfxlqi	1961
 令人寻味	lkrfxyww	223
 令人仰止	lkrfyhvi	42
-令人意外	lkrfyiwd	0
 令人憎恨	lkrfzghf	132
 零日攻击	lkrigsji	260
 领如蝤蛴	lkruqqqi	22
@@ -422030,7 +421295,6 @@ sort: by_weight
 领先科技	lkxmkeji	3172
 领先两分	lkxmllff	633
 领先球队	lkxmqqdv	47
-领先群伦	lkxmqyly	0
 领先群雄	lkxmqyxs	0
 领先日本	lkxmribf	716
 领先体育	lkxmtiyu	83
@@ -422121,7 +421385,6 @@ sort: by_weight
 两岸一家	llanyijx	146
 两坝一峡	llbayixx	37
 两鬓斑白	llbbbjbd	1215
-两鬓飞霜	llbbfwul	0
 两百多万	llbddowj	465
 两百公里	llbdgsli	23
 凉拌白菜	llbjbdcd	126
@@ -422305,7 +421568,6 @@ sort: by_weight
 两级法院	lljifayr	3113
 两极分布	lljiffbu	85
 两极格局	lljigeju	434
-两极观点	lljigrdm	112
 两极世界	lljiuijp	239
 两极之间	lljivijm	126
 两江大桥	lljldaqn	117
@@ -422326,7 +421588,6 @@ sort: by_weight
 量价关系	lljxgrxi	811
 量价齐跌	lljxqidp	10193
 量价齐升	lljxqiug	20320
-良家子弟	lljxzidi	0
 两军对垒	lljydvlw	758
 凉快凉快	llkkllkk	117
 凉快一点	llkkyidm	14
@@ -422462,7 +421723,6 @@ sort: by_weight
 两山一湖	llujyihu	63
 梁山英雄	llujykxs	183
 两双袜子	llulwazi	10
-凉爽羊毛	llulyhmc	0
 两税合并	lluvhebk	112
 两税合一	lluvheyi	39
 两手过膝	lluzgoxi	0
@@ -422518,7 +421778,6 @@ sort: by_weight
 良性发展	llxkfavj	23955
 量刑方法	llxkfhfa	50
 两性差异	llxkiayi	130
-良性竞争	llxkjkvg	0
 两性间的	llxkjmde	141
 量刑结果	llxkjpgo	94
 两星期后	llxkqihz	15
@@ -422534,8 +421793,6 @@ sort: by_weight
 两项竞赛	llxljksd	53
 两厢轿车	llxljnie	1611
 量效关系	llxngrxi	132
-量小气窄	llxnqivd	0
-量小易盈	llxnyiyk	0
 凉血解毒	llxtjpdu	415
 两腋生风	llyeugfg	0
 两样三般	llyhsjbj	0
@@ -422643,7 +421900,6 @@ sort: by_weight
 联邦法院	lmbhfayr	73
 联邦广场	lmbhglih	319
 联邦国际	lmbhgoji	227
-联邦国家	lmbhgojx	0
 联邦公园	lmbhgsyr	93
 联邦金融	lmbhjbrs	233
 联邦基金	lmbhjijb	1923
@@ -422731,7 +421987,6 @@ sort: by_weight
 联合操纵	lmhecczs	274
 联合采购	lmhecdgz	1489
 联合参谋	lmhecjmz	406
-联合促销	lmhecuxn	1159
 联合导演	lmhedcyj	1186
 联合贷款	lmheddkr	214
 联合登陆	lmhedglu	1007
@@ -422851,7 +422106,6 @@ sort: by_weight
 连环相撞	lmhrxlvl	2504
 联环药业	lmhrycye	2618
 脸红头胀	lmhstzvh	0
-脸红心跳	lmhsxbtn	10444
 莲湖区委	lmhuquww	118
 莲湖山庄	lmhuujvl	62
 莲花宾馆	lmhxbbgr	114
@@ -423099,7 +422353,6 @@ sort: by_weight
 连锁药店	lmsoycdm	5532
 连锁医院	lmsoyiyr	1571
 连锁营销	lmsoykxn	157
-连锁运作	lmsoyyzo	0
 连锁租车	lmsozuie	236
 联滔电子	lmtcdmzi	471
 联太工业	lmtdgsye	104
@@ -423178,7 +422431,6 @@ sort: by_weight
 连珠快书	lmvukkuua	0
 连铸连轧	lmvulmya	192
 连轴儿转	lmvzervr	0
-连外道路	lmwddclu	0
 联网报警	lmwhbcjk	283
 联网广告	lmwhglgc	219
 连网功能	lmwhgsng	65
@@ -423277,7 +422529,6 @@ sort: by_weight
 连续接近	lmxujpjb	114
 连续接种	lmxujpvs	53
 连续聚合	lmxujuhe	264
-连续假日	lmxujxri	0
 连续可导	lmxukedc	26
 连续扣杀	lmxukzua	69
 连续拦网	lmxuljwh	254
@@ -423588,7 +422839,6 @@ sort: by_weight
 落地国籍	lodigoji	36
 洛迪古斯	lodigusi	67
 落地飘窗	lodipnil	48
-落地签证	lodiqmvg	2811
 落地位置	lodiwwvi	64
 罗定铁路	lodktplu	210
 罗店中学	lodmvsxt	67
@@ -423798,9 +423048,7 @@ sort: by_weight
 罗圈儿架	loqrerjx	0
 罗圈涧村	loqrjmcy	324
 锣群文化	loqywfhx	0
-落人笑柄	lorfxnbk	50
 落日黄昏	lorihlhy	69
-落日条款	loritnkr	0
 落日沙漠	loriuamo	49
 落日余辉	loriyuhva	49
 洛绒牛场	lorsnqih	37
@@ -423903,7 +423151,6 @@ sort: by_weight
 洛希极限	loxijixm	102
 罗西里尼	loxilini	483
 罗西琼斯	loxiqssi	90
-螺溪石砚	loxiuiyj	0
 洛溪新城	loxixbig	744
 罗兴亚人	loxkyarf	214
 罗翔老师	loxllcui	330
@@ -424661,7 +423908,6 @@ sort: by_weight
 乱世枭雄	lruixnxs	388
 乱世兄弟	lruixsdi	61
 乱世英豪	lruiykhc	60
-乱中有序	lrvsyzxu	228
 滦州古城	lrvzguig	236
 乱武大会	lrwudahv	255
 乱舞江山	lrwujluj	1679
@@ -424809,7 +424055,6 @@ sort: by_weight
 隆卡利亚	lskaliya	401
 隆康农资	lskhnszi	151
 龙矿集团	lskljitr	116
-龙困浅滩	lskyqmtj	408
 龙口东路	lskzdslu	132
 龙口粉丝	lskzffsi	293
 龙口西路	lskzxilu	212
@@ -424896,7 +424141,6 @@ sort: by_weight
 龙头万科	lstzwjke	1894
 龙厦铁路	lsuatplu	126
 龙蛇浑杂	lsuehyzaa	0
-龙蛇杂处	lsuezaiu	319
 龙神大陆	lsufdalu	88
 龙神战记	lsufvjji	105
 龙生股份	lsugguff	1596
@@ -425001,7 +424245,6 @@ sort: by_weight
 略加修改	ltjxxqgd	81
 掠日彗星	ltrihvxk	178
 掠上心头	ltuhxbtz	0
-略施薄惩	ltuibcig	0
 掠是搬非	ltuibjfw	0
 掠食动物	ltuidswu	191
 略施小计	ltuixnji	237
@@ -425014,7 +424257,6 @@ sort: by_weight
 略显拘谨	ltxmjujb	226
 略显模糊	ltxmmohu	202
 略显杂乱	ltxmzalr	135
-略有耳闻	ltyzerwf	0
 略有结余	ltyzjpyu	854
 略有起伏	ltyzqifu	526
 略有起色	ltyzqise	1120
@@ -425076,7 +424318,6 @@ sort: by_weight
 鲁丰股份	lufgguff	2448
 路逢窄道	lufgvddc	0
 录放音机	lufhybji	290
-录放影机	lufhykji	330
 陆犯焉识	lufjyjui	2258
 卢浮公馆	lufugsgr	78
 路幅宽度	lufukrdu	46
@@ -425451,7 +424692,6 @@ sort: by_weight
 绿点球场	lvdmqqih	65
 铝电容器	lvdmrsqi	50
 旅店住宿	lvdmvusu	139
-律动教学	lvdsjnxt	0
 绿都皇城	lvdzhlig	354
 绿都花城	lvdzhxig	55
 旅法画家	lvfahxjx	84
@@ -425507,7 +424747,6 @@ sort: by_weight
 绿城小区	lvigxnqu	316
 绿城雅居	lvigyaju	55
 绿创环保	lvilhrbc	275
-屡出新招	lviuxbvc	312
 氯醇橡胶	lviyxljn	229
 滤镜尺寸	lvjkiicy	84
 滤镜口径	lvjkkzjk	222
@@ -425570,7 +424809,6 @@ sort: by_weight
 绿色地球	lvsediqq	168
 绿色低碳	lvseditj	9830
 绿色电力	lvsedmli	583
-绿色电脑	lvsedmnc	0
 绿色吊带	lvsedndd	57
 绿色动力	lvsedsli	1044
 绿色发展	lvsefavj	15733
@@ -425958,7 +425196,6 @@ sort: by_weight
 雷暴日数	lwbcriuu	95
 雷暴天气	lwbctmqi	907
 类比错误	lwbicowu	131
-类比电脑	lwbidmnc	0
 类比唱片	lwbiihpm	0
 类比信号	lwbixbhc	0
 类比摇杆	lwbiycgj	93
@@ -426175,8 +425412,6 @@ sort: by_weight
 类推适用	lwtvuiys	100
 类推作用	lwtvzoys	0
 雷射唱盘	lwueihpj	0
-镭射唱片	lwueihpm	0
-雷射唱片	lwueihpma	0
 镭射激光	lwuejigl	157
 雷射摄影	lwueueyk	0
 雷蛇鼠标	lwueuubn	158
@@ -426189,7 +425424,6 @@ sort: by_weight
 雷士照明	lwuivcmk	7401
 泪水盈眶	lwuvykkl	67
 累彰勋效	lwvhxyxn	0
-泪珠盈眶	lwvuykkl	0
 雷州换鼓	lwvzhrgu	37
 雷文克劳	lwwfkelc	254
 泪汪汪地	lwwhwhdi	39
@@ -426208,8 +425442,7 @@ sort: by_weight
 耒阳西站	lwyhxivj	209
 耒阳在线	lwyhzdxm	105
 雷炎洞穴	lwyjdsxt	50
-泪眼朦胧	lwyjmgls	406
-泪眼蒙眬	lwyjmglsa	281
+泪眼朦胧	lwyjmglsa	406
 雷雨大风	lwyudafg	5676
 雷雨大作	lwyudazo	52
 雷雨天气	lwyutmqi	4030
@@ -426263,7 +425496,6 @@ sort: by_weight
 轮船上的	lyiruhde	72
 论斤估两	lyjbgull	0
 轮机工程	lyjigsig	239
-论及婚嫁	lyjihyjx	0
 论据充分	lyjuisff	164
 轮廓不清	lykobuqk	70
 轮廓明显	lykomkxm	137
@@ -427329,7 +426561,6 @@ sort: by_weight
 民族小学	mbzuxnxt	566
 民族学校	mbzuxtxn	135
 民族饮料	mbzuybln	63
-民族艺师	mbzuyiuia	0
 民族医学	mbzuyixt	53
 民族研究	mbzuyjjq	81
 民族园路	mbzuyrlu	120
@@ -427594,7 +426825,6 @@ sort: by_weight
 帽子先生	mczixmug	14
 铆足了劲	mczulejba	69
 铆足力气	mczuliqi	88
-卯足全力	mczuqrli	0
 迈阿密海	mdaamihd	200
 迈阿密热	mdaamire	604
 迈阿密滩	mdaamitj	240
@@ -428271,8 +427501,7 @@ sort: by_weight
 孟子故里	mgziguli	71
 蒙自石榴	mgziuilq	48
 孟宗泣笋	mgzsqisy	0
-忙不迭的	mhbudpde	0
-忙不迭地	mhbudpdi	0
+忙不迭的	mhbudpdea	0
 芒刺满身	mhcimjuf	0
 忙得过来	mhdegold	306
 忙的时候	mhdeuihz	343
@@ -428553,7 +427782,6 @@ sort: by_weight
 秘密世界	mimiuijp	65
 秘密使命	mimiuimk	61
 秘密手段	mimiuzdr	293
-秘密证人	mimivgrf	39
 秘密之门	mimivimf	41
 秘密战争	mimivjvg	99
 秘密战线	mimivjxm	91
@@ -429607,7 +428835,6 @@ sort: by_weight
 免费劳力	mmfwlcli	38
 免费礼物	mmfwliwu	108
 免费拍摄	mmfwpdue	188
-免费软体	mmfwrrti	0
 免费索取	mmfwsoqu	34
 免费体检	mmfwtijm	47
 免费体验	mmfwtiyj	5190
@@ -429829,7 +429056,6 @@ sort: by_weight
 免罪金牌	mmzvjbpd	41
 妙笔丹青	mnbidjqk	53
 妙笔生辉	mnbiughv	40
-藐不可测	mnbukecea	0
 渺不相涉	mnbuxlue	0
 秒懂百科	mndsbdke	10
 妙发灵机	mnfalkji	25
@@ -431047,7 +430273,6 @@ sort: by_weight
 美的价值	mwdejxvi	41
 没得空儿	mwdekser	0
 美的历程	mwdeliig	51
-美得冒泡	mwdemcpc	403
 美的冒泡	mwdemcpca	49
 煤的气化	mwdeqihx	42
 美的日用	mwderiys	87
@@ -431965,7 +431190,6 @@ sort: by_weight
 没人盯防	mwrfdkfh	51
 没人管的	mwrfgrde	398
 每人每次	mwrfmwci	1914
-美人胚子	mwrfpwzi	0
 浼人亲行	mwrfqbxk	0
 美人如玉	mwrfruyu	203
 美人天下	mwrftmxx	793
@@ -432119,7 +431343,6 @@ sort: by_weight
 媒体宣传	mwtixrir	4899
 媒体研究	mwtiyjjq	780
 媒体运营	mwtiyyyk	1558
-媒体造势	mwtizcui	0
 媒体资产	mwtiziij	190
 媒体资源	mwtiziyr	6570
 媒体组合	mwtizuhe	164
@@ -433039,7 +432262,6 @@ sort: by_weight
 那顺孟和	nauymghe	41
 拿手动作	nauzdszo	56
 拿手好菜	nauzhccd	378
-拿手绝活	nauzjtho	1142
 拿手项目	nauzxlmu	94
 那这么说	navemeuo	41
 拿着腔儿	naveqler	0
@@ -433254,7 +432476,6 @@ sort: by_weight
 耐蚀合金	nduihejb	206
 奈史密斯	nduimisi	3926
 耐受极限	nduzjixm	84
-耐着性子	ndvexkzi	311
 乃至今后	ndvijbhz	1225
 耐温等级	ndwfdgji	68
 耐心讲解	ndxbjljp	649
@@ -433333,7 +432554,6 @@ sort: by_weight
 能力不强	nglibuql	4749
 能力不足	nglibuzu	16835
 能力脆弱	nglicvro	46
-能力分班	ngliffbj	0
 能力方面	nglifhmm	256
 能力范围	nglifjww	566
 能力管理	ngligrli	351
@@ -433510,7 +432730,6 @@ sort: by_weight
 能源系统	ngyrxits	3331
 能源项目	ngyrxlmu	23
 能源效率	ngyrxnlv	4841
-能源效益	ngyrxnyi	0
 能源因素	ngyrybsu	72
 能源研究	ngyryjjq	2676
 能源预测	ngyryuce	61
@@ -433801,7 +433020,6 @@ sort: by_weight
 你你你你	nininini	57
 尼尼斯托	ninisito	116
 泥泞道路	ninkdclu	280
-你侬我侬	ninswons	162
 尼帕病毒	nipabkdu	60
 你怕什么	nipaufme	77
 尼泊尔的	nipoerde	2964
@@ -433844,7 +433062,6 @@ sort: by_weight
 逆天者凶	nitmvexs	0
 泥土倾泻	nituqkxp	52
 泥腿光棍	nitvglgy	0
-你推我挤	nitvwoji	0
 泥沙沉积	niuaifji	59
 你杀了我	niualewo	43
 逆渗透膜	niuftzmo	60
@@ -433941,7 +433158,6 @@ sort: by_weight
 逆行感染	nixkgjrj	197
 你想不想	nixlbuxl	346
 你想干嘛	nixlgjma	86
-逆向公车	nixlgsie	0
 你想了解	nixllnjp	214
 逆向流动	nixllqds	276
 逆向歧视	nixlqiui	40
@@ -434069,7 +433285,6 @@ sort: by_weight
 难得一回	njdeyihv	44
 难得一聚	njdeyiju	145
 男得有爱	njdeyzai	55
-难当重任	njdhvsrf	333
 南帝北丐	njdibwgd	1895
 南蒂罗尔	njdiloer	338
 男单决赛	njdjjtsd	156
@@ -434426,7 +433641,6 @@ sort: by_weight
 南京南自	njjknjzi	150
 南京汽车	njjkqiie	527
 南京企业	njjkqiye	139
-难竟全功	njjkqrgs	0
 南京人口	njjkrfkz	156
 南京特产	njjkteij	75
 南京体检	njjktijm	39
@@ -434822,20 +434036,16 @@ sort: by_weight
 难以抗拒	njyikhju	2646
 难以控制	njyiksvi	7200
 难以领会	njyilkhv	53
-难以两全	njyillqr	0
 难以了解	njyilnjp	295
 难以匹敌	njyipidi	1166
 难以破解	njyipojp	526
 难以区别	njyiqubp	116
 难以入眠	njyirumm	1081
 难以突破	njyitupo	5970
-难易适中	njyiuivs	405
 难以数计	njyiuuji	101
 难易相成	njyixlig	26
-难以消受	njyixnuz	0
 难以下咽	njyixxyj	246
 难以言说	njyiyjuo	1125
-难以言喻	njyiyjyu	1050
 难掩耳目	njyjermu	0
 难应付的	njykfude	100
 南园北路	njyrbwlu	213
@@ -435195,7 +434405,6 @@ sort: by_weight
 年死亡率	nmsiwhlv	126
 年提出的	nmtiiude	165
 粘土矿物	nmtuklwu	198
-年少得志	nmucdevi	375
 年少成名	nmucigmk	6548
 年少有为	nmucyzww	219
 年深岁改	nmufsvgd	0
@@ -435245,7 +434454,6 @@ sort: by_weight
 鸟海浩辅	nnhdhcfu	134
 鸟巢吸引	nnicxiyb	1359
 鸟来投林	nnldtzlb	0
-鸟里鸟气	nnlinnqi	83
 尿路结石	nnlujpui	2268
 鸟类保护	nnlwbchu	239
 鸟类动物	nnlwdswu	60
@@ -435257,11 +434465,9 @@ sort: by_weight
 鸟类羽毛	nnlwyumc	66
 嬝娜风流	nnnafglq	0
 嬝娜纤巧	nnnaxmqn	0
-袅袅炊烟	nnnnivyj	490
 嬝嬝娜娜	nnnnnana	0
 嗯嗯嗯嗯	nnnnnnnn	27
 嬝嬝婷婷	nnnntktkd	0
-袅袅上升	nnnnuhug	418
 袅娜风流	nnnofglq	260
 袅娜纤巧	nnnoxmqn	299
 尿频尿急	nnpbnnji	463
@@ -435276,7 +434482,6 @@ sort: by_weight
 鸟之将死	nnvijlsi	0
 尿中带血	nnvsddxt	63
 尿液检查	nnyejmia	209
-尿液筛检	nnyeudjm	0
 诺安保本	noanbcbf	1551
 诺安股票	noangupn	1214
 诺安货币	noanhobi	1486
@@ -435521,7 +434726,6 @@ sort: by_weight
 暖气系统	nrqixits	92
 暖人肺腑	nrrffwfu	41
 暖通专业	nrtsvrye	58
-暖身运动	nrufyyds	0
 暖心工程	nrxbgsig	277
 农安南街	nsannjjp	112
 农安县委	nsanxmww	286
@@ -435683,7 +434887,6 @@ sort: by_weight
 农民利益	nsmbliyi	9011
 农民领袖	nsmblkxq	87
 农民粮食	nsmbllui	176
-农民年金	nsmbnmjb	0
 农民朋友	nsmbpgyz	15
 农民培训	nsmbpwxy	824
 农民权益	nsmbqryi	3762
@@ -435735,7 +434938,6 @@ sort: by_weight
 农庄酒店	nsvljqdm	40
 浓重阴影	nsvsybyk	101
 弄文轻武	nswfqkwu	0
-秾纤合度	nsxmhedu	270
 农闲季节	nsxmjijp	104
 弄小性儿	nsxnxker	0
 弄喧捣鬼	nsxrdcgv	0
@@ -436114,7 +435316,6 @@ sort: by_weight
 女性精神	nvxkjkuf	137
 女性教师	nvxkjnui	162
 女性教育	nvxkjnyu	200
-女性节目	nvxkjpmu	0
 女性节日	nvxkjpri	52
 女性角色	nvxkjtse	6859
 女性军人	nvxkjyrf	40
@@ -436536,7 +435737,6 @@ sort: by_weight
 内置内存	nwvinwcy	40
 内置软件	nwvirrjm	1038
 内置游戏	nwviyzxi	515
-内外交迫	nwwdjnpo	0
 内外结合	nwwdjphe	2865
 内外平衡	nwwdpkhg	186
 内外双修	nwwdulxq	159
@@ -436713,7 +435913,6 @@ sort: by_weight
 欧浦钢网	oupughwh	8955
 欧普康视	oupukhui	20
 欧普照明	oupuvcmk	1447
-欧普艺术	oupuyiuu	414
 偶然的事	ourjdeui	632
 偶然发生	ourjfaug	692
 偶然发现	ourjfaxm	4601
@@ -437467,7 +436666,6 @@ sort: by_weight
 跑一会儿	pcyihver	17
 跑赢大盘	pcykdapj	20492
 匏有苦叶	pcyzkuye	320
-抛在脑后	pczdnchz	547
 泡在水里	pczduvli	1654
 拍案叫好	pdanjnhc	145
 拍案叫妙	pdanjnmn	0
@@ -437525,7 +436723,6 @@ sort: by_weight
 排放限制	pdfhxmvi	522
 牌坊小学	pdfhxnxt	41
 排放总量	pdfhzsll	9112
-牌告利率	pdgclilv	0
 拍个不停	pdgebutk	518
 排灌机械	pdgrjixp	141
 排灌设备	pdgruebw	50
@@ -438530,10 +437727,8 @@ sort: by_weight
 判若两样	pjrollyh	39
 判如天壤	pjrutmrh	0
 盘算盘算	pjsrpjsr	42
-潘他唑新	pjtazoxb	0
 蟠桃盛会	pjtcughva	82
 磐田喜悦	pjtmxiyt	1074
-盘腿而坐	pjtverzo	470
 盘头丫头	pjtzyatz	0
 拚生尽死	pjugjbsi	0
 潘氏家族	pjuijxzu	263
@@ -438544,7 +437739,6 @@ sort: by_weight
 潘氏兄弟	pjuixsdi	49
 畔山花园	pjujhxyr	44
 蹒跚学步	pjujxtbu	1671
-攀山越岭	pjujytlk	50
 攀枝花人	pjvihxrf	89
 攀枝运动	pjviyyds	0
 潘庄秀华	pjvlxqhx	179
@@ -439384,7 +438578,6 @@ sort: by_weight
 破净股票	pojkgupn	82
 破镜之忧	pojkviyz	0
 破净资产	pojkziij	686
-破茧而出	pojmeriu	2184
 破茧化蝶	pojmhxdp	250
 泼贱烟花	pojmyjhx	0
 破解版本	pojpbjbf	13
@@ -439458,7 +438651,6 @@ sort: by_weight
 破水而出	pouveriu	261
 破屋坏垣	powuhkyr	0
 颇为不满	powwbumj	2397
-颇为可观	powwkegr	0
 颇为抢手	powwqluz	161
 破位下跌	powwxxdp	6533
 破心中贼	poxbvszw	62
@@ -440266,7 +439458,6 @@ sort: by_weight
 亲历历史	qbliliui	150
 秦陵地宫	qblkdigs	373
 秦岭神树	qblkufuu	39
-沁凉如水	qbllruuv	0
 擒龙缚虎	qblsfuhu	0
 侵略国家	qbltgojx	555
 侵掠如火	qbltruhoa	68
@@ -440347,8 +439538,6 @@ sort: by_weight
 沁水盆地	qbuvpfdi	347
 亲水平台	qbuvpktd	781
 亲水物质	qbuvwuvi	121
-勤政爱民	qbvgaimb	129
-亲职教育	qbvijnyu	60
 亲脂性的	qbvixkde	37
 侵占财产	qbvjcdij	2464
 侵占资产	qbvjziij	983
@@ -440465,7 +439654,6 @@ sort: by_weight
 七大死罪	qidasizv	0
 七大手法	qidauzfa	37
 七大王国	qidawhgo	42
-奇大无比	qidawubi	0
 七倒八歪	qidcbawd	48
 祈祷好运	qidchcyy	57
 气道通畅	qidctsih	109
@@ -440489,7 +439677,6 @@ sort: by_weight
 奇点大学	qidmdaxt	119
 七点多钟	qidmdovs	116
 起点读书	qidmduuu	48
-汽电共生	qidmgsug	0
 起点工资	qidmgszi	61
 气垫火车	qidmhoie	0
 起点终点	qidmvsdm	94
@@ -440641,7 +439828,6 @@ sort: by_weight
 气鼓挠刀	qiguncdc	0
 奇贵无比	qigvwubi	10
 畦沟灌溉	qigzgrgd	0
-七号公园	qihcgsyr	0
 七河地区	qihediqu	63
 齐合天地	qihetmdi	71
 七横八纵	qihgbazs	0
@@ -440687,7 +439873,6 @@ sort: by_weight
 奇幻旅程	qihrlvig	769
 奇幻冒险	qihrmcxm	1135
 奇幻梦境	qihrmgjk	152
-奇幻迷离	qihrmili	0
 奇幻魔力	qihrmoli	38
 奇幻森林	qihrsflb	120
 奇幻射击	qihrueji	53
@@ -441209,7 +440394,6 @@ sort: by_weight
 崎岖之路	qiquvilu	53
 其任务是	qirfwuui	16
 启人疑窦	qirfyidz	384
-奇人异士	qirfyiui	228
 奇人异事	qirfyiuia	223
 起然教育	qirjjnyu	271
 气溶胶的	qirsjnde	377
@@ -441540,7 +440724,6 @@ sort: by_weight
 起重能力	qivsngli	205
 期中期末	qivsqimo	151
 其中厅局	qivstkju	1279
-期中选举	qivsxrju	0
 其重要性	qivsycxk	265
 其中有精	qivsyzjk	42
 其中有诈	qivsyzva	133
@@ -441624,7 +440807,6 @@ sort: by_weight
 气象检测	qixljmcea	89
 气象科技	qixlkeji	355
 气象科学	qixlkext	238
-气象雷达	qixllwda	1709
 气象频道	qixlpbdc	207
 气象气球	qixlqiqq	144
 气象情报	qixlqkbc	66
@@ -441904,7 +441086,6 @@ sort: by_weight
 弃义背理	qiyibwli	83
 弃医从文	qiyicswf	249
 奇异动物	qiyidswu	197
-妻以夫贵	qiyifugv	0
 奇异果汁	qiyigovi	71
 奇异经历	qiyijkli	38
 奇异景象	qiyijkxl	131
@@ -441924,7 +441105,6 @@ sort: by_weight
 七一小学	qiyixnxt	88
 期颐偕老	qiyixplc	0
 七一勋章	qiyixyvh	15
-气燄高张	qiyjgcvh	0
 气咽声丝	qiyjugsi	0
 气燄万丈	qiyjwjvha	0
 起源公司	qiyrgssi	46
@@ -442406,7 +441586,6 @@ sort: by_weight
 清净守节	qkjkuzjp	0
 情景音乐	qkjkybyt	55
 情景营销	qkjkykxn	71
-青江白菜	qkjlbdcd	0
 清江东路	qkjldslu	158
 清江画廊	qkjlhxlh	179
 清江闯滩	qkjliltj	67
@@ -443218,7 +442397,6 @@ sort: by_weight
 强化自己	qlhxziji	1825
 强化作用	qlhxzoys	652
 枪出如龙	qliuruls	12
-抢尽锋头	qljbfgtz	293
 强筋健骨	qljbjmgu	635
 强筋壮骨	qljbvlgu	826
 羟基乙腈	qljiyijk	51
@@ -443305,7 +442483,6 @@ sort: by_weight
 强迫取分	qlpoquff	0
 强迫思维	qlposiww	61
 强迫体位	qlpotiww	103
-强迫中奖	qlpovsjl	0
 强迫性的	qlpoxkde	273
 强迫行为	qlpoxkww	392
 强迫自己	qlpoziji	1272
@@ -443489,7 +442666,6 @@ sort: by_weight
 浅层地震	qmcgdivf	106
 千层豆腐	qmcgdzfu	38
 千层酥皮	qmcgsupi	78
-遣辞用句	qmciysjua	0
 千错万错	qmcowjco	166
 前大后小	qmdahzxn	36
 千岛菜花	qmdccdhx	57
@@ -443608,7 +442784,6 @@ sort: by_weight
 浅尝即止	qmihjivi	296
 前场篮板	qmihljbj	23898
 前场球员	qmihqqyr	3850
-浅尝则止	qmihzevi	374
 前赤壁赋	qmiibifu	60
 千尺下载	qmiixxzd	73
 谦冲自牧	qmiszimu	228
@@ -443618,7 +442793,6 @@ sort: by_weight
 前进道路	qmjbdclu	2759
 前进二路	qmjberlu	56
 前进发展	qmjbfavj	77
-前进防卫	qmjbfhww	0
 千金归来	qmjbgvld	2810
 前进后退	qmjbhztv	320
 前进基地	qmjbjidi	898
@@ -444089,7 +443263,6 @@ sort: by_weight
 潜在缺陷	qmzdqtxm	334
 潜在损失	qmzdsyui	2059
 钱在手头	qmzduztz	0
-潜在危机	qmzdwwji	0
 潜在危险	qmzdwwxm	4059
 潜在性的	qmzdxkde	205
 潜在需求	qmzdxuqq	8635
@@ -444229,7 +443402,6 @@ sort: by_weight
 桥式贷款	qnuiddkr	46
 乔史密斯	qnuimisi	59
 桥式整流	qnuivglq	48
-翘首盼望	qnuzpjwh	0
 巧手制作	qnuzvizo	83
 乔治巴顿	qnvibady	83
 乔治布朗	qnvibulh	75
@@ -444265,7 +443437,6 @@ sort: by_weight
 侨兴集团	qnxkjitr	212
 侨兴移动	qnxkyids	223
 巧笑嫣然	qnxnyjrj	117
-侨选代表	qnxrddbn	0
 侨雄能源	qnxsngyr	81
 乔伊斯的	qnyiside	277
 撬一头儿	qnyitzer	0
@@ -444509,7 +443680,6 @@ sort: by_weight
 求助信息	qqvuxbxi	1701
 遒文壮节	qqwfvljp	0
 球窝关节	qqwogrjp	0
-求新求变	qqxbqqbm	2084
 球星卡牌	qqxkkapd	124
 球星妻子	qqxkqizi	76
 球星太太	qqxktdtd	671
@@ -445146,7 +444316,6 @@ sort: by_weight
 权势滔天	qruitctm	47
 诠释生命	qruiugmk	141
 诠释自我	qruiziwo	55
-劝善规过	qrujgvgo	0
 全数调查	qruudnia	242
 权属纠纷	qruujqff	18
 权属证书	qruuvguu	3537
@@ -445171,7 +444340,6 @@ sort: by_weight
 权证行权	qrvgxkqr	311
 全职爸爸	qrvibaba	247
 全职高手	qrvigcuz	189
-全职妈妈	qrvimama	2083
 全职奶爸	qrvindba	352
 全脂牛奶	qrvinqnd	1735
 全脂乳粉	qrviruff	259
@@ -445554,7 +444722,6 @@ sort: by_weight
 去掉一些	qudnyixp	82
 曲调优美	qudnyzmw	64
 区段列车	qudrlpie	257
-区段征收	qudrvguz	158
 驱动单元	qudsdjyr	893
 驱动电池	qudsdmii	99
 驱动电机	qudsdmji	3047
@@ -445585,7 +444752,6 @@ sort: by_weight
 区分服务	qufffuwu	69
 区分两者	quffllve	109
 祛风化痰	qufghxtj	63
-祛风除热	qufgiure	0
 祛风通络	qufgtslo	260
 去繁就简	qufjjqjm	158
 曲阜东站	qufudsvj	114
@@ -445735,7 +444901,6 @@ sort: by_weight
 区体育馆	qutiyugr	210
 区体育场	qutiyuih	124
 区体育局	qutiyuju	555
-祛痰润肺	qutjryfw	0
 祛痰止咳	qutjvike	381
 曲亭水库	qutkuvku	69
 去听音乐	qutkybyt	25
@@ -445863,7 +445028,6 @@ sort: by_weight
 曲阳公园	quyhgsyr	84
 取样检验	quyhjmyj	217
 曲艺表演	quyibnyj	152
-屈意奉承	quyifgiga	0
 曲意俯就	quyifujq	117
 曲艺节目	quyijpmu	204
 曲艺名家	quyimkjx	189
@@ -445924,7 +445088,6 @@ sort: by_weight
 区域价格	quyujxge	2218
 区域扩展	quyukovj	605
 区域历史	quyuliui	211
-区域联防	quyulmfh	4473
 区域垄断	quyulsdr	1337
 区域旅游	quyulvyz	2871
 区域门户	quyumfhu	335
@@ -446226,7 +445389,6 @@ sort: by_weight
 热巧克力	reqnkeli	881
 热热乎乎	rerehuhu	110
 惹人爱的	rerfaide	320
-惹人怜爱	rerflmai	0
 惹人笑话	rerfxnhx	18
 惹人厌的	rerfyjde	134
 热熔断器	rersdrqi	54
@@ -447909,7 +447071,6 @@ sort: by_weight
 日本组织	ribfzuvi	153
 日本罪行	ribfzvxk	40
 日本最早	ribfzvzc	189
-日不落国	ribulogo	0
 日地空间	ridiksjm	38
 日丹诺夫	ridjnofu	92
 日东电工	ridsdmgs	316
@@ -448039,7 +447200,6 @@ sort: by_weight
 日清食品	riqkuipb	223
 日清战争	riqkvjvg	1245
 日球层顶	riqqcgdk	58
-日趋恶劣	riqueelp	331
 日趋衰弱	riquukro	295
 日趋增长	riquzgvh	445
 日日日日	riririri	66
@@ -448294,8 +447454,6 @@ sort: by_weight
 弱质产业	roviijye	163
 若尾文子	rowwwfzi	89
 若有还无	royzhdwu	0
-若有其事	royzqiui	0
-若有所闻	royzsowf	0
 若有似无	royzuiwu	580
 若有问题	royzwfti	25
 软笔书法	rrbiuufa	146
@@ -448429,7 +447587,6 @@ sort: by_weight
 软体银行	rrtiybhh	0
 软通动力	rrtsdsli	1358
 软土地基	rrtudiji	214
-软式棒球	rruibhqq	0
 软式垒球	rruilwqq	112
 软式排球	rruipdqq	75
 阮氏三雄	rruisjxs	53
@@ -450049,14 +449206,12 @@ sort: by_weight
 四国争雄	sigovgxs	59
 四国战记	sigovjji	79
 四国演义	sigoyjyi	112
-思古幽情	siguyzqk	0
 死规矩儿	sigvjuer	0
 丝毫不减	sihcbujm	3291
 四海大道	sihddadc	50
 四海国际	sihdgoji	123
 四海公司	sihdgssi	105
 四海公寓	sihdgsyu	41
-四海归心	sihdgvxb	0
 四海称臣	sihdigif	0
 四海集团	sihdjitr	46
 四海科技	sihdkeji	360
@@ -450914,7 +450069,6 @@ sort: by_weight
 思想运动	sixlyyds	74
 思想自由	sixlziyz	749
 四线城市	sixmigui	46889
-私校保险	sixnbcxm	0
 四小花旦	sixnhxdj	2602
 四小天王	sixntmwh	537
 丝鞋净袜	sixpjkwa	0
@@ -451130,7 +450284,6 @@ sort: by_weight
 三方面的	sjfhmmde	8287
 三防能力	sjfhngli	102
 三房四妾	sjfhsiqp	0
-三方通话	sjfhtshx	301
 三防手机	sjfhuzji	872
 三防装置	sjfhvlvi	49
 三方物流	sjfhwulq	1308
@@ -451333,7 +450486,6 @@ sort: by_weight
 三角联盟	sjjnlmmg	68
 三教论衡	sjjnlyhg	0
 三角轮胎	sjjnlytd	167
-三角贸易	sjjnmcyi	131
 三角韧带	sjjnrfdd	37
 三角套汇	sjjntchv	208
 三角战略	sjjnvjlt	11
@@ -451671,7 +450823,6 @@ sort: by_weight
 三万五千	sjwjwuqm	441
 三万一千	sjwjyiqm	312
 三万左右	sjwjzoyz	168
-三五好友	sjwuhcyz	516
 三无老人	sjwulcrf	371
 三无球队	sjwuqqdv	225
 三无少女	sjwuucnv	45
@@ -452233,7 +451384,6 @@ sort: by_weight
 松浦胜人	sspuugrf	63
 宋茜首次	ssqmuzci	61
 宋仁宗景	ssrfzsjk	44
-悚然心惊	ssrjxbjk	0
 耸入云端	ssruyydr	50
 松散管理	sssjgrli	154
 松散结构	sssjjpgz	55
@@ -452360,7 +451510,6 @@ sort: by_weight
 苏芬战争	suffvjvg	66
 苏凡纳布	sufjnabu	174
 苏福尔斯	sufuersi	200
-夙负盛名	sufuugmka	0
 苏菲玛索	sufwmaso	6655
 苏格兰的	sugeljde	3967
 苏格兰风	sugeljfg	324
@@ -452495,7 +451644,6 @@ sort: by_weight
 苏秦刺股	suqbcigu	249
 诉前禁令	suqmjblk	505
 诉前调解	suqmtnjp	760
-素人画家	surfhxjx	0
 苏斯博士	susiboui	75
 苏斯洛夫	susilofu	701
 苏三起解	susjqijp	137
@@ -452633,7 +451781,6 @@ sort: by_weight
 苏维埃联	suwwailm	39
 素未相识	suwwxlui	13
 夙心往志	suxbwhvi	55
-素行不良	suxkbull	0
 塑性加工	suxkjxgs	0
 速效救心	suxnjqxb	50
 苏绣艺术	suxqyiuu	49
@@ -452642,7 +451789,6 @@ sort: by_weight
 夙夜为谋	suyewwmz	0
 素衣化缁	suyihxzi	0
 苏伊士省	suyiuiug	109
-俗谚俚语	suyjliyu	0
 苏盐连锁	suyjlmso	50
 素颜美女	suyjmwnv	702
 素颜美人	suyjmwrf	143
@@ -452693,7 +451839,6 @@ sort: by_weight
 随风飘来	svfgpnld	50
 随风飘散	svfgpnsj	46
 随风起舞	svfgqiwu	338
-随风摇曳	svfgycye	541
 岁寒不凋	svhjbudn	0
 绥化西街	svhxxijp	50
 碎花雪纺	svhxxtfh	419
@@ -453470,7 +452615,6 @@ sort: by_weight
 桃色陷阱	tcsexmjk	205
 陶寺遗址	tcsiyivi	77
 滔滔江水	tctcjluv	674
-滔滔雄辩	tctcxsbm	0
 淘汰产品	tctdijpb	284
 淘汰出局	tctdiuju	17852
 淘汰赛中	tctdsdvs	44
@@ -453501,7 +452645,6 @@ sort: by_weight
 套装部件	tcvlbujm	94
 套装材料	tcvlcdln	64
 套装喇叭	tcvllaba	52
-套装旅游	tcvllvyz	201
 套装属性	tcvluuxk	775
 套装系列	tcvlxilp	134
 套装效果	tcvlxngo	479
@@ -453991,7 +453134,6 @@ sort: by_weight
 太空经济	tdksjkji	77
 太空竞赛	tdksjksd	1783
 太空酒店	tdksjqdm	62
-太空剧场	tdksjuih	0
 太空开发	tdkskdfa	892
 太空科技	tdkskeji	367
 太空篱笆	tdksliba	392
@@ -454043,7 +453185,6 @@ sort: by_weight
 太空游客	tdksyzke	291
 太空游戏	tdksyzxi	69
 太空葬礼	tdkszhli	181
-太空总署	tdkszsuu	0
 太苦逼了	tdkubile	29
 太枯燥了	tdkuzcle	87
 太夸张了	tdkxvhle	278
@@ -454383,7 +453524,6 @@ sort: by_weight
 台湾基隆	tdwjjils	579
 台湾景点	tdwjjkdm	56
 台湾经济	tdwjjkji	4868
-台湾精品	tdwjjkpb	1132
 台湾经验	tdwjjkyj	372
 台湾建筑	tdwjjmvu	64
 台湾节目	tdwjjpmu	262
@@ -454664,7 +453804,6 @@ sort: by_weight
 特奥运动	teaoyyds	963
 特禀体质	tebktivi	63
 特别安排	tebpanpd	3995
-特别报导	tebpbcdca	371
 特别部队	tebpbudv	373
 特别补充	tebpbuis	303
 特别补助	tebpbuvu	37
@@ -454688,7 +453827,6 @@ sort: by_weight
 特别关税	tebpgruv	194
 特别号码	tebphcma	463
 特别红利	tebphsli	40
-特别护士	tebphuui	309
 特别会员	tebphvyr	671
 特别划算	tebphxsr	27
 特别称号	tebpighc	93
@@ -454710,12 +453848,10 @@ sort: by_weight
 特别健康	tebpjmkh	179
 特别结实	tebpjpui	65
 特别困难	tebpkynj	137
-特别来宾	tebpldbb	885
 特别礼物	tebpliwu	875
 特别了解	tebplnjp	1956
 特别留心	tebplqxb	242
 特别敏锐	tebpmbrv	73
-特别门诊	tebpmfvf	251
 特别忙的	tebpmhde	176
 特别漫画	tebpmjhx	46
 特别明显	tebpmkxm	832
@@ -454739,7 +453875,6 @@ sort: by_weight
 特别治疗	tebpviln	155
 特别指明	tebpvimk	417
 特别重要	tebpvsyc	10763
-特别助理	tebpvuli	484
 特别危险	tebpwwxm	594
 特别希望	tebpxiwh	6084
 特别席位	tebpxiww	46
@@ -454858,7 +453993,6 @@ sort: by_weight
 特兰斯凯	teljsikd	234
 特罗莫克	telomoke	1880
 特罗姆索	telomuso	39
-特洛伊城	teloyiig	51
 特洛伊基	teloyiji	944
 特洛伊人	teloyirf	144
 特柳赖德	telqldde	125
@@ -455103,7 +454237,6 @@ sort: by_weight
 特种建材	tevsjmcd	76
 特种结构	tevsjpgz	36
 特种加工	tevsjxgs	80
-特种考试	tevskcui	233
 特种空调	tevskstn	112
 特种轮胎	tevslytd	118
 特种汽车	tevsqiie	289
@@ -455223,7 +454356,6 @@ sort: by_weight
 藤类植物	tglwviwu	58
 腾挪跌宕	tgnodpdh	44
 藤攀葛绕	tgpjgerc	0
-藤球运动	tgqqyyds	0
 藤田祥史	tgtmxlui	154
 疼痛产生	tgtsijug	39
 疼痛减轻	tgtsjmqk	350
@@ -455459,7 +454591,6 @@ sort: by_weight
 体彩销售	ticdxnuz	2709
 梯次配置	ticipwvi	200
 剃刀边缘	tidcbmyr	0
-踢到铁板	tidctpbj	597
 替代部件	tiddbujm	50
 替代不了	tiddbuln	127
 替代方案	tiddfhan	4857
@@ -455656,7 +454787,6 @@ sort: by_weight
 体力增加	tilizgjx	51
 提炼技术	tilmjiuu	269
 替罗非班	tilofwbj	45
-涕泪俱下	tilwjuxx	0
 涕泪纵横	tilwzshg	0
 提名人选	timkrfxr	2037
 体面劳动	timmlcds	401
@@ -455674,7 +454804,6 @@ sort: by_weight
 替诺福韦	tinofuww	703
 体内毒素	tinwdusu	5768
 体内环境	tinwhrjk	647
-体内美容	tinwmwrs	0
 体内射精	tinwuejk	101
 体内受精	tinwuzjk	0
 体内循环	tinwxyhr	1136
@@ -455735,7 +454864,6 @@ sort: by_weight
 体坛名人	titjmkrf	206
 体坛人物	titjrfwu	337
 梯田文化	titmwfhx	59
-剃头担子	titzdjzi	0
 剃头挑子	titztnzi	51
 提头知尾	titzviww	0
 替身草人	tiufccrf	39
@@ -456111,7 +455239,6 @@ sort: by_weight
 探奇穷异	tjqiqsyi	0
 碳青霉烯	tjqkmwxi	79
 谈情说案	tjqkuoan	199
-贪求无餍	tjqqwuyjb	0
 贪权窃柄	tjqrqpbk	0
 贪泉酌饮	tjqrvoyb	0
 痰热咳嗽	tjrekesz	113
@@ -456187,7 +455314,6 @@ sort: by_weight
 贪浊有状	tjvoyzvl	0
 碳转化率	tjvrhxlv	93
 痰中带血	tjvsddxt	1264
-谈文论艺	tjwflyyi	0
 叹惋观止	tjwjgrvi	0
 贪污公款	tjwugskr	19
 贪污行为	tjwuxkww	658
@@ -456204,13 +455330,10 @@ sort: by_weight
 弹性蛋白	tjxkdjbd	557
 碳性电池	tjxkdmii	102
 弹性垫圈	tjxkdmjr	52
-弹性放假	tjxkfhjx	0
-弹性工时	tjxkgsui	48
 弹性固定	tjxkgudk	40
 弹性恢复	tjxkhvfu	160
 弹性基础	tjxkjiiu	81
 弹性塑料	tjxksuln	93
-弹性上班	tjxkuhbj	0
 弹性网络	tjxkwhlo	43
 弹性系数	tjxkxiuu	1326
 弹性学制	tjxkxtvi	416
@@ -458087,7 +457210,6 @@ sort: by_weight
 铁锅炖鱼	tpgodyyu	50
 铁郭铜关	tpgotsgr	0
 铁观音茶	tpgrybia	334
-铁骨柔情	tpgurzqk	165
 铁棍山药	tpgyujyc	505
 铁钩船长	tpgzirvh	77
 铁汉柔情	tphjrzqk	1230
@@ -458250,7 +457372,6 @@ sort: by_weight
 贴现费用	tpxmfwys	64
 贴现国债	tpxmgovd	741
 贴现公司	tpxmgssi	100
-贴现窗口	tpxmilkz	324
 贴现利率	tpxmlilv	1148
 贴现利息	tpxmlixi	699
 铁线木偶	tpxmmuou	0
@@ -458284,7 +457405,6 @@ sort: by_weight
 铁营医院	tpykyiyr	82
 铁云藏龟	tpyychgv	305
 贴在一起	tpzdyiqi	519
-铁嘴直断	tpzvvidr	0
 团参谋长	trcjmzvh	498
 团的编制	trdebmvi	115
 团的成员	trdeigyr	464
@@ -458422,7 +457542,6 @@ sort: by_weight
 痛不堪忍	tsbukjrf	0
 同步联动	tsbulmds	121
 同步连接	tsbulmjp	72
-同步录音	tsbuluyb	1796
 同步耦合	tsbuouhe	47
 同步软件	tsburrjm	274
 同步速度	tsbusudu	86
@@ -458802,7 +457921,6 @@ sort: by_weight
 同类信息	tslwxbxi	64
 同类相比	tslwxlbi	53
 同类相呼	tslwxlhu	55
-同类相聚	tslwxlju	265
 同类意识	tslwyiui	205
 同类作品	tslwzopb	583
 通麦大桥	tsmddaqn	207
@@ -458827,7 +457945,6 @@ sort: by_weight
 同名图书	tsmktuuu	276
 同名诗歌	tsmkuige	57
 同名书籍	tsmkuuji	73
-同名之累	tsmkvilw	121
 同名专辑	tsmkvrji	1412
 同名文章	tsmkwfvh	46
 同名网站	tsmkwhvj	40
@@ -458931,7 +458048,6 @@ sort: by_weight
 同时结合	tsuijphe	6667
 同事结婚	tsuijphy	234
 同时具备	tsuijubw	11362
-通识科目	tsuikemu	0
 同时控制	tsuiksvi	2251
 同时连接	tsuilmjp	679
 同时列出	tsuilpiu	227
@@ -458952,7 +458068,6 @@ sort: by_weight
 同时协调	tsuixptn	940
 同时下降	tsuixxjl	759
 同时要求	tsuiycqq	116
-痛失英才	tsuiykcd	265
 同时约束	tsuiytuu	90
 同时又要	tsuiyzyc	2285
 同时增长	tsuizgvh	523
@@ -460050,7 +459165,6 @@ sort: by_weight
 推荐人选	tvjmrfxr	812
 推荐软件	tvjmrrjm	109
 推荐食谱	tvjmuipu	626
-推荐甄选	tvjmvfxr	0
 推荐装备	tvjmvlbw	103
 推荐网络	tvjmwhlo	133
 推荐一款	tvjmyikr	2677
@@ -460071,7 +459185,6 @@ sort: by_weight
 推理作家	tvlizojx	82
 推聋做哑	tvlszoyaa	0
 推门而入	tvmferru	943
-颓靡不振	tvmibuvf	0
 推拿减肥	tvnajmfw	54
 推拿治疗	tvnaviln	79
 推拿中心	tvnavsxb	349
@@ -460105,7 +459218,6 @@ sort: by_weight
 退伍老兵	tvwulcbk	61
 退伍士兵	tvwuuibk	467
 推诿扯皮	tvwwiepi	3671
-推诿塞责	tvwwseze	0
 退位诏书	tvwwvcuu	48
 推诿责任	tvwwzerf	655
 推行网络	tvxkwhlo	601
@@ -460341,8 +459453,6 @@ sort: by_weight
 偷目窃望	tzmuqpwh	0
 头目眩晕	tzmuxryy	81
 头脑不清	tzncbuqk	427
-头脑简单	tzncjmdj	1541
-头脑体操	tzncticc	40
 偷跑出来	tzpciuld	29
 偷拍工具	tzpdgsju	98
 偷拍利器	tzpdliqi	75
@@ -460432,7 +459542,6 @@ sort: by_weight
 偷师学艺	tzuixtyia	387
 透视眼镜	tzuiyjjk	140
 透水事故	tzuvuigu	2532
-投手犯规	tzuzfjgv	0
 投手榴弹	tzuzlqdj	159
 投掷爆竹	tzvibcvu	118
 透支贷款	tzviddkr	48
@@ -460824,7 +459933,6 @@ sort: by_weight
 杀身救国	uaufjqgo	0
 厦深铁路	uauftplu	7843
 杀身为报	uaufwwbc	0
-杀声震天	uaugvftm	0
 杀生之柄	uaugvibk	0
 沙生植物	uaugviwu	130
 杀生与夺	uaugyudo	0
@@ -461000,7 +460108,6 @@ sort: by_weight
 少女妈妈	ucnvmama	371
 少女明星	ucnvmkxk	649
 少女偶像	ucnvouxl	522
-少女情怀	ucnvqkhk	1042
 少女日记	ucnvriji	57
 少女天团	ucnvtmtr	131
 少女团体	ucnvtrti	265
@@ -461052,7 +460159,6 @@ sort: by_weight
 少数族裔	ucuuzuyi	3678
 烧制工艺	ucvigsyi	98
 烧纸引鬼	ucviybgv	0
-稍占上风	ucvjuhfg	462
 稍微增长	ucwwzgvh	52
 绍兴饭店	ucxkfjdm	68
 绍兴黄酒	ucxkhljq	1501
@@ -461791,7 +460897,6 @@ sort: by_weight
 社区养成	uequyhig	157
 社区养老	uequyhlc	8285
 社区义工	uequyigs	212
-社区意识	uequyiui	36
 社区研究	uequyjjq	44
 社区营销	uequykxn	202
 社区用地	uequysdi	52
@@ -462302,7 +461407,6 @@ sort: by_weight
 身处逆境	ufiunijk	589
 伸出舌头	ufiuuetz	55
 身处异国	ufiuyigo	353
-伸出援手	ufiuyruz	10929
 审丑疲劳	ufizpilc	218
 审计报表	ufjibcbn	374
 审计标准	ufjibnvy	565
@@ -462425,7 +461529,6 @@ sort: by_weight
 神交已久	ufjnyijq	240
 深居九重	ufjujqis	0
 沈举人巷	ufjurfxl	56
-身价非凡	ufjxfwfj	281
 沈家庄村	ufjxvlcy	80
 神开股份	ufkdguff	7115
 深刻把握	ufkebawo	12
@@ -462853,7 +461956,6 @@ sort: by_weight
 深入进去	ufrujbqu	203
 深入肌肤	ufrujifu	538
 深入检查	ufrujmia	469
-深入堂奥	ufruthao	0
 深入推进	ufrutvjb	42831
 深入实施	ufruuiui	18
 深入挖掘	ufruwajt	11351
@@ -464081,11 +463183,9 @@ sort: by_weight
 生理特性	uglitexk	358
 胜利条件	uglitnjm	376
 生理调节	uglitnjp	143
-胜利投手	uglitzuz	124
 生理生化	ugliughx	189
 生理上的	ugliuhde	2206
 胜利时刻	ugliuike	175
-生理时钟	ugliuivs	993
 胜利实现	ugliuixm	235
 胜利手势	ugliuzui	1325
 胜利召开	uglivckd	846
@@ -464299,7 +463399,6 @@ sort: by_weight
 生死狙击	ugsijuji	729
 生死朗读	ugsilhdu	39
 生死擂台	ugsilwtd	56
-生死轮回	ugsilyhv	886
 生死迷局	ugsimiju	60
 生死疲劳	ugsipilc	229
 生死判官	ugsipjgr	84
@@ -464513,14 +463612,12 @@ sort: by_weight
 盛世影视	uguiykui	36
 生事作耗	uguizohc	0
 盛衰利害	uguklihd	0
-盛衰荣枯	ugukrsku	0
 盛衰相乘	ugukxlig	0
 生双胞胎	ugulbctd	746
 声说声听	uguougtk	0
 省属高校	uguugcxn	155
 盛暑祁寒	uguuqihj	0
 绳枢之士	uguuviui	0
-圣手仁心	uguzrfxb	0
 生者坚强	ugvejmql	12
 剩者为王	ugvewwwha	854
 省政建设	ugvgjmue	0
@@ -464798,7 +463895,6 @@ sort: by_weight
 圣严法师	ugyjfaui	44
 盛宴款待	ugyjkrdd	40
 笙演奏家	ugyjzzjx	56
-圣婴现象	ugykxmxl	301
 盛元慧谷	ugyrhvgu	51
 圣元奶粉	ugyrndff	262
 圣元乳业	ugyrruye	45
@@ -465488,7 +464584,6 @@ sort: by_weight
 上了大当	uhledadh	88
 上了高速	uhlegcsu	46
 伤了和气	uhleheqi	353
-上了岁数	uhlesvuu	454
 上里古镇	uhliguvf	83
 上篮不进	uhljbujb	1169
 上篮不中	uhljbuvs	7637
@@ -466224,7 +465319,6 @@ sort: by_weight
 识别信息	uibpxbxi	431
 识别性能	uibpxkng	120
 识别作用	uibpzoys	45
-势不得已	uibudeyia	0
 誓不低头	uibuditz	77
 是不对的	uibudvde	7177
 事不关心	uibugrxb	0
@@ -466265,7 +465359,6 @@ sort: by_weight
 石材企业	uicdqiye	460
 世彩堂帖	uicdthtp	0
 石材市场	uicduiih	347
-适材适用	uicduiys	183
 市财政局	uicdvgju	9880
 食材养肤	uicdyhfu	84
 恃才自专	uicdzivr	66
@@ -466717,7 +465810,6 @@ sort: by_weight
 石帆街道	uifjjpdc	44
 示范农场	uifjnsih	543
 示范企业	uifjqiye	554
-示范社区	uifjuequ	1817
 师范专业	uifjvrye	277
 示范中学	uifjvsxt	104
 示范项目	uifjxlmu	577
@@ -466905,7 +465997,6 @@ sort: by_weight
 事故属实	uiguuuui	92
 事故瞬间	uiguuyjm	90
 事故照明	uiguvcmk	50
-尸骨无存	uiguwucy	857
 事故形态	uiguxktd	42
 事故性质	uiguxkvi	344
 识骨寻踪	uiguxyzs	189
@@ -467077,7 +466168,6 @@ sort: by_weight
 市场情绪	uiihqkxu	70098
 市场权利	uiihqrli	77
 市场缺陷	uiihqtxm	357
-市场区隔	uiihquge	248
 市场热点	uiihredm	112
 市场人士	uiihrfui	133829
 市场容量	uiihrsll	29468
@@ -467882,7 +466972,6 @@ sort: by_weight
 石刻造像	uikezcxl	106
 石块砸伤	uikkzauh	61
 市况淡静	uikldjjk	44
-实况录影	uiklluyk	219
 市况逆转	uiklnivr	90
 时空错乱	uikscolr	416
 时空关系	uiksgrxi	41
@@ -468062,7 +467151,6 @@ sort: by_weight
 市民公园	uimbgsyr	442
 市民经济	uimbjkji	43
 市民阶层	uimbjpcg	165
-市民农园	uimbnsyr	0
 市民素质	uimbsuvi	460
 市民生活	uimbugho	4448
 市民文化	uimbwfhx	1207
@@ -468193,7 +467281,6 @@ sort: by_weight
 室内试验	uinwuiyj	184
 室内使用	uinwuiys	209
 室内照明	uinwvcmk	2422
-室内植物	uinwviwu	283
 室内温度	uinwwfdu	3918
 室内温泉	uinwwfqr	411
 室内网络	uinwwhlo	164
@@ -468378,7 +467465,6 @@ sort: by_weight
 施普雷河	uipulwhe	45
 适配功能	uipwgsng	93
 适配软件	uipwrrjm	64
-矢勤矢勇	uiqbuiys	0
 十七八岁	uiqibasv	1
 士气打击	uiqidaji	238
 士气低落	uiqidilo	2372
@@ -468510,7 +467596,6 @@ sort: by_weight
 使人想起	uirfxlqi	295
 十日均线	uirijyxm	1204
 势若摧枯	uirocvku	0
-视若无物	uirowuwu	24
 世荣名筑	uirsmkvu	70
 世荣兆业	uirsvcye	6647
 势如奔马	uirubfma	0
@@ -468622,7 +467707,6 @@ sort: by_weight
 世通华纳	uitshxna	55
 市统计局	uitsjiju	4035
 视同具文	uitsjuwf	25
-势同水火	uitsuvho	434
 视同销售	uitsxnuz	881
 时通运泰	uitsyytd	0
 施图贝尔	uitubwer	94
@@ -469102,7 +468186,6 @@ sort: by_weight
 市值配售	uivipwuz	18001
 实值期权	uiviqiqr	231
 噬指弃薪	uiviqixb	0
-嗜之如命	uivirumk	0
 师之所存	uivisocy	307
 实质所得	uivisode	237
 实质损害	uivisyhd	3375
@@ -469454,7 +468537,6 @@ sort: by_weight
 事业基金	uiyejijb	129
 实业救国	uiyejqgo	416
 失业救济	uiyejqji	17869
-失业救助	uiyejqvu	0
 视野距离	uiyejuli	65
 实业巨头	uiyejutz	51
 视野宽广	uiyekrgl	18
@@ -469529,7 +468611,6 @@ sort: by_weight
 试验材料	uiyjcdln	575
 实验材料	uiyjcdlna	525
 试验大厅	uiyjdatk	100
-实验电影	uiyjdmyk	150
 实验二小	uiyjerxn	1336
 试验发展	uiyjfavj	2287
 实验方案	uiyjfhan	363
@@ -470584,7 +469665,6 @@ sort: by_weight
 双侧瞳孔	ulcetsks	81
 双层玻璃	ulcgboli	1266
 双层隔音	ulcggeyb	55
-双层公路	ulcggslu	0
 双层客车	ulcgkeie	63
 双层刻录	ulcgkelu	407
 双层壳体	ulcgketi	116
@@ -470796,7 +469876,6 @@ sort: by_weight
 双凸轮轴	ultulyvz	665
 双头火杖	ultzhovh	0
 双头垄断	ultzlsdr	119
-双头马车	ultzmaie	0
 双头女婴	ultznvyk	89
 双头汽锅	ultzqigo	0
 双头套机	ultztcji	145
@@ -470822,7 +469901,6 @@ sort: by_weight
 双务合同	ulwuhets	16
 双务契约	ulwuqiyt	0
 双威大学	ulwwdaxt	55
-双薪家庭	ulxbjxtk	0
 双信商城	ulxbuhig	62
 双溪大年	ulxidanm	109
 双喜电器	ulxidmqi	56
@@ -471988,12 +471066,10 @@ sort: by_weight
 睡个好觉	uvgehcjt	1352
 水耕蔬菜	uvgguucd	0
 谁更重要	uvggvsyc	221
-水耕栽培	uvggzdpw	0
 谁敢动我	uvgjdswo	75
 税感焦虑	uvgjjnlv	52
 谁敢来战	uvgjldvj	40
 水光接天	uvgljptm	0
-水光潋滟	uvgllmyj	0
 水广鱼大	uvglyuda	0
 水光云影	uvglyyyk	244
 水果布丁	uvgobudk	15
@@ -472259,7 +471335,6 @@ sort: by_weight
 水能资源	uvngziyr	995
 水泥板块	uvnibjkk	3597
 水泥标号	uvnibnhc	76
-水泥丛林	uvnicslb	136
 水泥地板	uvnidibj	349
 水泥地面	uvnidimm	1388
 水泥电杆	uvnidmgj	68
@@ -472795,7 +471870,6 @@ sort: by_weight
 顺网科技	uywhkeji	16854
 顺我者吉	uywoveji	0
 顺吾者生	uywuveug	0
-顺心遂意	uyxbsvyi	0
 顺鑫商贸	uyxbuhmc	52
 瞬息即逝	uyxijiui	16
 吮吸手指	uyxiuzvi	133
@@ -472811,7 +471885,6 @@ sort: by_weight
 顺义区委	uyyiquww	102
 顺义新城	uyyixbig	4180
 顺义医院	uyyiyiyr	58
-顺应民心	uyykmbxb	0
 顺应自然	uyykzirj	96
 舜宇光学	uyyuglxt	695
 受保护的	uzbchude	3213
@@ -473323,7 +472396,6 @@ sort: by_weight
 收礼视频	uzliuipb	44
 受理银行	uzliybhh	331
 手里有粮	uzliyzll	21
-收揽人心	uzljrfxb	0
 受领任务	uzlkrfwu	463
 瘦脸方法	uzlmfhfa	2172
 瘦脸精油	uzlmjkyz	45
@@ -473425,7 +472497,6 @@ sort: by_weight
 首任大使	uzrfdaui	107
 受人指使	uzrfviui	915
 兽人战士	uzrfvjui	150
-受人瞩目	uzrfvumu	0
 授人以鱼	uzrfyiyua	756
 受人尊敬	uzrfzyjk	3062
 收容教养	uzrsjnyh	466
@@ -474116,7 +473187,6 @@ sort: by_weight
 朝日啤酒	vcripijq	238
 照如白昼	vcrubdvz	0
 赵塔里木	vctalimu	79
-找台阶下	vctdjpxx	428
 昭通机场	vctsjiih	662
 昭通天麻	vctstmma	152
 招投标法	vctzbnfa	510
@@ -475356,7 +474426,6 @@ sort: by_weight
 真实资产	vfuiziij	575
 真实自然	vfuizirj	1451
 真实足球	vfuizuqq	318
-振衰起敝	vfukqibia	0
 枕水人家	vfuvrfjx	76
 镇水神兽	vfuvufuz	61
 镇宅之宝	vfvdvibc	260
@@ -475897,7 +474966,6 @@ sort: by_weight
 正常运作	vgihyyzo	7679
 正常作息	vgihzoxi	74
 整饬一新	vgiiyixb	53
-怔忡不安	vgisbuan	0
 郑崇履声	vgislvug	0
 政出一门	vgiuyimf	58
 正极材料	vgjicdln	9049
@@ -476156,7 +475224,6 @@ sort: by_weight
 整人短信	vgrfdrxb	73
 证人证词	vgrfvgci	300
 证人证言	vgrfvgyj	5542
-整人游戏	vgrfyzxi	435
 正荣集团	vgrsjitr	1639
 整容日记	vgrsriji	3595
 正荣润城	vgrsryig	45
@@ -476778,7 +475845,6 @@ sort: by_weight
 丈八灯台	vhbadgtd	205
 丈八六路	vhbalqlu	98
 丈八四路	vhbasilu	222
-长滨文化	vhbbwfhx	0
 长白公路	vhbdgslu	180
 长白瀑布	vhbdpubu	105
 张本天杰	vhbftmjp	2346
@@ -477244,7 +476310,6 @@ sort: by_weight
 直播设备	vibouebw	22
 直播生活	vibougho	55
 直播时移	vibouiyi	72
-直播卫星	vibowwxk	722
 直播游戏	viboyzxi	27
 治不得命	vibudemk	0
 志不可夺	vibukedo	292
@@ -478584,7 +477649,6 @@ sort: by_weight
 支前模范	viqmmofj	129
 职前培训	viqmpwxy	15
 之前行动	viqmxkds	90
-职前训练	viqmxylm	0
 知秋一叶	viqqyiye	45
 职权法定	viqrfadk	177
 职权或地	viqrhodi	99
@@ -478636,7 +477700,6 @@ sort: by_weight
 肢体疼痛	vititgts	149
 肢体无力	vitiwuli	146
 肢体形态	vitixktd	52
-肢体语言	vitiyuyj	7757
 只谈风月	vitjfgyta	82
 只停留在	vitklqzd	571
 直挺挺的	vitktkde	702
@@ -478946,7 +478009,6 @@ sort: by_weight
 职务消费	viwuxnfw	5445
 植物修复	viwuxqfu	138
 植物学的	viwuxtde	53
-植物驯化	viwuxyhx	0
 植物药业	viwuycye	44
 植物样本	viwuyhbf	36
 植物疫情	viwuyiqk	199
@@ -479047,7 +478109,6 @@ sort: by_weight
 知行统一	vixktsyi	17
 执行审计	vixkufji	8288
 执行指令	vixkvilk	1821
-知性之旅	vixkvilv	0
 执行制片	vixkvipm	666
 执行职务	vixkviwu	30
 执行制作	vixkvizo	195
@@ -479724,7 +478785,6 @@ sort: by_weight
 展翅翱翔	vjiiaoxl	767
 展出作品	vjiuzopb	934
 展唇元音	vjiyyryb	0
-占尽便宜	vjjbpmyi	412
 斩尽天下	vjjbtmxx	56
 战绩不佳	vjjibujx	18723
 战警前传	vjjkqmir	600
@@ -480279,7 +479339,6 @@ sort: by_weight
 壮丽画卷	vllihxjr	161
 壮丽景象	vllijkxl	99
 装量差异	vllliayi	37
-壮烈成仁	vllpigrf	288
 装门面的	vlmfmmde	37
 壮美河山	vlmwheuj	53
 壮年男子	vlnmnjzi	175
@@ -480560,7 +479619,6 @@ sort: by_weight
 转达问候	vrdawfhz	110
 转贷业务	vrddyewu	63
 赚点外快	vrdmwdkk	680
-专断独行	vrdrduxk	105
 转动齿轮	vrdsiily	36
 转动曲柄	vrdsqubk	248
 转动速度	vrdssudu	89
@@ -480722,7 +479780,6 @@ sort: by_weight
 转录调节	vrlutnjp	46
 转录水平	vrluuvpk	37
 转录组学	vrluzuxt	43
-专卖凭证	vrmdpkvg	0
 专卖商品	vrmduhpb	1604
 专门分析	vrmfffxi	665
 专门负责	vrmffuze	17431
@@ -483022,7 +482079,6 @@ sort: by_weight
 众毛攒球	vsmczjqqb	0
 中脉科技	vsmdkeji	220
 肿么回事	vsmehvui	23
-重门深锁	vsmfufso	0
 中懑之症	vsmfvivg	25
 中免集团	vsmmjitr	825
 种苗公司	vsmngssi	37
@@ -483265,7 +482321,6 @@ sort: by_weight
 中途停留	vstutklq	93
 中途退学	vstutvxt	307
 中土世界	vstuuijp	1843
-中途之家	vstuvijx	0
 中途休息	vstuxqxi	407
 中投二号	vstzerhc	52
 中投顾问	vstzguwf	30740
@@ -484178,14 +483233,12 @@ sort: by_weight
 种子农药	vszinsyc	42
 种子品种	vszipbvs	276
 种子培育	vszipwyu	128
-种子球员	vsziqqyr	341
 中子散射	vszisjue	113
 种子投资	vszitzzi	642
 种子市场	vsziuiih	2100
 种子世界	vsziuijp	58
 种子质量	vszivill	813
 种子文件	vsziwfjm	479
-种子网路	vsziwhlu	83
 种子协会	vszixphv	133
 种子音乐	vsziybyt	889
 种子资金	vszizijb	582
@@ -485149,7 +484202,6 @@ sort: by_weight
 驻外大使	vuwddaui	1706
 驻外机构	vuwdjigz	1913
 驻外记者	vuwdjive	3296
-驻外使节	vuwduijp	503
 驻外武官	vuwdwugr	55
 猪瘟病毒	vuwfbkdu	62
 蛛网理论	vuwhlily	75
@@ -485159,7 +484211,6 @@ sort: by_weight
 祝我好运	vuwohcyy	166
 祝我成功	vuwoiggs	14
 诸务丛脞	vuwucsco	0
-驻卫警察	vuwwjkia	0
 主谓一致	vuwwyivi	84
 猪心瓣膜	vuxbbjmo	0
 筑信投资	vuxbtzzi	65
@@ -485381,7 +484432,6 @@ sort: by_weight
 追风觅影	vvfgmiyk	0
 追风少年	vvfgucnm	3830
 追风小组	vvfgxnzu	36
-追根究柢	vvgfjqdib	343
 追赶过去	vvgjgoqu	75
 追赶潮流	vvgjiclq	478
 追赶时髦	vvgjuimc	120
@@ -485795,7 +484845,6 @@ sort: by_weight
 瓦斯气体	wasiqiti	48
 瓦斯塔亚	wasitaya	17
 瓦斯突出	wasituiu	348
-瓦斯中毒	wasivsdu	0
 瓦特连杆	watelmgj	440
 瓦特小时	watexnui	508
 挖土石方	watuuifh	53
@@ -487853,7 +486902,6 @@ sort: by_weight
 网路型录	whluxklu	1
 网路行销	whluxkxn	0
 网路选美	whluxrmw	0
-网路银行	whluybhh	0
 网路援交	whluyrjn	0
 网路邮购	whluyzgz	0
 网路游戏	whluyzxi	121
@@ -488330,7 +487378,6 @@ sort: by_weight
 完工程度	wjgsigdu	1861
 完工日期	wjgsriqi	711
 弯弓射雕	wjgsuedn	253
-万古不灭	wjgubump	315
 顽固的人	wjguderf	45
 顽固对抗	wjgudvkh	40
 腕骨骨折	wjguguve	46
@@ -488664,7 +487711,6 @@ sort: by_weight
 玩腻了的	wjnilede	68
 皖南丘陵	wjnjqqlk	0
 皖南山区	wjnjujqu	169
-晚娘面孔	wjnlmmks	289
 万年冰洞	wjnmbkds	37
 万年贡米	wjnmgsmi	161
 万年场站	wjnmihvj	59
@@ -488698,13 +487744,11 @@ sort: by_weight
 完全饱和	wjqrbche	219
 完全包含	wjqrbchj	130
 完全包容	wjqrbcrs	69
-完全比赛	wjqrbisd	0
 完全不懂	wjqrbuds	2810
 完全不理	wjqrbuli	1129
 完全不是	wjqrbuui	1993
 完全不像	wjqrbuxl	349
 完全不足	wjqrbuzu	466
-完全打击	wjqrdaji	0
 完全打乱	wjqrdalr	1259
 完全颠倒	wjqrdmdc	543
 完全电影	wjqrdmyk	48
@@ -490884,7 +489928,6 @@ sort: by_weight
 物料平衡	wulnpkhg	167
 物料清单	wulnqkdj	259
 无聊死了	wulnsile	12
-无聊透顶	wulntzdk	90
 无聊透了	wulntzle	10
 物料输送	wulnuuss	294
 物料准备	wulnvybw	109
@@ -491015,7 +490058,6 @@ sort: by_weight
 寤寐思服	wumwsifu	46
 物美商业	wumwuhye	3845
 妩媚妖娆	wumwycrc	540
-寤寐以求	wumwyiqq	0
 无脑粉丝	wuncffsi	20
 无奈的笑	wunddexn	337
 无奈之举	wundviju	11828
@@ -491184,7 +490226,6 @@ sort: by_weight
 无人战机	wurfvjji	2474
 无人住的	wurfvude	62
 无人性的	wurfxkde	118
-无人银行	wurfybhh	0
 五仁月饼	wurfytbk	5341
 伍仁月饼	wurfytbka	214
 无人在意	wurfzdyi	72
@@ -491619,7 +490660,6 @@ sort: by_weight
 勿忘初心	wuwhiuxb	196
 吴王李恪	wuwhlike	44
 舞王舞后	wuwhwuhz	44
-毋枉毋纵	wuwhwuzsb	0
 勿忘心安	wuwhxban	622
 五万八千	wuwjbaqm	300
 五万两千	wuwjllqm	194
@@ -492025,7 +491065,6 @@ sort: by_weight
 无用之人	wuysvirf	180
 无用之学	wuysvixt	63
 无用之用	wuysviys	142
-无庸赘言	wuysvvyjb	0
 五月的风	wuytdefg	61
 五岳独尊	wuytduzy	114
 五月二日	wuyterri	84
@@ -492187,7 +491226,6 @@ sort: by_weight
 微博时代	wwbouidd	838
 微博市场	wwbouiih	356
 微博事件	wwbouijm	432
-微波食品	wwbouipb	191
 微博招聘	wwbovcpb	51
 微博账号	wwbovhhc	5829
 微博直播	wwbovibo	26
@@ -492578,7 +491616,6 @@ sort: by_weight
 微机保护	wwjibchu	51
 危机边缘	wwjibmyr	674
 危机背后	wwjibwhz	350
-违纪参选	wwjicjxr	305
 位寄存器	wwjicyqi	21
 危机当前	wwjidhqm	114
 维吉尔的	wwjierde	90
@@ -492687,7 +491724,6 @@ sort: by_weight
 威客模式	wwkemoui	53
 威客平台	wwkepktd	79
 威客网站	wwkewhvj	78
-未可限量	wwkexmll	0
 维康医院	wwkhyiyr	45
 伪狂犬病	wwklqrbk	98
 惟恐不及	wwksbuji	133
@@ -493277,7 +492313,6 @@ sort: by_weight
 为者常成	wwveihig	42
 维珍公司	wwvfgssi	201
 维珍航空	wwvfhhks	1102
-威震寰宇	wwvfhryu	0
 威震华夏	wwvfhxxx	75
 维珍车队	wwvfiedv	82
 维珍集团	wwvfjitr	496
@@ -493392,7 +492427,6 @@ sort: by_weight
 微信群发	wwxbqyfa	586
 微信群聊	wwxbqyln	314
 微信图标	wwxbtubn	10
-维新图强	wwxbtuql	0
 唯新食品	wwxbuipb	58
 微信指数	wwxbviuu	64
 微信新闻	wwxbxbwf	113
@@ -493443,7 +492477,6 @@ sort: by_weight
 微型盆景	wwxkpfjk	42
 微型企业	wwxkqiye	6175
 微型潜艇	wwxkqmtk	779
-卫星日蚀	wwxkriui	0
 卫星燃料	wwxkrjln	134
 卫星探测	wwxktjce	317
 卫星通讯	wwxktsxy	2102
@@ -493656,7 +492689,6 @@ sort: by_weight
 违约罚金	wwytfajb	153
 违约风险	wwytfgxm	31118
 违约概率	wwytgdlv	1522
-违约交割	wwytjnge	0
 违约救济	wwytjqji	109
 违约赔偿	wwytpwih	20
 违约损失	wwytsyui	460
@@ -494702,7 +493734,6 @@ sort: by_weight
 心融神会	xbrsufhv	0
 心如鹿撞	xbruluvl	41
 心如明镜	xbrumkjk	138
-心如死水	xbrusiuv	0
 心如蛇蝎	xbruuexp	52
 新锐导演	xbrvdcyj	5210
 鑫瑞科技	xbrvkeji	89
@@ -496190,7 +495221,6 @@ sort: by_weight
 希腊诗人	xilauirf	48
 西拉山地	xilaujdi	0
 希腊哲学	xilavext	40
-希腊正教	xilavgjn	0
 希腊之神	xilaviuf	104
 希腊众神	xilavsuf	260
 希腊诸神	xilavuuf	181
@@ -496879,7 +495909,6 @@ sort: by_weight
 西霞口村	xixxkzcy	136
 西夏文化	xixxwfhx	68
 西夏王朝	xixxwhic	87
-膝下犹虚	xixxyzxu	0
 西亚北非	xiyabwfw	1043
 西亚饭店	xiyafjdm	55
 西亚非洲	xiyafwvz	589
@@ -497663,7 +496692,6 @@ sort: by_weight
 形体造型	xktizcxk	37
 幸田梨纱	xktmliua	81
 星条旗报	xktnqibc	2302
-形同具文	xktsjuwf	196
 形同路人	xktslurf	239
 星沙大道	xkuadadc	81
 星沙街道	xkuajpdc	43
@@ -497846,7 +496874,6 @@ sort: by_weight
 行政职责	xkvgvize	836
 行政专员	xkvgvryr	229
 行政仲裁	xkvgvscd	53
-行政中立	xkvgvsli	0
 行政主体	xkvgvuti	772
 行政文化	xkvgwfhx	258
 行政文件	xkvgwfjm	247
@@ -498202,7 +497229,6 @@ sort: by_weight
 相当重要	xldhvsyc	12811
 相当完美	xldhwjmw	1302
 相当小的	xldhxnde	324
-箱底功夫	xldigsfu	0
 相狄仁杰	xldirfjp	45
 想定作业	xldkzoye	77
 湘电股份	xldmguff	6111
@@ -498218,7 +497244,6 @@ sort: by_weight
 相对大小	xldvdaxn	127
 相对单位	xldvdjww	45
 相对定向	xldvdkxl	85
-相对多数	xldvdouu	0
 相对丰度	xldvfgdu	50
 相对高差	xldvgcia	222
 相对光滑	xldvglhx	40
@@ -498884,7 +497909,6 @@ sort: by_weight
 橡皮手套	xlpiuztc	105
 橡皮鸭子	xlpiyazi	87
 橡皮子弹	xlpizidj	1193
-相片光碟	xlpmgldp	0
 湘飘四海	xlpnsihd	122
 香飘十里	xlpnuili	38
 香飘万里	xlpnwjli	52
@@ -499138,7 +498162,6 @@ sort: by_weight
 项王故里	xlwhguli	71
 向往之地	xlwhvidi	341
 向往温暖	xlwhwfnr	42
-箱网养殖	xlwhyhvi	0
 向我冲来	xlwoisld	12
 向我开炮	xlwokdpc	499
 向我们报	xlwomfbc	215
@@ -500324,7 +499347,6 @@ sort: by_weight
 县卫生局	xmwwugju	1122
 纤维食品	xmwwuipb	193
 显微书影	xmwwuuyk	0
-显微手术	xmwwuzuu	610
 纤维质的	xmwwvidi	299
 限位装置	xmwwvlvi	39
 纤维性瘤	xmwwxklq	41
@@ -500847,7 +499869,6 @@ sort: by_weight
 小乘佛教	xnigfojn	594
 小城故事	xnigguui	677
 小城春秋	xnigiyqq	53
-笑成一团	xnigyitr	465
 枵肠辘辘	xnihlulu	0
 小肠绒毛	xnihrsmc	120
 小肠吸收	xnihxiuz	570
@@ -501551,7 +500572,6 @@ sort: by_weight
 校园恋爱	xnyrlmai	192
 校园恋情	xnyrlmqk	19
 校园恋人	xnyrlmrf	80
-校园伦理	xnyrlyli	0
 校园民歌	xnyrmbge	107
 校园明星	xnyrmkxk	111
 校园美化	xnyrmwhx	69
@@ -502392,7 +501412,6 @@ sort: by_weight
 悬疑小说	xryixnuo	561
 悬疑影片	xryiykpm	151
 悬疑作家	xryizojx	95
-悬岩峭壁	xryjqnbi	315
 轩辕大帝	xryrdadi	50
 轩辕大陆	xryrdalu	56
 轩辕故里	xryrguli	46
@@ -502783,7 +501802,6 @@ sort: by_weight
 雪浪街道	xtlhjpdc	80
 学历公证	xtligsvg	60
 学历互认	xtlihurf	136
-学力鉴定	xtlijmdk	128
 学历培训	xtlipwxy	86
 学历歧视	xtliqiui	213
 学历提升	xtlitiug	145
@@ -503627,7 +502645,6 @@ sort: by_weight
 下巴整形	xxbavgxk	3724
 下必甚焉	xxbiufyj	331
 下半部分	xxbjbuff	2835
-下半辈子	xxbjbwzi	1214
 下班回来	xxbjhvld	1324
 下半年度	xxbjnmdu	857
 下班以后	xxbjyihz	125
@@ -503693,7 +502710,6 @@ sort: by_weight
 峡谷景观	xxgujkgr	93
 峡谷漂流	xxgupnlq	294
 侠骨仁心	xxgurfxb	42
-侠骨柔肠	xxgurzih	316
 侠骨柔情	xxgurzqk	1294
 峡谷深处	xxguufiu	232
 狭轨铁路	xxgvtplu	0
@@ -503807,7 +502823,6 @@ sort: by_weight
 霞浦三沙	xxpusjua	40
 夏普手机	xxpuuzji	132
 夏普指数	xxpuviuu	258
-侠气干云	xxqigjyy	190
 下期预告	xxqiyugc	21
 下起雨来	xxqiyuld	26
 夏秋两季	xxqqllji	453
@@ -503975,7 +502990,6 @@ sort: by_weight
 讯达科技	xydakeji	109
 寻的制导	xydevidc	134
 熏风徐来	xyfgxuld	124
-寻芳问柳	xyfhwflq	0
 讯飞语点	xyfwyudm	156
 讯飞语记	xyfwyuji	26
 寻根祭祖	xygfjizu	463
@@ -504042,7 +503056,6 @@ sort: by_weight
 巡回表演	xyhvbnyj	287
 巡回大使	xyhvdaui	447
 巡回法院	xyhvfayr	923
-巡回公演	xyhvgsyj	298
 巡回护士	xyhvhuui	69
 巡回路演	xyhvluyj	331
 巡回审判	xyhvufpj	1088
@@ -504440,7 +503453,6 @@ sort: by_weight
 压力损失	yalisyui	85
 压力太大	yalitdda	11745
 压力调节	yalitnjp	156
-压力团体	yalitrti	322
 压力上升	yaliuhug	2687
 鸭梨山大	yaliujdac	998
 压力支撑	yaliviig	573
@@ -504570,7 +503582,6 @@ sort: by_weight
 压实机械	yauijixp	203
 压双眼皮	yaulyjpi	413
 亚述帝国	yauudigo	43
-亚蔬中心	yauuvsxb	0
 牙刷牙膏	yauxyagc	64
 压榨企业	yavaqiye	1757
 亚振家具	yavfjxju	963
@@ -504926,7 +503937,6 @@ sort: by_weight
 因而发生	yberfaug	516
 银耳雪梨	yberxtli	51
 引发反应	ybfafjyk	77
-银发产业	ybfaijye	841
 银发经济	ybfajkji	1003
 引发阶段	ybfajpdr	387
 引发物质	ybfawuvi	167
@@ -505304,9 +504314,7 @@ sort: by_weight
 银桥乳业	ybqnruye	464
 殷切需求	ybqpxuqq	110
 音圈马达	ybqrmada	176
-引人侧目	ybrfcemu	648
 隐忍多年	ybrfdonm	159
-引人非议	ybrffwyi	0
 因人设岗	ybrfuegh	320
 因人设事	ybrfueui	165
 引人误解	ybrfwujp	2036
@@ -505628,7 +504636,6 @@ sort: by_weight
 阴影之下	ybykvixx	1644
 阴影细节	ybykxijp	123
 因缘和合	ybyrhehe	41
-因缘巧合	ybyrqnhe	431
 音源输入	ybyruuru	210
 引用古典	ybysgudm	56
 吟咏情性	ybysqkxk	0
@@ -505752,7 +504759,6 @@ sort: by_weight
 音乐指挥	ybytvihv	59
 音乐之城	ybytviig	73
 音乐之家	ybytvijx	48
-音乐治疗	ybytviln	283
 音乐之路	ybytvilu	1103
 音乐智能	ybytving	90
 音乐之乡	ybytvixl	227
@@ -505869,7 +504875,6 @@ sort: by_weight
 遥测信号	yccexbhc	204
 遥测系统	yccexits	256
 遥测影像	ycceykxl	0
-腰粗气豪	yccuqihc	0
 腰达房村	ycdafhcy	76
 药到命除	ycdcmkiu	315
 要地防空	ycdifhks	268
@@ -506589,7 +505594,6 @@ sort: by_weight
 夜市人生	yeuirfug	53
 也是三角	yeuisjjn	97
 夜市烧烤	yeuiuckc	147
-夜视设备	yeuiuebw	216
 也是这样	yeuiveyh	1
 夜视装置	yeuivlvi	70
 也是为了	yeuiwwle	2327
@@ -506616,7 +505620,6 @@ sort: by_weight
 野兽王国	yeuzwhgo	43
 野兽刑警	yeuzxkjk	78
 野兽先辈	yeuzxmbw	69
-野手选择	yeuzxrze	0
 液质联用	yevilmys	50
 夜之女神	yevinvuf	52
 夜之女王	yevinvwh	74
@@ -506905,7 +505908,6 @@ sort: by_weight
 阳光电源	yhgldmyr	16222
 阳光电子	yhgldmzi	82
 阳光动力	yhgldsli	531
-阳光法案	yhglfaan	461
 阳光发电	yhglfadm	213
 阳光发展	yhglfavj	111
 阳光房产	yhglfhij	58
@@ -507287,7 +506289,6 @@ sort: by_weight
 养殖周期	yhvivzqi	1087
 养殖效益	yhvixnyi	1901
 养殖用水	yhviysuv	279
-养殖渔业	yhviyuye	0
 羊撞篱笆	yhvlliba	0
 杨庄小学	yhvlxnxt	54
 养猪的人	yhvuderf	179
@@ -507634,7 +506635,6 @@ sort: by_weight
 一次雷达	yicilwda	1253
 依次类推	yicilwtvb	964
 一次努力	yicinuli	88
-一次全倒	yiciqrdc	0
 一次扫描	yiciscmn	209
 一次通过	yicitsgo	1269
 一次投票	yicitzpn	559
@@ -508555,7 +507555,6 @@ sort: by_weight
 异常气象	yiihqixl	44
 异常热闹	yiihrenc	15
 宜昌三峡	yiihsjxx	662
-一偿宿愿	yiihsuyr	312
 异常生长	yiihugvh	130
 异常事件	yiihuijm	580
 异常危险	yiihwwxm	307
@@ -508696,7 +507695,6 @@ sort: by_weight
 一级演员	yijiyjyr	547
 一级英模	yijiykmo	103
 以及有关	yijiyzgr	14179
-一技在身	yijizduf	0
 一级资本	yijizibf	38884
 一级作家	yijizojx	94
 一级作曲	yijizoqu	80
@@ -508856,7 +507854,6 @@ sort: by_weight
 一件家具	yijmjxju	234
 已建立的	yijmlide	1123
 一键领取	yijmlkqu	40
-意见领袖	yijmlkxq	7933
 一键连接	yijmlmjp	94
 一间旅馆	yijmlvgr	68
 一件毛衣	yijmmcyi	49
@@ -509065,7 +508062,6 @@ sort: by_weight
 一酷到底	yikudcdi	53
 一窥究竟	yikvjqjk	422
 一溃千里	yikvqmli	729
-一窥堂奥	yikvthao	0
 一口对外	yikzdvwd	120
 一口吃掉	yikziidn	56
 一口拒绝	yikzjujt	711
@@ -509243,7 +508239,6 @@ sort: by_weight
 医疗网站	yilnwhvj	277
 医疗物资	yilnwuzi	77
 医疗信息	yilnxbxi	3131
-一了心愿	yilnxbyr	300
 医疗小队	yilnxndv	41
 医疗效果	yilnxngo	589
 医疗药品	yilnycpb	696
@@ -509341,7 +508336,6 @@ sort: by_weight
 益民基金	yimbjijb	2176
 益民集团	yimbjitr	6640
 移民局长	yimbjuvh	227
-移民妈妈	yimbmama	0
 移民美国	yimbmwgo	3629
 移民签证	yimbqmvg	1801
 移民身份	yimbufff	1318
@@ -509620,7 +508614,6 @@ sort: by_weight
 疫情面前	yiqkmmqm	46
 疫情散发	yiqksjfa	46
 疫情之下	yiqkvixx	298
-一清专案	yiqkvran	220
 疫情稳定	yiqkwfdk	30
 疫情问题	yiqkwfti	25
 疫情信息	yiqkxbxi	332
@@ -509658,10 +508651,8 @@ sort: by_weight
 一千左右	yiqmzoyz	58
 一桥大学	yiqndaxt	329
 贻诮多方	yiqndofh	0
-圯桥进履	yiqnjblv	0
 壹桥苗业	yiqnmnye	3235
 一切安好	yiqpanhc	1123
-一切从简	yiqpcsjm	2030
 一切待定	yiqpdddk	41
 一切代价	yiqpddjx	39
 一切东西	yiqpdsxi	856
@@ -510611,7 +509602,6 @@ sort: by_weight
 意外信息	yiwdxbxi	51
 意外消息	yiwdxnxi	451
 一吻定情	yiwfdkqk	1166
-艺文活动	yiwfhods	0
 艺文类聚	yiwflwju	31
 艺文中心	yiwfvsxb	50
 逸文轶事	yiwfyiuid	0
@@ -510690,7 +509680,6 @@ sort: by_weight
 艺为网络	yiwwwhlo	36
 易危物种	yiwwwuvs	82
 一味迎合	yiwwykhe	633
-一新耳目	yixbermu	321
 异心坏心	yixbhkxb	0
 亿信华辰	yixbhxif	223
 疑心重重	yixbisis	126
@@ -510778,7 +509767,6 @@ sort: by_weight
 一线楼市	yixmlzui	2067
 一线明星	yixmmkxk	4562
 一线设计	yixmueji	226
-一线曙光	yixmuugl	688
 逸仙小学	yixmxnxt	87
 夷险一节	yixmyijp	0
 一线用药	yixmysyc	394
@@ -510931,7 +509919,6 @@ sort: by_weight
 医药发展	yiycfavj	655
 医药分家	yiycffjx	997
 医药分开	yiycffkd	3700
-医药分业	yiycffye	350
 医药方面	yiycfhmm	557
 医药广告	yiycglgc	2617
 医药工程	yiycgsig	206
@@ -511016,7 +510003,6 @@ sort: by_weight
 异议份子	yiyiffzia	273
 意义非凡	yiyifwfj	309
 义义合合	yiyihehe	1
-熠熠红星	yiyihsxk	0
 一依旧式	yiyijqui	0
 迆迆逦逦	yiyilili	0
 意乙联赛	yiyilmsd	486
@@ -511027,7 +510013,6 @@ sort: by_weight
 异议申请	yiyiufqk	499
 意义深远	yiyiufyr	6463
 熠熠闪光	yiyiujgl	380
-熠熠闪亮	yiyiujll	0
 意义重大	yiyivsda	49555
 以饴沃釜	yiyiwofu	0
 一一五师	yiyiwuui	483
@@ -511947,7 +510932,6 @@ sort: by_weight
 燕山运动	yjujyyds	97
 演说家的	yjuojxde	49
 砚水滴儿	yjuvdier	0
-盐水蜂炮	yjuvfgpc	0
 盐水入侵	yjuvruqb	53
 盐水漱口	yjuvuukz	350
 盐水洗鼻	yjuvxibi	125
@@ -512091,7 +511075,6 @@ sort: by_weight
 烟叶种植	yjyevsvi	225
 盐业协会	yjyexphv	315
 盐业银行	yjyeybhh	119
-炎阳炙人	yjyhvirf	0
 厌氧细菌	yjyhxijy	193
 厌氧系统	yjyhxits	39
 厌氧消化	yjyhxnhx	394
@@ -512295,7 +511278,6 @@ sort: by_weight
 迎风流泪	ykfglqlw	283
 英风宛在	ykfgwjzd	0
 英风伟烈	ykfgwwlp	0
-迎风摇曳	ykfgycye	0
 英风义气	ykfgyiqi	0
 应付费用	ykfufwys	284
 应付工资	ykfugszi	788
@@ -512846,7 +511828,6 @@ sort: by_weight
 应声而起	ykugerqi	921
 应声入网	ykugruwh	3442
 迎上前去	ykuhqmqu	345
-硬式棒球	ykuibhqq	0
 影视版权	ykuibjqr	1595
 影视编导	ykuibmdc	136
 影视编剧	ykuibmju	307
@@ -513574,10 +512555,8 @@ sort: by_weight
 缘定今生	yrdkjbug	158
 圆顶建筑	yrdkjmvu	137
 元鼎六年	yrdklqnm	40
-缘定三生	yrdksjug	276
 缘订三生	yrdksjuga	0
 园丁之歌	yrdkvige	44
-远端会议	yrdrhvyi	0
 远端签入	yrdrqmru	55
 远端设备	yrdruebw	78
 远东百货	yrdsbdho	766
@@ -513813,7 +512792,6 @@ sort: by_weight
 圆津禅院	yrjbijyr	80
 远近结合	yrjbjphe	1455
 远近皆宜	yrjbjpyi	65
-远近知名	yrjbvimk	0
 元级潜艇	yrjiqmtk	1012
 元基因组	yrjiybzu	77
 远景储量	yrjkiull	657
@@ -513932,7 +512910,6 @@ sort: by_weight
 原煤产量	yrmwijll	5138
 元谋土林	yrmztulb	87
 援溺振渴	yrnivfke	0
-院内感染	yrnwgjrj	370
 元平学校	yrpkxtxn	37
 原片玻璃	yrpmboli	74
 原配夫妻	yrpwfuqi	130
@@ -513949,7 +512926,6 @@ sort: by_weight
 元气森林	yrqisflb	119
 远期市场	yrqiuiih	1180
 远期支票	yrqivipn	66
-远期外汇	yrqiwdhv	4229
 缘起性空	yrqixkks	22
 元青花瓷	yrqkhxci	71
 源清流净	yrqklqjk	0
@@ -514225,7 +513201,6 @@ sort: by_weight
 远远超出	yryriciu	19321
 圆苑酒家	yryrjqjx	100
 远远看到	yryrkjdc	1368
-远远落后	yryrlohz	543
 鸳鸳相抱	yryrxlbcb	83
 远缘杂交	yryrzajn	144
 援越抗法	yrytkhfa	140
@@ -514620,7 +513595,6 @@ sort: by_weight
 用镊子拔	ysnpziba	38
 用镊子夹	ysnpzijx	157
 用浓烟熏	ysnsyjxy	41
-勇气百倍	ysqibdbw	0
 勇气倍增	ysqibwzg	42
 勇气点数	ysqidmuu	62
 用起重机	ysqivsji	142
@@ -515645,7 +514619,6 @@ sort: by_weight
 余额宝们	yueebcmf	9949
 余额不足	yueebuzu	126
 余额核对	yueehedv	117
-余额交割	yueejnge	0
 余额结转	yueejpvr	67
 育儿百科	yuerbdke	41
 育儿教育	yuerjnyu	76
@@ -516176,7 +515149,6 @@ sort: by_weight
 昱泉国际	yuqrgoji	56
 玉泉西里	yuqrxili	50
 玉泉医院	yuqryiyr	38
-遇缺不补	yuqtbubu	0
 欲取固与	yuquguyuc	0
 欲去还留	yuquhdlq	56
 余热发电	yurefadm	14979
@@ -516641,7 +515613,6 @@ sort: by_weight
 语言处理	yuyjiuli	346
 语言技巧	yuyjjiqn	224
 语言精练	yuyjjklm	74
-鱼眼镜头	yuyjjktz	512
 语言交换	yuyjjnhr	45
 语言交流	yuyjjnlq	1520
 语言教学	yuyjjnxt	474
@@ -516733,7 +515704,6 @@ sort: by_weight
 与子偕行	yuzixpxk	49
 预作准备	yuzovybw	173
 鱼嘴中学	yuzvvsxt	38
-运笔如飞	yybirufw	43
 运镖任务	yybnrfwu	183
 运镖系统	yybnxits	60
 运不出去	yybuiuqu	22
@@ -516849,7 +515819,6 @@ sort: by_weight
 运动生理	yydsugli	215
 运动生涯	yydsugya	214
 运动商店	yydsuhdm	51
-运动伤害	yydsuhhd	1232
 运动时间	yydsuijm	2695
 运动视觉	yydsuijt	98
 运动时尚	yydsuiuh	2119
@@ -518113,7 +517082,6 @@ sort: by_weight
 幽灵猎人	yzlklprf	52
 幽灵模式	yzlkmoui	142
 幽灵骑士	yzlkqiui	88
-幽灵人口	yzlkrfkz	0
 幽灵杀手	yzlkuauz	37
 幽灵世界	yzlkuijp	69
 幽灵之子	yzlkvizi	38
@@ -518479,7 +517447,6 @@ sort: by_weight
 有什么用	yzufmeys	9077
 幽深峡谷	yzufxxgu	166
 有深有浅	yzufyzqm	32
-优生保健	yzugbcjm	0
 由盛而衰	yzugeruk	378
 又升级了	yzugjile	31
 优生检测	yzugjmce	103
@@ -519184,7 +518151,6 @@ sort: by_weight
 有一点是	yzyidmui	3906
 友谊东路	yzyidslu	260
 有一分心	yzyiffxb	0
-右翼分子	yzyiffzi	2305
 友谊饭店	yzyifjdm	48
 有一个从	yzyigecs	563
 又一个的	yzyigede	1593
@@ -519622,7 +518588,6 @@ sort: by_weight
 噪音极限	zcybjixm	140
 噪音检测	zcybjmce	50
 噪音治理	zcybvili	74
-噪音污染	zcybwurj	2519
 噪音音乐	zcybybyt	0
 造谣传谣	zcyciryc	50
 早已安排	zcyianpd	365
@@ -520585,7 +519550,6 @@ sort: by_weight
 择业期内	zeyeqinw	143
 则言不顺	zeyjbuuy	0
 则有可能	zeyzkeng	12373
-啧啧称好	zezeighc	0
 啧啧赞叹	zezezjtj	888
 怎会如此	zfhvruci	282
 怎么办呢	zfmebjne	2747
@@ -521172,7 +520136,6 @@ sort: by_weight
 自动续期	zidsxuqi	1497
 自动寻的	zidsxyde	125
 自动循环	zidsxyhr	161
-自动寻线	zidsxyxm	0
 自动液压	zidsyeya	54
 自动运动	zidsyyds	510
 自动增加	zidszgjx	443
@@ -521594,13 +520557,11 @@ sort: by_weight
 紫泉饮料	ziqrybln	151
 滋扰他人	zirctarf	64
 自热熔炼	zirerslm	42
-自认倒楣	zirfdcmwa	0
 自然保持	zirjbcii	73
 自然保育	zirjbcyu	95
 自然本色	zirjbfse	64
 自然本身	zirjbfuf	83
 自然禀赋	zirjbkfu	925
-自然步道	zirjbudc	0
 自然村落	zirjcylo	398
 自然大学	zirjdaxt	773
 自然的风	zirjdefg	361
@@ -521808,7 +520769,6 @@ sort: by_weight
 自体免疫	zitimmyi	151
 自体软骨	zitirrgu	4267
 字体设计	zitiueji	227
-自体输血	zitiuuxt	146
 自体脂肪	zitivifh	5640
 自体中毒	zitivsdu	48
 自体细胞	zitixibc	798
@@ -521953,7 +520913,6 @@ sort: by_weight
 自主能力	zivungli	1080
 紫竹七道	zivuqidc	343
 自主企业	zivuqiye	568
-自助人助	zivurfvu	0
 自主探究	zivutjjq	17
 自助烧烤	zivuuckc	586
 自主设计	zivuueji	6305
@@ -521996,7 +520955,6 @@ sort: by_weight
 自我防御	ziwofhyu	458
 自我放纵	ziwofhzs	231
 自我繁殖	ziwofjvi	112
-自我反省	ziwofjxk	2201
 自我复制	ziwofuvi	944
 自我服务	ziwofuwu	1626
 自我否定	ziwofzdk	1472
@@ -522025,7 +520983,6 @@ sort: by_weight
 自我决定	ziwojtdk	136
 自我考评	ziwokcpk	60
 自我克制	ziwokevi	1204
-自我肯定	ziwokfdk	521
 自我扩张	ziwokovh	218
 自我控制	ziwoksvi	2230
 自我疗愈	ziwolnyu	141
@@ -522037,7 +520994,6 @@ sort: by_weight
 自我评估	ziwopkgu	2355
 自我平衡	ziwopkhg	506
 自我期望	ziwoqiwh	122
-自我期许	ziwoqixu	0
 自我情感	ziwoqkgj	123
 自我强化	ziwoqlhx	1457
 自我认同	ziworfts	764
@@ -522751,7 +521707,6 @@ sort: by_weight
 作曲大师	zoqudaui	344
 作曲技法	zoqujifa	90
 做任何事	zorfheui	6060
-做人处事	zorfiuui	153
 做人处世	zorfiuuia	63
 做人之道	zorfvidc	89
 做人要做	zorfyczo	58
@@ -522794,7 +521749,6 @@ sort: by_weight
 坐上汽车	zouhqiie	92
 佐世保市	zouibcui	1194
 坐式排球	zouipdqq	69
-作诗填词	zouitmci	0
 左手持枪	zouziiql	55
 左手上篮	zouzuhlj	1287
 左手中指	zouzvsvi	635
@@ -523000,7 +521954,6 @@ sort: by_weight
 作用有限	zoysyzxm	156
 坐月子的	zoytzide	1293
 作育菁莪	zoyujkee	0
-作育英才	zoyuykcd	367
 左右摆动	zoyzbdds	503
 左右边锋	zoyzbmfg	466
 左右边框	zoyzbmkl	134
@@ -523179,7 +522132,6 @@ sort: by_weight
 综合测量	zshecell	128
 综合仓库	zshechku	209
 综合措施	zshecoui	3691
-综合存款	zshecykr	231
 综合大楼	zshedalz	1353
 综合导航	zshedchh	328
 综合地图	zsheditu	74
@@ -523313,7 +522265,6 @@ sort: by_weight
 综合学校	zshextxn	126
 综合需求	zshexuqq	468
 综合训练	zshexylm	1502
-综合银行	zsheybhh	268
 综合业务	zsheyewu	5697
 综合养殖	zsheyhvi	148
 综合医疗	zsheyiln	754
@@ -523507,7 +522458,6 @@ sort: by_weight
 总统杀局	zstsuaju	103
 总统制的	zstsvide	58
 总统职位	zstsviww	929
-总统直选	zstsvixr	0
 总统之子	zstsvizi	229
 总统专机	zstsvrji	801
 总统先生	zstsxmug	2135
@@ -524031,7 +522981,6 @@ sort: by_weight
 最安全的	zvanqrde	11517
 最薄手机	zvbcuzji	258
 最不划算	zvbuhxsr	50
-罪不可赦	zvbukeue	595
 罪不可恕	zvbukeuua	18
 最不利的	zvbulide	1143
 最不满意	zvbumjyi	76
@@ -524408,7 +523357,6 @@ sort: by_weight
 最近一直	zvjbyivi	359
 最近在看	zvjbzdkj	377
 最基本的	zvjibfde	1
-嘴尖舌薄	zvjmuebc	0
 嘴角的笑	zvjndexn	102
 最接近的	zvjpjbde	3776
 醉酒当歌	zvjqdhge	45
@@ -524653,7 +523601,6 @@ sort: by_weight
 醉卧红尘	zvwohsif	38
 醉卧美人	zvwomwrf	203
 醉卧沙场	zvwouaih	71
-罪无可逭	zvwukehr	0
 罪无可赦	zvwukeue	44
 最伟大的	zvwwdade	24947
 最为关键	zvwwgrjm	15065
@@ -524796,7 +523743,6 @@ sort: by_weight
 走笔成文	zzbiigwf	0
 走遍北京	zzbmbwjk	43
 走遍台湾	zzbmtdwj	77
-走遍天下	zzbmtmxx	0
 走遍天涯	zzbmtmya	80
 走遍中国	zzbmvsgo	738
 走不动了	zzbudsle	1090
@@ -525240,7 +524186,6 @@ sort: by_weight
 艾尔帕西诺	aierpaxino	68
 埃尔祖鲁姆	aierzulumu	44
 爱国者导弹	aigovedcdj	1604
-爱国者飞弹	aigovefwdj	53
 爱国者之枪	aigoveviql	100
 爱国者游戏	aigoveyzxi	108
 爱荷华大学	aihehxdaxt	598
@@ -526049,7 +524994,6 @@ sort: by_weight
 巴音郭愣州	baybgolgvza	75
 八氧化三铀	bayhhxsjyz	72
 八一立交桥	bayilijnqn	68
-八一七公报	bayiqigsbc	213
 八一三之役	bayisjviyi	0
 八一跳伞队	bayitnsjdv	1054
 八一双鹿队	bayiulludv	591
@@ -526221,7 +525165,6 @@ sort: by_weight
 保利林语溪	bclilbyuxi	494
 保利里院里	bcliliyrli	65
 保利蓝海郡	bcliljhdjy	59
-保丽龙餐具	bclilscjju	0
 鲍里斯迪奥	bclisidiao	331
 保利梧桐语	bcliwutsyu	340
 暴力辛迪加	bclixbdijx	59
@@ -526419,7 +525362,6 @@ sort: by_weight
 百花潭公园	bdhxtjgsyr	114
 摆出的姿态	bdiudezitd	91
 白金汉大学	bdjbhjdaxt	108
-柏金森氏病	bdjbsfuibk	0
 拜金主义者	bdjbvuyive	102
 白金湾府邸	bdjbwjfudi	98
 柏济力阿斯	bdjiliaasi	0
@@ -526955,7 +525897,6 @@ sort: by_weight
 半致死剂量	bjvisijill	42
 半职业选手	bjviyexruz	45
 半主动雷达	bjvudslwda	209
-扮猪吃老虎	bjvuiilchu	393
 班主任工作	bjvurfgszo	620
 班主任老师	bjvurflcui	220
 半纤维素酶	bjxmwwsumw	40
@@ -529171,7 +528112,6 @@ sort: by_weight
 大柳塔煤矿	dalqtamwkl	51
 大陆电视剧	daludmuiju	209
 大陆动力学	daludslixt	64
-大陆冷气团	dalulgqitr	232
 大陆男演员	dalunjyjyr	54
 大陆女演员	dalunvyjyr	107
 大陆委员会	daluwwyrhv	332
@@ -530314,9 +529254,7 @@ sort: by_weight
 第四类接触	disilwjpiu	0
 第四类情感	disilwqkgj	38
 迪斯马斯克	disimasike	52
-狄斯耐卡通	disindkats	0
-狄斯奈乐园	disindleyr	0
-狄斯耐乐园	disindleyra	0
+狄斯奈乐园	disindleyra	0
 迪斯尼电影	disinidmyk	143
 迪斯尼动画	disinidshx	365
 迪斯尼动漫	disinidsmj	80
@@ -530377,7 +529315,6 @@ sort: by_weight
 第三教学楼	disjjnxtlz	73
 第三届全国	disjjpqrgo	1091
 第三届中国	disjjpvsgo	9228
-第三类接触	disjlwjpiu	178
 第三排座椅	disjpdzoyi	5748
 第三批本科	disjpibfke	136
 第三人侵权	disjrfqbqr	70
@@ -530564,7 +529501,6 @@ sort: by_weight
 地下交通站	dixxjntsvj	187
 地下连续墙	dixxlmxuql	486
 地下六合彩	dixxlqhecd	250
-地下停车场	dixxtkieih	6942
 地下停车库	dixxtkieku	1253
 地下室部分	dixxuibuff	54
 地下室底板	dixxuidibj	65
@@ -530660,7 +529596,6 @@ sort: by_weight
 第一届春晚	diyijpiywj	221
 第一家餐馆	diyijxcjgr	59
 第一看守所	diyikjuzso	1196
-第一类接触	diyilwjpiu	0
 第一类疫苗	diyilwyimn	181
 第一目击者	diyimujive	157
 第一枚金牌	diyimwjbpd	17
@@ -530970,7 +529905,6 @@ sort: by_weight
 电火花机床	dmhohxjiil	120
 电火花加工	dmhohxjxgs	50
 点火提前角	dmhotiqmjn	41
-电话答录机	dmhxdaluji	406
 电话充值卡	dmhxisvika	576
 电化教育馆	dmhxjnyugr	104
 电话卡销售	dmhxkaxnuz	39
@@ -531045,7 +529979,6 @@ sort: by_weight
 电炉变压器	dmlubmyaqi	57
 电脉冲刺激	dmmdisciji	77
 点明了主题	dmmklnvuti	186
-电脑笔记本	dmncbijibf	83
 电脑补习业	dmncbuxiye	0
 电脑操作员	dmnccczoyr	58
 电脑刺绣机	dmnccixqji	118
@@ -531113,7 +530046,6 @@ sort: by_weight
 电视背景墙	dmuibwjkql	1036
 电视大奖赛	dmuidajlsd	257
 电视导引头	dmuidcybtz	67
-电视歌仔戏	dmuigezixi	0
 电视广播城	dmuiglboig	111
 电视广告片	dmuiglgcpm	259
 电视传媒人	dmuiirmwrf	181
@@ -531170,7 +530102,6 @@ sort: by_weight
 电视原声带	dmuiyrugdd	51
 电视与广播	dmuiyuglbo	57
 电视游戏机	dmuiyzxiji	674
-电视游乐器	dmuiyzytqi	332
 淀山湖大道	dmujhudadc	96
 电真空器件	dmvfksqijm	51
 滇中城市群	dmvsiguiqy	287
@@ -531258,7 +530189,6 @@ sort: by_weight
 电涌保护器	dmysbchuqi	177
 电子爱好者	dmziaihcve	84
 电子版照片	dmzibjvcpm	157
-电子布告栏	dmzibugclj	349
 电子测距仪	dmzicejuyi	76
 电子大屏幕	dmzidapkmu	457
 电子登机牌	dmzidgjipd	189
@@ -531310,7 +530240,6 @@ sort: by_weight
 电子墨水屏	dmzimouvpk	1287
 电子膨胀阀	dmzipgvhfa	1750
 电子皮带秤	dmzipiddig	41
-电子琴花车	dmziqbhxie	0
 电子汽车衡	dmziqiiehg	38
 电子签名法	dmziqmmkfa	479
 电子取景器	dmziqujkqi	2027
@@ -532366,7 +531295,6 @@ sort: by_weight
 二等边梯形	erdgbmtixk	0
 二滴水门楼	erdiuvmflz	0
 耳朵大有福	erdodayzfu	96
-二二八事件	ererbauijm	627
 二二六兵变	ererlqbkbm	68
 而富有变化	erfuyzbmhx	47
 二胇基丙醇	erfwjibkiy	0
@@ -534537,7 +533465,6 @@ sort: by_weight
 高中压阀门	gcvsyafamf	38
 高中一年级	gcvsyinmji	439
 高瓦斯矿井	gcwasikljk	192
-高温超导体	gcwficdcti	1126
 高温超导线	gcwficdcxm	49
 高温气冷堆	gcwfqilgdv	1400
 高温试验机	gcwfuiyjji	40
@@ -535121,7 +534048,6 @@ sort: by_weight
 广播电视台	glbodmuitd	30293
 广播电视站	glbodmuivj	72
 广播电视网	glbodmuiwh	4183
-广播歌仔戏	glbogezixi	0
 广播理事会	glboliuihv	103
 广播主持人	glbovuiirf	287
 光彩大市场	glcddauiih	117
@@ -535460,7 +534386,6 @@ sort: by_weight
 国际雕塑园	gojidnsuyr	54
 国际冬令营	gojidslkyk	88
 国际动漫展	gojidsmjvj	385
-国际儿童村	gojiertscy	0
 国际儿童院	gojiertsyr	61
 国际法学院	gojifaxtyr	137
 国际纺织城	gojifhviig	80
@@ -536205,7 +535130,6 @@ sort: by_weight
 工频过电压	gspbgodmya	54
 公派留学生	gspdlqxtug	150
 公平的交易	gspkdejnyi	3731
-公平交易法	gspkjnyifa	0
 公平交易权	gspkjnyiqr	1588
 公平贸易局	gspkmcyiju	1187
 公平与正义	gspkyuvgyi	16
@@ -536280,7 +535204,6 @@ sort: by_weight
 工商局局长	gsuhjujuvh	581
 工商业贷款	gsuhyeddkr	64
 工伤医疗费	gsuhyilnfw	120
-工商综合区	gsuhzshequ	160
 公使衔参赞	gsuixmcjzj	1127
 拱墅区法院	gsuuqufayr	144
 拱墅区政府	gsuuquvgfu	43
@@ -538138,7 +537061,6 @@ sort: by_weight
 货币的职能	hobideving	79
 货币兑换商	hobidvhruh	36
 货币国际化	hobigojihx	1115
-货币供给额	hobigsjiee	0
 货币供给量	hobigsjill	453
 货比货得扔	hobihoderg	185
 货币化价值	hobihxjxvi	41
@@ -538638,7 +537560,6 @@ sort: by_weight
 湖东派出所	hudspdiuso	92
 互动式电视	hudsuidmui	0
 互动式广告	hudsuiglgc	0
-互动式媒体	hudsuimwti	0
 互动式营销	hudsuiykxn	80
 互动舞台剧	hudswutdju	119
 沪东造船厂	hudszcirih	194
@@ -539495,7 +538416,6 @@ sort: by_weight
 后撤步跳投	hziebutntz	2635
 候车亭广告	hzietkglgc	52
 后场任意球	hzihrfyiqq	547
-后级扩大机	hzjikodaji	217
 厚街镇政府	hzjpvfvgfu	340
 后来才知道	hzldcdvidc	5096
 后来的后来	hzlddehzld	427
@@ -540452,7 +539372,6 @@ sort: by_weight
 吃凉不管酸	iillbugrsr	0
 齿轮变速箱	iilybmsuxl	79
 痴男怨女们	iinjyrnvmf	61
-吃人不吐骨	iirfbutugu	0
 吃人的嘴软	iirfdezvrr	47
 吃人一个蛋	iirfyigedj	0
 赤司征十郎	iisivguilh	49
@@ -540955,7 +539874,6 @@ sort: by_weight
 触摸显示器	iumoxmuiqi	279
 触摸液晶屏	iumoyejkpk	514
 触摸一体机	iumoyitiji	176
-触媒转化器	iumwvrhxqi	0
 出凝血时间	iunkxtuijm	88
 处女膜破裂	iunvmopolp	556
 处女膜修复	iunvmoxqfu	206
@@ -544462,14 +543380,12 @@ sort: by_weight
 开放式基金	kdfhuijijb	75355
 开放式监狱	kdfhuijmyu	63
 开放式教学	kdfhuijnxt	37
-开放式教育	kdfhuijnyu	179
 开放式结构	kdfhuijpgz	117
 开放式结局	kdfhuijpju	95
 开放式课程	kdfhuikeig	39
 开放式平台	kdfhuipktd	1343
 开放式问题	kdfhuiwfti	86
 开放实验室	kdfhuiyjui	10
-开放型基金	kdfhxkjijb	835
 开放型经济	kdfhxkjkji	18319
 开放性损伤	kdfhxksyuh	114
 开放性伤口	kdfhxkuhkz	156
@@ -545228,7 +544144,6 @@ sort: by_weight
 宽城区政府	krigquvgfu	63
 宽屏显示器	krpkxmuiqi	153
 宽容的态度	krrsdetddu	37
-宽萤幕电视	krykmudmui	0
 空白对照组	ksbddvvczu	142
 孔波斯特拉	ksbositela	171
 恐怖变异人	ksbubmyirf	769
@@ -545505,7 +544420,6 @@ sort: by_weight
 拉出来遛遛	laiuldlqlqa	12
 拉筹伯大学	laizbodaxt	260
 垃圾焚化厂	lajiffhxih	161
-垃圾焚化炉	lajiffhxlu	0
 垃圾粉碎机	lajiffsvji	46
 垃圾焚烧厂	lajiffucih	6693
 垃圾焚烧炉	lajiffuclu	1146
@@ -545527,7 +544441,6 @@ sort: by_weight
 垃圾压缩站	lajiyasovj	410
 垃圾掩埋场	lajiyjmdih	76
 垃圾运输车	lajiyyuuie	473
-垃圾子母车	lajizimuie	0
 辣椒红色素	lajnhssesu	132
 辣椒炒月饼	lajnicytbk	80
 拉贾帕克萨	lajxpakesa	409
@@ -545773,7 +544686,6 @@ sort: by_weight
 老人福利法	lcrffulifa	0
 老人活动室	lcrfhodsui	70
 老人护理院	lcrfhuliyr	48
-老人痴呆症	lcrfiiddvg	0
 老人俱乐部	lcrfjulebu	0
 老人失智症	lcrfuivivg	197
 老人与小孩	lcrfyuxnhd	123
@@ -546080,7 +544992,6 @@ sort: by_weight
 立体的空间	litideksjm	54
 立体感不强	litigjbuql	59
 立体感更强	litigjggql	639
-立体停车场	lititkieih	1150
 立体停车库	lititkieku	731
 立体图设计	litituueji	49
 立体身历声	litiufliug	97
@@ -546326,7 +545237,6 @@ sort: by_weight
 兰心大剧院	ljxbdajuyr	11
 兰心大戏院	ljxbdaxiyr	246
 兰西经济区	ljxijkjiqu	47
-篮下三秒钟	ljxxsjmnvs	1
 滥用抗生素	ljyskhugsu	1785
 蓝月湾温泉	ljytwjwfqr	45
 零报告制度	lkbcgcvidu	110
@@ -547131,7 +546041,6 @@ sort: by_weight
 泸沽湖机场	luguhujiih	88
 泸沽湖旅游	luguhulvyz	60
 卢沟桥抗战	lugzqnkhvj	48
-卢沟桥事件	lugzqnuijm	0
 卢沟桥文化	lugzqnwfhx	90
 陆海空协同	luhdksxpts	56
 颅颌面外科	luhemmwdke	61
@@ -547456,7 +546365,6 @@ sort: by_weight
 擂台争霸赛	lwtdvgbasd	103
 类太阳恒星	lwtdyhhgxk	246
 雷射碟影机	lwuedpykji	0
-雷射印表机	lwueybbnjia	342
 雷神进行曲	lwufjbxkqu	83
 雷声大雨点	lwugdayudm	163
 累西腓机场	lwxifwjiih	224
@@ -547833,7 +546741,6 @@ sort: by_weight
 民园体育场	mbyrtiyuih	308
 民用核安全	mbysheanqr	835
 民用航空器	mbyshhksqi	1739
-民用航空站	mbyshhksvj	0
 民用太阳能	mbystdyhng	86
 民用直升机	mbysviugji	4262
 民用运输机	mbysyyuuji	87
@@ -547908,7 +546815,6 @@ sort: by_weight
 毛周角化症	mcvzjnhxvg	46
 毛乌素沙地	mcwusuuadi	461
 毛细管扩张	mcxigrkovh	88
-毛细管现象	mcxigrxmxl	0
 毛细血管壁	mcxixtgrbi	134
 毛细血管网	mcxixtgrwh	147
 冒险编年史	mcxmbmnmui	80
@@ -549492,7 +548398,6 @@ sort: by_weight
 纳税人之家	nauvrfvijx	72
 纳税人意识	nauvrfyiui	116
 纳税申报表	nauvufbcbn	948
-纳税义务人	nauvyiwurf	65
 拿着照相机	navevcxlji	279
 纳瓦拉大学	nawaladaxt	150
 纳瓦拉国王	nawalagowh	155
@@ -549520,7 +548425,6 @@ sort: by_weight
 脑功能特化	ncgsngtehx	1
 闹够了没有	ncgzlemwyz	59
 脑垂体肿瘤	ncivtivslq	68
-脑筋急转弯	ncjbjivrwj	1221
 脑脊液鼻漏	ncjiyebilz	63
 脑脊液检查	ncjiyejmia	57
 闹了半天鬼	nclebjtmgv	0
@@ -549530,13 +548434,11 @@ sort: by_weight
 脑力激荡术	nclijidhuu	179
 瑙鲁共和国	nclugshego	44
 恼人的秋风	ncrfdeqqfg	309
-脑神经衰弱	ncufjkukro	51
 脑神经网络	ncufjkwhlo	62
 闹市口大街	ncuikzdajp	20250
 脑外科手术	ncwdkeuzuu	124
 脑血管堵塞	ncxtgrduse	40
 脑血管痉挛	ncxtgrjklr	127
-脑血管栓塞	ncxtgrurse	0
 脑血管硬化	ncxtgrykhx	108
 耐低温性能	nddiwfxkng	52
 耐多药结核	nddoycjphe	238
@@ -550848,7 +549750,6 @@ sort: by_weight
 派拉蒙公司	pdlamggssi	660
 拍了张照片	pdlevhvcpm	419
 拍立得摄影	pdlideueyk	0
-拍立得相机	pdlidexlji	0
 拍卖行老板	pdmdhhlcbj	38
 排尿性晕厥	pdnnxkyyjt	346
 排起了长队	pdqileihdv	40
@@ -551556,7 +550457,6 @@ sort: by_weight
 奇怪的声音	qigkdeugyb	418
 奇怪的事情	qigkdeuiqk	1371
 奇怪的石头	qigkdeuitz	82
-七国高峰会	qigogcfghv	0
 气管支气管	qigrviqigr	37
 契诃夫戏剧	qihefuxiju	110
 契诃夫作品	qihefuzopb	117
@@ -551839,7 +550739,6 @@ sort: by_weight
 起亚赛拉图	qiyasdlatu	161
 起亚索兰托	qiyasoljto	750
 起亚新狮跑	qiyaxbuipc	46
-歧音异义字	qiybyiyizi	0
 企业办社会	qiyebjuehv	745
 企业财产险	qiyecdijxm	262
 企业的价值	qiyedejxvi	2867
@@ -552189,7 +551088,6 @@ sort: by_weight
 青山区政府	qkujquvgfu	103
 青山热电厂	qkujredmih	78
 清水大闸蟹	qkuvdavaxp	142
-轻水反应器	qkuvfjykqi	0
 清水河大桥	qkuvhedaqn	97
 清水混凝土	qkuvhynktu	61
 清水亭东路	qkuvtkdslu	114
@@ -552341,7 +551239,6 @@ sort: by_weight
 前进化工厂	qmjbhxgsih	142
 前进指挥部	qmjbvihvbu	55
 前进指挥所	qmjbvihvso	398
-前级扩大机	qmjikodaji	0
 前景和背景	qmjkhebwjk	103
 浅景深效果	qmjkufxngo	148
 黔江区政府	qmjlquvgfu	100
@@ -552635,7 +551532,6 @@ sort: by_weight
 全国中学生	qrgovsxtug	1088
 全国助残日	qrgovucjri	495
 全国文明镇	qrgowfmkvf	41
-全国文艺季	qrgowfyiji	0
 全国消防日	qrgoxnfhri	54
 全国总冠军	qrgozsgrjy	2602
 全国总决赛	qrgozsjtsd	53
@@ -552711,7 +551607,6 @@ sort: by_weight
 全凭一张嘴	qrpkyivhzv	71
 全球代言人	qrqqddyjrf	47
 全球第一款	qrqqdiyikr	2493
-全球电话卡	qrqqdmhxka	0
 全球富豪榜	qrqqfuhcbh	3751
 全球服务器	qrqqfuwuqi	986
 全球功夫网	qrqqgsfuwh	43
@@ -554163,7 +553058,7 @@ sort: by_weight
 三里屯一中	sjlityyivs	326
 三菱欧蓝德	sjlkouljde	1026
 三菱帕杰罗	sjlkpajplo	1105
-三〇一条款	sjlkyitnkr	0
+三〇一条款	sjlkyitnkra	0
 散落的货物	sjlodehowu	107
 散落的零件	sjlodelkjm	42
 三螺旋结构	sjloxrjpgz	76
@@ -555015,7 +553910,6 @@ sort: by_weight
 特别贡献奖	tebpgsxmjl	3004
 特别工作组	tebpgszozu	561
 特别检察厅	tebpjmiatk	57
-特别扣除额	tebpkziuee	112
 特别通行证	tebptsxkvg	698
 特别收益金	tebpuzyijb	172
 特别职务队	tebpviwudv	138
@@ -556240,7 +555134,6 @@ sort: by_weight
 投入产出表	tzruijiubn	288
 投入产出率	tzruijiulv	221
 偷偷爱着你	tztzaiveni	82
-投手防御率	tzuzfhyulv	55
 偷星九月天	tzxkjqyttm	95
 透印版印刷	tzybbjybux	25
 投影机灯泡	tzykjidgpc	56
@@ -557720,7 +556613,6 @@ sort: by_weight
 十二指肠虫	uierviihis	209
 十二五规划	uierwugvhx	8631
 十二五计划	uierwujihx	213
-十二项建设	uierxljmue	0
 十二月二十	uieryterui	4540
 十二月七日	uierytqiri	289
 十二月十日	uierytuiri	609
@@ -557868,7 +556760,6 @@ sort: by_weight
 时间规划局	uijmgvhxju	63
 时间和距离	uijmhejuli	311
 时间和空间	uijmheksjm	6660
-时间差攻击	uijmiagsji	0
 时间开始了	uijmkduile	96
 时间旅行者	uijmlvxkve	212
 时间生物学	uijmugwuxt	90
@@ -557988,7 +556879,6 @@ sort: by_weight
 世界之窗站	uijpviilvj	152
 世界知名的	uijpvimkde	4360
 世界战争史	uijpvjvgui	276
-世界展望会	uijpvjwhhv	600
 世界中医药	uijpvsyiyc	236
 世界文化史	uijpwfhxui	37
 世界问候日	uijpwfhzri	101
@@ -558957,7 +557847,6 @@ sort: by_weight
 输入关键字	uurugrjmzi	435
 输入计算机	uurujisrji	238
 输入性病例	uuruxkbkli	315
-输入许可制	uuruxukevi	0
 输入用户名	uuruyshumk	487
 殊途而同归	uutuertsgv	42
 殊途同归的	uututsgvde	492
@@ -560184,7 +559073,6 @@ sort: by_weight
 张静江故居	vhjkjlguju	50
 张江高科苑	vhjlgckeyr	40
 张江集电港	vhjljidmgh	47
-长焦距镜头	vhjnjujktz	38
 张杰演唱会	vhjpyjihhv	201
 长距离运输	vhjuliyyuu	631
 张家港市委	vhjxghuiww	198
@@ -560224,7 +559112,6 @@ sort: by_weight
 杖头木偶戏	vhtzmuouxi	83
 掌声响起来	vhugxlqild	124
 掌声与喝彩	vhugyuhecd	259
-掌上型电脑	vhuhxkdmnc	0
 长上影阳线	vhuhykyhxm	57
 掌上应用汇	vhuhykyshv	102
 掌上游戏机	vhuhyzxiji	990
@@ -560497,7 +559384,6 @@ sort: by_weight
 置鲇龙太郎	vinmlstdlh	131
 纸尿裤品牌	vinnkupbpd	198
 直排溜冰鞋	vipdlqbkxp	356
-直排轮刀鞋	vipdlydcxp	0
 纸片马里奥	vipmmaliao	46
 制片人制度	vipmrfvidu	48
 质谱分析法	vipuffxifa	47
@@ -562952,7 +561838,6 @@ sort: by_weight
 网路博览会	whluboljhv	0
 网路伺服器	whlucifuqi	0
 网路服务业	whlufuwuye	0
-网路火腿族	whluhotvzu	0
 网路六合彩	whlulqhecd	0
 网路拍卖会	whlupdmdhv	0
 网路速食店	whlusuuidm	0
@@ -563039,7 +561924,6 @@ sort: by_weight
 万大工业区	wjdagsyequ	100
 完达山奶粉	wjdaujndff	46
 完达山乳业	wjdaujruye	688
-腕道症候群	wjdcvghzqy	0
 万吨水压机	wjdyuvyaji	104
 万方数据库	wjfhuujuku	44
 万国建筑群	wjgojmvuqy	109
@@ -564001,7 +562885,6 @@ sort: by_weight
 无穷的魅力	wuqsdemwli	362
 无穷的潜力	wuqsdeqmli	160
 无穷无尽的	wuqswujbde	2479
-无缺点计划	wuqtdmjihx	0
 无人搬运车	wurfbjyyie	47
 无人不知的	wurfbuvide	353
 无人岛开发	wurfdckdfa	92
@@ -564089,7 +562972,6 @@ sort: by_weight
 无正当理由	wuvgdhliyz	74
 无症状感染	wuvgvlgjrj	70
 无障碍电梯	wuvhaidmti	508
-无障碍环境	wuvhaihrjk	808
 无障碍坡道	wuvhaipodc	99
 无障碍通道	wuvhaitsdc	770
 无障碍通行	wuvhaitsxk	216
@@ -564588,7 +563470,6 @@ sort: by_weight
 微生物研究	wwugwuyjjq	339
 微生物资源	wwugwuziyr	101
 卫生委员会	wwugwwyrhv	170
-卫生下水道	wwugxxuvdc	0
 卫生研究所	wwugyjjqso	217
 未生育过的	wwugyugode	148
 卫生与健康	wwugyujmkh	77
@@ -565504,7 +564385,6 @@ sort: by_weight
 心脏复苏术	xbzhfusuuu	412
 心脏还在跳	xbzhhdzdtn	37
 心脏除颤器	xbzhiuijqi	256
-心脏节律器	xbzhjplvqi	182
 薪资购买力	xbzigzmdli	45
 新资源食品	xbziyruipb	566
 新自由主义	xbziyzvuyi	2994
@@ -566112,7 +564992,6 @@ sort: by_weight
 兴隆大家庭	xklsdajxtk	490
 兴隆矿务局	xklsklwuju	93
 兴隆派出所	xklspdiuso	70
-型录式广告	xkluuiglgc	0
 兴能天然气	xkngtmrjqi	44
 型男大主厨	xknjdavuiu	63
 型内燃机车	xknwrjjiie	87
@@ -566840,7 +565719,6 @@ sort: by_weight
 消费者信用	xnfwvexbys	389
 消费者需求	xnfwvexuqq	19734
 消费者需要	xnfwvexuyc	4997
-消费者运动	xnfwveyyds	0
 消费者资源	xnfwveziyr	202
 消费者组织	xnfwvezuvi	1472
 消费型保险	xnfwxkbcxm	157
@@ -567719,7 +566597,6 @@ sort: by_weight
 压电陶瓷片	yadmtccipm	45
 雅典耀大学	yadmycdaxt	158
 雅尔达会议	yaerdahvyi	0
-雅尔达密约	yaerdamiyt	0
 亚尔莫连科	yaermolmke	487
 雅尔塔体系	yaertatixi	229
 雅芳专卖店	yafhvrmddm	120
@@ -568168,7 +567045,6 @@ sort: by_weight
 液化气槽车	yehxqiccie	188
 液化气阀门	yehxqifamf	45
 液化气运输	yehxqiyyuu	148
-液化天然气	yehxtmrjqi	25174
 冶金工业园	yejbgsyeyr	60
 冶金进出口	yejbjbiukz	47
 冶金机械厂	yejbjixpih	360
@@ -568298,7 +567174,6 @@ sort: by_weight
 阳光城集团	yhgligjitr	2486
 阳光城领海	yhgliglkhd	54
 阳光充足的	yhgliszude	432
-阳光基金会	yhgljijbhv	0
 阳光姐妹淘	yhgljpmwtc	316
 阳光俱乐部	yhgljulebu	148
 阳光理想城	yhgllixlig	128
@@ -568803,7 +567678,6 @@ sort: by_weight
 一家大药房	yijxdaycfh	76
 一家房地产	yijxfhdiij	4067
 已加工好的	yijxgshcde	71
-一价吃到饱	yijxiidcbc	25
 一家川菜馆	yijxircdgr	218
 意甲俱乐部	yijxjulebu	772
 一家米粉店	yijxmiffdm	129
@@ -568819,7 +567693,6 @@ sort: by_weight
 一家一个主	yijxyigevu	0
 抑菌洗手液	yijyxiuzye	155
 一卡通系统	yikatsxits	341
-已开发国家	yikdfagojx	350
 一开始就错	yikduijqco	60
 一棵大白菜	yikedabdcd	53
 一克拉梦想	yikelamgxl	1934
@@ -569089,7 +567962,6 @@ sort: by_weight
 意识和操作	yiuihecczo	94
 以实际行动	yiuijixkds	78
 异世界生活	yiuijpugho	56
-意识流电影	yiuilqdmyk	0
 意识流小说	yiuilqxnuo	44
 伊士曼彩色	yiuimjcdse	117
 伊士曼柯达	yiuimjkeda	167
@@ -569214,7 +568086,6 @@ sort: by_weight
 一直走下去	yivizzxxqu	1277
 一战定乾坤	yivjdkqmky	426
 一战定胜负	yivjdkugfu	240
-一盏茶工夫	yivjiagsfu	0
 一站式服务	yivjuifuwu	10851
 一站式购买	yivjuigzmd	318
 一站式购物	yivjuigzwu	1826
@@ -570877,7 +569748,6 @@ sort: by_weight
 油松派出所	yzsspdiuso	61
 犹他爵士队	yztajtuidv	4306
 犹他州大学	yztavzdaxt	136
-犹太屯垦区	yztdtykfqu	0
 犹太自治州	yztdzivivz	338
 有蹄类动物	yztilwdswu	74
 游艇俱乐部	yztkjulebu	2816
@@ -571386,7 +570256,6 @@ sort: by_weight
 自动档汽车	zidsdhqiiea	75
 自动地工作	zidsdigszo	190
 自动对焦点	zidsdvjndm	226
-自动贩卖机	zidsfjmdji	1158
 自动翻译机	zidsfjyiji	0
 自动干手机	zidsgjuzji	40
 自动感应门	zidsgjykmf	45
@@ -571866,7 +570735,6 @@ sort: by_weight
 综合净利润	zshejkliry	183
 综合竞争力	zshejkvgli	17950
 综合科科长	zshekekevh	505
-综合扩大机	zshekodaji	276
 综合类大学	zshelwdaxt	426
 综合门诊部	zshemfvfbu	97
 综合能力强	zshengliql	414
@@ -574969,10 +573837,8 @@ sort: by_weight
 大众保险股份	davsbcxmguff	129
 大众报业集团	davsbcyejitr	434
 大众富裕阶层	davsfuyujpcg	2714
-大中华经济圈	davshxjkjiqr	0
 大众传播媒介	davsirbomwjp	347
 大众传播媒体	davsirbomwti	0
-大众捷运系统	davsjpyyxits	264
 大众汽车服务	davsqiiefuwu	38
 大众汽车香港	davsqiiexlgh	65
 大众汽车租赁	davsqiiezulb	101
@@ -575344,8 +574210,6 @@ sort: by_weight
 档案管理软件	dhangrlirrjm	55
 档案管理系统	dhangrlixits	231
 档案工作人员	dhangszorfyr	50
-档案传输系统	dhaniruuxits	235
-档案搜寻系统	dhanszxyxits	25
 挡不住的疯情	dhbuvudefgqk	88
 挡不住的风情	dhbuvudefgqka	80
 挡不住的趋势	dhbuvudequui	43
@@ -575611,8 +574475,7 @@ sort: by_weight
 地质灾害应急	divizdhdykji	395
 地中海俱乐部	divshdjulebu	1744
 地中海贫血症	divshdpbxtvg	148
-地中海型贫血	divshdxkpbxt	0
-地中海形贫血	divshdxkpbxta	0
+地中海形贫血	divshdxkpbxt	0
 低温等离子体	diwfdgliziti	40
 低温超导材料	diwficdccdln	38
 低温冷冻灾害	diwflgdszdhd	261
@@ -575955,7 +574818,6 @@ sort: by_weight
 电脑操作系统	dmnccczoxits	1212
 电脑导航磁碟	dmncdchhcidp	0
 电脑福利彩票	dmncfulicdpn	181
-电脑辅助教学	dmncfuvujnxt	0
 电脑互动艺术	dmnchudsyiuu	0
 电脑绘图技术	dmnchvtujiuu	243
 电脑控制系统	dmncksvixits	205
@@ -575973,7 +574835,6 @@ sort: by_weight
 电脑艺术设计	dmncyiuuueji	42
 电脑应用程序	dmncykysigxu	41
 电脑语音辨识	dmncyuybbmui	0
-电脑语音处理	dmncyuybiuli	0
 电脑游戏设计	dmncyzxiueji	111
 电脑有限公司	dmncyzxmgssi	526
 电脑字形辨识	dmnczixkbmui	0
@@ -576257,7 +575118,6 @@ sort: by_weight
 电子邮件广告	dmziyzjmglgc	36
 电子邮件群发	dmziyzjmqyfa	39
 电子邮件信箱	dmziyzjmxbxl	433
-电子邮件系统	dmziyzjmxits	1054
 电子邮件业务	dmziyzjmyewu	69
 电子油门控制	dmziyzmfksvi	43
 电子游戏公司	dmziyzxigssi	160
@@ -576339,7 +575199,6 @@ sort: by_weight
 多媒体指令集	domwtivilkji	60
 多媒体艺术家	domwtiyiuujx	126
 多人对战模式	dorfdvvjmoui	161
-多人聊天系统	dorflntmxits	128
 多人游戏模式	dorfyzximoui	468
 多特蒙德大学	dotemgdedaxt	97
 多特蒙德二队	dotemgdeerdv	53
@@ -577847,7 +576706,6 @@ sort: by_weight
 高附加值产品	gcfujxviijpb	5502
 高附加值产业	gcfujxviijye	753
 高附加值船舶	gcfujxviirbo	244
-高佛资讯系统	gcfuzixyxits	0
 高感光度拍摄	gcgjgldupdue	175
 高管责任保险	gcgrzerfbcxm	113
 高功率激光器	gcgslvjiglqi	87
@@ -578745,7 +577603,6 @@ sort: by_weight
 国际政治研究	gojivgviyjjq	79
 国际直接投资	gojivijptzzi	200
 国际知名品牌	gojivimkpbpd	4022
-国际直通电话	gojivitsdmhx	0
 国际知识产权	gojiviuiijqr	399
 国际职业认证	gojiviyerfvg	37
 国际志愿者日	gojiviyrveri	226
@@ -581713,7 +580570,6 @@ sort: by_weight
 车辆识别代号	ielluibpddhc	193
 车辆制造企业	iellvizcqiye	103
 车辆卫星定位	iellwwxkdkww	152
-车诺比耳事件	ienobieruijm	0
 车内空气净化	ienwksqijkhx	213
 车内空气质量	ienwksqivill	4565
 车内空气污染	ienwksqiwurj	971
@@ -585564,7 +584420,6 @@ sort: by_weight
 老年养护中心	lcnmyhhuvsxb	61
 老牛家的战争	lcnqjxdevjvg	589
 老人活动中心	lcrfhodsvsxb	121
-老人住居安养	lcrfvujuanyh	0
 劳斯莱斯幻影	lcsildsihryk	2968
 劳斯莱斯汽车	lcsildsiqiie	1493
 老少边穷地区	lcucbmqsdiqu	788
@@ -585662,7 +584517,6 @@ sort: by_weight
 利比里亚总统	libiliyazsts	387
 利比亚大使馆	libiyadauigr	1588
 利比亚第纳尔	libiyadinaer	59
-理不直气不壮	libuviqibuvl	0
 里贝朗普雷图	libwlhpulwtu	192
 理财顾问服务	licdguwffuwu	120
 李沧万达广场	lichwjdaglih	73
@@ -588249,7 +587103,6 @@ sort: by_weight
 女朋友男朋友	nvpgyznjpgyz	55
 女人不是月亮	nvrfbuuiytll	41
 女人来自金星	nvrfldzijbxk	463
-女人心海底针	nvrfxbhddivf	549
 女摄影家协会	nvueykjxxphv	50
 女士们先生们	nvuimfxmugmf	224
 女职工委员会	nvvigswwyrhv	167
@@ -589072,7 +587925,6 @@ sort: by_weight
 企业生产能力	qiyeugijngli	328
 企业生产要素	qiyeugijycsu	63
 企业生命周期	qiyeugmkvzqi	354
-企业识别系统	qiyeuibpxits	406
 企业事业单位	qiyeuiyedjww	2381
 企业数据管理	qiyeuujugrli	113
 企业招聘信息	qiyevcpbxbxi	105
@@ -589457,7 +588309,6 @@ sort: by_weight
 全部投资风险	qrbutzzifgxm	90
 全北现代汽车	qrbwxmddqiie	47
 全地面起重机	qrdimmqivsji	418
-全额交割股票	qreejngegupn	0
 全俄展览中心	qreevjljvsxb	62
 全峰快递集团	qrfgkkdijitr	55
 全钒液流电池	qrfjyelqdmii	126
@@ -590096,7 +588947,6 @@ sort: by_weight
 软件外包公司	rrjmwdbcgssi	142
 软件运营服务	rrjmyyykfuwu	83
 软件有限公司	rrjmyzxmgssi	6696
-软体工业园区	rrtigsyeyrqu	0
 软体出版协会	rrtiiubjxphv	0
 软性隐形眼镜	rrxkybxkyjjk	136
 融恒时代广场	rshguiddglih	143
@@ -590674,7 +589524,6 @@ sort: by_weight
 苏霍伊设计局	suhoyiuejiju	737
 塑胶有限公司	sujnyzxmgssi	1162
 苏军烈士陵园	sujylpuilkyr	51
-苏恺二七战机	sukderqivjji	0
 塑壳式断路器	sukeuidrluqi	100
 苏利南共和国	sulinjgshegoa	102
 苏黎世动物园	suliuidswuyr	37
@@ -590949,7 +589798,6 @@ sort: by_weight
 台湾问题专家	tdwjwftivrjx	49
 台湾威盛电子	tdwjwwugdmzi	53
 台湾戏曲学院	tdwjxiquxtyr	38
-台湾学术网路	tdwjxtuuwhlu	131
 台湾伊林模特	tdwjyilbmote	44
 台湾艺术大学	tdwjyiuudaxt	140
 台湾永和豆浆	tdwjyshedzjl	43
@@ -591114,7 +589962,6 @@ sort: by_weight
 躺在你的衣柜	thzdnideyigv	36
 替补球员上场	tibuqqyruhih	226
 体操运动学校	ticcyydsxtxn	2029
-提得起放得下	tideqifhdexx	0
 提高服务水平	tigcfuwuuvpk	2997
 提高服务质量	tigcfuwuvill	6065
 提高精子活力	tigcjkziholi	172
@@ -594670,7 +593517,6 @@ sort: by_weight
 长盛同德主题	vhugtsdevuti	1060
 长盛同智优势	vhugtsviyzui	618
 长盛同鑫保本	vhugtsxbbcbf	719
-掌上型扫描器	vhuhxkscmnqi	0
 张石高速公路	vhuigcsugslu	86
 长时间的曝光	vhuijmdebcgl	43
 长舒了一口气	vhuuleyikzqi	77
@@ -594875,7 +593721,6 @@ sort: by_weight
 制品有限公司	vipbyzxmgssi	7290
 纸牌屋第二季	vipdwudierji	116
 质谱分析技术	vipuffxijiuu	37
-知其不可而为	viqibukeerww	0
 知青老年公寓	viqklcnmgsyu	187
 只认钱不认人	virfqmburfrf	360
 至死不渝的爱	visibuyudeai	42
@@ -596487,7 +595332,6 @@ sort: by_weight
 中央监护系统	vsyhjmhuxits	38
 中央监控系统	vsyhjmksxits	340
 中央军委委员	vsyhjywwwwyr	3457
-中央空调系统	vsyhkstnxits	1059
 中央空调销售	vsyhkstnxnuz	66
 中央控制门锁	vsyhksvimfso	53
 中央门派出所	vsyhmfpdiuso	156
@@ -597026,7 +595870,6 @@ sort: by_weight
 望城坡派出所	whigpopdiuso	100
 网际网路电话	whjiwhludmhx	0
 网际网路协会	whjiwhluxphv	135
-网际资讯网路	whjizixywhlu	0
 望京实验学校	whjkuiyjxtxn	108
 望京西园三区	whjkxiyrsjqu	75
 忘了你忘了我	whleniwhlewo	85
@@ -597174,7 +596017,6 @@ sort: by_weight
 网路国际电话	whlugojidmhx	0
 网路交流联谊	whlujnlqlmyi	0
 网路拍卖广场	whlupdmdglih	0
-网路新闻系统	whluxbwfxits	0
 网路行销活动	whluxkxnhods	0
 网路虚拟空间	whluxuniksjm	0
 网路影像电话	whluykxldmhx	0
@@ -599392,7 +598234,6 @@ sort: by_weight
 消费电子协会	xnfwdmzixphv	951
 消费金融公司	xnfwjbrsgssi	16975
 消费者保护部	xnfwvebchubu	171
-消费者保护法	xnfwvebchufa	991
 消费者导报社	xnfwvedcbcue	38
 消费者的权利	xnfwvedeqrli	1118
 消费者的疑虑	xnfwvedeyilv	279
@@ -600151,7 +598992,6 @@ sort: by_weight
 阳光体育活动	yhgltiyuhods	218
 阳光生物科技	yhglugwukeji	125
 阳光新业中心	yhglxbyevsxb	173
-阳光洗车中心	yhglxiievsxb	0
 阳光下的罪恶	yhglxxdezvee	44
 阳光依旧灿烂	yhglyijqcjlj	65
 杨过与小龙女	yhgoyuxnlsnv	303
@@ -602051,7 +600891,6 @@ sort: by_weight
 自行车越野赛	zixkieytyesd	104
 自行车运动员	zixkieyydsyr	761
 资兴市公安局	zixkuigsanju	280
-资讯高速公路	zixygcsugslu	0
 资讯科技公司	zixykejigssi	82
 咨询研究机构	zixyyjjqjigz	142
 咨询有限公司	zixyyzxmgssi	10526
@@ -602373,7 +601212,6 @@ sort: by_weight
 最新招聘信息	zvxbvcpbxbxi	61
 最喜欢的就是	zvxihrdejqui	1254
 罪刑法定主义	zvxkfadkvuyi	0
-罪刑法定原则	zvxkfadkyrze	571
 最小经济规模	zvxnjkjigvmo	61
 最小转弯半径	zvxnvrwjbjjk	1071
 最遥远的距离	zvycyrdejuli	169
@@ -603609,7 +602447,6 @@ sort: by_weight
 第二次中东战争	diercivsdsvjvg	64
 第二次印巴战争	dierciybbavjvg	292
 第二代生物燃料	dierddugwurjln	82
-第二代无线电话	dierddwuxmdmhx	0
 第二个五年计划	diergewunmjihx	160
 第二类精神药品	dierlwjkufycpb	277
 第二欧亚大陆桥	dierouyadaluqn	66
@@ -603756,7 +602593,6 @@ sort: by_weight
 顶梁骨走了真魂	dkllguzzlevfhy	196
 顶着磨子不知重	dkvemozibuvivs	0
 定州市人民医院	dkvzuirfmbyiyr	55
-定型化契约条款	dkxkhxqiyttnkr	0
 电白县观珠中学	dmbdxmgrvuvsxt	54
 电白县人民医院	dmbdxmrfmbyiyr	51
 电波女与青春男	dmbonvyuqkiynj	38
@@ -604759,7 +603595,6 @@ sort: by_weight
 国际大专辩论赛	gojidavrbmlysd	51
 国际档案理事会	gojidhanliuihv	44
 国际地球物理年	gojidiqqwulinm	0
-国际电话信用卡	gojidmhxxbyska	0
 国际癫痫关爱日	gojidmxmgrairi	60
 国际动漫艺术周	gojidsmjyiuuvz	80
 国际儿童和平奖	gojiertshepkjl	94
@@ -605206,7 +604041,6 @@ sort: by_weight
 哈萨克斯坦城市	hasakesitjigui	44
 哈萨克斯坦总统	hasakesitjzsts	2593
 好汉不论出身低	hchjbulyiuufdi	0
-好汉不怕出身低	hchjbupaiuufdi	158
 好汉只怕病来磨	hchjvipabkldmo	107
 好话当作耳边风	hchxdhzoerbmfg	1
 好客山东贺年会	hckeujdshenmhv	359
@@ -605819,7 +604653,6 @@ sort: by_weight
 超舒适国际家居	icuuuigojijxju	55
 潮州市中心医院	icvzuivsxbyiyr	202
 超文本传输协议	icwfbfiruuxpyi	41
-超文本描述语言	icwfbfmnuuyuyj	0
 朝向高尔夫学院	icxlgcerfuxtyr	50
 朝鲜绑架日本人	icxmbhjxribfrf	187
 朝鲜半岛无核化	icxmbjdcwuhehx	2655
@@ -607910,7 +606743,6 @@ sort: by_weight
 美国自由女神像	mwgoziyznvufxl	170
 美国佐治亚大学	mwgozoviyadaxt	186
 美国总统奥巴马	mwgozstsaobama	96825
-美国总统报复权	mwgozstsbcfuqr	1
 美国总统候选人	mwgozstshzxrrf	176
 美国足球大联盟	mwgozuqqdalmmg	578
 美国足球运动员	mwgozuqqyydsyr	36
@@ -608649,7 +607481,6 @@ sort: by_weight
 全病毒灭活疫苗	qrbkdumphoyimn	37
 全部控股子公司	qrbuksguzigssi	44
 全彩干式印表机	qrcdgjuiybbnji	0
-全国不分区代表	qrgobuffquddbn	0
 全国大学英语四	qrgodaxtykyusi	222
 全国法制宣传日	qrgofavixrirri	438
 全国房价排行榜	qrgofhjxpdhhbh	115
@@ -609002,7 +607833,6 @@ sort: by_weight
 三个橘子的爱情	sjgejuzideaiqk	43
 三个女人的故事	sjgenvrfdeguui	92
 三个受伤的警察	sjgeuzuhdejkia	119
-三更灯火五更鸡	sjggdghowuggji	0
 三过家门而不入	sjgojxmferburu	129
 三国两晋南北朝	sjgolljbnjbwic	45
 三国围棋擂台赛	sjgowwqilwtdsd	380
@@ -609823,7 +608653,6 @@ sort: by_weight
 十八届三中全会	uibajpsjvsqrhv	250045
 十八里店派出所	uibalidmpdiuso	55
 十八里河派出所	uibalihepdiuso	216
-时报广告金像奖	uibcglgcjbxljl	0
 市保险行业协会	uibcxmhhyexphv	156
 诗词曲语辞汇释	uiciquyucihvui	329
 市残疾人联合会	uicjjirflmhehv	100
@@ -610145,7 +608974,6 @@ sort: by_weight
 双面非球面镜片	ulmmfwqqmmjkpm	59
 双日不着单日着	ulribuvedjrive	0
 双眼皮修复手术	ulyjpixqfuuzuu	241
-双语立体声系统	ulyulitiugxits	0
 双语艺术幼儿园	ulyuyiuuyzeryr	37
 说了一遍又一遍	uoleyibmyzyibm	52
 说什么就是什么	uoufmejquiufme	235
@@ -610409,7 +609237,6 @@ sort: by_weight
 张北草原音乐节	vhbwccyrybytjp	372
 长风公园四号门	vhfggsyrsihcmf	89
 丈夫有泪不轻弹	vhfuyzlwbuqkdj	0
-长距离无线电话	vhjuliwuxmdmhx	0
 张家港市财政局	vhjxghuicdvgju	70
 张家港市公安局	vhjxghuigsanju	164
 张家港市检察院	vhjxghuijmiayr	42
@@ -611451,7 +610278,6 @@ sort: by_weight
 乌克兰格里夫纳	wukeljgelifuna	381
 乌克兰航空公司	wukeljhhksgssi	502
 乌克兰超级联赛	wukeljicjilmsd	627
-乌拉圭回合谈判	wulagvhvhetjpj	358
 乌里雅苏台将军	wuliyasutdjljy	93
 乌兰恰特大剧院	wuljqxtedajuyr	84
 无领导小组讨论	wulkdcxnzutcly	419
@@ -612663,7 +611489,6 @@ sort: by_weight
 言语理解与表达	yjyulijpyubnda	455
 英才外国语学校	ykcdwdgoyuxtxn	64
 赢得生前身后名	ykdeugqmufhzmk	45
-婴儿猝死症候群	ykercusivghzqy	0
 婴儿猝死综合征	ykercusizshevga	67
 应付账款周转率	ykfuvhkrvzvrlv	380
 英格尔斯造船厂	ykgeersizcirih	42
@@ -613040,7 +611865,6 @@ sort: by_weight
 资格审查委员会	zigeufiawwyrhv	314
 子宫肌瘤剔除术	zigsjilqtiiuuu	45
 子宫颈机能不全	zigsjkjingbuqr	41
-子宫颈抹片检查	zigsjkmopmjmia	0
 自贡市商业银行	zigsuiuhyeybhh	412
 子宫输卵管造影	zigsuulrgrzcyk	134
 资产负债表分析	ziijfuvdbnffxi	342
@@ -613693,7 +612517,6 @@ sort: by_weight
 大风黄色预警信号	dafghlseyujkxbhc	130
 大风蓝色预警信号	dafgljseyujkxbhc	321
 大功率激光切割机	dagslvjiglqpgeji	52
-打狗也要看主人面	dagzyeyckjvurfmm	121
 大海啸之鲨口逃生	dahdxnviuakztcug	62
 大韩民国临时政府	dahjmbgolbuivgfu	84
 大汉情缘之云中歌	dahjqkyrviyyvsge	812
@@ -613996,7 +612819,6 @@ sort: by_weight
 肚里说不出来的苦	duliuobuiulddeku	1
 杜鲁门号航空母舰	dulumfhchhksmujm	96
 独墅湖科教创新区	duuuhukejnilxbqu	42
-杜威十进位分类法	duwwuijbwwfflwfa	0
 对面的女孩看过来	dvmmdenvhdkjgold	160
 对面的女孩杀过来	dvmmdenvhduagold	38
 对羟基苯甲酸酯类	dvqljibfjxsrvilw	37
@@ -614528,7 +613350,6 @@ sort: by_weight
 国家永续发展论坛	gojxysxufavjlytj	0
 国家宇航和太空署	gojxyuhhhetdksuu	0
 国家资讯高速公路	gojxzixygcsugslu	0
-国家资讯基础建设	gojxzixyjiiujmue	0
 国库单一账户体系	gokudjyivhhutixi	103
 国库集中收付制度	gokujivsuzfuvidu	103
 国库集中支付制度	gokujivsvifuvidu	370
@@ -614891,7 +613712,7 @@ sort: by_weight
 环球市场信息导报	hrqquiihxbxidcbc	84
 环太平洋军事演习	hrtdpkyhjyuiyjxi	594
 环西班牙自行车赛	hrxibjyazixkiesd	73
-幻象二〇〇〇战机	hrxlerlklklkvjji	0
+幻象二〇〇〇战机	hrxlerlklklkvjjia	0
 环意大利自行车赛	hryidalizixkiesd	88
 洪都航空工业集团	hsdzhhksgsyejitr	88
 红豆集团有限公司	hsdzjitryzxmgssi	273
@@ -616708,7 +615529,6 @@ sort: by_weight
 软件产品管理办法	rrjmijpbgrlibjfa	144
 溶血性尿毒综合征	rsxtxknnduzshevg	47
 如果真是这样的话	rugovfuiveyhdehx	530
-入口匝道号志管制	rukzzadchcvigrvi	0
 乳品安全国家标准	rupbanqrgojxbnvy	65
 汝窑天青釉葵花洗	ruyctmqkyzkvhxxi	55
 瑞安建业有限公司	rvanjmyeyzxmgssi	61
@@ -618370,7 +617190,6 @@ sort: by_weight
 五大会计师事务所	wudahvjiuiuiwuso	75
 乌德穆尔特共和国	wudemuertegshego	477
 伍德斯托克音乐节	wudesitokeybytjp	144
-五度制调值标记法	wuduvidnvibnjifa	0
 无公害农产品标志	wugshdnsijpbbnvi	81
 无公害农产品认证	wugshdnsijpbrfvg	126
 无规定动物疫病区	wugvdkdswuyibkqu	40
@@ -618714,7 +617533,6 @@ sort: by_weight
 先天不足后天失调	xmtmbuzuhztmuitn	191
 先天性心血管畸形	xmtmxkxbxtgrjixk	42
 线上电脑网路杂志	xmuhdmncwhluzavi	0
-线上即时交谈系统	xmuhjiuijntjxits	0
 线性低密度聚乙烯	xmxkdimidujuyixia	134
 县乡两级人大代表	xmxllljirfdaddbn	56
 先有鸡还是先有蛋	xmyzjihduixmyzdj	761
@@ -619121,7 +617939,6 @@ sort: by_weight
 优胜美地国家公园	yzugmwdigojxgsyr	239
 有时爱情徒有虚名	yzuiaiqktuyzxumk	54
 优势学科创新平台	yzuixtkeilxbpktd	48
-邮政储金转存制度	yzvgiujbvrcyvidu	0
 有线电视暂行条例	yzxmdmuizjxktnli	0
 有限公司副董事长	yzxmgssifudsuivh	2410
 有限公司副总经理	yzxmgssifuzsjkli	10772
@@ -619669,7 +618486,6 @@ sort: by_weight
 分税制财政管理体制	ffuvvicdvggrlitivi	99
 凤凰卫视节目主持人	fghlwwuijpmuvuiirf	37
 凤凰卫视时事评论员	fghlwwuiuiuipklyyr	39
-蜂巢式行动电话系统	fgicuixkdsdmhxxits	0
 风景名胜区管理条例	fgjkmkugqugrlitnli	43
 方大集团董事局主席	fhdajitrdsuijuvuxi	253
 房地产经纪管理办法	fhdiijjkjigrlibjfa	240
@@ -621882,7 +620698,6 @@ sort: by_weight
 小娟和山谷里的居民	xnjrheujgulidejumb	55
 小马奔腾集团董事长	xnmabftgjitrdsuivh	175
 小学生日常行为规范	xnxtugriihxkwwgvfj	114
-携带式卫星通信系统	xpdduiwwxktsxbxits	0
 谢菲尔德哈勒姆大学	xpfwerdehalwmudaxt	62
 修身齐家治国平天下	xqufqijxvigopktmxx	222
 休闲农业与乡村旅游	xqxmnsyeyuxlcylvyz	1203
