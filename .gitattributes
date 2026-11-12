@@ -1,1 +1,1 @@
-tools/opencc_rewrite.sh text eol=lf
+tools/misc/opencc_rewrite.sh text eol=lf
