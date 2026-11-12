@@ -1,1 +1,2 @@
 tools/misc/opencc_rewrite.sh text eol=lf
+tools/misc/fix_pattern_hk.py text eol=lf
