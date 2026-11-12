@@ -81,6 +81,7 @@ reverse_lookup:
     - xform/([jqxy])v/$1u/
 
 simplifier:
+  opencc_config: hk2s.json
   tips: all  # 簡化字模式下提示對應的傳統漢字
 
 punctuator:
