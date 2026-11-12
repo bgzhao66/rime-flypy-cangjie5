@@ -5667,7 +5667,7 @@
 下廚: xià chú
 下去: xià qù
 下縣: xià xiàn
-下蔘差: xià cēn cī
+下參差: xià cēn cī
 下發: xià fā
 下口: xià kǒu
 下古: xià gǔ
@@ -8486,7 +8486,7 @@
 與其坐而待亡: yǔ qí zuò ér dài wáng
 與其殺是僮: yǔ qí shā shì tóng
 與助: yǔ zhù
-與蔘: yǔ cān
+與參: yǔ cān
 與受同科: yǔ shòu tóng kē
 與同: yǔ tóng
 與否: yǔ fǒu
@@ -10530,7 +10530,7 @@
 絲鞭: sī biān
 絲麻: sī má
 丞倅: chéng cuì
-丞蔘: chéng cān
+丞參: chéng cān
 丞史: chéng shǐ
 丞尉: chéng wèi
 丞局: chéng jú
@@ -10671,7 +10671,7 @@
 兩廂: liǎng xiāng
 兩廂情願: liǎng xiāng qíng yuàn
 兩廈: liǎng shà
-兩蔘: liǎng cān
+兩參: liǎng cān
 兩口: liǎng kǒu
 兩口兒: liǎng kǒu er
 兩口子: liǎng kǒu zi
@@ -11066,7 +11066,7 @@
 嚴厲: yán lì
 嚴厲打擊: yán lì dǎ jī
 嚴厲批評: yán lì pī píng
-嚴蔘: yán cān
+嚴參: yán cān
 嚴古: yán gǔ
 嚴召: yán zhào
 嚴君: yán jūn
@@ -11681,7 +11681,7 @@
 中廚: zhōng chú
 中廄: zhōng jiù
 中縣: zhōng xiàn
-中蔘: zhōng cān
+中參: zhōng cān
 中叔: zhōng shū
 中變: zhōng biàn
 中古: zhōng gǔ
@@ -16392,8 +16392,8 @@
 九原區: jiǔ yuán qū
 九原可作: jiǔ yuán kě zuò
 九縣: jiǔ xiàn
-九蔘: jiǔ cān
-九蔘官: jiǔ cān guān
+九參: jiǔ cān
+九參官: jiǔ cān guān
 九變: jiǔ biàn
 九變十化: jiǔ biàn shí huà
 九敍: jiǔ xù
@@ -19125,7 +19125,7 @@
 二南: èr nán
 二衞: èr wèi
 二卵棄干城: èr luǎn qì gān chéng
-二蔘: èr cān
+二參: èr cān
 二叉樹: èr chā shù
 二叔: èr shū
 二變: èr biàn
@@ -20689,7 +20689,7 @@
 五勞七傷: wǔ láo qī shāng
 五勢: wǔ shì
 五十: wǔ shí
-五十三蔘: wǔ shí sān cān
+五十三參: wǔ shí sān cān
 五十弦: wǔ shí xián
 五十步笑百步: wǔ shí bù xiào bǎi bù
 五十肩: wǔ shí jiān
@@ -22180,7 +22180,7 @@
 交卸: jiāo xiè
 交厚: jiāo hòu
 交厝: jiāo cuò
-交蔘: jiāo cān
+交參: jiāo cān
 交叉: jiāo chā
 交叉口: jiāo chā kǒu
 交叉學科: jiāo chā xué kē
@@ -24255,7 +24255,7 @@
 仁化: rén huà
 仁化縣: rén huà xiàn
 仁厚: rén hòu
-仁蔘: rén cān
+仁參: rén cān
 仁同一視: rén tóng yī shì
 仁君: rén jūn
 仁和: rén hé
@@ -24398,9 +24398,9 @@
 僅事: jǐn shì
 僅僅: jǐn jǐn
 僅以身免: jǐn yǐ shēn miǎn
-僅作蔘考: jǐn zuò cān kǎo
+僅作參考: jǐn zuò cān kǎo
 僅供: jǐn gōng
-僅供蔘考: jǐn gōng cān kǎo
+僅供參考: jǐn gōng cān kǎo
 僅只: jǐn zhǐ
 僅夠: jǐn gòu
 僅存: jǐn cún
@@ -27177,7 +27177,7 @@
 伍伯: wǔ bó
 伍侯: wǔ hòu
 伍列: wǔ liè
-伍蔘: wǔ cān
+伍參: wǔ cān
 伍壯: wǔ zhuàng
 伍奢: wǔ shē
 伍子濤: wǔ zǐ tāo
@@ -28514,7 +28514,7 @@
 傳單炸彈: chuán dān zhà dàn
 傳賣: chuán mài
 傳卮: chuán zhī
-傳蔘: chuán cān
+傳參: chuán cān
 傳發: chuán fā
 傳受: chuán shòu
 傳敍: chuán xù
@@ -32407,7 +32407,7 @@
 供認不諱: gòng rèn bú huì
 供設: gòng shè
 供詞: gòng cí
-供讀者蔘考: gōng dú zhě cān kǎo
+供讀者參考: gōng dú zhě cān kǎo
 供課: gòng kè
 供貢: gòng gòng
 供貨: gōng huò
@@ -42337,7 +42337,7 @@
 公廁: gōng cè
 公釐: gōng lí
 公廚: gōng chú
-公蔘: gōng cān
+公參: gōng cān
 公取: gōng qǔ
 公古哩: gōng gǔ lǐ
 公台: gōng tái
@@ -42891,8 +42891,8 @@
 六卿: liù qīng
 六卿分晉: liù qīng fēn jìn
 六歷: liù lì
-六蔘: liù cān
-六蔘官: liù cān guān
+六參: liù cān
+六參官: liù cān guān
 六變: liù biàn
 六號: liù hào
 六司: liù sī
@@ -45389,7 +45389,7 @@
 內原: nèi yuán
 內廚: nèi chú
 內廚房: nèi chú fáng
-內蔘: nèi cān
+內參: nèi cān
 內反: nèi fǎn
 內取: nèi qǔ
 內敍: nèi xù
@@ -47221,7 +47221,7 @@
 冥化: míng huà
 冥升: míng shēng
 冥衞: míng wèi
-冥蔘: míng cān
+冥參: míng cān
 冥召: míng zhào
 冥司: míng sī
 冥合: míng hé
@@ -50999,7 +50999,7 @@
 出廠價: chū chǎng jià
 出廠價格: chū chǎng jià gé
 出去: chū qù
-出蔘: chū cān
+出參: chū cān
 出發: chū fā
 出發點: chū fā diǎn
 出口: chū kǒu
@@ -53471,7 +53471,7 @@
 劉勰: liú xié
 劉盧: liú lú
 劉厚總: liú hòu zǒng
-劉蔘軍: liú cān jūn
+劉參軍: liú cān jūn
 劉向: liú xiàng
 劉四罵人: liú sì mà rén
 劉基: liú jī
@@ -57927,7 +57927,7 @@
 動土: dòng tǔ
 動地: dòng dì
 動地驚天: dòng dì jīng tiān
-動如蔘商: dòng rú cān shāng
+動如參商: dòng rú cān shāng
 動如脱兔: dòng rú tuō tù
 動字: dòng zì
 動定: dòng dìng
@@ -63596,7 +63596,7 @@
 南交: nán jiāo
 南畝: nán mǔ
 南京: nán jīng
-南京臨時蔘議院: nán jīng lín shí cān yì yuàn
+南京臨時參議院: nán jīng lín shí cān yì yuàn
 南京農業大學: nán jīng nóng yè dà xué
 南京大學: nán jīng dà xué
 南京大屠殺: nán jīng dà tú shā
@@ -67131,310 +67131,310 @@
 縣雞: xiàn jī
 縣鶉: xiàn chún
 縣鼓: xiàn gǔ
-蔘一: cān yī
-蔘三: cān sān
-蔘與: cān yù
-蔘與者: cān yù zhě
-蔘兩: cān liǎng
-蔘兩院: cān liǎng yuàn
-蔘麗: cān lì
-蔘乘: cān chéng
-蔘亂: cān luàn
-蔘事: cān shì
-蔘互: cān hù
-蔘五: cān wǔ
-蔘井: cān jǐng
-蔘人: cān rén
-蔘從: cān cóng
-蔘任: cān rèn
-蔘伍: cēn wǔ
-蔘伍錯縱: cān wǔ cuò zòng
-蔘伍錯綜: cēn wǔ cuò zōng
-蔘伐: cān fá
-蔘會: cān huì
-蔘伺: cān sì
-蔘佐: cān zuǒ
-蔘體: cān tǐ
-蔘儷: cān lì
-蔘候: cān hòu
-蔘假: cān jiǎ
-蔘偶: cān ǒu
-蔘僚: cān liáo
-蔘光: cān guāng
-蔘入: cān rù
-蔘共: cān gòng
-蔘典: cān diǎn
-蔘軍: cān jūn
-蔘軍戲: cān jūn xì
-蔘決: cān jué
-蔘列: cān liè
-蔘劑: cān jì
-蔘前倚衡: cān qián yǐ héng
-蔘勸: cān quàn
-蔘辦: cān bàn
-蔘加: cān jiā
-蔘加者: cān jiā zhě
-蔘劾: cān hé
-蔘半: cān bàn
-蔘華: cān huá
-蔘卡爾: cān kǎ ěr
-蔘卿: cān qīng
-蔘廁: cān cè
-蔘蔘: sān sān
-蔘取: cān qǔ
-蔘變: cān biàn
-蔘叩: cān kòu
-蔘合: cān hé
-蔘同: cān tóng
-蔘聽: cān tīng
-蔘告: cān gào
+參一: cān yī
+參三: cān sān
+參與: cān yù
+參與者: cān yù zhě
+參兩: cān liǎng
+參兩院: cān liǎng yuàn
+參麗: cān lì
+參乘: cān chéng
+參亂: cān luàn
+參事: cān shì
+參互: cān hù
+參五: cān wǔ
+參井: cān jǐng
+參人: cān rén
+參從: cān cóng
+參任: cān rèn
+參伍: cēn wǔ
+參伍錯縱: cān wǔ cuò zòng
+參伍錯綜: cēn wǔ cuò zōng
+參伐: cān fá
+參會: cān huì
+參伺: cān sì
+參佐: cān zuǒ
+參體: cān tǐ
+參儷: cān lì
+參候: cān hòu
+參假: cān jiǎ
+參偶: cān ǒu
+參僚: cān liáo
+參光: cān guāng
+參入: cān rù
+參共: cān gòng
+參典: cān diǎn
+參軍: cān jūn
+參軍戲: cān jūn xì
+參決: cān jué
+參列: cān liè
+參劑: cān jì
+參前倚衡: cān qián yǐ héng
+參勸: cān quàn
+參辦: cān bàn
+參加: cān jiā
+參加者: cān jiā zhě
+參劾: cān hé
+參半: cān bàn
+參華: cān huá
+參卡爾: cān kǎ ěr
+參卿: cān qīng
+參廁: cān cè
+參參: sān sān
+參取: cān qǔ
+參變: cān biàn
+參叩: cān kòu
+參合: cān hé
+參同: cān tóng
+參聽: cān tīng
+參告: cān gào
 蔘味: cān wèi
-蔘和: cān hé
-蔘咎: cān jiù
-蔘諮: cān zī
-蔘商: shēn shāng
-蔘商之虞: shēn shāng zhī yú
-蔘回: shēn huí
-蔘回斗轉: shēn huí dǒu zhuǎn
-蔘圖: cān tú
-蔘聖: cān shèng
-蔘場: cān chǎng
-蔘坐: cān zuò
-蔘堂: cān táng
-蔘墟: cān xū
-蔘處: cān chǔ
-蔘天: cān tiān
-蔘天兩地: cān tiān liǎng dì
-蔘天貳地: cān tiān èr dì
-蔘頭: cān tóu
-蔘夷: cān yí
-蔘奉: cān fèng
-蔘奏: cān zòu
-蔘契: cān qì
-蔘孫: cān sūn
-蔘學: cān xué
-蔘官: cān guān
-蔘定: cān dìng
-蔘實: cān shí
-蔘審: cān shěn
-蔘宥: cān yòu
-蔘宿: shēn xiù
-蔘宿七: shēn xiù qī
-蔘察: cān chá
-蔘寥: cān liáo
-蔘寥子: cān liáo zǐ
-蔘寮: cān liáo
-蔘對: cān duì
-蔘尋: cān xún
-蔘將: cān jiāng
-蔘展: cān zhǎn
-蔘左: cān zuǒ
-蔘差: cēn cī
-蔘差不一: cēn cī bù yī
-蔘差不齊: cēn cī bù qí
-蔘差竹: cēn cī zhú
-蔘差錯落: cēn cī cuò luò
-蔘市: cān shì
-蔘幹: cān gàn
-蔘並: cān bìng
-蔘序: cān xù
-蔘度: cān dù
-蔘建: cān jiàn
-蔘彈: cān dàn
-蔘微: cān wēi
-蔘懷: cān huái
-蔘總: cān zǒng
-蔘悟: cān wù
-蔘戎: cān róng
-蔘戰: cān zhàn
-蔘戰軍: cān zhàn jūn
-蔘戰案: cān zhàn àn
-蔘扣: cān kòu
-蔘承: cān chéng
-蔘拍: cān pāi
-蔘拜: cān bài
-蔘擇: cān zé
-蔘撾: cān wō
-蔘據: cān jù
-蔘捶: cān chuí
-蔘掌: cān zhǎng
-蔘提: cān tí
-蔘撤: cān chè
-蔘撰: cān zhuàn
-蔘政: cān zhèng
-蔘政黨: cān zhèng dǎng
-蔘政權: cān zhèng quán
-蔘政議政: cān zhèng yì zhèng
-蔘數: cān shù
-蔘數方程: cān shù fāng chéng
-蔘旗: cān qí
-蔘星: shēn xīng
-蔘昴: cān mǎo
-蔘望: cān wàng
-蔘朝: cān cháo
-蔘本: cān běn
+參和: cān hé
+參咎: cān jiù
+參諮: cān zī
+參商: shēn shāng
+參商之虞: shēn shāng zhī yú
+參回: shēn huí
+參回斗轉: shēn huí dǒu zhuǎn
+參圖: cān tú
+參聖: cān shèng
+參場: cān chǎng
+參坐: cān zuò
+參堂: cān táng
+參墟: cān xū
+參處: cān chǔ
+參天: cān tiān
+參天兩地: cān tiān liǎng dì
+參天貳地: cān tiān èr dì
+參頭: cān tóu
+參夷: cān yí
+參奉: cān fèng
+參奏: cān zòu
+參契: cān qì
+參孫: cān sūn
+參學: cān xué
+參官: cān guān
+參定: cān dìng
+參實: cān shí
+參審: cān shěn
+參宥: cān yòu
+參宿: shēn xiù
+參宿七: shēn xiù qī
+參察: cān chá
+參寥: cān liáo
+參寥子: cān liáo zǐ
+參寮: cān liáo
+參對: cān duì
+參尋: cān xún
+參將: cān jiāng
+參展: cān zhǎn
+參左: cān zuǒ
+參差: cēn cī
+參差不一: cēn cī bù yī
+參差不齊: cēn cī bù qí
+參差竹: cēn cī zhú
+參差錯落: cēn cī cuò luò
+參市: cān shì
+參幹: cān gàn
+參並: cān bìng
+參序: cān xù
+參度: cān dù
+參建: cān jiàn
+參彈: cān dàn
+參微: cān wēi
+參懷: cān huái
+參總: cān zǒng
+參悟: cān wù
+參戎: cān róng
+參戰: cān zhàn
+參戰軍: cān zhàn jūn
+參戰案: cān zhàn àn
+參扣: cān kòu
+參承: cān chéng
+參拍: cān pāi
+參拜: cān bài
+參擇: cān zé
+參撾: cān wō
+參據: cān jù
+參捶: cān chuí
+參掌: cān zhǎng
+參提: cān tí
+參撤: cān chè
+參撰: cān zhuàn
+參政: cān zhèng
+參政黨: cān zhèng dǎng
+參政權: cān zhèng quán
+參政議政: cān zhèng yì zhèng
+參數: cān shù
+參數方程: cān shù fāng chéng
+參旗: cān qí
+參星: shēn xīng
+參昴: cān mǎo
+參望: cān wàng
+參朝: cān cháo
+參本: cān běn
 蔘術: cān shù
-蔘雜: cān zá
-蔘樞: cān shū
-蔘柴: cān chái
-蔘校: cān jiào
-蔘核: cān hé
-蔘檢: cān jiǎn
-蔘榜: cān bǎng
-蔘橫: shēn héng
-蔘橫斗轉: shēn héng dǒu zhuǎn
-蔘款: cān kuǎn
-蔘正: cān zhèng
-蔘畢: cān bì
-蔘求: cān qiú
-蔘治: cān zhì
-蔘注: cān zhù
-蔘涉: cān shè
-蔘漏: cān lòu
-蔘演: cān yǎn
-蔘潭: cān tán
-蔘靈: cān líng
-蔘照: cān zhào
-蔘照物: cān zhào wù
-蔘照系: cān zhào xì
-蔘燮: cān xiè
-蔘牟子: cān móu zǐ
-蔘狼羌: cān láng qiāng
-蔘玄: cān xuán
-蔘玩: cān wán
-蔘用: cān yòng
-蔘畫: cān huà
-蔘疑: cān yí
-蔘直: cān zhí
-蔘省: cān xǐng
-蔘看: cān kàn
-蔘知: cān zhī
-蔘破: cān pò
-蔘禮: cān lǐ
-蔘禪: cān chán
-蔘秉: cān bǐng
-蔘穢: cān huì
-蔘稽: cān jī
-蔘究: cān jiū
-蔘管: cān guǎn
-蔘縒: cān cī
-蔘纂: cān zuǎn
-蔘綜: cān zōng
-蔘綴: cān zhuì
-蔘罰: cān fá
-蔘署: cān shǔ
-蔘考: cān kǎo
-蔘考書: cān kǎo shū
-蔘考文獻: cān kǎo wén xiàn
-蔘考材料: cān kǎo cái liào
-蔘考橢球體: cān kǎo tuǒ qiú tǐ
-蔘考消息: cān kǎo xiāo xī
-蔘考系: cān kǎo xì
-蔘考讀物: cān kǎo dú wù
-蔘考資料: cān kǎo zī liào
-蔘耦: cān ǒu
-蔘股: cān gǔ
-蔘輿: cān yú
-蔘色: cān sè
+參雜: cān zá
+參樞: cān shū
+參柴: cān chái
+參校: cān jiào
+參核: cān hé
+參檢: cān jiǎn
+參榜: cān bǎng
+參橫: shēn héng
+參橫斗轉: shēn héng dǒu zhuǎn
+參款: cān kuǎn
+參正: cān zhèng
+參畢: cān bì
+參求: cān qiú
+參治: cān zhì
+參注: cān zhù
+參涉: cān shè
+參漏: cān lòu
+參演: cān yǎn
+參潭: cān tán
+參靈: cān líng
+參照: cān zhào
+參照物: cān zhào wù
+參照系: cān zhào xì
+參燮: cān xiè
+參牟子: cān móu zǐ
+參狼羌: cān láng qiāng
+參玄: cān xuán
+參玩: cān wán
+參用: cān yòng
+參畫: cān huà
+參疑: cān yí
+參直: cān zhí
+參省: cān xǐng
+參看: cān kàn
+參知: cān zhī
+參破: cān pò
+參禮: cān lǐ
+參禪: cān chán
+參秉: cān bǐng
+參穢: cān huì
+參稽: cān jī
+參究: cān jiū
+參管: cān guǎn
+參縒: cān cī
+參纂: cān zuǎn
+參綜: cān zōng
+參綴: cān zhuì
+參罰: cān fá
+參署: cān shǔ
+參考: cān kǎo
+參考書: cān kǎo shū
+參考文獻: cān kǎo wén xiàn
+參考材料: cān kǎo cái liào
+參考橢球體: cān kǎo tuǒ qiú tǐ
+參考消息: cān kǎo xiāo xī
+參考系: cān kǎo xì
+參考讀物: cān kǎo dú wù
+參考資料: cān kǎo zī liào
+參耦: cān ǒu
+參股: cān gǔ
+參輿: cān yú
+參色: cān sè
 蔘苓: cān líng
 蔘茸: shēn róng
-蔘薯: shēn shǔ
-蔘虎: cān hǔ
-蔘慮: cān lǜ
-蔘虛: cān xū
-蔘衡: cān héng
-蔘表: cān biǎo
-蔘覃: cān qín
-蔘見: cān jiàn
-蔘觀: cān guān
-蔘觀團: cān guān tuán
-蔘覘: cān chān
-蔘覲: cān jìn
-蔘解: cān jiě
-蔘觸: cān chù
-蔘言: cān yán
-蔘計: cān jì
-蔘訂: cān dìng
-蔘討: cān tǎo
-蔘議: cān yì
-蔘議會: cān yì huì
-蔘議員: cān yì yuán
-蔘議院: cān yì yuàn
-蔘講: cān jiǎng
-蔘論: cān lùn
-蔘訪: cān fǎng
-蔘訪團: cān fǎng tuán
-蔘訣: cān jué
-蔘證: cān zhèng
-蔘評: cān píng
-蔘試: cān shì
-蔘詰: cān jié
-蔘詣: cān yì
-蔘詳: cān xiáng
-蔘語: cān yǔ
-蔘請: cān qǐng
-蔘謀: cān móu
-蔘謀總長: cān móu zǒng zhǎng
-蔘謀部: cān móu bù
-蔘謀長: cān móu zhǎng
-蔘謁: cān yè
-蔘諮: cān zī
-蔘謝: cān xiè
-蔘謫: cān zhé
-蔘譚: cān tán
-蔘豫: cān yù
-蔘質: cān zhì
-蔘貫: cān guàn
-蔘貳: cān èr
-蔘賀: cān hè
-蔘賭: cān dǔ
-蔘賽: cān sài
-蔘賽者: cān sài zhě
-蔘贊: cān zàn
-蔘贊大臣: cān zàn dà chén
-蔘蹤: cān zōng
-蔘軌: cān guǐ
-蔘較: cān jiào
-蔘闢: cān pì
-蔘辰: shēn chén
-蔘辰卯酉: shēn chén mǎo yǒu
-蔘辰日月: shēn chén rì yuè
+參薯: shēn shǔ
+參虎: cān hǔ
+參慮: cān lǜ
+參虛: cān xū
+參衡: cān héng
+參表: cān biǎo
+參覃: cān qín
+參見: cān jiàn
+參觀: cān guān
+參觀團: cān guān tuán
+參覘: cān chān
+參覲: cān jìn
+參解: cān jiě
+參觸: cān chù
+參言: cān yán
+參計: cān jì
+參訂: cān dìng
+參討: cān tǎo
+參議: cān yì
+參議會: cān yì huì
+參議員: cān yì yuán
+參議院: cān yì yuàn
+參講: cān jiǎng
+參論: cān lùn
+參訪: cān fǎng
+參訪團: cān fǎng tuán
+參訣: cān jué
+參證: cān zhèng
+參評: cān píng
+參試: cān shì
+參詰: cān jié
+參詣: cān yì
+參詳: cān xiáng
+參語: cān yǔ
+參請: cān qǐng
+參謀: cān móu
+參謀總長: cān móu zǒng zhǎng
+參謀部: cān móu bù
+參謀長: cān móu zhǎng
+參謁: cān yè
+參諮: cān zī
+參謝: cān xiè
+參謫: cān zhé
+參譚: cān tán
+參豫: cān yù
+參質: cān zhì
+參貫: cān guàn
+參貳: cān èr
+參賀: cān hè
+參賭: cān dǔ
+參賽: cān sài
+參賽者: cān sài zhě
+參贊: cān zàn
+參贊大臣: cān zàn dà chén
+參蹤: cān zōng
+參軌: cān guǐ
+參較: cān jiào
+參闢: cān pì
+參辰: shēn chén
+參辰卯酉: shēn chén mǎo yǒu
+參辰日月: shēn chén rì yuè
 蔘連: cān lián
-蔘跡: cān jì
-蔘選: cān xuǎn
-蔘選人: cān xuǎn rén
-蔘選率: cān xuǎn lǜ
-蔘透: cān tòu
-蔘透機關: cān tòu jī guān
-蔘逐: cān zhú
-蔘部: cān bù
-蔘酌: cān zhuó
-蔘配: cān pèi
-蔘野: cān yě
-蔘量: cān liàng
-蔘量空間: cān liàng kōng jiān
-蔘録: cān lù
-蔘錯: cēn cuò
-蔘鏤: cān lòu
-蔘問: cān wèn
-蔘閲: cān yuè
+參跡: cān jì
+參選: cān xuǎn
+參選人: cān xuǎn rén
+參選率: cān xuǎn lǜ
+參透: cān tòu
+參透機關: cān tòu jī guān
+參逐: cān zhú
+參部: cān bù
+參酌: cān zhuó
+參配: cān pèi
+參野: cān yě
+參量: cān liàng
+參量空間: cān liàng kōng jiān
+參録: cān lù
+參錯: cēn cuò
+參鏤: cān lòu
+參問: cān wèn
+參閲: cān yuè
 蔘附: cān fù
-蔘陳: cān chén
-蔘院: cān yuàn
-蔘陪: cān péi
-蔘隨: cān suí
-蔘集: cān jí
-蔘革: cān gé
-蔘預: cān yù
-蔘領: cān lǐng
-蔘題: cān tí
-蔘餉: cān xiǎng
-蔘駁: cān bó
-蔘駕: cān jià
-蔘驗: cān yàn
-蔘騫: cān qiān
+參陳: cān chén
+參院: cān yuàn
+參陪: cān péi
+參隨: cān suí
+參集: cān jí
+參革: cān gé
+參預: cān yù
+參領: cān lǐng
+參題: cān tí
+參餉: cān xiǎng
+參駁: cān bó
+參駕: cān jià
+參驗: cān yàn
+參騫: cān qiān
 蔘雞湯: shēn jī tāng
-蔘齊: cān qí
+參齊: cān qí
 靉靉: ài ài
 靉靆: ài dài
 靉霼: ài xì
@@ -70544,7 +70544,7 @@
 古晉: gǔ jìn
 古月: gǔ yuè
 古月軒: gǔ yuè xuān
-古木蔘天: gǔ mù cān tiān
+古木參天: gǔ mù cān tiān
 古本: gǔ běn
 古樸: gǔ piáo
 古來: gǔ lái
@@ -73794,7 +73794,7 @@
 同卵雙胞胎: tóng luǎn shuāng bāo tāi
 同廁: tóng cè
 同縣: tóng xiàn
-同蔘: tóng cān
+同參: tóng cān
 同叔: tóng shū
 同號: tóng hào
 同合: tóng hé
@@ -81142,13 +81142,13 @@
 商務代表處: shāng wù dài biǎo chǔ
 商務辦事處: shāng wù bàn shì chù
 商務印書館: shāng wù yìn shū guǎn
-商務蔘贊: shāng wù cān zàn
+商務參贊: shāng wù cān zàn
 商務漢語考試: shāng wù hàn yǔ kǎo shì
 商務部: shāng wù bù
 商南: shāng nán
 商南縣: shāng nán xiàn
 商廈: shāng shà
-商蔘: shāng shēn
+商參: shāng shēn
 商受: shāng shòu
 商葉: shāng yè
 商號: shāng hào
@@ -82029,7 +82029,7 @@
 喜形於色: xǐ xíng yú sè
 喜德: xǐ dé
 喜德縣: xǐ dé xiàn
-喜憂蔘半: xǐ yōu cān bàn
+喜憂參半: xǐ yōu cān bàn
 喜怒不形於色: xǐ nù bù xìng yú sè
 喜怒哀樂: xǐ nù āi lè
 喜怒無常: xǐ nù wú cháng
@@ -82931,7 +82931,7 @@
 四廂樂歌: sì xiāng yuè gē
 四縣: sì xiàn
 四縣腔: sì xiàn qiāng
-四蔘: sì cān
+四參: sì cān
 四友: sì yǒu
 四雙八拜: sì shuāng bā bài
 四叔: sì shū
@@ -89214,7 +89214,7 @@
 堂區: táng qū
 堂印: táng yìn
 堂廚: táng chú
-堂蔘: táng cān
+堂參: táng cān
 堂叔: táng shū
 堂口: táng kǒu
 堂號: táng hào
@@ -90260,7 +90260,7 @@
 增重: zēng zhòng
 增重粉: zēng zhòng fěn
 增量: zēng liàng
-增量蔘數: zēng liàng cān shù
+增量參數: zēng liàng cān shù
 增長: zēng zhǎng
 增長主: zēng zhǎng zhǔ
 增長天: zēng zhǎng tiān
@@ -93506,7 +93506,7 @@
 大廝並: dà sī bìng
 大廝把: dà sī bǎ
 大去: dà qù
-大蔘: dà cān
+大參: dà cān
 大發: dà fā
 大發慈悲: dà fā cí bēi
 大發議論: dà fā yì lùn
@@ -98700,7 +98700,7 @@
 奏功: zòu gōng
 奏劾: zòu hé
 奏廁: zòu cè
-奏蔘: zòu cān
+奏參: zòu cān
 奏可: zòu kě
 奏名: zòu míng
 奏呈: zòu chéng
@@ -99567,7 +99567,7 @@
 女嬃: nǚ xū
 女嬖: nǚ bì
 女子: nǚ zǐ
-女子蔘政權: nǚ zǐ cān zhèng quán
+女子參政權: nǚ zǐ cān zhèng quán
 女子國: nǚ zǐ guó
 女子子: nǚ zǐ zǐ
 女子無才便是德: nǚ zǐ wú cái biàn shì dé
@@ -104995,7 +104995,7 @@
 孩乳: hái rǔ
 孩兒: hái er
 孩兒們: hái ér men
-孩兒蔘: hái ér cān
+孩兒參: hái ér cān
 孩兒茶: hái ér chá
 孩兒菊: hái ér jú
 孩名: hái míng
@@ -108084,7 +108084,7 @@
 實力派: shí lì pài
 實務: shí wù
 實効: shí xiào
-實蔘: shí cān
+實參: shí cān
 實受: shí shòu
 實受資本: shí shou zī běn
 實變: shí biàn
@@ -108245,7 +108245,7 @@
 實錘: shí chuí
 實際: shí jì
 實際上: shí jì shàng
-實際蔘數: shí jì cān shù
+實際參數: shí jì cān shù
 實際工資: shí jì gōng zī
 實際應用: shí jì yìng yòng
 實際性: shí jì xìng
@@ -108396,7 +108396,7 @@
 審勘: shěn kān
 審單: shěn dān
 審博: shěn bó
-審蔘: shěn cān
+審參: shěn cān
 審發: shěn fā
 審合: shěn hé
 審名: shěn míng
@@ -114671,7 +114671,7 @@
 小歷: xiǎo lì
 小廝: xiǎo sī
 小廝撲: xiǎo sī pū
-小蔘: xiǎo cān
+小參: xiǎo cān
 小友: xiǎo yǒu
 小雙包: xiǎo shuāng bāo
 小發財: xiǎo fā cái
@@ -115866,7 +115866,7 @@
 少勳: shǎo xūn
 少半: shǎo bàn
 少卿: shǎo qīng
-少蔘: shǎo cān
+少參: shǎo cān
 少友: shǎo yǒu
 少敍: shǎo xù
 少可: shǎo kě
@@ -119649,7 +119649,7 @@
 岐首: qí shǒu
 岐黃: qí huáng
 岐黃家: qí huáng jiā
-岑蔘: cén shēn
+岑參: cén shēn
 岑壑: cén hè
 岑寂: cén jì
 岑岑: cén cén
@@ -122396,7 +122396,7 @@
 差勁: chà jìn
 差勇: chà yǒng
 差佔: chà zhàn
-差蔘: chà cān
+差參: chà cān
 差發: chà fā
 差可: chā kě
 差可告慰: chā kě gào wèi
@@ -124593,8 +124593,8 @@
 常賣: cháng mài
 常賣鋪: cháng mài pù
 常壓: cháng yā
-常蔘: cháng cān
-常蔘官: cháng cān guān
+常參: cháng cān
+常參官: cháng cān guān
 常古: cháng gǔ
 常可: cháng kě
 常名: cháng míng
@@ -128834,7 +128834,7 @@
 庭獸: tíng shòu
 庭決: tíng jué
 庭午: tíng wǔ
-庭蔘: tíng cān
+庭參: tíng cān
 庭右: tíng yòu
 庭唐: tíng táng
 庭園: tíng yuán
@@ -129784,7 +129784,7 @@
 延齡客: yán líng kè
 廷爭: tíng zhēng
 廷爭面折: tíng zhēng miàn zhé
-廷蔘: tíng cān
+廷參: tíng cān
 廷史: tíng shǐ
 廷吏: tíng lì
 廷孔: tíng kǒng
@@ -131145,7 +131145,7 @@
 弄到: nòng dào
 弄到手: nòng dào shǒu
 弄印: nòng yìn
-弄蔘軍: nòng cān jūn
+弄參軍: nòng cān jūn
 弄口: lòng kǒu
 弄口鳴舌: nòng kǒu míng shé
 弄唇吻: nòng chún wěn
@@ -132502,7 +132502,7 @@
 弧菌: hú jūn
 弧辰: hú chén
 弧長: hú cháng
-弧長蔘數: hú cháng cān shù
+弧長參數: hú cháng cān shù
 弧韣: hú dú
 弧騎: hú qí
 弩下逃箭: nǔ xià táo jiàn
@@ -132739,7 +132739,7 @@
 彈包: dàn bāo
 彈匣: dàn xiá
 彈壓: tán yā
-彈蔘: dàn cān
+彈參: dàn cān
 彈唇: dàn chún
 彈唱: tán chàng
 彈回: tán huí
@@ -134003,7 +134003,7 @@
 形同虛設: xíng tóng xū shè
 形同陌路: xíng tóng mò lù
 形名: xíng míng
-形名蔘同: xíng míng cān tóng
+形名參同: xíng míng cān tóng
 形命: xíng mìng
 形響: xíng xiǎng
 形器: xíng qì
@@ -135698,7 +135698,7 @@
 得天: dé tiān
 得天獨厚: dé tiān dú hòu
 得失: dé shī
-得失蔘半: dé shī cān bàn
+得失參半: dé shī cān bàn
 得失在人: dé shī zài rén
 得失成敗: dé shī chéng bài
 得失相半: dé shī xiāng bàn
@@ -140554,9 +140554,9 @@
 總廠: zǒng chǎng
 總歷: zǒng lì
 總壓: zǒng yā
-總蔘: zǒng cān
-總蔘謀部: zǒng cān móu bù
-總蔘謀長: zǒng cān móu zhǎng
+總參: zǒng cān
+總參謀部: zǒng cān móu bù
+總參謀長: zǒng cān móu zhǎng
 總髮: zǒng fā
 總枱: zǒng tái
 總號: zǒng hào
@@ -147560,7 +147560,7 @@
 戲塵: xì chén
 戲幻: xì huàn
 戲弄: xì nòng
-戲弄蔘軍: xì nòng cān jūn
+戲弄參軍: xì nòng cān jūn
 戲弈: xì yì
 戲彩: xì cǎi
 戲綵娛親: xì cǎi yú qīn
@@ -148912,7 +148912,7 @@
 户扉: hù fēi
 户曉: hù xiǎo
 户曹: hù cáo
-户曹蔘軍: hù cáo cān jūn
+户曹參軍: hù cáo cān jūn
 户曹尚書: hù cáo shàng shū
 户樞: hù shū
 户樞不朽: hù shū bù xiǔ
@@ -150341,7 +150341,7 @@
 打印稿: dǎ yìn gǎo
 打印紙: dǎ yìn zhǐ
 打壓: dǎ yā
-打蔘: dǎ cān
+打參: dǎ cān
 打發: dǎ fā
 打發時間: dǎ fā shí jiān
 打疊: dǎ dié
@@ -151676,8 +151676,8 @@
 擴音: kuò yīn
 擴音器: kuò yīn qì
 擴音機: kuò yīn jī
-捫蔘: mén shēn
-捫蔘歷井: mén shēn lì jǐng
+捫參: mén shēn
+捫參歷井: mén shēn lì jǐng
 捫天: mén tiān
 捫循: mén xún
 捫心: mén xīn
@@ -156504,7 +156504,7 @@
 拔和: bá hé
 拔地: bá dì
 拔地倚天: bá dì yǐ tiān
-拔地蔘天: bá dì cān tiān
+拔地參天: bá dì cān tiān
 拔地搖山: bá dì yáo shān
 拔地而起: bá dì ér qǐ
 拔城: bá chéng
@@ -158041,7 +158041,7 @@
 拳擊比賽: quán jī bǐ sài
 拳擊選手: quán jī xuǎn shǒu
 拳勇: quán yǒng
-拳蔘: quán cān
+拳參: quán cān
 拳發: quán fā
 拳壇: quán tán
 拳夫人: quán fū rén
@@ -163025,7 +163025,7 @@
 提包: tí bāo
 提升: tí shēng
 提單: tí dān
-提蔘: tí cān
+提參: tí cān
 提及: tí jí
 提取: tí qǔ
 提台: tí tái
@@ -163477,7 +163477,7 @@
 揭借: jiē jiè
 揭債: jiē zhài
 揭厲: jiē lì
-揭蔘: jiē cān
+揭參: jiē cān
 揭發: jiē fā
 揭地: jiē dì
 揭地掀天: jiē dì xiān tiān
@@ -163537,7 +163537,7 @@
 揭黃: jiē huáng
 揭黑: jiē hēi
 揰挏: chòng dòng
-揱蔘: xiāo cān
+揱參: xiāo cān
 揲揲錘錘: dié dié chuí chuí
 揲蓍: dié shī
 揲蓍草: dié shī cǎo
@@ -166532,7 +166532,7 @@
 放印子: fàng yìn zǐ
 放卻: fàng què
 放去: fàng qù
-放蔘: fàng cān
+放參: fàng cān
 放發: fàng fā
 放口: fàng kǒu
 放古: fàng gǔ
@@ -168239,7 +168239,7 @@
 散卒: sàn zú
 散卓: sàn zhuó
 散卓筆: sàn zhuó bǐ
-散蔘: sàn cān
+散參: sàn cān
 散發: sàn fà
 散發抽簪: sàn fà chōu zān
 散叛: sàn pàn
@@ -168831,7 +168831,7 @@
 數列: shù liè
 數制: shù zhì
 數十億: shù shí yì
-數蔘: shù cān
+數參: shù cān
 數叨: shù dāo
 數週: shù zhōu
 數命: shù mìng
@@ -169422,7 +169422,7 @@
 文化人: wén huà rén
 文化傳統: wén huà chuán tǒng
 文化衝擊: wén huà chōng jī
-文化蔘贊: wén huà cān zàn
+文化參贊: wén huà cān zàn
 文化史: wén huà shǐ
 文化和旅遊部: wén huà hé lǚ yóu bù
 文化圈: wén huà quān
@@ -170646,7 +170646,7 @@
 鬥躔: dòu chán
 斗車: dǒu chē
 斗轉: dǒu zhuǎn
-斗轉蔘橫: dǒu zhuǎn shēn héng
+斗轉參橫: dǒu zhuǎn shēn héng
 斗轉星移: dǒu zhuǎn xīng yí
 鬥辭: dòu cí
 鬥闢: dòu pì
@@ -172969,7 +172969,7 @@
 旁午: bàng wǔ
 旁壓力: páng yā lì
 旁縣: páng xiàn
-旁蔘: páng cān
+旁參: páng cān
 旁及: páng jí
 旁合: páng hé
 旁吏: páng lì
@@ -175325,7 +175325,7 @@
 日南郡: rì nán jùn
 日曆: rì lì
 日曆表: rì lì biǎo
-日蔘: rì cān
+日參: rì cān
 日及: rì jí
 日後: rì hòu
 日君: rì jūn
@@ -175466,7 +175466,7 @@
 日月交食: rì yuè jiāo shí
 日月入懷: rì yuè rù huái
 日月其除: rì yuè qí chú
-日月蔘辰: rì yuè shēn chén
+日月參辰: rì yuè shēn chén
 日月合壁: rì yuè hé bì
 日月合璧: rì yuè hé bì
 日月如梭: rì yuè rú suō
@@ -175977,7 +175977,7 @@
 早前: zǎo qián
 早勃: zǎo bó
 早占勿藥: zǎo zhān wù yào
-早蔘: zǎo cān
+早參: zǎo cān
 早發白帝城: zǎo fā bái dì chéng
 早在: zǎo zài
 早場: zǎo chǎng
@@ -180072,8 +180072,8 @@
 晨興夜寐: chén xīng yè mèi
 晨鳧: chén fú
 晨勃: chén bó
-晨蔘暮省: chén cān mù shěng
-晨蔘暮禮: chén cān mù lǐ
+晨參暮省: chén cān mù shěng
+晨參暮禮: chén cān mù lǐ
 晨發: chén fā
 晨唱: chén chàng
 晨夕: chén xī
@@ -181458,7 +181458,7 @@
 暮砧: mù zhēn
 暮碧: mù bì
 暮磬: mù qìng
-暮禮晨蔘: mù lǐ chén cān
+暮禮晨參: mù lǐ chén cān
 暮禽: mù qín
 暮秋: mù qiū
 暮程: mù chéng
@@ -182516,7 +182516,7 @@
 曹剛川: cáo gāng chuān
 曹務: cáo wù
 曹縣: cáo xiàn
-曹蔘: cáo cān
+曹參: cáo cān
 曹司: cáo sī
 曹吏: cáo lì
 曹國舅: cáo guó jiù
@@ -182640,8 +182640,8 @@
 曾幾何時: céng jǐ hé shí
 曾加: zēng jiā
 曾華: zēng huá
-曾蔘: zēng shēn
-曾蔘殺人: zēng shēn shā rén
+曾參: zēng shēn
+曾參殺人: zēng shēn shā rén
 曾史: zēng shǐ
 曾國荃: zēng guó quán
 曾國藩: zēng guó fān
@@ -183055,7 +183055,7 @@
 月氣: yuè qì
 月水: yuè shuǐ
 月池: yuè chí
-月沒蔘橫: yuè mò shēn héng
+月沒參橫: yuè mò shēn héng
 月河: yuè hé
 月波: yuè bō
 月波樓: yuè bō lóu
@@ -183138,7 +183138,7 @@
 月苗苗: yuè miáo miáo
 月莢: yuè jiá
 月落烏啼: yuè luò wū tí
-月落蔘橫: yuè luò shēn héng
+月落參橫: yuè luò shēn héng
 月落星沈: yuè luò xīng shěn
 月落星沉: yuè luò xīng chén
 月蓂: yuè mì
@@ -183625,7 +183625,7 @@
 有權勢者: yǒu quán shì zhě
 有權威: yǒu quán wēi
 有條不紊: yǒu tiáo bù wěn
-有條件地蔘與: yǒu tiáo jiàn de cān yù
+有條件地參與: yǒu tiáo jiàn de cān yù
 有條件地投降: yǒu tiáo jiàn de tóu xiáng
 有條有理: yǒu tiáo yǒu lǐ
 有條紋: yǒu tiáo wén
@@ -184185,7 +184185,7 @@
 朔光: shuò guāng
 朔黨: shuò dǎng
 朔北: shuò běi
-朔蔘官: shuò cān guān
+朔參官: shuò cān guān
 朔吹: shuò chuī
 朔土: shuò tǔ
 朔垂: shuò chuí
@@ -184355,8 +184355,8 @@
 望其項背: wàng qí xiàng bèi
 望養: wàng yǎng
 望前: wàng qián
-望蔘: wàng cān
-望蔘官: wàng cān guān
+望參: wàng cān
+望參官: wàng cān guān
 望古遙集: wàng gǔ yáo jí
 望台: wàng tái
 望後: wàng hòu
@@ -184605,7 +184605,7 @@
 朝升暮合: zhāo shēng mù gě
 朝華: cháo huá
 朝華夕秀: zhāo huá xī xiù
-朝蔘: zhāo cān
+朝參: zhāo cān
 朝發夕至: zhāo fā xī zhì
 朝發暮至: zhāo fā mù zhì
 朝台: cháo tái
@@ -188123,7 +188123,7 @@
 杏仁茶: xìng rén chá
 杏仁豆腐: xìng rén dòu fu
 杏仁餅: xìng rén bǐng
-杏蔘: xìng cān
+杏參: xìng cān
 杏葉沙蔘: xìng yè shā shēn
 杏葉草: xìng yè cǎo
 杏葉薓: xìng yè shēn
@@ -193034,7 +193034,7 @@
 查加斯病: chá jiā sī bìng
 查勘: chá kān
 查勤: chá qín
-查蔘: zhā cān
+查參: zhā cān
 查發: zhā fā
 查號台: chá hào tái
 查哇: zhā wā
@@ -193711,7 +193711,7 @@
 標華: biāo huá
 標賣: biāo mài
 標占: biāo zhàn
-標蔘: biāo cān
+標參: biāo cān
 標叉: biāo chā
 標取: biāo qǔ
 標句: biāo jù
@@ -196616,7 +196616,7 @@
 梅花仙: méi huā xiān
 梅花使: méi huā shǐ
 梅花信: méi huā xìn
-梅花蔘: méi huā cān
+梅花參: méi huā cān
 梅花疊: méi huā dié
 梅花句: méi huā jù
 梅花坑: méi huā kēng
@@ -200658,7 +200658,7 @@
 正切: zhèng qiē
 正刑: zhèng xíng
 正則: zhèng zé
-正則蔘數: zhèng zé cān shù
+正則參數: zhèng zé cān shù
 正則表達式: zhèng zé biǎo dá shì
 正初: zhèng chū
 正利: zhèng lì
@@ -202941,7 +202941,7 @@
 毀訿: huǐ zī
 譭譽: huǐ yù
 譭譽不一: huǐ yù bù yī
-譭譽蔘半: huǐ yù cān bàn
+譭譽參半: huǐ yù cān bàn
 毀讟: huǐ dú
 毀訕: huǐ shàn
 毀證: huǐ zhèng
@@ -203201,7 +203201,7 @@
 毒化: dú huà
 毒卉: dú huì
 毒厲: dú lì
-毒蔘: dú shēn
+毒參: dú shēn
 毒口: dú kǒu
 毒味: dú wèi
 毒品: dú pǐn
@@ -207361,7 +207361,7 @@
 湯原縣: tāng yuán xiàn
 湯廚: tāng chú
 湯去三面: tāng qù sān miàn
-湯蔘: tāng cān
+湯參: tāng cān
 湯器: tāng qì
 湯糰: tāng tuán
 湯圓: tāng yuán
@@ -220615,7 +220615,7 @@
 漁陽: yú yáng
 漁陽三疊: yú yáng sān dié
 漁陽三弄: yú yáng sān nòng
-漁陽蔘撾: yú yáng cān zhuā
+漁陽參撾: yú yáng cān zhuā
 漁陽摻: yú yáng càn
 漁陽摻撾: yú yáng càn zhuā
 漁陽操: yú yáng cāo
@@ -235343,7 +235343,7 @@
 玉卿: yù qīng
 玉曆: yù lì
 玉廂: yù xiāng
-玉蔘差: yù cēn cī
+玉參差: yù cēn cī
 玉友: yù yǒu
 玉友金昆: yù yǒu jīn kūn
 玉變: yù biàn
@@ -244447,13 +244447,13 @@
 疑人勿用: yí rén wù yòng
 疑似: yí sì
 疑似之間: yí sì zhī jiān
-疑信蔘半: yí xìn cān bàn
+疑信參半: yí xìn cān bàn
 疑兵: yí bīng
 疑軍: yí jūn
 疑冢: yí zhǒng
 疑冰: yí bīng
 疑兇: yí xiōng
-疑蔘: yí cān
+疑參: yí cān
 疑否: yí fǒu
 疑團: yí tuán
 疑團滿腹: yí tuán mǎn fù
@@ -251718,7 +251718,7 @@
 相去懸殊: xiāng qù xuán shū
 相去無幾: xiāng qù wú jǐ
 相縣: xiāng xiàn
-相蔘: xiāng cān
+相參: xiāng cān
 相叅: xiāng cān
 相及: xiāng jí
 相友: xiāng yǒu
@@ -254169,7 +254169,7 @@
 督勵: dū lì
 督厲: dū lì
 督壓: dū yā
-督蔘: dū cān
+督參: dū cān
 督聽: dū tīng
 督學: dū xué
 督學使者: dū xué shǐ zhě
@@ -262429,7 +262429,7 @@
 離即: lí jí
 離卻: lí què
 離去: lí qù
-離蔘: lí cān
+離參: lí cān
 離叛: lí pàn
 離合: lí hé
 離合器: lí hé qì
@@ -264098,7 +264098,7 @@
 科協: kē xié
 科賣: kē mài
 科卿: kē qīng
-科蔘: kē cān
+科參: kē cān
 科發: kē fā
 科取: kē qǔ
 科右中旗: kē yòu zhōng qí
@@ -266569,7 +266569,7 @@
 稽伏: jī fú
 稽停: jī tíng
 稽壓: jī yā
-稽蔘: jī cān
+稽參: jī cān
 稽古: jī gǔ
 稽古振今: jī gǔ zhèn jīn
 稽古揆今: jī gǔ kuí jīn
@@ -273068,7 +273068,7 @@
 箸鞭: zhù biān
 箻筒: lǜ tǒng
 箾槮: xiāo sēn
-箾蔘: xiāo shēn
+箾參: xiāo shēn
 箾韶: xiāo sháo
 篁山: huáng shān
 篁徑: huáng jìng
@@ -276752,7 +276752,7 @@
 糾剔: jiū tī
 糾劾: jiū hé
 糾勒: jiū lè
-糾蔘: jiū cān
+糾參: jiū cān
 糾發: jiū fā
 糾合: jiū hé
 糾合之眾: jiū hé zhī zhòng
@@ -277690,7 +277690,7 @@
 約翰二書: yuē hàn èr shū
 約翰保羅: yuē hàn bǎo luó
 約翰內斯堡: yuē hàn nèi sī bǎo
-約翰蔘書: yuē hàn cān shū
+約翰參書: yuē hàn cān shū
 約翰壹書: yuē hàn yī shū
 約翰斯頓: yuē hàn sī dùn
 約翰牛: yuē hàn niú
@@ -284440,7 +284440,7 @@
 美國佬: měi guó lǎo
 美國全國廣播公司: měi guó quán guó guǎng bō gōng sī
 美國軍人: měi guó jūn rén
-美國蔘議院: měi guó cān yì yuàn
+美國參議院: měi guó cān yì yuàn
 美國國會: měi guó guó huì
 美國國務院: měi guó guó wù yuàn
 美國國家偵察局: měi guó guó jiā zhēn chá jú
@@ -286390,7 +286390,7 @@
 老賣: lǎo mài
 老厭物: lǎo yàn wù
 老去: lǎo qù
-老蔘: lǎo cān
+老參: lǎo cān
 老友: lǎo yǒu
 老叔: lǎo shū
 老叟: lǎo sǒu
@@ -287736,7 +287736,7 @@
 耳剽: ěr piāo
 耳力: ěr lì
 耳卜: ěr bǔ
-耳蔘漏: ěr cān lòu
+耳參漏: ěr cān lòu
 耳發: ěr fa
 耳受: ěr shòu
 耳號: ěr hào
@@ -291371,7 +291371,7 @@
 能動: néng dòng
 能動性: néng dòng xìng
 能勾: néng gōu
-能蔘: néng cān
+能參: néng cān
 能可: néng kě
 能名: néng míng
 能吏: néng lì
@@ -302315,7 +302315,7 @@
 萱闈: xuān wéi
 萴子: cè zǐ
 萷槮: xiāo sēn
-萷蔘: xiāo shēn
+萷參: xiāo shēn
 萸囊: yú náng
 萸尊: yú zūn
 萸房: yú fáng
@@ -308543,7 +308543,7 @@
 行厚: xíng hòu
 行廚: xíng chú
 行縣: xíng xiàn
-行蔘: xíng cān
+行參: xíng cān
 行雙禮: xíng shuāng lǐ
 行取: xíng qǔ
 行古: xíng gǔ
@@ -309469,7 +309469,7 @@
 衙內鑽: yá nèi zuàn
 衙前: yá qián
 衙前樂: yá qián lè
-衙蔘: yá cān
+衙參: yá cān
 衙吏: yá lì
 衙喏: yá nuò
 衙堂: yá táng
@@ -315524,7 +315524,7 @@
 計勳行賞: jì xūn xíng shǎng
 計勘: jì kān
 計歷: jì lì
-計蔘: jì cān
+計參: jì cān
 計取: jì qǔ
 計口: jì kǒu
 計台: jì tái
@@ -315979,7 +315979,7 @@
 訐決: jié jué
 訐切: jié qiē
 訐制: jié zhì
-訐蔘: jié cān
+訐參: jié cān
 訐發: jié fā
 訐告: jié gào
 訐奪: jié duó
@@ -320684,7 +320684,7 @@
 詳到: xiáng dào
 詳華: xiáng huá
 詳博: xiáng bó
-詳蔘: xiáng cān
+詳參: xiáng cān
 詳反: xiáng fǎn
 詳味: xiáng wèi
 詳和: xiáng hé
@@ -321543,7 +321543,7 @@
 説千説萬: shuō qiān shuō wàn
 説千道萬: shuō qiān dào wàn
 説衞: shuō wèi
-説蔘請: shuō cān qǐng
+説參請: shuō cān qǐng
 説發: shuō fā
 説口: shuō kǒu
 説口嘴: shuō kǒu zuǐ
@@ -322712,7 +322712,7 @@
 調相: tiáo xiàng
 調省: diào shěng
 調眼色: diào yǎn sè
-調睡蔘軍: diào shuì cān jūn
+調睡參軍: diào shuì cān jūn
 調研: diào yán
 調研人員: tiáo yán rén yuán
 調研員: diào yán yuán
@@ -323706,7 +323706,7 @@
 諮事: zī shì
 諮決: zī jué
 諮印: zī yìn
-諮蔘: zī cān
+諮參: zī cān
 諮受: zī shòu
 諮呈官: zī chéng guān
 諮商: zī shāng
@@ -324016,7 +324016,7 @@
 謝紙: xiè zhǐ
 謝練: xiè liàn
 謝絕: xiè jué
-謝絕蔘觀: xiè jué cān guān
+謝絕參觀: xiè jué cān guān
 謝羅山: xiè luó shān
 謝罪: xiè zuì
 謝老: xiè lǎo
@@ -325778,7 +325778,7 @@
 豫劇: yù jù
 豫力: yù lì
 豫卜: yù bǔ
-豫蔘: yù cān
+豫參: yù cān
 豫吊: yù diào
 豫告: yù gào
 豫和: yù hé
@@ -326005,7 +326005,7 @@
 貂冕: diāo miǎn
 貂冠: diāo guān
 貂卻: diāo què
-貂蔘: diāo cān
+貂參: diāo cān
 貂寺: diāo sì
 貂尾: diāo wěi
 貂尾扇: diāo wěi shàn
@@ -331931,7 +331931,7 @@
 赤歷歷: chì lì lì
 赤縣: chì xiàn
 赤縣神州: chì xiàn shén zhōu
-赤蔘: chì cān
+赤參: chì cān
 赤口: chì kǒu
 赤口日: chì kǒu rì
 赤口毒舌: chì kǒu dú shé
@@ -334215,7 +334215,7 @@
 趨勢: qū shì
 趨化作用: qū huà zuò yòng
 趨廝: qū sī
-趨蔘: qū cān
+趨參: qū cān
 趨發: qū fā
 趨合: qū hé
 趨吉避凶: qū jí bì xiōng
@@ -335367,7 +335367,7 @@
 跪乳: guì rǔ
 跪伏: guì fú
 跪倒: guì dǎo
-跪蔘: guì cān
+跪參: guì cān
 跪叩: guì kòu
 跪土地: guì tǔ dì
 跪地求饒: guì dì qiú ráo
@@ -341568,7 +341568,7 @@
 辰光: chén guāng
 辰刻: chén kè
 辰勾: chén gōu
-辰蔘: chén cān
+辰參: chén cān
 辰告: chén gào
 辰地: chén dì
 辰堠: chén hòu
@@ -344538,7 +344538,7 @@
 進卷: jìn juàn
 進歷: jìn lì
 進去: jìn qù
-進蔘: jìn cān
+進參: jìn cān
 進發: jìn fā
 進取: jìn qǔ
 進取心: jìn qǔ xīn
@@ -347177,7 +347177,7 @@
 追北: zhuī běi
 追匹: zhuī pǐ
 追原: zhuī yuán
-追蔘: zhuī cān
+追參: zhuī cān
 追取: zhuī qǔ
 追敍: zhuī xù
 追召: zhuī zhào
@@ -348570,7 +348570,7 @@
 選歌試舞: xuǎn gē shì wǔ
 選段: xuǎn duàn
 選民: xuǎn mín
-選民蔘加率: xuǎn mín cān jiā lǜ
+選民參加率: xuǎn mín cān jiā lǜ
 選民登記: xuǎn mín dēng jì
 選民證: xuǎn mín zhèng
 選求: xuǎn qiú
@@ -349348,7 +349348,7 @@
 通厚: tōng hòu
 通廝腳兒: tōng sī jué ér
 通縣: tōng xiàn
-通蔘: tōng cān
+通參: tōng cān
 通變: tōng biàn
 通變達權: tōng biàn dá quán
 通叚: tōng jiǎ
@@ -356596,7 +356596,7 @@
 酌加: zhuó jiā
 酌取: zhuó qǔ
 酌古準今: zhuó gǔ zhǔn jīn
-酌古蔘今: zhuó gǔ cān jīn
+酌古參今: zhuó gǔ cān jīn
 酌古御今: zhuó gǔ yù jīn
 酌古斟今: zhuó gǔ zhēn jīn
 酌古沿今: zhuó gǔ yán jīn
@@ -365550,7 +365550,7 @@
 錯莫: cuò mò
 錯落: cuò luò
 錯落不齊: cuò luò bù qí
-錯落蔘差: cuò luò cān chà
+錯落參差: cuò luò cān chà
 錯落有致: cuò luò yǒu zhì
 錯落高下: cuò luò gāo xià
 錯薪: cuò xīn
@@ -369001,7 +369001,7 @@
 閔凶: mǐn xiōng
 閔勞: mǐn láo
 閔勉: mǐn miǎn
-閔蔘: mǐn cān
+閔參: mǐn cān
 閔嘿: mǐn hēi
 閔天: mǐn tiān
 閔子: mǐn zǐ
@@ -381572,7 +381572,7 @@
 面牆而立: miàn qiáng ér lì
 面壁: miàn bì
 面壁功深: miàn bì gōng shēn
-面壁蔘: miàn bì cān
+面壁參: miàn bì cān
 面壁思過: miàn bì sī guò
 面壁磨磚: miàn bì mó zhuān
 面夷: miàn yí
@@ -383793,7 +383793,7 @@
 須丸: xū wán
 須些: xū xiē
 須卜: xū bǔ
-須蔘: xū cān
+須參: xū cān
 鬚髮: xū fà
 鬚髮皆白: xū fà jiē bái
 須句: xū jù
@@ -384540,7 +384540,7 @@
 預佔: yù zhàn
 預印: yù yìn
 預壓: yù yā
-預蔘: yù cān
+預參: yù cān
 預及: yù jí
 預後: yù hòu
 預告: yù gào
@@ -385281,7 +385281,7 @@
 題劍: tí jiàn
 題劒: tí jiàn
 題升: tí shēng
-題蔘: tí cān
+題參: tí cān
 題叅: tí cān
 題敍: tí xù
 題句: tí jù
@@ -388671,7 +388671,7 @@
 飽以老拳: bǎo yǐ lǎo quán
 飽佚: bǎo yì
 飽卿: bǎo qīng
-飽蔘: bǎo cān
+飽參: bǎo cān
 飽受: bǎo shòu
 飽含: bǎo hán
 飽呃: bǎo e
@@ -389252,7 +389252,7 @@
 首卷: shǒu juàn
 首原: shǒu yuán
 首縣: shǒu xiàn
-首蔘: shǒu cān
+首參: shǒu cān
 首發: shǒu fā
 首發式: shǒu fā shì
 首台: shǒu tái
@@ -393775,7 +393775,7 @@
 高原巖鷚: gāo yuán yán liù
 高原期: gāo yuán qī
 高縣: gāo xiàn
-高蔘: gāo cān
+高參: gāo cān
 高叉泳裝: gāo chā yǒng zhuāng
 高反: gāo fǎn
 高發: gāo fā
@@ -394766,8 +394766,8 @@
 髯主簿: rán zhǔ bù
 髯麗: rán lì
 髯公: rán gōng
-髯蔘: rán cān
-髯蔘軍: rán cān jūn
+髯參: rán cān
+髯參軍: rán cān jūn
 髯叟: rán sǒu
 髯口: rán kou
 髯士: rán shì
@@ -394786,7 +394786,7 @@
 髯閹: rán yān
 髯須: rán xū
 髯須主簿: rán xū zhǔ bù
-髯須蔘軍: rán xū cān jūn
+髯須參軍: rán xū cān jūn
 髯髯: rán rán
 髯鬢: rán bìn
 髯鬣: rán liè
@@ -395150,7 +395150,7 @@
 鬼卿: guǐ qīng
 鬼壓牀: guǐ yā chuáng
 鬼壓身: guǐ yā shēn
-鬼蔘: guǐ cān
+鬼參: guǐ cān
 鬼叫: guǐ jiào
 鬼號: guǐ hào
 鬼各哥: guǐ gè gē
@@ -396030,7 +396030,7 @@
 魚夫: yú fū
 魚頭: yú tóu
 魚頭公: yú tóu gōng
-魚頭蔘政: yú tóu cān zhèng
+魚頭參政: yú tóu cān zhèng
 魚契: yú qì
 魚姊: yú zǐ
 魚娃: yú wá
@@ -396690,7 +396690,7 @@
 鮒魚: fù yú
 鮊鮮: bà xiān
 鮑人: bào rén
-鮑蔘軍: bào cān jūn
+鮑參軍: bào cān jūn
 鮑叔: bào shū
 鮑嘉: bào jiā
 鮑夕陽: bào xī yáng
@@ -401506,7 +401506,7 @@
 黃原: huáng yuán
 黃原膠: huáng yuán jiāo
 黃原酸鹽: huáng yuán suān yán
-黃蔘: huáng cān
+黃參: huáng cān
 黃髮: huáng fà
 黃髮兒齒: huáng fà ér chǐ
 黃髮台背: huáng fā tái bèi
@@ -402805,7 +402805,7 @@
 黑歷: hēi lì
 黑壓壓: hēi yā yā
 黑廝: hēi sī
-黑蔘: hēi cān
+黑參: hēi cān
 黑叉尾海燕: hēi chā wěi hǎi yàn
 黑髮: hēi fā
 黑口: hēi kǒu
@@ -403934,7 +403934,7 @@
 鼂採: zhāo cǎi
 鼉仙: tuó xiān
 鼉作: tuó zuò
-鼉蔘黿史: tuó cān yuán shǐ
+鼉參黿史: tuó cān yuán shǐ
 鼉吟: tuó yín
 鼉吼: tuó hǒu
 鼉聲: tuó shēng

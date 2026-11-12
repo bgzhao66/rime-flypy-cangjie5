@@ -8952,7 +8952,7 @@
 內臟	nei zang	409
 內資	nei zi	171
 內存	nei cun	8610
-內蔘	nei can	127
+內參	nei can	127
 內側	nei ce	389
 內測	nei ce	655
 那次	nei ci	1083
@@ -28516,13 +28516,13 @@
 財物	cai wu	546
 財務	cai wu	5355
 慘白	can bai	166
-蔘拜	can bai	240
+參拜	can bai	240
 慘敗	can bai	276
 殘暴	can bao	239
-蔘保	can bao	571
-蔘評	can ping	160
+參保	can bao	571
+參評	can ping	160
 殘破	can po	112
-蔘謀	can mou	457
+參謀	can mou	457
 餐費	can fei	215
 殘廢	can fei	265
 慘淡	can dan	286
@@ -28534,47 +28534,47 @@
 慘烈	can lie	420
 殘留	can liu	724
 餐館	can guan	1254
-蔘觀	can guan	3118
-蔘股	can gu	813
-蔘看	can kan	245
-蔘考	can kao	8010
+參觀	can guan	3118
+參股	can gu	813
+參看	can kan	245
+參考	can kao	8010
 殘酷	can ku	1882
 慚愧	can kui	887
 殘害	can hai	160
 殘骸	can hai	171
-蔘合	can he	125
+參合	can he	125
 餐後	can hou	115
-蔘會	can hui	525
-蔘軍	can jun	242
+參會	can hui	525
+參軍	can jun	242
 殘疾	can ji	732
-蔘加	can jia	23246
-蔘見	can jian	811
+參加	can jia	23246
+參見	can jian	811
 慘叫	can jiao	234
 慘劇	can ju	204
 餐具	can ju	373
 殘缺	can que	287
-蔘選	can xuan	329
+參選	can xuan	329
 殘渣	can zha	120
-蔘戰	can zhan	243
-蔘展	can zhan	962
-蔘照	can zhao	1744
-蔘政	can zheng	111
+參戰	can zhan	243
+參展	can zhan	962
+參照	can zhao	1744
+參政	can zheng	111
 慘重	can zhong	435
 餐桌	can zhuo	587
 殘殺	can sha	120
 蠶食	can shi	141
-蔘數	can shu	6949
+參數	can shu	6949
 殘忍	can ren	1285
 慘遭	can zao	350
 殘存	can cun	181
-蔘賽	can sai	1643
+參賽	can sai	1643
 慘死	can si	151
-蔘閲	can yue	212
-蔘演	can yan	190
+參閲	can yue	212
+參演	can yan	190
 殘陽	can yang	109
 餐飲	can yin	1232
 殘餘	can yu	238
-蔘與	can yu	13485
+參與	can yu	13485
 慘案	can an	201
 蒼白	cang bai	1042
 藏寶	cang bao	129
@@ -28661,7 +28661,7 @@
 測速	ce su	181
 廁所	ce suo	3356
 測驗	ce yan	396
-蔘差	cen ci	121
+參差	cen ci	121
 曾被	ceng bei	524
 層面	ceng mian	2787
 曾對	ceng dui	243
@@ -36104,7 +36104,7 @@
 來這裏	lai zhe li	1107
 賴昌星	lai chang xing	129
 來實現	lai shi xian	837
-來蔘加	lai can jia	290
+來參加	lai can jia	290
 來源於	lai yuan yu	1128
 來月經	lai yue jing	155
 來完成	lai wan cheng	516
@@ -38036,8 +38036,8 @@
 請遵守	qing zun shou	184
 請在此	qing zai ci	128
 請自行	qing zi xing	332
-請蔘考	qing can kao	233
-請蔘閲	qing can yue	162
+請參考	qing can kao	233
+請參閲	qing can yue	162
 清一色	qing yi se	243
 輕音樂	qing yin yue	131
 請與我	qing yu wo	106
@@ -40210,18 +40210,18 @@
 才算是	cai suan shi	151
 蔡依林	cai yi lin	603
 財務部	cai wu bu	441
-蔘謀長	can mou zhang	297
+參謀長	can mou zhang	297
 殘留物	can liu wu	215
-蔘觀者	can guan zhe	202
-蔘考書	can kao shu	196
+參觀者	can guan zhe	202
+參考書	can kao shu	196
 殘疾人	can ji ren	1232
-蔘加者	can jia zhe	160
-蔘展商	can zhan shang	208
-蔘賽者	can sai zhe	225
-蔘議員	can yi yuan	194
-蔘議院	can yi yuan	209
+參加者	can jia zhe	160
+參展商	can zhan shang	208
+參賽者	can sai zhe	225
+參議員	can yi yuan	194
+參議院	can yi yuan	209
 餐飲業	can yin ye	318
-蔘與者	can yu zhe	702
+參與者	can yu zhe	702
 殘奧會	can ao hui	264
 藏起來	cang qi lai	190
 操盤手	cao pan shou	335
@@ -41474,7 +41474,7 @@
 榜上有名	bang shang you ming	129
 報名時間	bao ming shi jian	131
 報名人數	bao ming ren shu	110
-報名蔘加	bao ming can jia	356
+報名參加	bao ming can jia	356
 暴風影音	bao feng ying yin	372
 保費收入	bao fei shou ru	107
 寶鋼股份	bao gang gu fen	130
@@ -43369,7 +43369,7 @@
 工薪階層	gong xin jie ceng	171
 公職人員	gong zhi ren yuan	114
 公眾人物	gong zhong ren wu	160
-公眾蔘與	gong zhong can yu	115
+公眾參與	gong zhong can yu	115
 共產黨人	gong chan dang ren	186
 共產黨員	gong chan dang yuan	587
 共產主義	gong chan zhu yi	739
@@ -44092,8 +44092,8 @@
 嘰嘰喳喳	ji ji zha zha	111
 積極主動	ji ji zhu dong	276
 積極作用	ji ji zuo yong	332
-積極蔘加	ji ji can jia	247
-積極蔘與	ji ji can yu	736
+積極參加	ji ji can jia	247
+積極參與	ji ji can yu	736
 積極意義	ji ji yi yi	123
 紀檢監察	ji jian jian cha	225
 即將到來	ji jiang dao lai	362
@@ -44163,7 +44163,7 @@
 技術人才	ji shu ren cai	149
 技術人員	ji shu ren yuan	1019
 技術資料	ji shu zi liao	132
-技術蔘數	ji shu can shu	124
+技術參數	ji shu can shu	124
 技術研發	ji shu yan fa	176
 技術研究	ji shu yan jiu	350
 技術要求	ji shu yao qiu	200
@@ -44380,7 +44380,7 @@
 儘量避免	jin liang bi mian	334
 緊鑼密鼓	jin luo mi gu	211
 儘管如此	jin guan ru ci	225
-僅供蔘考	jin gong can kao	786
+僅供參考	jin gong can kao	786
 緊急通知	jin ji tong zhi	222
 近幾年來	jin ji nian lai	283
 緊急情況	jin ji qing kuang	174
@@ -46948,16 +46948,16 @@
 財務人員	cai wu ren yuan	115
 財務總監	cai wu zong jian	135
 慘不忍睹	can bu ren du	310
-蔘考價格	can kao jia ge	115
-蔘考資料	can kao zi liao	167
-蔘考文獻	can kao wen xian	237
-蔘加高考	can jia gao kao	148
-蔘加工作	can jia gong zuo	263
-蔘加活動	can jia huo dong	413
-蔘加會議	can jia hui yi	239
-蔘展企業	can zhan qi ye	106
-蔘政議政	can zheng yi zheng	150
-蔘賽選手	can sai xuan shou	185
+參考價格	can kao jia ge	115
+參考資料	can kao zi liao	167
+參考文獻	can kao wen xian	237
+參加高考	can jia gao kao	148
+參加工作	can jia gong zuo	263
+參加活動	can jia huo dong	413
+參加會議	can jia hui yi	239
+參展企業	can zhan qi ye	106
+參政議政	can zheng yi zheng	150
+參賽選手	can sai xuan shou	185
 餐飲企業	can yin qi ye	108
 操作方法	cao zuo fang fa	162
 操作方式	cao zuo fang shi	133
@@ -46969,7 +46969,7 @@
 操作人員	cao zuo ren yuan	153
 測試結果	ce shi jie guo	214
 測試用例	ce shi yong li	107
-蔘差不齊	cen ci bu qi	201
+參差不齊	cen ci bu qi	201
 曾幾何時	ceng ji he shi	131
 曾經説過	ceng jing shuo guo	296
 曾經擁有	ceng jing yong you	140
@@ -53407,7 +53407,7 @@
 可能危害	ke neng wei hai	1
 可以忽視	ke yi hu shi	1
 夨	ze	1
-副蔘謀長	fu can mou zhang	1
+副參謀長	fu can mou zhang	1
 開發產品	kai fa chan pin	1
 可以説是	ke yi shuo shi	1
 可以證明	ke yi zheng ming	1
@@ -54414,7 +54414,7 @@
 工藝學	gong yi xue	1
 工薪階層	gong xin jie ceng	1
 堪	kan	1
-貢獻蔘與	gong xian can yu	1
+貢獻參與	gong xian can yu	1
 堞	die	1
 牆線	qiang xian	1
 塔台	ta tai	1
@@ -57123,7 +57123,7 @@
 增收	zeng shou	1
 牆紙	qiang zhi	1
 增塑劑	zeng su ji	1
-喜憂蔘半	xi you can ban	1
+喜憂參半	xi you can ban	1
 增發	zeng fa	1
 夾縫	jia feng	1
 超前發展	chao qian fa zhan	1
@@ -58051,7 +58051,7 @@
 超限	chao xian	1
 都已	dou yi	1
 功績	gong ji	1
-教蔘	jiao can	1
+教參	jiao can	1
 教練	jiao lian	1
 增加出口	zeng jia chu kou	1
 超收	chao shou	1
@@ -64524,7 +64524,7 @@
 攜	xie	1
 推力	tui li	1
 推及	tui ji	1
-提供蔘考	ti gong can kao	1
+提供參考	ti gong can kao	1
 提供線索	ti gong xian suo	1
 搜繳	sou jiao	1
 才華出眾	cai hua chu zhong	1
@@ -65554,7 +65554,7 @@
 批發	pi fa	1
 換髮	huan fa	1
 指縫	zhi feng	1
-報名蔘加	bao ming can jia	1
+報名參加	bao ming can jia	1
 換好	huan hao	1
 指出	zhi chu	1
 掏出	tao chu	1
@@ -68252,7 +68252,7 @@
 郣	bo	1
 翸	pen	1
 十翼	shi yi	1
-直接蔘與	zhi jie can yu	1
+直接參與	zhi jie can yu	1
 莫扎特	mo zha te	1
 悳	de	1
 十級	shi ji	1
@@ -70286,7 +70286,7 @@
 南飛	nan fei	1
 直飛	zhi fei	1
 蒙羅維亞	meng luo wei ya	1
-共同蔘與	gong tong can yu	1
+共同參與	gong tong can yu	1
 南緯	nan wei	1
 共同維護	gong tong wei hu	1
 直線	zhi xian	1
@@ -70754,7 +70754,7 @@
 黃鼠狼	huang shu lang	1
 花紋	hua wen	1
 截斷	jie duan	1
-真假蔘半	zhen jia can ban	1
+真假參半	zhen jia can ban	1
 共	gong	1
 革命者	ge ming zhe	1
 芥末	jie mo	1
@@ -72295,7 +72295,7 @@
 薄紗	bao sha	1
 蓅	liu	1
 薄紙	bao zhi	1
-蒸汽蔘數	zheng qi can shu	1
+蒸汽參數	zheng qi can shu	1
 落髮	luo fa	1
 蕩婦	dang fu	1
 世紀	shi ji	1
@@ -85746,7 +85746,7 @@
 成親	cheng qin	1
 成熟	cheng shu	1
 成就	cheng jiu	1
-醫學衷中蔘西錄	yi xue zhong zhong can xi lu	1
+醫學衷中參西錄	yi xue zhong zhong can xi lu	1
 車流量	che liu liang	1
 成章	cheng zhang	1
 成夜	cheng ye	1
@@ -101523,7 +101523,7 @@
 內奸	nei jian	1
 具結	ju jie	1
 網媒	wang mei	1
-內蔘	nei can	1
+內參	nei can	1
 內線	nei xian	1
 網線	wang xian	1
 贓	zang	1
@@ -104518,7 +104518,7 @@
 積極性	ji ji xing	1
 範	fan	1
 委	wei	1
-積極蔘與	ji ji can yu	1
+積極參與	ji ji can yu	1
 秮	huo	1
 稸	xu	1
 覣	wei	1
@@ -104528,7 +104528,7 @@
 私	si	1
 逶	wei	1
 重要經驗	zhong yao jing yan	1
-積極蔘加	ji ji can jia	1
+積極參加	ji ji can jia	1
 稵	zi	1
 重大	zhong da	1
 犄	ji	1
@@ -108834,7 +108834,7 @@
 亂穿	luan chuan	1
 每户	mei hu	1
 私宅	si zhai	1
-筆蔘造化	bi can zao hua	1
+筆參造化	bi can zao hua	1
 繁冗	fan rong	1
 每逢	mei feng	1
 私房	si fang	1
@@ -112580,12 +112580,12 @@
 保健站	bao jian zhan	1
 任何建議	ren he jian yi	1
 傻了	sha le	1
-僅供蔘考	jin gong can kao	1
+僅供參考	jin gong can kao	1
 鼻息如雷	bi xi ru lei	1
 僅僅如此	jin jin ru ci	1
 優化組合	you hua zu he	1
 集體經濟	ji ti jing ji	1
-集體蔘觀	ji ti can guan	1
+集體參觀	ji ti can guan	1
 伯母	bo mu	1
 鬼鬼祟祟	gui gui sui sui	1
 白白嫩嫩	bai bai nen nen	1
@@ -114088,7 +114088,7 @@
 他給	ta gei	1
 他能	ta neng	1
 自治旗	zi zhi qi	1
-譭譽蔘半	hui yu can ban	1
+譭譽參半	hui yu can ban	1
 自治州	zi zhi zhou	1
 他媽	ta ma	1
 化學纖維	hua xue xian wei	1
@@ -128001,7 +128001,7 @@
 燄	yan	1
 多做實事	duo zuo shi shi	1
 鯸	hou	1
-疑信蔘半	yi xin can ban	1
+疑信參半	yi xin can ban	1
 欠	qian	1
 欠下	qian xia	1
 鮯	ge	1
@@ -132074,7 +132074,7 @@
 就已	jiu yi	1
 就緒	jiu xu	1
 產品結構	chan pin jie gou	1
-高蔘	gao can	1
+高參	gao can	1
 熟練	shu lian	1
 話雖如此	hua sui ru ci	1
 高台	gao tai	1
@@ -136249,7 +136249,7 @@
 毫髮不爽	hao fa bu shuang	1
 刻有	ke you	1
 高級顧問	gao ji gu wen	1
-請蔘閲	qing can yue	1
+請參閲	qing can yue	1
 熟練工	shu lian gong	1
 訓練場	xun lian chang	1
 訓練班	xun lian ban	1
@@ -137604,7 +137604,7 @@
 頭維	tou wei	1
 狀紙	zhuang zhi	1
 決不允許	jue bu yun xu	1
-狀態蔘數	zhuang tai can shu	1
+狀態參數	zhuang tai can shu	1
 廌	zhi	1
 頭髮	tou fa	1
 麼	me	1
@@ -140233,7 +140233,7 @@
 煽動性	shan dong xing	1
 慟	tong	1
 勬	juan	1
-前來蔘加	qian lai can jia	1
+前來參加	qian lai can jia	1
 烤出	kao chu	1
 慢工出細活	man gong chu xi huo	1
 悟出	wu chu	1
@@ -141760,7 +141760,7 @@
 總隊	zong dui	1
 總辦	zong ban	1
 總結	zong jie	1
-總蔘	zong can	1
+總參	zong can	1
 悞	wu	1
 總線	zong xian	1
 煙台	yan tai	1
@@ -142318,7 +142318,7 @@
 愷	kai	1
 粗陋	cu lou	1
 精雕細琢	jing diao xi zhuo	1
-曾蔘	ceng can	1
+曾參	ceng can	1
 粗線	cu xian	1
 粗細	cu xi	1
 併網發電	bing wang fa dian	1
@@ -142499,7 +142499,7 @@
 煤氣費	mei qi fei	1
 悔	hui	1
 火箭發動機	huo jian fa dong ji	1
-拳蔘	quan can	1
+拳參	quan can	1
 羊毛出在羊身上	yang mao chu zai yang shen shang	1
 關係到	guan xi dao	1
 關係上	guan xi shang	1
@@ -144986,11 +144986,11 @@
 慘象	can xiang	1
 火奴魯魯	huo nu lu lu	1
 數語	shu yu	1
-總蔘謀長	zong can mou zhang	1
+總參謀長	zong can mou zhang	1
 差以毫釐，失之千里	cha yi hao li shi zhi qian li	1
 慈顏	ci yan	1
 數論	shu lun	1
-總蔘謀部	zong can mou bu	1
+總參謀部	zong can mou bu	1
 總統府	zong tong fu	1
 數説	shu shuo	1
 慘變	can bian	1
@@ -166215,7 +166215,7 @@
 弦	xian	1
 婱	xian	1
 發	fa	1
-蔘與	can yu	1
+參與	can yu	1
 糸	si	1
 乚	yin	1
 糹	jiao	1
@@ -166239,7 +166239,7 @@
 鄉幹部	xiang gan bu	1
 統一標準	tong yi biao zhun	1
 嫵	wu	1
-蔘天大樹	can tian da shu	1
+參天大樹	can tian da shu	1
 統一大業	tong yi da ye	1
 好天氣	hao tian qi	1
 好歹不分	hao dai bu fen	1
@@ -166250,7 +166250,7 @@
 卐	wan	1
 以下的	yi xia de	1
 如下圖	ru xia tu	1
-蔘政黨	can zheng dang	1
+參政黨	can zheng dang	1
 鄉下人	xiang xia ren	1
 鄉政府	xiang zheng fu	1
 統一戰線	tong yi zhan xian	1
@@ -166288,7 +166288,7 @@
 絢麗多彩	xuan li duo cai	1
 絢麗多姿	xuan li duo zi	1
 夨	ze	1
-蔘政議政	can zheng yi zheng	1
+參政議政	can zheng yi zheng	1
 奸計	jian ji	1
 統一計劃	tong yi ji hua	1
 奸詐	jian zha	1
@@ -166315,19 +166315,19 @@
 緀	qi	1
 姆萬紮	mu wan zha	1
 奸險	jian xian	1
-蔘與者	can yu zhe	1
+參與者	can yu zhe	1
 經天緯地	jing tian wei di	1
 嫣紅	yan hong	1
-蔘與的	can yu de	1
+參與的	can yu de	1
 統一經營	tong yi jing ying	1
-蔘與權	can yu quan	1
+參與權	can yu quan	1
 奸細	jian xi	1
 縉紳	jin shen	1
 嫉惡如仇	ji e ru chou	1
-蔘與性	can yu xing	1
+參與性	can yu xing	1
 嫵媚	wu mei	1
 婕妤	jie yu	1
-蔘與了	can yu le	1
+參與了	can yu le	1
 統一組織	tong yi zu zhi	1
 妍媸	yan chi	1
 紅	hong	1
@@ -166335,7 +166335,7 @@
 紅豆	hong dou	1
 女士們	nv shi men	1
 奊	xie	1
-蔘考書	can kao shu	1
+參考書	can kao shu	1
 斷垣殘壁	duan yuan can bi	1
 娃	wa	1
 絓	gua	1
@@ -166453,9 +166453,9 @@
 嬉笑	xi xiao	1
 紅筆	hong bi	1
 鄉土氣息	xiang tu qi xi	1
-蔘考手冊	can kao shou ce	1
+參考手冊	can kao shou ce	1
 紅移	hong yi	1
-蔘考答案	can kao da an	1
+參考答案	can kao da an	1
 紅白	hong bai	1
 以工代賑	yi gong dai zhen	1
 女士優先	nv shi you xian	1
@@ -166501,7 +166501,7 @@
 結怨	jie yuan	1
 緒言	xu yan	1
 結語	jie yu	1
-蔘考文獻	can kao wen xian	1
+參考文獻	can kao wen xian	1
 結親	jie qin	1
 結識	jie shi	1
 紅旗	hong qi	1
@@ -166520,7 +166520,7 @@
 結凍	jie dong	1
 結冰	jie bing	1
 嬉鬧	xi nao	1
-蔘考資料	can kao zi liao	1
+參考資料	can kao zi liao	1
 緯度	wei du	1
 結疤	jie ba	1
 紅妝	hong zhuang	1
@@ -166546,7 +166546,7 @@
 結匯	jie hui	1
 紅海	hong hai	1
 紅地毯	hong di tan	1
-蔘考消息	can kao xiao xi	1
+參考消息	can kao xiao xi	1
 紅潤	hong run	1
 紅學	hong xue	1
 姦夫淫婦	jian fu yin fu	1
@@ -166568,7 +166568,7 @@
 紅馬	hong ma	1
 嬉戲	xi xi	1
 嬉皮	xi pi	1
-蔘考書目	can kao shu mu	1
+參考書目	can kao shu mu	1
 結尾	jie wei	1
 發動羣眾	fa dong qun zhong	1
 維吾爾	wei wu er	1
@@ -166706,7 +166706,7 @@
 好事者	hao shi zhe	1
 鄉事會	xiang shi hui	1
 紐扣兒	niu kou er	1
-蔘事室	can shi shi	1
+參事室	can shi shi	1
 邕	yong	1
 巢	chao	1
 發揚光大	fa yang guang da	1
@@ -166997,8 +166997,8 @@
 如夢如幻	ru meng ru huan	1
 出面	chu mian	1
 好奇的	hao qi de	1
-蔘天	can tian	1
-蔘政	can zheng	1
+參天	can tian	1
+參政	can zheng	1
 綺	qi	1
 綺	qi	1
 綺麗	qi li	1
@@ -167007,9 +167007,9 @@
 怒不可遏	nu bu ke e	1
 好奇心	hao qi xin	1
 叁萬	san wan	1
-蔘與	can yu	1
+參與	can yu	1
 絝	ku	1
-蔘考	can kao	1
+參考	can kao	1
 好大喜功	hao da xi gong	1
 如左圖	ru zuo tu	1
 姨夫	yi fu	1
@@ -167019,8 +167019,8 @@
 恕不奉陪	shu bu feng pei	1
 縟	ru	1
 發聾振聵	fa long zhen kui	1
-蔘事	can shi	1
-蔘拍	can pai	1
+參事	can shi	1
+參拍	can pai	1
 叁拾	san shi	1
 恕不接待	shu bu jie dai	1
 縟	ru	1
@@ -167029,7 +167029,7 @@
 女大十八變	nv da shi ba bian	1
 綺夢	qi meng	1
 緬想	mian xiang	1
-蔘酌	can zhuo	1
+參酌	can zhuo	1
 細大不捐	xi da bu juan	1
 緛	ruan	1
 結碩果	jie shuo guo	1
@@ -167037,7 +167037,7 @@
 娠	shen	1
 紑	fou	1
 經不起	jing bu qi	1
-蔘戰	can zhan	1
+參戰	can zhan	1
 絕不是	jue bu shi	1
 經不住	jing bu zhu	1
 絕不會	jue bu hui	1
@@ -167051,91 +167051,91 @@
 發奮圖強	fa fen tu qiang	1
 給面子	gei mian zi	1
 畚	ben	1
-蔘量	can liang	1
+參量	can liang	1
 緾	chan	1
 出廠日期	chu chang ri qi	1
 繚	liao	1
 繚	liao	1
-蔘照	can zhao	1
+參照	can zhao	1
 發佈的	fa bu de	1
 織布機	zhi bu ji	1
 發佈會	fa bu hui	1
 女廁所	nv ce suo	1
-蔘見	can jian	1
+參見	can jian	1
 綺羅	qi luo	1
 蠡縣	li xian	1
-蔘拜	can bai	1
+參拜	can bai	1
 畚箕	ben ji	1
-蔘看	can kan	1
+參看	can kan	1
 出奇制勝	chu qi zhi sheng	1
-蔘贊	can zan	1
+參贊	can zan	1
 繚亂	liao luan	1
 叁佰	san bai	1
 出廠價格	chu chang jia ge	1
-蔘保	can bao	1
+參保	can bao	1
 縓	quan	1
 紅原縣	hong yuan xian	1
 叁仟	san qian	1
 叁億	san yi	1
-蔘合	can he	1
-蔘會	can hui	1
+參合	can he	1
+參會	can hui	1
 恕不從命	shu bu cong ming	1
 姨父	yi fu	1
 綊	xie	1
 絕不食言	jue bu shi yan	1
 蔘	can	1
-蔘錯	can cuo	1
+參錯	can cuo	1
 絠	gai	1
-蔘股	can gu	1
+參股	can gu	1
 紌	qiu	1
 緬甸	mian dian	1
 絕大多數	jue da duo shu	1
 絕大多數人	jue da duo shu ren	1
 紎	zi	1
-蔘評	can ping	1
-蔘訂	can ding	1
-蔘謀	can mou	1
+參評	can ping	1
+參訂	can ding	1
+參謀	can mou	1
 姨太太	yi tai tai	1
-蔘謁	can ye	1
+參謁	can ye	1
 以太網	yi tai wang	1
-蔘訓	can xun	1
+參訓	can xun	1
 絕大部分	jue da bu fen	1
-蔘議	can yi	1
+參議	can yi	1
 以不變應萬變	yi bu bian ying wan bian	1
-蔘商	can shang	1
-蔘詳	can xiang	1
+參商	can shang	1
+參詳	can xiang	1
 編碼方案	bian ma fang an	1
-蔘劾	can he	1
+參劾	can he	1
 綺靡	qi mi	1
-蔘閲	can yue	1
-蔘差	can cha	1
-蔘半	can ban	1
-蔘悟	can wu	1
+參閲	can yue	1
+參差	can cha	1
+參半	can ban	1
+參悟	can wu	1
 纒	chan	1
 緬懷	mian huai	1
-蔘數	can shu	1
+參數	can shu	1
 蠡測	li ce	1
 緩不濟急	huan bu ji ji	1
 蠡溝	li gou	1
-蔘演	can yan	1
+參演	can yan	1
 發不遮頂	fa bu zhe ding	1
-蔘賽	can sai	1
-蔘軍	can jun	1
-蔘審	can shen	1
+參賽	can sai	1
+參軍	can jun	1
+參審	can shen	1
 好不容易	hao bu rong yi	1
-蔘透	can tou	1
-蔘選	can xuan	1
-蔘禪	can chan	1
-蔘展	can zhan	1
+參透	can tou	1
+參選	can xuan	1
+參禪	can chan	1
+參展	can zhan	1
 編碼器	bian ma qi	1
-蔘觀	can guan	1
+參觀	can guan	1
 紱	fu	1
 紱	fu	1
 以大局為重	yi da ju wei zhong	1
 姨	yi	1
-蔘加	can jia	1
-蔘院	can yuan	1
-蔘建	can jian	1
+參加	can jia	1
+參院	can yuan	1
+參建	can jian	1
 繚繞	liao rao	1
 如願以償	ru yuan yi chang	1
 紘	hong	1
@@ -167658,7 +167658,7 @@
 綠水青山	lv shui qing shan	1
 細水長流	xi shui chang liu	1
 繓	zuo	1
-蔘照執行	can zhao zhi xing	1
+參照執行	can zhao zhi xing	1
 妙招	miao zhao	1
 縪	bi	1
 出水芙蓉	chu shui fu rong	1
@@ -167854,7 +167854,7 @@
 嫘祖	lei zu	1
 經常化	jing chang hua	1
 紗窗	sha chuang	1
-蔘照實行	can zhao shi xing	1
+參照實行	can zhao shi xing	1
 巢穴	chao xue	1
 經常會	jing chang hui	1
 細究	xi jiu	1
@@ -167869,8 +167869,8 @@
 細柔	xi rou	1
 如影隨形	ru ying sui xing	1
 細加	xi jia	1
-蔘照物	can zhao wu	1
-蔘照系	can zhao xi	1
+參照物	can zhao wu	1
+參照系	can zhao xi	1
 發郵件	fa you jian	1
 細弱	xi ruo	1
 縲	lei	1
@@ -169773,7 +169773,7 @@
 統招	tong zhao	1
 弁	bian	1
 統計表	tong ji biao	1
-蔘謀長	can mou zhang	1
+參謀長	can mou zhang	1
 卛	lv	1
 統計的	tong ji de	1
 統計圖	tong ji tu	1
@@ -169784,7 +169784,7 @@
 統共	tong gong	1
 纕	xiang	1
 鴘	bian	1
-蔘謀部	can mou bu	1
+參謀部	can mou bu	1
 統計學	tong ji xue	1
 統計法	tong ji fa	1
 統計局	tong ji ju	1
@@ -169944,14 +169944,14 @@
 嫡親	di qin	1
 孃親	niang qin	1
 統計調查	tong ji diao cha	1
-蔘議員	can yi yuan	1
+參議員	can yi yuan	1
 締交	di jiao	1
-蔘議會	can yi hui	1
+參議會	can yi hui	1
 終端設備	zhong duan she bei	1
 統率	tong lv	1
 姑妄言之	gu wang yan zhi	1
 嬗變	shan bian	1
-蔘議院	can yi yuan	1
+參議院	can yi yuan	1
 婉言謝絕	wan yan xie jue	1
 斚	jia	1
 統計資料	tong ji zi liao	1
@@ -170137,7 +170137,7 @@
 納米線	na mi xian	1
 斷石	duan shi	1
 斷面	duan mian	1
-蔘差不齊	can cha bu qi	1
+參差不齊	can cha bu qi	1
 繸	sui	1
 斷碼	duan ma	1
 努美阿	nu mei a	1
@@ -170186,7 +170186,7 @@
 斷	duan	1
 斷後	duan hou	1
 斷	duan	1
-蔘差錯落	can cha cuo luo	1
+參差錯落	can cha cuo luo	1
 斷針	duan zhen	1
 斷航	duan hang	1
 如前所述	ru qian suo shu	1
@@ -170643,8 +170643,8 @@
 經過了	jing guo le	1
 縫扎	feng zha	1
 編着	bian zhu	1
-蔘賽者	can sai zhe	1
-蔘賽隊	can sai dui	1
+參賽者	can sai zhe	1
+參賽隊	can sai dui	1
 綜藝	zong yi	1
 發展需要	fa zhan xu yao	1
 縺	lian	1
@@ -170719,7 +170719,7 @@
 好容易	hao rong yi	1
 縮微	suo wei	1
 編餘	bian yu	1
-蔘軍入伍	can jun ru wu	1
+參軍入伍	can jun ru wu	1
 出神入化	chu shen ru hua	1
 收容所	shou rong suo	1
 婦道人家	fu dao ren jia	1
@@ -170848,7 +170848,7 @@
 發展勢頭	fa zhan shi tou	1
 綠的	lv de	1
 媽的	ma de	1
-蔘觀指導	can guan zhi dao	1
+參觀指導	can guan zhi dao	1
 紐	niu	1
 絕對真理	jue dui zhen li	1
 紐	niu	1
@@ -170863,7 +170863,7 @@
 以柔克剛	yi rou ke gang	1
 綠茶	lv cha	1
 經期	jing qi	1
-蔘展商	can zhan shang	1
+參展商	can zhan shang	1
 發展商	fa zhan shang	1
 如履薄冰	ru lv bao bing	1
 發展性	fa zhan xing	1
@@ -170939,10 +170939,10 @@
 婦男	fu nan	1
 媚	mei	1
 怒目	nu mu	1
-蔘觀者	can guan zhe	1
+參觀者	can guan zhe	1
 經典	jing dian	1
 發展目標	fa zhan mu biao	1
-蔘觀團	can guan tuan	1
+參觀團	can guan tuan	1
 綠帽	lv mao	1
 綠山	lv shan	1
 胬肉	nu rou	1
@@ -170981,7 +170981,7 @@
 恕難從命	shu nan cong ming	1
 奴役	nu yi	1
 經驗論	jing yan lun	1
-蔘觀人數	can guan ren shu	1
+參觀人數	can guan ren shu	1
 出雙入對	chu shuang ru dui	1
 駑鈍	nu dun	1
 經銷	jing xiao	1
@@ -171134,12 +171134,12 @@
 能力考核成績	neng li kao he cheng ji	1
 好壞	hao huai	1
 努力工作	nu li gong zuo	1
-蔘加工作	can jia gong zuo	1
+參加工作	can jia gong zuo	1
 綿延起伏	mian yan qi fu	1
 好走	hao zou	1
 她走	ta zou	1
 紀元	ji yuan	1
-蔘加考試	can jia kao shi	1
+參加考試	can jia kao shi	1
 好地	hao di	1
 她都	ta dou	1
 好動	hao dong	1
@@ -171220,11 +171220,11 @@
 維也納	wei ye na	1
 紹	shao	1
 紹	shao	1
-蔘加者	can jia zhe	1
+參加者	can jia zhe	1
 好哇	hao wa	1
 奶味	nai wei	1
 女子足球	nv zi zu qiu	1
-蔘加的	can jia de	1
+參加的	can jia de	1
 好啦	hao la	1
 她因	ta yin	1
 好呀	hao ya	1
@@ -171242,7 +171242,7 @@
 她跟	ta gen	1
 她呢	ta ne	1
 級別	ji bie	1
-蔘加了	can jia le	1
+參加了	can jia le	1
 好啊	hao a	1
 好吧	hao ba	1
 她叫	ta jiao	1
@@ -171329,7 +171329,7 @@
 繆	miu	1
 好飯	hao fan	1
 紀念	ji nian	1
-蔘加會議	can jia hui yi	1
+參加會議	can jia hui yi	1
 好辦法	hao ban fa	1
 好個	hao ge	1
 努力創造	nu li chuang zao	1
@@ -171360,7 +171360,7 @@
 好比	hao bi	1
 好久	hao jiu	1
 好多	hao duo	1
-蔘加比賽	can jia bi sai	1
+參加比賽	can jia bi sai	1
 好色	hao se	1
 紉	ren	1
 紉	ren	1
@@ -171422,7 +171422,7 @@
 好慘	hao can	1
 級數	ji shu	1
 紹興	shao xing	1
-蔘加活動	can jia huo dong	1
+參加活動	can jia huo dong	1
 奶汁	nai zhi	1
 女子學校	nv zi xue xiao	1
 好酒	hao jiu	1
@@ -172504,7 +172504,7 @@
 廳處級	ting chu ji	1
 丞弼	cheng bi	1
 丞簿	cheng bu	1
-丞蔘	cheng can	1
+丞參	cheng can	1
 丞輔	cheng fu	1
 丞局	cheng ju	1
 丞郎	cheng lang	1
@@ -174958,8 +174958,8 @@
 嘈雜聲	cao za sheng	1
 嘈囐	cao za	1
 嘈囋	cao zan	1
-岑蔘	cen can	1
-岑蔘兄弟皆好奇	cen can xiong di jie hao qi	1
+岑參	cen can	1
+岑參兄弟皆好奇	cen can xiong di jie hao qi	1
 岑岑	cen cen	1
 岑川	cen chuan	1
 岑春	cen chun	1
@@ -176454,7 +176454,7 @@
 可提	ke ti	1
 可體	ke ti	1
 可替換	ke ti huan	1
-可替換蔘數	ke ti huan can shu	1
+可替換參數	ke ti huan can shu	1
 可填	ke tian	1
 可調度性	ke diao du xing	1
 可調價格合同	ke tiao jia ge he tong	1
@@ -176557,7 +176557,7 @@
 可修補	ke xiu bu	1
 可修改性	ke xiu gai xing	1
 可修理	ke xiu li	1
-可選蔘數	ke xuan can shu	1
+可選參數	ke xuan can shu	1
 可選工作流	ke xuan gong zuo liu	1
 可選類型	ke xuan lei xing	1
 可選鏈	ke xuan lian	1
@@ -181606,7 +181606,7 @@
 冷子	leng zi	1
 冷子堡鎮	leng zi bao zhen	1
 冷子管	leng zi guan	1
-冷紫蔘	leng zi can	1
+冷紫參	leng zi can	1
 冷字	leng zi	1
 冷鑽	leng zuan	1
 冷作	leng zuo	1
@@ -184195,7 +184195,7 @@
 臨界半徑	lin jie ban jing	1
 臨界邊	lin jie bian	1
 臨界波長	lin jie bo chang	1
-臨界蔘量	lin jie can liang	1
+臨界參量	lin jie can liang	1
 臨界點乾燥法	lin jie dian gan zao fa	1
 臨界功率	lin jie gong lv	1
 臨界膠束濃度	lin jie jiao shu nong du	1
@@ -189494,7 +189494,7 @@
 免費吧	mian fei ba	1
 免費版版	mian fei ban ban	1
 免費畢業	mian fei bi ye	1
-免費蔘觀	mian fei can guan	1
+免費參觀	mian fei can guan	1
 免費餐	mian fei can	1
 免費查詢	mian fei cha xun	1
 免費成人	mian fei cheng ren	1
@@ -190499,7 +190499,7 @@
 命令符文	ming ling fu wen	1
 命令行	ming ling hang	1
 命令行編譯	ming ling hang bian yi	1
-命令行蔘數	ming ling hang can shu	1
+命令行參數	ming ling hang can shu	1
 命令行操作	ming ling hang cao zuo	1
 命令行工具	ming ling hang gong ju	1
 命令行接口	ming ling hang jie kou	1
@@ -196221,7 +196221,7 @@
 農民肺	nong min fei	1
 農民革命	nong min ge ming	1
 農民個個同仇	nong min ge ge tong chou	1
-農民工蔘加基本養老保險辦法	nong min gong can jia ji ben yang lao bao xian ban fa	1
+農民工參加基本養老保險辦法	nong min gong can jia ji ben yang lao bao xian ban fa	1
 農民工帶薪休假制	nong min gong dai xin xiu jia zhi	1
 農民工工	nong min gong gong	1
 農民工權益手冊	nong min gong quan yi shou ce	1
@@ -200109,7 +200109,7 @@
 婆羅	po luo	1
 婆羅浮屠	po luo fu tu	1
 婆羅科努山	po luo ke nu shan	1
-婆羅門蔘	po luo men can	1
+婆羅門參	po luo men can	1
 婆羅門教	po luo men jiao	1
 婆羅門妻品	po luo men qi pin	1
 婆羅洲	po luo zhou	1
@@ -200168,7 +200168,7 @@
 剖驗	pou yan	1
 剖幽析微	pou you xi wei	1
 剖魚刀	pou yu dao	1
-僕蔘	pu can	1
+僕參	pu can	1
 僕從國	pu cong guo	1
 僕從手套	pu cong shou tao	1
 僕從腰帶	pu cong yao dai	1
@@ -204841,7 +204841,7 @@
 強制執行法	qiang zhi zhi xing fa	1
 強制執行法學	qiang zhi zhi xing fa xue	1
 強制執行效力	qiang zhi zhi xing xiao li	1
-強制執行指導與蔘考	qiang zhi zhi xing zhi dao yu can kao	1
+強制執行指導與參考	qiang zhi zhi xing zhi dao yu can kao	1
 強制轉換	qiang zhi zhuan huan	1
 強致	qiang zhi	1
 強鷙	qiang zhi	1
@@ -204863,7 +204863,7 @@
 強壯歧須鮠	qiang zhuang qi xu wei	1
 強壯起來	qiang zhuang qi lai	1
 強壯型	qiang zhuang xing	1
-強壯幽靈蔘	qiang zhuang you ling can	1
+強壯幽靈參	qiang zhuang you ling can	1
 強壯有力	qiang zhuang you li	1
 強壯指環蟲	qiang zhuang zhi huan chong	1
 強壯蛛形蟹	qiang zhuang zhu xing xie	1
@@ -205065,7 +205065,7 @@
 喬姆斯基層次結構	qiao mu si ji ceng ci jie gou	1
 喬木層	qiao mu ceng	1
 喬木林	qiao mu lin	1
-喬木上蔘天	qiao mu shang can tian	1
+喬木上參天	qiao mu shang can tian	1
 喬木崢嶸明月中	qiao mu zheng rong ming yue zhong	1
 喬納桑	qiao na sang	1
 喬納森	qiao na sen	1
@@ -205685,7 +205685,7 @@
 且看欲盡花經眼	qie kan yu jin hua jing yan	1
 且蘭	qie lan	1
 且令	qie ling	1
-且令鼻觀先蔘	qie ling bi guan xian can	1
+且令鼻觀先參	qie ling bi guan xian can	1
 且末	qie mo	1
 且末縣	qie mo xian	1
 且末鎮	qie mo zhen	1
@@ -205994,7 +205994,7 @@
 親子裝	qin zi zhuang	1
 親姊妹	qin zi mei	1
 親姊姊	qin zi zi	1
-親自蔘加	qin zi can jia	1
+親自參加	qin zi can jia	1
 親族	qin zu	1
 嶔崎磊落	qin qi lei luo	1
 勤德家園	qin de jia yuan	1
@@ -206597,7 +206597,7 @@
 屈光	qu guang	1
 屈光不正	qu guang bu zheng	1
 屈光不正性弱視	qu guang bu zheng xing ruo shi	1
-屈光蔘數	qu guang can shu	1
+屈光參數	qu guang can shu	1
 屈光手術	qu guang shou shu	1
 屈光手術學	qu guang shou shu xue	1
 屈光性	qu guang xing	1
@@ -207295,7 +207295,7 @@
 全車鎖芯	quan che suo xin	1
 全稱域名	quan cheng yu ming	1
 全承載車身	quan cheng zai che shen	1
-全程蔘加	quan cheng can jia	1
+全程參加	quan cheng can jia	1
 全程策劃	quan cheng ce hua	1
 全程服務	quan cheng fu wu	1
 全程公里	quan cheng gong li	1
@@ -209071,7 +209071,7 @@
 人民解放軍財務部	ren min jie fang jun cai wu bu	1
 人民解放軍軍事法院	ren min jie fang jun jun shi fa yuan	1
 人民解放軍土地管理局	ren min jie fang jun tu di guan li ju	1
-人民解放軍總蔘謀部	ren min jie fang jun zong can mou bu	1
+人民解放軍總參謀部	ren min jie fang jun zong can mou bu	1
 人民解放軍總後勤部	ren min jie fang jun zong hou qin bu	1
 人民解放軍總政治部	ren min jie fang jun zong zheng zhi bu	1
 人民解放戰爭	ren min jie fang zhan zheng	1
@@ -210502,7 +210502,7 @@
 冗位	rong wei	1
 冗務	rong wu	1
 冗言	rong yan	1
-冗餘蔘數	rong yu can shu	1
+冗餘參數	rong yu can shu	1
 冗餘度	rong yu du	1
 冗餘技術	rong yu ji shu	1
 冗餘碼	rong yu ma	1
@@ -210522,7 +210522,7 @@
 如不勝衣	ru bu sheng yi	1
 如不需要	ru bu xu yao	1
 如採	ru cai	1
-如蔘	ru can	1
+如參	ru can	1
 如操左券	ru cao zuo quan	1
 如廁難	ru ce nan	1
 如釵折股	ru chai zhe gu	1
@@ -210652,7 +210652,7 @@
 如何寫民事訴狀	ru he xie min shi su zhuang	1
 如何選購	ru he xuan gou	1
 如何選擇	ru he xuan ze	1
-如何學習法律和蔘加考試	ru he xue xi fa lv he can jia kao shi	1
+如何學習法律和參加考試	ru he xue xi fa lv he can jia kao shi	1
 如何一別朱仙鎮	ru he yi bie zhu xian zhen	1
 如何應對	ru he ying dui	1
 如何用	ru he yong	1
@@ -216862,7 +216862,7 @@
 上採	shang cai	1
 上蔡	shang cai	1
 上蔡縣	shang cai xian	1
-上蔘	shang can	1
+上參	shang can	1
 上藏馬村	shang cang ma cun	1
 上側	shang ce	1
 上層黑石塔	shang ceng hei shi ta	1
@@ -219736,7 +219736,7 @@
 射下	she xia	1
 射下來	she xia lai	1
 射下去	she xia qu	1
-射線蔘數	she xian can shu	1
+射線參數	she xian can shu	1
 射線管	she xian guan	1
 射線機	she xian ji	1
 射線理論	she xian li lun	1
@@ -219956,7 +219956,7 @@
 審裁小組	shen cai xiao zu	1
 審查案件	shen cha an jian	1
 審查逮捕	shen cha dai bu	1
-審查逮捕證據蔘考標準	shen cha dai bu zheng ju can kao biao zhun	1
+審查逮捕證據參考標準	shen cha dai bu zheng ju can kao biao zhun	1
 審查費	shen cha fei	1
 審查公訴	shen cha gong su	1
 審查會	shen cha hui	1
@@ -222449,7 +222449,7 @@
 實不	shi bu	1
 實不相	shi bu xiang	1
 實才	shi cai	1
-實蔘	shi can	1
+實參	shi can	1
 實測表	shi ce biao	1
 實測距離	shi ce ju li	1
 實測值	shi ce zhi	1
@@ -224031,7 +224031,7 @@
 市廛櫛比	shi chan zhi bi	1
 市場辦	shi chang ban	1
 市場報	shi chang bao	1
-市場蔘與者	shi chang can yu zhe	1
+市場參與者	shi chang can yu zhe	1
 市場策劃	shi chang ce hua	1
 市場策略	shi chang ce lue	1
 市場傳聞	shi chang chuan wen	1
@@ -227502,7 +227502,7 @@
 司法部司法研究所	si fa bu si fa yan jiu suo	1
 司法部宣傳司	si fa bu xuan chuan si	1
 司法部長	si fa bu zhang	1
-司法蔘軍事	si fa can jun shi	1
+司法參軍事	si fa can jun shi	1
 司法腐敗	si fa fu bai	1
 司法改革	si fa gai ge	1
 司法改革研究	si fa gai ge yan jiu	1
@@ -227561,7 +227561,7 @@
 司官	si guan	1
 司過	si guo	1
 司號員	si hao yuan	1
-司户蔘軍	si hu can jun	1
+司户參軍	si hu can jun	1
 司機求職	si ji qiu zhi	1
 司機員	si ji yuan	1
 司機長	si ji zhang	1
@@ -228996,7 +228996,7 @@
 四要素	si yao su	1
 四爺	si ye	1
 四野茫茫	si ye mang mang	1
-四葉蔘	si ye can	1
+四葉參	si ye can	1
 四葉草	si ye cao	1
 四葉四門孔蟲	si ye si men kong chong	1
 四葉小舌水母	si ye xiao she shui mu	1
@@ -229913,7 +229913,7 @@
 孫波	sun bo	1
 孫不二	sun bu er	1
 孫彩雲	sun cai yun	1
-孫蔘	sun can	1
+孫參	sun can	1
 孫曹	sun cao	1
 孫曾田	sun ceng tian	1
 孫昌華	sun chang hua	1
@@ -231588,7 +231588,7 @@
 台灣扁鍬形蟲	tai wan bian qiao xing chong	1
 台灣波紋鈎蛾	tai wan bo wen gou e	1
 台灣波紋蛇目蝶	tai wan bo wen she mu die	1
-台灣步錨蔘	tai wan bu mao can	1
+台灣步錨參	tai wan bu mao can	1
 台灣茶色姬花天牛	tai wan cha se ji hua tian niu	1
 台灣成功大學	tai wan cheng gong da xue	1
 台灣成人	tai wan cheng ren	1
@@ -233875,7 +233875,7 @@
 體育比賽	ti yu bi sai	1
 體育壁紙	ti yu bi zhi	1
 體育彩票公益金管理暫行辦法	ti yu cai piao gong yi jin guan li zan xing ban fa	1
-體育蔘考	ti yu can kao	1
+體育參考	ti yu can kao	1
 體育產業	ti yu chan ye	1
 體育場地	ti yu chang di	1
 體育場館	ti yu chang guan	1
@@ -234170,8 +234170,8 @@
 天蕩	tian dang	1
 天道觀	tian dao guan	1
 天道好還	tian dao hao hai	1
-天道劍勢人劍合一蔘悟殘頁	tian dao jian shi ren jian he yi can wu can ye	1
-天道劍勢人劍合一蔘悟斷篇	tian dao jian shi ren jian he yi can wu duan pian	1
+天道劍勢人劍合一參悟殘頁	tian dao jian shi ren jian he yi can wu can ye	1
+天道劍勢人劍合一參悟斷篇	tian dao jian shi ren jian he yi can wu duan pian	1
 天道劍勢人劍合一人偶圖殘頁	tian dao jian shi ren jian he yi ren ou tu can ye	1
 天道劍勢人劍合一人偶圖斷篇	tian dao jian shi ren jian he yi ren ou tu duan pian	1
 天道劍勢人劍合一穴位圖殘頁	tian dao jian shi ren jian he yi xue wei tu can ye	1
@@ -234179,17 +234179,17 @@
 天道劍勢人劍合一真傳殘頁	tian dao jian shi ren jian he yi zhen chuan can ye	1
 天道劍勢人劍合一真傳斷篇	tian dao jian shi ren jian he yi zhen chuan duan pian	1
 天道劍勢人劍合一真傳絕章	tian dao jian shi ren jian he yi zhen chuan jue zhang	1
-天道劍勢三環套月蔘悟斷篇	tian dao jian shi san huan tao yue can wu duan pian	1
-天道劍勢三環套月蔘悟絕章	tian dao jian shi san huan tao yue can wu jue zhang	1
+天道劍勢三環套月參悟斷篇	tian dao jian shi san huan tao yue can wu duan pian	1
+天道劍勢三環套月參悟絕章	tian dao jian shi san huan tao yue can wu jue zhang	1
 天道劍勢三環套月秘訣殘頁	tian dao jian shi san huan tao yue mi jue can ye	1
 天道劍勢三環套月秘訣斷篇	tian dao jian shi san huan tao yue mi jue duan pian	1
 天道劍勢三環套月秘訣絕章	tian dao jian shi san huan tao yue mi jue jue zhang	1
 天道劍勢三環套月詳解殘頁	tian dao jian shi san huan tao yue xiang jie can ye	1
 天道劍勢三環套月詳解斷篇	tian dao jian shi san huan tao yue xiang jie duan pian	1
 天道劍勢三環套月穴位圖殘頁	tian dao jian shi san huan tao yue xue wei tu can ye	1
-天道劍勢無我無劍蔘悟殘頁	tian dao jian shi wu wo wu jian can wu can ye	1
-天道劍勢無我無劍蔘悟斷篇	tian dao jian shi wu wo wu jian can wu duan pian	1
-天道劍勢無我無劍蔘悟絕章	tian dao jian shi wu wo wu jian can wu jue zhang	1
+天道劍勢無我無劍參悟殘頁	tian dao jian shi wu wo wu jian can wu can ye	1
+天道劍勢無我無劍參悟斷篇	tian dao jian shi wu wo wu jian can wu duan pian	1
+天道劍勢無我無劍參悟絕章	tian dao jian shi wu wo wu jian can wu jue zhang	1
 天道劍勢無我無劍秘訣殘頁	tian dao jian shi wu wo wu jian mi jue can ye	1
 天道劍勢無我無劍秘訣斷篇	tian dao jian shi wu wo wu jian mi jue duan pian	1
 天道劍勢無我無劍秘訣絕章	tian dao jian shi wu wo wu jian mi jue jue zhang	1
@@ -236703,7 +236703,7 @@
 同步異步	tong bu yi bu	1
 同步原語	tong bu yuan yu	1
 同步總線	tong bu zong xian	1
-同蔘數	tong can shu	1
+同參數	tong can shu	1
 同層	tong ceng	1
 同層人	tong ceng ren	1
 同產	tong chan	1
@@ -240646,7 +240646,7 @@
 外資保險	wai zi bao xian	1
 外資保險公司	wai zi bao xian gong si	1
 外資併購	wai zi bing gou	1
-外資蔘股證券公司設立規則	wai zi can gu zheng quan gong si she li gui ze	1
+外資參股證券公司設立規則	wai zi can gu zheng quan gong si she li gui ze	1
 外資股	wai zi gu	1
 外資金融機構駐華代表機構管理辦法	wai zi jin rong ji gou zhu hua dai biao ji gou guan li ban fa	1
 外資局	wai zi ju	1
@@ -241288,7 +241288,7 @@
 萬鶴	wan he	1
 萬鶴山	wan he shan	1
 萬壑	wan he	1
-萬壑樹蔘天	wan he shu can tian	1
+萬壑樹參天	wan he shu can tian	1
 萬壑松	wan he song	1
 萬壑松風	wan he song feng	1
 萬壑有聲含晚籟	wan he you sheng han wan lai	1
@@ -248517,7 +248517,7 @@
 下才	xia cai	1
 下菜	xia cai	1
 下蔡	xia cai	1
-下蔘	xia can	1
+下參	xia can	1
 下倉	xia cang	1
 下藏科鄉	xia cang ke xiang	1
 下層絨毛	xia ceng rong mao	1
@@ -253717,7 +253717,7 @@
 小取燈衚衕	xiao qu deng hu tong	1
 小圈圈	xiao quan quan	1
 小權	xiao quan	1
-小泉蔘拜	xiao quan can bai	1
+小泉參拜	xiao quan can bai	1
 小泉今日子	xiao quan jin ri zi	1
 小泉孝太郎	xiao quan xiao tai lang	1
 小拳	xiao quan	1
@@ -256280,7 +256280,7 @@
 刑事審判認證指南	xing shi shen pan ren zheng zhi nan	1
 刑事審判庭	xing shi shen pan ting	1
 刑事訴訟	xing shi su song	1
-刑事訴訟蔘與人	xing shi su song can yu ren	1
+刑事訴訟參與人	xing shi su song can yu ren	1
 刑事訴訟程序	xing shi su song cheng xu	1
 刑事訴訟程序價值	xing shi su song cheng xu jia zhi	1
 刑事訴訟程序全書	xing shi su song cheng xu quan shu	1
@@ -262680,7 +262680,7 @@
 一財	yi cai	1
 一裁終局	yi cai zhong ju	1
 一裁終局制度	yi cai zhong ju zhi du	1
-一蔘一控	yi can yi kong	1
+一參一控	yi can yi kong	1
 一粲	yi can	1
 一草	yi cao	1
 一層樓	yi ceng lou	1
@@ -266586,7 +266586,7 @@
 乙雙嗎啉	yi shuang ma lin	1
 乙水楊胺片	yi shui yang an pian	1
 乙巳年	yi si nian	1
-乙巳歲三月為建威蔘軍使都經錢溪	yi si sui san yue wei jian wei can jun shi dou jing qian xi	1
+乙巳歲三月為建威參軍使都經錢溪	yi si sui san yue wei jian wei can jun shi dou jing qian xi	1
 乙酸銨	yi suan an	1
 乙酸薄荷酯	yi suan bo he zhi	1
 乙酸苄酯	yi suan bian zhi	1
@@ -268818,7 +268818,7 @@
 引用類型	yin yong lei xing	1
 引用名	yin yong ming	1
 引用數據類型	yin yong shu ju lei xing	1
-引用形蔘	yin yong xing can	1
+引用形參	yin yong xing can	1
 引用約束	yin yong yue shu	1
 引誘婦女賣淫罪	yin you fu nv mai yin zui	1
 引誘劑	yin you ji	1
@@ -269370,7 +269370,7 @@
 應採	ying cai	1
 應採兒	ying cai er	1
 應採取	ying cai qu	1
-應蔘	ying can	1
+應參	ying can	1
 應差	ying cha	1
 應昌街	ying chang jie	1
 應常	ying chang	1
@@ -269733,7 +269733,7 @@
 應選用	ying xuan yong	1
 應學	ying xue	1
 應訊	ying xun	1
-應邀蔘加	ying yao can jia	1
+應邀參加	ying yao can jia	1
 應邀赴會	ying yao fu hui	1
 應邀赴宴	ying yao fu yan	1
 應要	ying yao	1
@@ -271126,7 +271126,7 @@
 右導數	you dao shu	1
 右的	you de	1
 右都御史	you dou yu shi	1
-右端蔘數問題	you duan can shu wen ti	1
+右端參數問題	you duan can shu wen ti	1
 右對齊	you dui qi	1
 右發摧月支	you fa cui yue zhi	1
 右反光鏡	you fan guang jing	1
@@ -275075,7 +275075,7 @@
 再不其然	zai bu qi ran	1
 再不去	zai bu qu	1
 再不然	zai bu ran	1
-再蔘觀	zai can guan	1
+再參觀	zai can guan	1
 再測信度	zai ce xin du	1
 再查	zai cha	1
 再差	zai cha	1
@@ -276417,7 +276417,7 @@
 增容費	zeng rong fei	1
 增容作用	zeng rong zuo yong	1
 增溶	zeng rong	1
-增溶蔘數	zeng rong can shu	1
+增溶參數	zeng rong can shu	1
 增溶劑	zeng rong ji	1
 增溶作用	zeng rong zuo yong	1
 增色添彩	zeng se tian cai	1
@@ -280801,7 +280801,7 @@
 值不當	zhi bu dang	1
 值不值	zhi bu zhi	1
 值不值得	zhi bu zhi de	1
-值蔘	zhi can	1
+值參	zhi can	1
 值乘	zhi cheng	1
 值傳	zhi chuan	1
 值傳遞	zhi chuan di	1
@@ -282905,7 +282905,7 @@
 中國人民解放軍駐港部隊	zhong guo ren min jie fang jun zhu gang bu dui	1
 中國人民解放軍駐香港部隊	zhong guo ren min jie fang jun zhu xiang gang bu dui	1
 中國人民解放軍總部	zhong guo ren min jie fang jun zong bu	1
-中國人民解放軍總蔘謀部	zhong guo ren min jie fang jun zong can mou bu	1
+中國人民解放軍總參謀部	zhong guo ren min jie fang jun zong can mou bu	1
 中國人民解放軍總後勤部	zhong guo ren min jie fang jun zong hou qin bu	1
 中國人民解放軍總政治部	zhong guo ren min jie fang jun zong zheng zhi bu	1
 中國人民解放軍總裝備部	zhong guo ren min jie fang jun zong zhuang bei bu	1
@@ -284935,7 +284935,7 @@
 中文報紙	zhong wen bao zhi	1
 中文編碼	zhong wen bian ma	1
 中文標點	zhong wen biao dian	1
-中文蔘數	zhong wen can shu	1
+中文參數	zhong wen can shu	1
 中文操作系統	zhong wen cao zuo xi tong	1
 中文處理	zhong wen chu li	1
 中文詞庫素材	zhong wen ci ku su cai	1
@@ -287259,7 +287259,7 @@
 主道	zhu dao	1
 主的	zhu de	1
 主殿	zhu dian	1
-主動蔘與	zhu dong can yu	1
+主動參與	zhu dong can yu	1
 主動查詢	zhu dong cha xun	1
 主動出擊	zhu dong chu ji	1
 主動動詞	zhu dong dong ci	1
@@ -287605,7 +287605,7 @@
 主要辦事處	zhu yao ban shi chu	1
 主要包括	zhu yao bao kuo	1
 主要表現	zhu yao biao xian	1
-主要蔘數	zhu yao can shu	1
+主要參數	zhu yao can shu	1
 主要成份	zhu yao cheng fen	1
 主要成績	zhu yao cheng ji	1
 主要成員	zhu yao cheng yuan	1
@@ -289014,7 +289014,7 @@
 孳孳不息	zi zi bu xi	1
 孳孳汲汲	zi zi ji ji	1
 孳孳矻矻	zi zi ku ku	1
-子安輻肛蔘	zi an fu gang can	1
+子安輻肛參	zi an fu gang can	1
 子壩	zi ba	1
 子版	zi ban	1
 子孢子	zi bao zi	1
@@ -289042,7 +289042,7 @@
 子車	zi che	1
 子城	zi cheng	1
 子程序	zi cheng xu	1
-子程序蔘數	zi cheng xu can shu	1
+子程序參數	zi cheng xu can shu	1
 子程序指針	zi cheng xu zhi zhen	1
 子池隊列	zi chi dui lie	1
 子衝	zi chong	1
@@ -290914,7 +290914,7 @@
 坐噴氣式	zuo pen qi shi	1
 坐盆	zuo pen	1
 坐坡	zuo po	1
-坐蒲蔘禪	zuo pu can chan	1
+坐蒲參禪	zuo pu can chan	1
 坐騎速度	zuo qi su du	1
 坐騎移動速度	zuo qi yi dong su du	1
 坐騎移動速度略微提升	zuo qi yi dong su du lue wei ti sheng	1
@@ -292374,7 +292374,7 @@
 偽造罪	wei zao zui	1
 偽沼鼠	wei zhao shu	1
 偽證人	wei zheng ren	1
-偽指刺錨蔘	wei zhi ci mao can	1
+偽指刺錨參	wei zhi ci mao can	1
 偽指環蟲屬	wei zhi huan chong shu	1
 偽痣寶螺	wei zhi bao luo	1
 偽裝成	wei zhuang cheng	1
@@ -295104,7 +295104,7 @@
 主導性	zhu dao xing	1
 主禱文	zhu dao wen	1
 主點	zhu dian	1
-主動蔘	zhu dong can	1
+主動參	zhu dong can	1
 主動脈瓣關閉不全	zhu dong mai ban guan bi bu quan	1
 主動式	zhu dong shi	1
 主發動機噴嘴	zhu fa dong ji pen zui	1
@@ -306271,7 +306271,7 @@
 澳大利亞北京總會	ao da li ya bei jing zong hui	1
 澳大利亞躄魚科	ao da li ya bi yu ke	1
 澳大利亞濱珊瑚	ao da li ya bin shan hu	1
-澳大利亞蔘議院	ao da li ya can yi yuan	1
+澳大利亞參議院	ao da li ya can yi yuan	1
 澳大利亞叉鼻刺魨	ao da li ya cha bi ci tun	1
 澳大利亞的芒果	ao da li ya de mang guo	1
 澳大利亞電信公司	ao da li ya dian xin gong si	1
@@ -309415,7 +309415,7 @@
 拔得	ba de	1
 拔的	ba de	1
 拔地	ba di	1
-拔地蔘天	ba di can tian	1
+拔地參天	ba di can tian	1
 拔地搖山	ba di yao shan	1
 拔地倚天	ba di yi tian	1
 拔丁抽楔	ba ding chou xie	1
@@ -310536,7 +310536,7 @@
 白藋同心	bai di tong xin	1
 白氐	bai di	1
 白底板病	bai di ban bing	1
-白底輻肛蔘	bai di fu gang can	1
+白底輻肛參	bai di fu gang can	1
 白底黑字	bai di hei zi	1
 白地將軍	bai di jiang jun	1
 白地款	bai di kuan	1
@@ -313608,7 +313608,7 @@
 百都鄉	bai dou xiang	1
 百毒	bai du	1
 百毒不侵	bai du bu qin	1
-百毒蔘邪	bai du can xie	1
+百毒參邪	bai du can xie	1
 百毒穿心	bai du chuan xin	1
 百毒髮結	bai du fa jie	1
 百讀	bai du	1
@@ -313838,9 +313838,9 @@
 百花大蝦	bai hua da xia	1
 百花凋零	bai hua diao ling	1
 百花拂穴手	bai hua fu xue shou	1
-百花拂穴手浮花浪蕊蔘悟殘頁	bai hua fu xue shou fu hua lang rui can wu can ye	1
-百花拂穴手浮花浪蕊蔘悟斷篇	bai hua fu xue shou fu hua lang rui can wu duan pian	1
-百花拂穴手浮花浪蕊蔘悟絕章	bai hua fu xue shou fu hua lang rui can wu jue zhang	1
+百花拂穴手浮花浪蕊參悟殘頁	bai hua fu xue shou fu hua lang rui can wu can ye	1
+百花拂穴手浮花浪蕊參悟斷篇	bai hua fu xue shou fu hua lang rui can wu duan pian	1
+百花拂穴手浮花浪蕊參悟絕章	bai hua fu xue shou fu hua lang rui can wu jue zhang	1
 百花拂穴手浮花浪蕊經脈圖殘頁	bai hua fu xue shou fu hua lang rui jing mai tu can ye	1
 百花拂穴手浮花浪蕊人偶圖殘頁	bai hua fu xue shou fu hua lang rui ren ou tu can ye	1
 百花拂穴手浮花浪蕊人偶圖斷篇	bai hua fu xue shou fu hua lang rui ren ou tu duan pian	1
@@ -319745,7 +319745,7 @@
 飽諳世故	bao an shi gu	1
 飽飽	bao bao	1
 飽病	bao bing	1
-飽蔘	bao can	1
+飽參	bao can	1
 飽餐一頓	bao can yi dun	1
 飽嚐	bao chang	1
 飽吃惠州飯	bao chi hui zhou fan	1
@@ -322478,7 +322478,7 @@
 鮑彪	bao biao	1
 鮑伯	bao bo	1
 鮑勃	bao bo	1
-鮑蔘軍	bao can jun	1
+鮑參軍	bao can jun	1
 鮑超	bao chao	1
 鮑徹	bao che	1
 鮑徹山	bao che shan	1
@@ -325726,9 +325726,9 @@
 北面官	bei mian guan	1
 北廟鄉	bei miao xiang	1
 北皿	bei min	1
-北冥劍氣兩儀化形蔘悟殘頁	bei ming jian qi liang yi hua xing can wu can ye	1
-北冥劍氣兩儀化形蔘悟斷篇	bei ming jian qi liang yi hua xing can wu duan pian	1
-北冥劍氣兩儀化形蔘悟絕章	bei ming jian qi liang yi hua xing can wu jue zhang	1
+北冥劍氣兩儀化形參悟殘頁	bei ming jian qi liang yi hua xing can wu can ye	1
+北冥劍氣兩儀化形參悟斷篇	bei ming jian qi liang yi hua xing can wu duan pian	1
+北冥劍氣兩儀化形參悟絕章	bei ming jian qi liang yi hua xing can wu jue zhang	1
 北冥劍氣兩儀化形秘訣殘頁	bei ming jian qi liang yi hua xing mi jue can ye	1
 北冥劍氣兩儀化形秘訣斷篇	bei ming jian qi liang yi hua xing mi jue duan pian	1
 北冥劍氣兩儀化形秘訣絕章	bei ming jian qi liang yi hua xing mi jue jue zhang	1
@@ -325744,8 +325744,8 @@
 北冥劍氣四象輪迴真傳殘頁	bei ming jian qi si xiang lun hui zhen chuan can ye	1
 北冥劍氣四象輪迴真傳斷篇	bei ming jian qi si xiang lun hui zhen chuan duan pian	1
 北冥劍氣四象輪迴真傳絕章	bei ming jian qi si xiang lun hui zhen chuan jue zhang	1
-北冥劍氣太極無極蔘悟殘頁	bei ming jian qi tai ji wu ji can wu can ye	1
-北冥劍氣太極無極蔘悟斷篇	bei ming jian qi tai ji wu ji can wu duan pian	1
+北冥劍氣太極無極參悟殘頁	bei ming jian qi tai ji wu ji can wu can ye	1
+北冥劍氣太極無極參悟斷篇	bei ming jian qi tai ji wu ji can wu duan pian	1
 北冥劍氣太極無極秘訣殘頁	bei ming jian qi tai ji wu ji mi jue can ye	1
 北冥劍氣太極無極秘訣斷篇	bei ming jian qi tai ji wu ji mi jue duan pian	1
 北冥劍氣太極無極秘訣絕章	bei ming jian qi tai ji wu ji mi jue jue zhang	1
@@ -326279,7 +326279,7 @@
 北興農場	bei xing nong chang	1
 北興橋鎮	bei xing qiao zhen	1
 北興鎮	bei xing zhen	1
-北杏蔘地老鴨湯	bei xing can di lao ya tang	1
+北杏參地老鴨湯	bei xing can di lao ya tang	1
 北杏豬肺湯	bei xing zhu fei tang	1
 北匈奴	bei xiong nu	1
 北雄館	bei xiong guan	1
@@ -327853,7 +327853,7 @@
 被裁定為	bei cai ding wei	1
 被採訪人	bei cai fang ren	1
 被採訪者	bei cai fang zhe	1
-被蔘	bei can	1
+被參	bei can	1
 被操	bei cao	1
 被插	bei cha	1
 被查獲	bei cha huo	1
@@ -328534,16 +328534,16 @@
 奔雷槍法穿穴位圖殘頁	ben lei qiang fa chuan xue wei tu can ye	1
 奔雷槍法穿穴位圖斷篇	ben lei qiang fa chuan xue wei tu duan pian	1
 奔雷槍法穿真傳殘頁	ben lei qiang fa chuan zhen chuan can ye	1
-奔雷槍法滅蔘悟斷篇	ben lei qiang fa mie can wu duan pian	1
-奔雷槍法滅蔘悟絕章	ben lei qiang fa mie can wu jue zhang	1
+奔雷槍法滅參悟斷篇	ben lei qiang fa mie can wu duan pian	1
+奔雷槍法滅參悟絕章	ben lei qiang fa mie can wu jue zhang	1
 奔雷槍法滅秘訣殘頁	ben lei qiang fa mie mi jue can ye	1
 奔雷槍法滅秘訣斷篇	ben lei qiang fa mie mi jue duan pian	1
 奔雷槍法滅穴位圖殘頁	ben lei qiang fa mie xue wei tu can ye	1
 奔雷槍法滅註解殘頁	ben lei qiang fa mie zhu jie can ye	1
 奔雷槍法滅註解斷篇	ben lei qiang fa mie zhu jie duan pian	1
 奔雷槍法滅註解絕章	ben lei qiang fa mie zhu jie jue zhang	1
-奔雷槍法突蔘悟斷篇	ben lei qiang fa tu can wu duan pian	1
-奔雷槍法突蔘悟絕章	ben lei qiang fa tu can wu jue zhang	1
+奔雷槍法突參悟斷篇	ben lei qiang fa tu can wu duan pian	1
+奔雷槍法突參悟絕章	ben lei qiang fa tu can wu jue zhang	1
 奔雷槍法突穴位圖殘頁	ben lei qiang fa tu xue wei tu can ye	1
 奔雷槍法突穴位圖斷篇	ben lei qiang fa tu xue wei tu duan pian	1
 奔雷槍法突真傳殘頁	ben lei qiang fa tu zhen chuan can ye	1
@@ -328727,7 +328727,7 @@
 本部長	ben bu zhang	1
 本才	ben cai	1
 本採	ben cai	1
-本蔘	ben can	1
+本參	ben can	1
 本操	ben cao	1
 本草發明	ben cao fa ming	1
 本草黑鴨	ben cao hei ya	1
@@ -334408,7 +334408,7 @@
 編削	bian xue	1
 編譯安裝	bian yi an zhuang	1
 編譯報錯	bian yi bao cuo	1
-編譯蔘數	bian yi can shu	1
+編譯參數	bian yi can shu	1
 編譯成	bian yi cheng	1
 編譯出錯	bian yi chu cuo	1
 編譯處理	bian yi chu li	1
@@ -335051,8 +335051,8 @@
 變兵	bian bing	1
 變跛	bian bo	1
 變裁	bian cai	1
-變蔘	bian can	1
-變蔘函數	bian can han shu	1
+變參	bian can	1
+變參函數	bian can han shu	1
 變察	bian cha	1
 變差	bian cha	1
 變常	bian chang	1
@@ -335563,7 +335563,7 @@
 變則通	bian ze tong	1
 變詐	bian zha	1
 變長編碼	bian chang bian ma	1
-變長蔘數	bian chang can shu	1
+變長參數	bian chang can shu	1
 變招	bian zhao	1
 變這	bian zhe	1
 變着	bian zhe	1
@@ -336265,7 +336265,7 @@
 標撥	biao bo	1
 標駁	biao bo	1
 標採	biao cai	1
-標蔘	biao can	1
+標參	biao can	1
 標叉	biao cha	1
 標徹	biao che	1
 標呈	biao cheng	1
@@ -337799,7 +337799,7 @@
 別王八	bie wang ba	1
 別忘記	bie wang ji	1
 別忘了我	bie wang le wo	1
-別韋蔘軍	bie wei can jun	1
+別韋參軍	bie wei can jun	1
 別韋郎中	bie wei lang zhong	1
 別韋少府	bie wei shao fu	1
 別韋蘇州	bie wei su zhou	1
@@ -341039,7 +341039,7 @@
 波波維奇	bo bo wei qi	1
 波波鄉	bo bo xiang	1
 波布蘭	bo bu lan	1
-波蔘數	bo can shu	1
+波參數	bo can shu	1
 波查	bo cha	1
 波槎	bo cha	1
 波潮	bo chao	1
@@ -344600,7 +344600,7 @@
 不採	bu cai	1
 不採羞自獻	bu cai xiu zi xian	1
 不睬	bu cai	1
-不蔘	bu can	1
+不參	bu can	1
 不慚世上英	bu can shi shang ying	1
 不測之禍	bu ce zhi huo	1
 不測之憂	bu ce zhi you	1
@@ -352641,226 +352641,226 @@
 蔡子民	cai zi min	1
 蔡宗澤	cai zong ze	1
 縩綷	cai zu	1
-蔘拜靖國	can bai jing guo	1
-蔘拜聖嬰	can bai sheng ying	1
-蔘拜聖嬰濕壁畫	can bai sheng ying shi bi hua	1
-蔘拜者	can bai zhe	1
-蔘辦	can ban	1
-蔘榜	can bang	1
+參拜靖國	can bai jing guo	1
+參拜聖嬰	can bai sheng ying	1
+參拜聖嬰濕壁畫	can bai sheng ying shi bi hua	1
+參拜者	can bai zhe	1
+參辦	can ban	1
+參榜	can bang	1
 蔘寶鄉	can bao xiang	1
-蔘保率	can bao lv	1
-蔘保者	can bao zhe	1
+參保率	can bao lv	1
+參保者	can bao zhe	1
 蔘貝肉餃	can bei rou jiao	1
-蔘本	can ben	1
-蔘比電極	can bi dian ji	1
-蔘畢	can bi	1
-蔘編	can bian	1
-蔘變	can bian	1
-蔘變量	can bian liang	1
-蔘表	can biao	1
-蔘秉	can bing	1
-蔘並	can bing	1
-蔘駁	can bo	1
-蔘不斷	can bu duan	1
-蔘不透	can bu tou	1
-蔘部	can bu	1
-蔘蔘	can can	1
-蔘廁	can ce	1
+參本	can ben	1
+參比電極	can bi dian ji	1
+參畢	can bi	1
+參編	can bian	1
+參變	can bian	1
+參變量	can bian liang	1
+參表	can biao	1
+參秉	can bing	1
+參並	can bing	1
+參駁	can bo	1
+參不斷	can bu duan	1
+參不透	can bu tou	1
+參部	can bu	1
+參參	can can	1
+參廁	can ce	1
 蔘茶	can cha	1
-蔘察	can cha	1
-蔘差不一	can cha bu yi	1
-蔘差脆鱗蟲	can cha cui lin chong	1
-蔘差連曲陌	can cha lian qu mo	1
-蔘差十萬人家	can cha shi wan ren jia	1
-蔘差仙女蟲	can cha xian nv chong	1
-蔘差竹	can cha zhu	1
-蔘柴	can chai	1
-蔘柴肝康片	can chai gan kang pian	1
-蔘柴顆粒	can chai ke li	1
-蔘覘	can chan	1
+參察	can cha	1
+參差不一	can cha bu yi	1
+參差脆鱗蟲	can cha cui lin chong	1
+參差連曲陌	can cha lian qu mo	1
+參差十萬人家	can cha shi wan ren jia	1
+參差仙女蟲	can cha xian nv chong	1
+參差竹	can cha zhu	1
+參柴	can chai	1
+參柴肝康片	can chai gan kang pian	1
+參柴顆粒	can chai ke li	1
+參覘	can chan	1
 蔘蟾消解膠囊	can chan xiao jie jiao nang	1
-蔘場	can chang	1
-蔘朝	can chao	1
-蔘撤	can che	1
-蔘辰	can chen	1
-蔘辰卯酉	can chen mao you	1
-蔘辰日月	can chen ri yue	1
-蔘陳	can chen	1
-蔘承	can cheng	1
-蔘乘	can cheng	1
-蔘處	can chu	1
-蔘觸	can chu	1
-蔘捶	can chui	1
-蔘縒	can ci	1
-蔘從	can cong	1
-蔘錯重出	can cuo zhong chu	1
+參場	can chang	1
+參朝	can chao	1
+參撤	can che	1
+參辰	can chen	1
+參辰卯酉	can chen mao you	1
+參辰日月	can chen ri yue	1
+參陳	can chen	1
+參承	can cheng	1
+參乘	can cheng	1
+參處	can chu	1
+參觸	can chu	1
+參捶	can chui	1
+參縒	can ci	1
+參從	can cong	1
+參錯重出	can cuo zhong chu	1
 蔘丹	can dan	1
-蔘彈	can dan	1
-蔘道	can dao	1
-蔘地益腎口服液	can di yi shen kou fu ye	1
-蔘典	can dian	1
-蔘定	can ding	1
-蔘賭	can du	1
-蔘賭者	can du zhe	1
-蔘度	can du	1
-蔘對	can dui	1
-蔘蛾温腎口服液	can e wen shen kou fu ye	1
-蔘貳	can er	1
-蔘伐	can fa	1
-蔘罰	can fa	1
-蔘訪	can fang	1
-蔘訪團	can fang tuan	1
-蔘奉	can feng	1
+參彈	can dan	1
+參道	can dao	1
+參地益腎口服液	can di yi shen kou fu ye	1
+參典	can dian	1
+參定	can ding	1
+參賭	can du	1
+參賭者	can du zhe	1
+參度	can du	1
+參對	can dui	1
+參蛾温腎口服液	can e wen shen kou fu ye	1
+參貳	can er	1
+參伐	can fa	1
+參罰	can fa	1
+參訪	can fang	1
+參訪團	can fang tuan	1
+參奉	can feng	1
 蔘茯膠囊	can fu jiao nang	1
 蔘附	can fu	1
 蔘附強心丸	can fu qiang xin wan	1
 蔘附註射液	can fu zhu she ye	1
-蔘幹	can gan	1
-蔘告	can gao	1
-蔘革	can ge	1
-蔘共	can gong	1
-蔘觀點	can guan dian	1
-蔘觀訪問	can guan fang wen	1
-蔘觀訪問法	can guan fang wen fa	1
-蔘觀記	can guan ji	1
-蔘觀票	can guan piao	1
-蔘觀券	can guan quan	1
-蔘觀人	can guan ren	1
-蔘觀團體	can guan tuan ti	1
-蔘觀學習	can guan xue xi	1
-蔘觀遊覽	can guan you lan	1
-蔘官	can guan	1
-蔘管	can guan	1
-蔘貫	can guan	1
-蔘光	can guang	1
+參幹	can gan	1
+參告	can gao	1
+參革	can ge	1
+參共	can gong	1
+參觀點	can guan dian	1
+參觀訪問	can guan fang wen	1
+參觀訪問法	can guan fang wen fa	1
+參觀記	can guan ji	1
+參觀票	can guan piao	1
+參觀券	can guan quan	1
+參觀人	can guan ren	1
+參觀團體	can guan tuan ti	1
+參觀學習	can guan xue xi	1
+參觀遊覽	can guan you lan	1
+參官	can guan	1
+參管	can guan	1
+參貫	can guan	1
+參光	can guang	1
 蔘歸潤燥搽劑	can gui run zao cha ji	1
 蔘龜補腎口服液	can gui bu shen kou fu ye	1
 蔘龜固本酒	can gui gu ben jiu	1
-蔘軌	can gui	1
+參軌	can gui	1
 蔘桂理中丸	can gui li zhong wan	1
 蔘桂鹿茸丸	can gui lu rong wan	1
 蔘桂再造丸	can gui zai zao wan	1
 蔘果燉瘦肉	can guo dun shou rou	1
 蔘蛤平喘膠囊	can ha ping chuan jiao nang	1
-蔘漢酌金	can han zhuo jin	1
-蔘和	can he	1
-蔘核	can he	1
-蔘賀	can he	1
-蔘橫	can heng	1
-蔘橫斗轉	can heng dou zhuan	1
-蔘衡	can heng	1
-蔘候	can hou	1
-蔘虎	can hu	1
-蔘虎解毒丸	can hu jie du wan	1
-蔘互	can hu	1
+參漢酌金	can han zhuo jin	1
+參和	can he	1
+參核	can he	1
+參賀	can he	1
+參橫	can heng	1
+參橫斗轉	can heng dou zhuan	1
+參衡	can heng	1
+參候	can hou	1
+參虎	can hu	1
+參虎解毒丸	can hu jie du wan	1
+參互	can hu	1
 蔘花茶	can hua cha	1
-蔘華	can hua	1
-蔘畫	can hua	1
-蔘懷	can huai	1
-蔘環毛蚓	can huan mao yin	1
-蔘回	can hui	1
-蔘回斗轉	can hui dou zhuan	1
-蔘會者	can hui zhe	1
-蔘穢	can hui	1
+參華	can hua	1
+參畫	can hua	1
+參懷	can huai	1
+參環毛蚓	can huan mao yin	1
+參回	can hui	1
+參回斗轉	can hui dou zhuan	1
+參會者	can hui zhe	1
+參穢	can hui	1
 蔘藿温腎膠囊	can huo wen shen jiao nang	1
 蔘雞貝餃	can ji bei jiao	1
-蔘稽	can ji	1
-蔘集	can ji	1
-蔘計	can ji	1
-蔘劑	can ji	1
-蔘跡	can ji	1
-蔘加奧運	can jia ao yun	1
-蔘加北京	can jia bei jing	1
-蔘加承兑	can jia cheng dui	1
-蔘加承兑人	can jia cheng dui ren	1
-蔘加鍛鍊	can jia duan lian	1
-蔘加方	can jia fang	1
-蔘加方法	can jia fang fa	1
-蔘加付款人	can jia fu kuan ren	1
-蔘加高考	can jia gao kao	1
-蔘加革命	can jia ge ming	1
-蔘加公司債	can jia gong si zhai	1
-蔘加國	can jia guo	1
-蔘加黑社會性質組織罪	can jia hei she hui xing zhi zu zhi zui	1
-蔘加婚禮	can jia hun li	1
-蔘加勞動	can jia lao dong	1
-蔘加民兵組織	can jia min bing zu zhi	1
-蔘加培訓	can jia pei xun	1
-蔘加人	can jia ren	1
-蔘加騷動	can jia sao dong	1
-蔘加優先股	can jia you xian gu	1
-蔘假	can jia	1
-蔘駕	can jia	1
-蔘檢	can jian	1
-蔘騫	can qian	1
-蔘見公主殿下	can jian gong zhu dian xia	1
-蔘見互照	can jian hu zhao	1
-蔘見注	can jian zhu	1
-蔘見罪狀	can jian zui zhuang	1
-蔘將	can jiang	1
-蔘講	can jiang	1
-蔘膠膠囊	can jiao jiao nang	1
-蔘較	can jiao	1
-蔘詰	can jie	1
-蔘解	can jie	1
-蔘覲	can jin	1
+參稽	can ji	1
+參集	can ji	1
+參計	can ji	1
+參劑	can ji	1
+參跡	can ji	1
+參加奧運	can jia ao yun	1
+參加北京	can jia bei jing	1
+參加承兑	can jia cheng dui	1
+參加承兑人	can jia cheng dui ren	1
+參加鍛鍊	can jia duan lian	1
+參加方	can jia fang	1
+參加方法	can jia fang fa	1
+參加付款人	can jia fu kuan ren	1
+參加高考	can jia gao kao	1
+參加革命	can jia ge ming	1
+參加公司債	can jia gong si zhai	1
+參加國	can jia guo	1
+參加黑社會性質組織罪	can jia hei she hui xing zhi zu zhi zui	1
+參加婚禮	can jia hun li	1
+參加勞動	can jia lao dong	1
+參加民兵組織	can jia min bing zu zhi	1
+參加培訓	can jia pei xun	1
+參加人	can jia ren	1
+參加騷動	can jia sao dong	1
+參加優先股	can jia you xian gu	1
+參假	can jia	1
+參駕	can jia	1
+參檢	can jian	1
+參騫	can qian	1
+參見公主殿下	can jian gong zhu dian xia	1
+參見互照	can jian hu zhao	1
+參見注	can jian zhu	1
+參見罪狀	can jian zui zhuang	1
+參將	can jiang	1
+參講	can jiang	1
+參膠膠囊	can jiao jiao nang	1
+參較	can jiao	1
+參詰	can jie	1
+參解	can jie	1
+參覲	can jin	1
 蔘莖葉皂苷膠囊	can jing ye zao gan jiao nang	1
-蔘井	can jing	1
-蔘究	can jiu	1
-蔘咎	can jiu	1
-蔘據	can ju	1
-蔘決	can jue	1
-蔘訣	can jue	1
-蔘軍事	can jun shi	1
-蔘軍戲	can jun xi	1
-蔘考報	can kao bao	1
-蔘考點	can kao dian	1
-蔘考讀物	can kao du wu	1
-蔘考法	can kao fa	1
-蔘考價	can kao jia	1
-蔘考價格	can kao jia ge	1
-蔘考價值	can kao jia zhi	1
-蔘考碼	can kao ma	1
-蔘考人	can kao ren	1
-蔘考室	can kao shi	1
-蔘考書籍	can kao shu ji	1
-蔘考特藏	can kao te cang	1
-蔘考圖書館館長	can kao tu shu guan guan zhang	1
-蔘考文檔	can kao wen dang	1
-蔘考系	can kao xi	1
-蔘考性	can kao xing	1
-蔘考圓	can kao yuan	1
-蔘考幀	can kao zhen	1
-蔘考之資	can kao zhi zi	1
-蔘考值	can kao zhi	1
-蔘考資源	can kao zi yuan	1
-蔘考字	can kao zi	1
-蔘客	can ke	1
-蔘叩	can kou	1
-蔘扣	can kou	1
-蔘款	can kuan	1
+參井	can jing	1
+參究	can jiu	1
+參咎	can jiu	1
+參據	can ju	1
+參決	can jue	1
+參訣	can jue	1
+參軍事	can jun shi	1
+參軍戲	can jun xi	1
+參考報	can kao bao	1
+參考點	can kao dian	1
+參考讀物	can kao du wu	1
+參考法	can kao fa	1
+參考價	can kao jia	1
+參考價格	can kao jia ge	1
+參考價值	can kao jia zhi	1
+參考碼	can kao ma	1
+參考人	can kao ren	1
+參考室	can kao shi	1
+參考書籍	can kao shu ji	1
+參考特藏	can kao te cang	1
+參考圖書館館長	can kao tu shu guan guan zhang	1
+參考文檔	can kao wen dang	1
+參考系	can kao xi	1
+參考性	can kao xing	1
+參考圓	can kao yuan	1
+參考幀	can kao zhen	1
+參考之資	can kao zhi zi	1
+參考值	can kao zhi	1
+參考資源	can kao zi yuan	1
+參考字	can kao zi	1
+參客	can ke	1
+參叩	can kou	1
+參扣	can kou	1
+參款	can kuan	1
 蔘坤養血顆粒	can kun yang xue ke li	1
 蔘坤養血口服液	can kun yang xue kou fu ye	1
-蔘狼羌	can lang qiang	1
+參狼羌	can lang qiang	1
 蔘類保健品	can lei bao jian pin	1
-蔘禮	can li	1
-蔘麗	can li	1
-蔘儷	can li	1
+參禮	can li	1
+參麗	can li	1
+參儷	can li	1
 蔘連	can lian	1
 蔘蓮膠囊	can lian jiao nang	1
-蔘聯會	can lian hui	1
-蔘兩	can liang	1
-蔘量放大器	can liang fang da qi	1
-蔘量混頻器	can liang hun pin qi	1
-蔘僚	can liao	1
-蔘寥	can liao	1
-蔘寥子	can liao zi	1
-蔘寮	can liao	1
-蔘列	can lie	1
-蔘林肝康膠囊	can lin gan kang jiao nang	1
-蔘靈	can ling	1
-蔘靈肝康膠囊	can ling gan kang jiao nang	1
-蔘靈藍膠囊	can ling lan jiao nang	1
+參聯會	can lian hui	1
+參兩	can liang	1
+參量放大器	can liang fang da qi	1
+參量混頻器	can liang hun pin qi	1
+參僚	can liao	1
+參寥	can liao	1
+參寥子	can liao zi	1
+參寮	can liao	1
+參列	can lie	1
+參林肝康膠囊	can lin gan kang jiao nang	1
+參靈	can ling	1
+參靈肝康膠囊	can ling gan kang jiao nang	1
+參靈藍膠囊	can ling lan jiao nang	1
 蔘苓	can ling	1
 蔘苓白朮膠囊	can ling bai shu jiao nang	1
 蔘苓白朮顆粒	can ling bai shu ke li	1
@@ -352875,46 +352875,46 @@
 蔘苓健脾胃顆粒	can ling jian pi wei ke li	1
 蔘苓口服液	can ling kou fu ye	1
 蔘苓飲子	can ling yin zi	1
-蔘領	can ling	1
+參領	can ling	1
 蔘龍蟲草益腎膠囊	can long chong cao yi shen jiao nang	1
 蔘龍寧心膠囊	can long ning xin jiao nang	1
-蔘鏤	can lou	1
-蔘漏	can lou	1
+參鏤	can lou	1
+參漏	can lou	1
 蔘鹿扶正膠囊	can lu fu zheng jiao nang	1
-蔘録	can lu	1
-蔘亂	can luan	1
-蔘論	can lun	1
-蔘慮	can lv	1
+參録	can lu	1
+參亂	can luan	1
+參論	can lun	1
+參慮	can lv	1
 蔘麥	can mai	1
 蔘麥六味丸	can mai liu wei wan	1
 蔘麥團魚	can mai tuan yu	1
 蔘麥雪梨瘦肉湯	can mai xue li shou rou tang	1
 蔘麥注射液	can mai zhu she ye	1
-蔘昴	can mao	1
+參昴	can mao	1
 蔘梅養胃顆粒	can mei yang wei ke li	1
-蔘美集團	can mei ji tuan	1
-蔘牟子	can mou zi	1
-蔘謀處	can mou chu	1
-蔘謀軍士	can mou jun shi	1
-蔘謀總部	can mou zong bu	1
-蔘謀總長	can mou zong chang	1
-蔘木空谷	can mu kong gu	1
-蔘南星口服液	can nan xing kou fu ye	1
-蔘內	can nei	1
-蔘內鄉	can nei xiang	1
-蔘偶	can ou	1
-蔘耦	can ou	1
-蔘拍者	can pai zhe	1
-蔘陪	can pei	1
-蔘配	can pei	1
-蔘闢	can pi	1
+參美集團	can mei ji tuan	1
+參牟子	can mou zi	1
+參謀處	can mou chu	1
+參謀軍士	can mou jun shi	1
+參謀總部	can mou zong bu	1
+參謀總長	can mou zong chang	1
+參木空谷	can mu kong gu	1
+參南星口服液	can nan xing kou fu ye	1
+參內	can nei	1
+參內鄉	can nei xiang	1
+參偶	can ou	1
+參耦	can ou	1
+參拍者	can pai zhe	1
+參陪	can pei	1
+參配	can pei	1
+參闢	can pi	1
 蔘片	can pian	1
-蔘評者	can ping zhe	1
-蔘婆千子	can po qian zi	1
-蔘破	can po	1
+參評者	can ping zhe	1
+參婆千子	can po qian zi	1
+參破	can po	1
 蔘七腦康膠囊	can qi nao kang jiao nang	1
 蔘七心疏膠囊	can qi xin shu jiao nang	1
-蔘齊	can qi	1
+參齊	can qi	1
 蔘芪	can qi	1
 蔘芪阿膠膠囊	can qi a jiao jiao nang	1
 蔘芪燉白鳳	can qi dun bai feng	1
@@ -352947,20 +352947,20 @@
 蔘芪雲芝顆粒	can qi yun zhi ke li	1
 蔘耆救逆湯	can qi jiu ni tang	1
 蔘耆完胞湯	can qi wan bao tang	1
-蔘旗	can qi	1
+參旗	can qi	1
 蔘杞杜仲丸	can qi du zhong wan	1
 蔘杞顆粒	can qi ke li	1
 蔘杞益腦膠囊	can qi yi nao jiao nang	1
-蔘契	can qi	1
-蔘前倚衡	can qian yi heng	1
-蔘卿	can qing	1
-蔘請	can qing	1
-蔘求	can qiu	1
-蔘取	can qu	1
-蔘勸	can quan	1
-蔘人	can ren	1
-蔘任	can ren	1
-蔘戎	can rong	1
+參契	can qi	1
+參前倚衡	can qian yi heng	1
+參卿	can qing	1
+參請	can qing	1
+參求	can qiu	1
+參取	can qu	1
+參勸	can quan	1
+參人	can ren	1
+參任	can ren	1
+參戎	can rong	1
 蔘茸阿膠	can rong a jiao	1
 蔘茸白鳳丸	can rong bai feng wan	1
 蔘茸保胎丸	can rong bao tai wan	1
@@ -352990,212 +352990,212 @@
 蔘茸益腎膠囊	can rong yi shen jiao nang	1
 蔘茸珍寶片	can rong zhen bao pian	1
 蔘茸壯骨丸	can rong zhuang gu wan	1
-蔘入	can ru	1
-蔘賽車	can sai che	1
-蔘賽費	can sai fei	1
-蔘賽國	can sai guo	1
-蔘賽馬	can sai ma	1
-蔘賽片	can sai pian	1
-蔘賽權	can sai quan	1
-蔘賽須知	can sai xu zhi	1
-蔘賽選手	can sai xuan shou	1
-蔘賽證	can sai zheng	1
-蔘三	can san	1
-蔘色	can se	1
-蔘山	can shan	1
-蔘山村	can shan cun	1
-蔘商之虞	can shang zhi yu	1
-蔘上	can shang	1
+參入	can ru	1
+參賽車	can sai che	1
+參賽費	can sai fei	1
+參賽國	can sai guo	1
+參賽馬	can sai ma	1
+參賽片	can sai pian	1
+參賽權	can sai quan	1
+參賽須知	can sai xu zhi	1
+參賽選手	can sai xuan shou	1
+參賽證	can sai zheng	1
+參三	can san	1
+參色	can se	1
+參山	can shan	1
+參山村	can shan cun	1
+參商之虞	can shang zhi yu	1
+參上	can shang	1
 蔘芍片	can shao pian	1
-蔘涉	can she	1
-蔘省	can sheng	1
-蔘省乎已	can sheng hu yi	1
-蔘聖	can sheng	1
-蔘石	can shi	1
-蔘實	can shi	1
-蔘市	can shi	1
-蔘事官	can shi guan	1
-蔘試	can shi	1
-蔘樞	can shu	1
-蔘署	can shu	1
+參涉	can she	1
+參省	can sheng	1
+參省乎已	can sheng hu yi	1
+參聖	can sheng	1
+參石	can shi	1
+參實	can shi	1
+參市	can shi	1
+參事官	can shi guan	1
+參試	can shi	1
+參樞	can shu	1
+參署	can shu	1
 蔘術	can shu	1
 蔘術地黃膏	can shu di huang gao	1
 蔘術膠囊	can shu jiao nang	1
-蔘數綁定	can shu bang ding	1
-蔘數比較	can shu bi jiao	1
-蔘數表	can shu biao	1
-蔘數測試	can shu ce shi	1
-蔘數傳遞	can shu chuan di	1
-蔘數簇	can shu cu	1
-蔘數方程	can shu fang cheng	1
-蔘數估計	can shu gu ji	1
-蔘數化	can shu hua	1
-蔘數化類型	can shu hua lei xing	1
-蔘數化設計	can shu hua she ji	1
-蔘數集總	can shu ji zong	1
-蔘數檢驗	can shu jian yan	1
-蔘數解析	can shu jie xi	1
-蔘數井	can shu jing	1
-蔘數空間	can shu kong jian	1
-蔘數塊	can shu kuai	1
-蔘數類型	can shu lei xing	1
-蔘數配置	can shu pei zhi	1
-蔘數設置	can shu she zhi	1
-蔘數説明	can shu shuo ming	1
-蔘數文件	can shu wen jian	1
-蔘數詳解	can shu xiang jie	1
-蔘數信息	can shu xin xi	1
-蔘數尋優	can shu xun you	1
-蔘數優化	can shu you hua	1
-蔘數約束	can shu yue shu	1
-蔘伺	can si	1
+參數綁定	can shu bang ding	1
+參數比較	can shu bi jiao	1
+參數表	can shu biao	1
+參數測試	can shu ce shi	1
+參數傳遞	can shu chuan di	1
+參數簇	can shu cu	1
+參數方程	can shu fang cheng	1
+參數估計	can shu gu ji	1
+參數化	can shu hua	1
+參數化類型	can shu hua lei xing	1
+參數化設計	can shu hua she ji	1
+參數集總	can shu ji zong	1
+參數檢驗	can shu jian yan	1
+參數解析	can shu jie xi	1
+參數井	can shu jing	1
+參數空間	can shu kong jian	1
+參數塊	can shu kuai	1
+參數類型	can shu lei xing	1
+參數配置	can shu pei zhi	1
+參數設置	can shu she zhi	1
+參數説明	can shu shuo ming	1
+參數文件	can shu wen jian	1
+參數詳解	can shu xiang jie	1
+參數信息	can shu xin xi	1
+參數尋優	can shu xun you	1
+參數優化	can shu you hua	1
+參數約束	can shu yue shu	1
+參伺	can si	1
 蔘松養心膠囊	can song yang xin jiao nang	1
 蔘蘇感冒片	can su gan mao pian	1
 蔘蘇丸	can su wan	1
-蔘隨	can sui	1
-蔘孫	can sun	1
-蔘孫被弄瞎眼睛	can sun bei nong xia yan jing	1
+參隨	can sui	1
+參孫	can sun	1
+參孫被弄瞎眼睛	can sun bei nong xia yan jing	1
 蔘鎖巴戟口服液	can suo ba ji kou fu ye	1
-蔘覃	can tan	1
-蔘譚	can tan	1
-蔘潭	can tan	1
-蔘堂	can tang	1
-蔘討	can tao	1
-蔘提	can ti	1
-蔘題	can ti	1
-蔘體	can ti	1
-蔘天貳地	can tian er di	1
-蔘天兩地	can tian liang di	1
-蔘天松	can tian song	1
-蔘聽	can ting	1
-蔘同	can tong	1
-蔘頭	can tou	1
-蔘透機關	can tou ji guan	1
-蔘圖	can tu	1
-蔘團	can tuan	1
-蔘團者	can tuan zhe	1
-蔘玩	can wan	1
+參覃	can tan	1
+參譚	can tan	1
+參潭	can tan	1
+參堂	can tang	1
+參討	can tao	1
+參提	can ti	1
+參題	can ti	1
+參體	can ti	1
+參天貳地	can tian er di	1
+參天兩地	can tian liang di	1
+參天松	can tian song	1
+參聽	can ting	1
+參同	can tong	1
+參頭	can tou	1
+參透機關	can tou ji guan	1
+參圖	can tu	1
+參團	can tuan	1
+參團者	can tuan zhe	1
+參玩	can wan	1
 蔘王	can wang	1
-蔘望	can wang	1
-蔘微	can wei	1
+參望	can wang	1
+參微	can wei	1
 蔘味	can wei	1
-蔘問	can wen	1
-蔘撾	can wo	1
-蔘五	can wu	1
-蔘伍	can wu	1
-蔘伍不調	can wu bu tiao	1
-蔘伍錯綜	can wu cuo zong	1
-蔘伍錯縱	can wu cuo zong	1
+參問	can wen	1
+參撾	can wo	1
+參五	can wu	1
+參伍	can wu	1
+參伍不調	can wu bu tiao	1
+參伍錯綜	can wu cuo zong	1
+參伍錯縱	can wu cuo zong	1
 蔘仙升脈口服液	can xian sheng mai kou fu ye	1
-蔘餉	can xiang	1
-蔘校	can xiao	1
-蔘謝	can xie	1
-蔘燮	can xie	1
-蔘星	can xing	1
+參餉	can xiang	1
+參校	can xiao	1
+參謝	can xie	1
+參燮	can xie	1
+參星	can xing	1
 蔘芎葡萄糖注射液	can xiong pu tao tang zhu she ye	1
-蔘雄温陽膠囊	can xiong wen yang jiao nang	1
-蔘宿	can xiu	1
-蔘宿七	can xiu qi	1
+參雄温陽膠囊	can xiong wen yang jiao nang	1
+參宿	can xiu	1
+參宿七	can xiu qi	1
 蔘須	can xu	1
-蔘虛	can xu	1
-蔘墟	can xu	1
-蔘序	can xu	1
-蔘玄	can xuan	1
-蔘選率	can xuan lv	1
-蔘選人	can xuan ren	1
-蔘選者	can xuan zhe	1
-蔘學	can xue	1
-蔘學率	can xue lv	1
-蔘尋	can xun	1
-蔘訓者	can xun zhe	1
-蔘言	can yan	1
-蔘驗	can yan	1
+參虛	can xu	1
+參墟	can xu	1
+參序	can xu	1
+參玄	can xuan	1
+參選率	can xuan lv	1
+參選人	can xuan ren	1
+參選者	can xuan zhe	1
+參學	can xue	1
+參學率	can xue lv	1
+參尋	can xun	1
+參訓者	can xun zhe	1
+參言	can yan	1
+參驗	can yan	1
 蔘陽膠囊	can yang jiao nang	1
-蔘野	can ye	1
-蔘一	can yi	1
-蔘一膠囊	can yi jiao nang	1
-蔘夷	can yi	1
-蔘疑	can yi	1
-蔘議員海扇蛤	can yi yuan hai shan ha	1
-蔘議院財政委員會	can yi yuan cai zheng wei yuan hui	1
-蔘議院銀行委員會	can yi yuan yin hang wei yuan hui	1
-蔘議長	can yi zhang	1
-蔘詣	can yi	1
-蔘用	can yong	1
-蔘宥	can you	1
-蔘輿	can yu	1
-蔘與度	can yu du	1
-蔘與方	can yu fang	1
-蔘與感	can yu gan	1
-蔘與競爭	can yu jing zheng	1
-蔘與率	can yu lv	1
-蔘與面	can yu mian	1
-蔘與人	can yu ren	1
-蔘與式	can yu shi	1
-蔘與型	can yu xing	1
-蔘與制	can yu zhi	1
-蔘予	can yu	1
-蔘語	can yu	1
-蔘預	can yu	1
-蔘豫	can yu	1
-蔘苑益氣補腎膠囊	can yuan yi qi bu shen jiao nang	1
-蔘雜	can za	1
-蔘贊處	can zan chu	1
-蔘贊大臣	can zan da chen	1
+參野	can ye	1
+參一	can yi	1
+參一膠囊	can yi jiao nang	1
+參夷	can yi	1
+參疑	can yi	1
+參議員海扇蛤	can yi yuan hai shan ha	1
+參議院財政委員會	can yi yuan cai zheng wei yuan hui	1
+參議院銀行委員會	can yi yuan yin hang wei yuan hui	1
+參議長	can yi zhang	1
+參詣	can yi	1
+參用	can yong	1
+參宥	can you	1
+參輿	can yu	1
+參與度	can yu du	1
+參與方	can yu fang	1
+參與感	can yu gan	1
+參與競爭	can yu jing zheng	1
+參與率	can yu lv	1
+參與面	can yu mian	1
+參與人	can yu ren	1
+參與式	can yu shi	1
+參與型	can yu xing	1
+參與制	can yu zhi	1
+參予	can yu	1
+參語	can yu	1
+參預	can yu	1
+參豫	can yu	1
+參苑益氣補腎膠囊	can yuan yi qi bu shen jiao nang	1
+參雜	can za	1
+參贊處	can zan chu	1
+參贊大臣	can zan da chen	1
 蔘棗健腦口服液	can zao jian nao kou fu ye	1
-蔘擇	can ze	1
-蔘展辦法	can zhan ban fa	1
-蔘展國	can zhan guo	1
-蔘展人	can zhan ren	1
-蔘展團	can zhan tuan	1
-蔘展者	can zhan zhe	1
-蔘展指南	can zhan zhi nan	1
-蔘戰案	can zhan an	1
-蔘戰部隊	can zhan bu dui	1
-蔘戰國	can zhan guo	1
-蔘戰軍	can zhan jun	1
-蔘戰者	can zhan zhe	1
-蔘掌	can zhang	1
-蔘照本	can zhao ben	1
-蔘照單位	can zhao dan wei	1
-蔘照公務員法	can zhao gong wu yuan fa	1
-蔘照卡	can zhao ka	1
-蔘照完整性	can zhao wan zheng xing	1
-蔘照性	can zhao xing	1
-蔘謫	can zhe	1
+參擇	can ze	1
+參展辦法	can zhan ban fa	1
+參展國	can zhan guo	1
+參展人	can zhan ren	1
+參展團	can zhan tuan	1
+參展者	can zhan zhe	1
+參展指南	can zhan zhi nan	1
+參戰案	can zhan an	1
+參戰部隊	can zhan bu dui	1
+參戰國	can zhan guo	1
+參戰軍	can zhan jun	1
+參戰者	can zhan zhe	1
+參掌	can zhang	1
+參照本	can zhao ben	1
+參照單位	can zhao dan wei	1
+參照公務員法	can zhao gong wu yuan fa	1
+參照卡	can zhao ka	1
+參照完整性	can zhao wan zheng xing	1
+參照性	can zhao xing	1
+參謫	can zhe	1
 蔘赭培氣湯	can zhe pei qi tang	1
 蔘赭鎮氣湯	can zhe zhen qi tang	1
-蔘蒸鱔段	can zheng shan duan	1
-蔘正	can zheng	1
-蔘證	can zheng	1
-蔘政衚衕	can zheng hu tong	1
-蔘政會	can zheng hui	1
-蔘政權	can zheng quan	1
-蔘政員	can zheng yuan	1
-蔘知	can zhi	1
-蔘知政事	can zhi zheng shi	1
-蔘直	can zhi	1
-蔘志膠囊	can zhi jiao nang	1
-蔘質	can zhi	1
-蔘治	can zhi	1
-蔘眾	can zhong	1
-蔘眾兩院	can zhong liang yuan	1
+參蒸鱔段	can zheng shan duan	1
+參正	can zheng	1
+參證	can zheng	1
+參政衚衕	can zheng hu tong	1
+參政會	can zheng hui	1
+參政權	can zheng quan	1
+參政員	can zheng yuan	1
+參知	can zhi	1
+參知政事	can zhi zheng shi	1
+參直	can zhi	1
+參志膠囊	can zhi jiao nang	1
+參質	can zhi	1
+參治	can zhi	1
+參眾	can zhong	1
+參眾兩院	can zhong liang yuan	1
 蔘竹精顆粒	can zhu jing ke li	1
-蔘逐	can zhu	1
-蔘注	can zhu	1
-蔘撰	can zhuan	1
-蔘綴	can zhui	1
-蔘諮	can zi	1
-蔘資	can zi	1
-蔘諮	can zi	1
-蔘綜	can zong	1
-蔘蹤	can zong	1
-蔘總	can zong	1
-蔘奏	can zou	1
-蔘纂	can zuan	1
-蔘左	can zuo	1
-蔘佐	can zuo	1
-蔘坐	can zuo	1
+參逐	can zhu	1
+參注	can zhu	1
+參撰	can zhuan	1
+參綴	can zhui	1
+參諮	can zi	1
+參資	can zi	1
+參諮	can zi	1
+參綜	can zong	1
+參蹤	can zong	1
+參總	can zong	1
+參奏	can zou	1
+參纂	can zuan	1
+參左	can zuo	1
+參佐	can zuo	1
+參坐	can zuo	1
 驂鑣	can biao	1
 驂驂	can can	1
 驂乘	can cheng	1
@@ -353837,7 +353837,7 @@
 蠶寶寶	can bao bao	1
 蠶匾	can bian	1
 蠶箔	can bo	1
-蠶蔘健脾顆粒	can can jian pi ke li	1
+蠶參健脾顆粒	can can jian pi ke li	1
 蠶池	can chi	1
 蠶綢	can chou	1
 蠶槌	can chui	1
@@ -355298,7 +355298,7 @@
 曹伯純	cao bo chun	1
 曹不興	cao bu xing	1
 曹埠鎮	cao bu zhen	1
-曹蔘	cao can	1
+曹參	cao can	1
 曹燦	cao can	1
 曹倉	cao cang	1
 曹操傳	cao cao chuan	1
@@ -355940,7 +355940,7 @@
 草安	cao an	1
 草菴	cao an	1
 草菴歌	cao an ge	1
-草菴歌蔘同契	cao an ge can tong qi	1
+草菴歌參同契	cao an ge can tong qi	1
 草菴鄉	cao an xiang	1
 草跋	cao ba	1
 草壩	cao ba	1
@@ -355965,7 +355965,7 @@
 草埠湖	cao bu hu	1
 草埠湖鎮	cao bu hu zhen	1
 草蔀	cao bu	1
-草蔘	cao can	1
+草參	cao can	1
 草倉路	cao cang lu	1
 草草杯盤供笑語	cao cao bei pan gong xiao yu	1
 草草不恭	cao cao bu gong	1
@@ -357267,7 +357267,7 @@
 筞蹇	ce jian	1
 箣竹	ce zhu	1
 岑寶山	cen bao shan	1
-岑蔘磧中作	cen can qi zhong zuo	1
+岑參磧中作	cen can qi zhong zuo	1
 岑城鎮	cen cheng zhen	1
 岑川鎮	cen chuan zhen	1
 岑鳳環	cen feng huan	1
@@ -357481,8 +357481,8 @@
 曾不事農桑	ceng bu shi nong sang	1
 曾不知老之將至	ceng bu zhi lao zhi jiang zhi	1
 曾布	ceng bu	1
-曾蔘豈是殺人者	ceng can qi shi sha ren zhe	1
-曾蔘殺人	ceng can sha ren	1
+曾參豈是殺人者	ceng can qi shi sha ren zhe	1
+曾參殺人	ceng can sha ren	1
 曾燦	ceng can	1
 曾燦燈	ceng can deng	1
 曾成鋼	ceng cheng gang	1
@@ -358465,7 +358465,7 @@
 查布爾	cha bu er	1
 查布爾省	cha bu er sheng	1
 查布蘇木	cha bu su mu	1
-查蔘	cha can	1
+查參	cha can	1
 查餐廳	cha can ting	1
 查查	cha cha	1
 查查波亞斯	cha cha bo ya si	1
@@ -359093,7 +359093,7 @@
 差不遠	cha bu yuan	1
 差布	cha bu	1
 差猜	cha cai	1
-差蔘	cha can	1
+差參	cha can	1
 差操	cha cao	1
 差差	cha cha	1
 差承	cha cheng	1
@@ -361679,8 +361679,8 @@
 常不肯	chang bu ken	1
 常才	chang cai	1
 常材	chang cai	1
-常蔘	chang can	1
-常蔘官	chang can guan	1
+常參	chang can	1
+常參官	chang can guan	1
 常操	chang cao	1
 常插梅花醉	chang cha mei hua zui	1
 常柴	chang chai	1
@@ -361942,7 +361942,7 @@
 常明燈	chang ming deng	1
 常明芳	chang ming fang	1
 常模	chang mo	1
-常模蔘照測驗	chang mo can zhao ce yan	1
+常模參照測驗	chang mo can zhao ce yan	1
 常墨涵	chang mo han	1
 常默衣	chang mo yi	1
 常能	chang neng	1
@@ -362229,7 +362229,7 @@
 常庸	chang yong	1
 常用標籤	chang yong biao qian	1
 常用表格	chang yong biao ge	1
-常用蔘考書	chang yong can kao shu	1
+常用參考書	chang yong can kao shu	1
 常用操作	chang yong cao zuo	1
 常用插件	chang yong cha jian	1
 常用查詢	chang yong cha xun	1
@@ -364045,8 +364045,8 @@
 朝簿廳	chao bu ting	1
 朝採	chao cai	1
 朝彩	chao cai	1
-朝蔘	chao can	1
-朝蔘暮禮	chao can mu li	1
+朝參	chao can	1
+朝參暮禮	chao can mu li	1
 朝驂	chao can	1
 朝餐	chao can	1
 朝餐是草根	chao can shi cao gen	1
@@ -366575,7 +366575,7 @@
 塵濁	chen zhuo	1
 塵緇	chen zi	1
 塵滓	chen zi	1
-辰蔘	chen can	1
+辰參	chen can	1
 辰昌路	chen chang lu	1
 辰達北路	chen da bei lu	1
 辰地	chen di	1
@@ -369303,8 +369303,8 @@
 晨安	chen an	1
 晨報訊	chen bao xun	1
 晨步	chen bu	1
-晨蔘暮禮	chen can mu li	1
-晨蔘暮省	chen can mu sheng	1
+晨參暮禮	chen can mu li	1
+晨參暮省	chen can mu sheng	1
 晨飡	chen can	1
 晨餐	chen can	1
 晨操	chen cao	1
@@ -375398,7 +375398,7 @@
 赤膊船	chi bo chuan	1
 赤膊嶺之戰	chi bo ling zhi zhan	1
 赤布張湖	chi bu zhang hu	1
-赤蔘	chi can	1
+赤參	chi can	1
 赤草	chi cao	1
 赤側	chi ce	1
 赤查	chi cha	1
@@ -377069,7 +377069,7 @@
 蟲草膠囊	chong cao jiao nang	1
 蟲草聚元露	chong cao ju yuan lu	1
 蟲草菌絲體膠囊	chong cao jun si ti jiao nang	1
-蟲草芪蔘膠囊	chong cao qi can jiao nang	1
+蟲草芪參膠囊	chong cao qi can jiao nang	1
 蟲草杞芝顆粒	chong cao qi zhi ke li	1
 蟲草汽鍋雞	chong cao qi guo ji	1
 蟲草清肺膠囊	chong cao qing fei jiao nang	1
@@ -378966,7 +378966,7 @@
 出材	chu cai	1
 出材率	chu cai lv	1
 出彩兒	chu cai er	1
-出蔘	chu can	1
+出參	chu can	1
 出倉	chu cang	1
 出操課	chu cao ke	1
 出槽	chu cao	1
@@ -379144,7 +379144,7 @@
 出海初弄色	chu hai chu nong se	1
 出海打魚	chu hai da yu	1
 出汗多	chu han duo	1
-出行蔘考	chu xing can kao	1
+出行參考	chu xing can kao	1
 出行分佈	chu xing fen bu	1
 出行復悠悠	chu xing fu you you	1
 出行生成	chu xing sheng cheng	1
@@ -382964,7 +382964,7 @@
 傳不到	chuan bu dao	1
 傳菜	chuan cai	1
 傳菜員	chuan cai yuan	1
-傳蔘數	chuan can shu	1
+傳參數	chuan can shu	1
 傳湌	chuan can	1
 傳餐	chuan can	1
 傳槽病	chuan cao bing	1
@@ -383012,7 +383012,7 @@
 傳燈無上師	chuan deng wu shang shi	1
 傳鐙	chuan deng	1
 傳遞閉包	chuan di bi bao	1
-傳遞蔘數	chuan di can shu	1
+傳遞參數	chuan di can shu	1
 傳遞窗	chuan di chuang	1
 傳遞對象	chuan di dui xiang	1
 傳遞函數	chuan di han shu	1
@@ -383507,7 +383507,7 @@
 傳之七十有二代	chuan zhi qi shi you er dai	1
 傳之其人	chuan zhi qi ren	1
 傳卮	chuan zhi	1
-傳值蔘數	chuan zhi can shu	1
+傳值參數	chuan zhi can shu	1
 傳旨	chuan zhi	1
 傳指	chuan zhi	1
 傳至	chuan zhi	1
@@ -384654,7 +384654,7 @@
 吹遍	chui bian	1
 吹簸	chui bo	1
 吹不散眉彎	chui bu san mei wan	1
-吹蔘差兮誰思	chui can cha xi shui si	1
+吹參差兮誰思	chui can cha xi shui si	1
 吹唱	chui chang	1
 吹塵	chui chen	1
 吹成	chui cheng	1
@@ -387595,7 +387595,7 @@
 辭山不忍聽	ci shan bu ren ting	1
 辭手	ci shou	1
 辭受	ci shou	1
-辭書蔘考	ci shu can kao	1
+辭書參考	ci shu can kao	1
 辭説	ci shuo	1
 辭訟	ci song	1
 辭訴	ci su	1
@@ -393233,7 +393233,7 @@
 打採	da cai	1
 打彩	da cai	1
 打菜	da cai	1
-打蔘	da can	1
+打參	da can	1
 打慘	da can	1
 打蒼蠅	da cang ying	1
 打草	da cao	1
@@ -394569,9 +394569,9 @@
 大菜市	da cai shi	1
 大菜園	da cai yuan	1
 大蔡	da cai	1
-大蔘	da can	1
-大蔘考	da can kao	1
-大蔘林藥店	da can lin yao dian	1
+大參	da can	1
+大參考	da can kao	1
+大參林藥店	da can lin yao dian	1
 大餐房	da can fang	1
 大餐間	da can jian	1
 大蠶	da can	1
@@ -396871,7 +396871,7 @@
 大理州	da li zhou	1
 大鯉魚	da li yu	1
 大力補	da li bu	1
-大力蔘	da li can	1
+大力參	da li can	1
 大力成全	da li cheng quan	1
 大力弘揚	da li hong yang	1
 大力衚衕	da li hu tong	1
@@ -401726,7 +401726,7 @@
 帶不帶	dai bu dai	1
 帶材	dai cai	1
 帶彩	dai cai	1
-帶蔘數	dai can shu	1
+帶參數	dai can shu	1
 帶操	dai cao	1
 帶場	dai chang	1
 帶持	dai chi	1
@@ -401763,7 +401763,7 @@
 帶毒者	dai du zhe	1
 帶犢	dai du	1
 帶肚子	dai du zi	1
-帶隊蔘加	dai dui can jia	1
+帶隊參加	dai dui can jia	1
 帶多	dai duo	1
 帶兒	dai er	1
 帶髮修行	dai fa xiu xing	1
@@ -401920,7 +401920,7 @@
 帶徒	dai tu	1
 帶徒弟	dai tu di	1
 帶團	dai tuan	1
-帶團蔘加	dai tuan can jia	1
+帶團參加	dai tuan can jia	1
 帶團建	dai tuan jian	1
 帶外數據	dai wai shu ju	1
 帶往	dai wang	1
@@ -402763,7 +402763,7 @@
 黛青	dai qing	1
 黛壤	dai rang	1
 黛色	dai se	1
-黛色蔘天二千尺	dai se can tian er qian chi	1
+黛色參天二千尺	dai se can tian er qian chi	1
 黛絲	dai si	1
 黛耜	dai si	1
 黛瓦	dai wa	1
@@ -403293,7 +403293,7 @@
 丹陽郡	dan yang jun	1
 丹陽林場	dan yang lin chang	1
 丹陽路	dan yang lu	1
-丹陽送韋蔘軍	dan yang song wei can jun	1
+丹陽送韋參軍	dan yang song wei can jun	1
 丹陽縣	dan yang xian	1
 丹陽鎮	dan yang zhen	1
 丹藥大亨	dan yao da heng	1
@@ -405274,7 +405274,7 @@
 彈不來	dan bu lai	1
 彈不虛發	dan bu xu fa	1
 彈布爾	dan bu er	1
-彈蔘	dan can	1
+彈參	dan can	1
 彈搊	dan chou	1
 彈出菜單	tan chu cai dan	1
 彈出層	tan chu ceng	1
@@ -409433,7 +409433,7 @@
 得財買放	de cai mai fang	1
 得采	de cai	1
 得彩	de cai	1
-得蔘	de can	1
+得參	de can	1
 得策	de ce	1
 得差	de cha	1
 得償	de chang	1
@@ -409706,7 +409706,7 @@
 得勝鄉	de sheng xiang	1
 得勝鎮	de sheng zhen	1
 得失安之於數	de shi an zhi yu shu	1
-得失蔘半	de shi can ban	1
+得失參半	de shi can ban	1
 得失寸心知	de shi cun xin zhi	1
 得失球	de shi qiu	1
 得失榮枯	de shi rong ku	1
@@ -414960,7 +414960,7 @@
 地理綜合	di li zong he	1
 地理阻障	di li zu zhang	1
 地理座標	di li zuo biao	1
-地理座標蔘考系	di li zuo biao can kao xi	1
+地理座標參考系	di li zuo biao can kao xi	1
 地理座標網	di li zuo biao wang	1
 地利不如人和	di li bu ru ren he	1
 地瀝青	di li qing	1
@@ -418263,16 +418263,16 @@
 點穴截脈商陽指註解殘頁	dian xue jie mai shang yang zhi zhu jie can ye	1
 點穴截脈商陽指註解斷篇	dian xue jie mai shang yang zhi zhu jie duan pian	1
 點穴截脈商陽指註解絕章	dian xue jie mai shang yang zhi zhu jie jue zhang	1
-點穴截脈少明指蔘悟殘頁	dian xue jie mai shao ming zhi can wu can ye	1
-點穴截脈少明指蔘悟斷篇	dian xue jie mai shao ming zhi can wu duan pian	1
+點穴截脈少明指參悟殘頁	dian xue jie mai shao ming zhi can wu can ye	1
+點穴截脈少明指參悟斷篇	dian xue jie mai shao ming zhi can wu duan pian	1
 點穴截脈少明指經脈圖殘頁	dian xue jie mai shao ming zhi jing mai tu can ye	1
 點穴截脈少明指經脈圖斷篇	dian xue jie mai shao ming zhi jing mai tu duan pian	1
 點穴截脈少明指人偶圖殘頁	dian xue jie mai shao ming zhi ren ou tu can ye	1
 點穴截脈少明指真傳殘頁	dian xue jie mai shao ming zhi zhen chuan can ye	1
 點穴截脈少明指真傳斷篇	dian xue jie mai shao ming zhi zhen chuan duan pian	1
 點穴截脈少明指真傳絕章	dian xue jie mai shao ming zhi zhen chuan jue zhang	1
-點穴截脈陽明指蔘悟斷篇	dian xue jie mai yang ming zhi can wu duan pian	1
-點穴截脈陽明指蔘悟絕章	dian xue jie mai yang ming zhi can wu jue zhang	1
+點穴截脈陽明指參悟斷篇	dian xue jie mai yang ming zhi can wu duan pian	1
+點穴截脈陽明指參悟絕章	dian xue jie mai yang ming zhi can wu jue zhang	1
 點穴截脈陽明指經脈圖殘頁	dian xue jie mai yang ming zhi jing mai tu can ye	1
 點穴截脈陽明指經脈圖斷篇	dian xue jie mai yang ming zhi jing mai tu duan pian	1
 點穴截脈陽明指秘訣殘頁	dian xue jie mai yang ming zhi mi jue can ye	1
@@ -420940,7 +420940,7 @@
 貂不足	diao bu zu	1
 貂不足狗	diao bu zu gou	1
 貂不足狗尾續	diao bu zu gou wei xu	1
-貂蔘	diao can	1
+貂參	diao can	1
 貂襜	diao chan	1
 貂蟬冠	diao chan guan	1
 貂蟬離間	diao chan li jian	1
@@ -427621,7 +427621,7 @@
 冬歌	dong ge	1
 冬宮	dong gong	1
 冬菇炒麪	dong gu chao mian	1
-冬菇蟲草燉鮑蔘	dong gu chong cao dun bao can	1
+冬菇蟲草燉鮑參	dong gu chong cao dun bao can	1
 冬菇燉雞湯	dong gu dun ji tang	1
 冬菇紅棗蒸乳鴿	dong gu hong zao zheng ru ge	1
 冬菇雞腳湯	dong gu ji jiao tang	1
@@ -428562,8 +428562,8 @@
 動人心脾	dong ren xin pi	1
 動搈	dong rong	1
 動溶	dong rong	1
-動如蔘商	dong ru can shang	1
-動如蔘與商	dong ru can yu shang	1
+動如參商	dong ru can shang	1
+動如參與商	dong ru can yu shang	1
 動如雷霆	dong ru lei ting	1
 動若脱兔	dong ruo tuo tu	1
 動色	dong se	1
@@ -430548,8 +430548,8 @@
 斗重山齊	dou zhong shan qi	1
 鬥豬	dou zhu	1
 斗轉	dou zhuan	1
-斗轉蔘橫	dou zhuan can heng	1
-斗轉蔘斜	dou zhuan can xie	1
+斗轉參橫	dou zhuan can heng	1
+斗轉參斜	dou zhuan can xie	1
 斗子	dou zi	1
 斗子牆	dou zi qiang	1
 斗子鹽	dou zi yan	1
@@ -431075,7 +431075,7 @@
 督標	du biao	1
 督並	du bing	1
 督捕	du bu	1
-督蔘	du can	1
+督參	du can	1
 督策	du ce	1
 督查辦	du cha ban	1
 督查隊	du cha dui	1
@@ -435740,7 +435740,7 @@
 對賭	dui du	1
 對端聯會	dui duan lian hui	1
 對對	dui dui	1
-對對蔘	dui dui can	1
+對對參	dui dui can	1
 對對草	dui dui cao	1
 對對胡	dui dui hu	1
 對對看	dui dui kan	1
@@ -437366,9 +437366,9 @@
 多彩褶裙	duo cai zhe qun	1
 多彩之劍	duo cai zhi jian	1
 多彩坐騎	duo cai zuo qi	1
-多蔘	duo can	1
-多蔘數	duo can shu	1
-多蔘數過程	duo can shu guo cheng	1
+多參	duo can	1
+多參數	duo can shu	1
+多參數過程	duo can shu guo cheng	1
 多藏	duo cang	1
 多藏必厚亡	duo cang bi hou wang	1
 多藏厚亡	duo cang hou wang	1
@@ -439593,7 +439593,7 @@
 俄緊急情況部	e jin ji qing kuang bu	1
 俄景	e jing	1
 俄軍方	e jun fang	1
-俄軍總蔘謀部	e jun zong can mou bu	1
+俄軍總參謀部	e jun zong can mou bu	1
 俄喀河	e ka he	1
 俄柯河	e ke he	1
 俄科學院西伯利亞分院	e ke xue yuan xi bo li ya fen yuan	1
@@ -439711,7 +439711,7 @@
 俄文課	e wen ke	1
 俄文系	e wen xi	1
 俄文組	e wen zu	1
-俄聞管蔘差	e wen guan can cha	1
+俄聞管參差	e wen guan can cha	1
 俄西鄉	e xi xiang	1
 俄歇電子	e xie dian zi	1
 俄歇電子能譜學	e xie dian zi neng pu xue	1
@@ -442485,7 +442485,7 @@
 耳部整形	er bu zheng xing	1
 耳材村海口魚	er cai cun hai kou yu	1
 耳菜	er cai	1
-耳蔘漏	er can lou	1
+耳參漏	er can lou	1
 耳艙	er cang	1
 耳沉	er chen	1
 耳池	er chi	1
@@ -442922,7 +442922,7 @@
 二部制	er bu zhi	1
 二菜場	er cai chang	1
 二蔡	er cai	1
-二蔘	er can	1
+二參	er can	1
 二蠶	er can	1
 二藏	er cang	1
 二曹	er cao	1
@@ -443460,10 +443460,10 @@
 二降	er jiang	1
 二郊	er jiao	1
 二角	er jiao	1
-二角賽瓜蔘	er jiao sai gua can	1
+二角賽瓜參	er jiao sai gua can	1
 二教	er jiao	1
 二階	er jie	1
-二階蔘數連續	er jie can shu lian xu	1
+二階參數連續	er jie can shu lian xu	1
 二階充分條件	er jie chong fen tiao jian	1
 二階加託微分	er jie jia tuo wei fen	1
 二階俊博	er jie jun bo	1
@@ -446284,7 +446284,7 @@
 法國財政部	fa guo cai zheng bu	1
 法國菜	fa guo cai	1
 法國菜豆	fa guo cai dou	1
-法國蔘議院	fa guo can yi yuan	1
+法國參議院	fa guo can yi yuan	1
 法國大革命	fa guo da ge ming	1
 法國電力公司	fa guo dian li gong si	1
 法國電視二台	fa guo dian shi er tai	1
@@ -447130,7 +447130,7 @@
 法學方法論與德沃金	fa xue fang fa lun yu de wo jin	1
 法學會	fa xue hui	1
 法學基礎課程導讀	fa xue ji chu ke cheng dao du	1
-法學教學蔘考書	fa xue jiao xue can kao shu	1
+法學教學參考書	fa xue jiao xue can kao shu	1
 法學教育	fa xue jiao yu	1
 法學界	fa xue jie	1
 法學經緯	fa xue jing wei	1
@@ -450310,7 +450310,7 @@
 泛型類	fan xing lei	1
 泛型類型	fan xing lei xing	1
 泛型類型變量	fan xing lei xing bian liang	1
-泛型類型蔘數	fan xing lei xing can shu	1
+泛型類型參數	fan xing lei xing can shu	1
 泛型類型定義	fan xing lei xing ding yi	1
 泛型算法	fan xing suan fa	1
 泛性質	fan xing zhi	1
@@ -451097,7 +451097,7 @@
 方耳峪村	fang er yu cun	1
 方二伯怒懲兇徒	fang er bo nu cheng xiong tu	1
 方二伯所見	fang er bo suo jian	1
-方法蔘數	fang fa can shu	1
+方法參數	fang fa can shu	1
 方法多態	fang fa duo tai	1
 方法庫	fang fa ku	1
 方法來	fang fa lai	1
@@ -452235,7 +452235,7 @@
 防部	fang bu	1
 防擦條	fang ca tiao	1
 防猜	fang cai	1
-防蔘止癢顆粒	fang can zhi yang ke li	1
+防參止癢顆粒	fang can zhi yang ke li	1
 防察	fang cha	1
 防潮板	fang chao ban	1
 防潮層	fang chao ceng	1
@@ -453805,7 +453805,7 @@
 放鞭炮	fang bian pao	1
 放不開	fang bu kai	1
 放步	fang bu	1
-放蔘	fang can	1
+放參	fang can	1
 放嚵	fang chan	1
 放唱片	fang chang pian	1
 放朝	fang chao	1
@@ -455347,7 +455347,7 @@
 非財產損害賠償問題研究	fei cai chan sun hai pei chang wen ti yan jiu	1
 非財產責任	fei cai chan ze ren	1
 非彩色	fei cai se	1
-非蔘數檢驗	fei can shu jian yan	1
+非參數檢驗	fei can shu jian yan	1
 非藏其知而不發也	fei cang qi zhi er bu fa ye	1
 非茶	fei cha	1
 非嘗小吃	fei chang xiao chi	1
@@ -456548,7 +456548,7 @@
 菲律	fei lv	1
 菲律賓比索	fei lv bin bi suo	1
 菲律賓襞蛤	fei lv bin bi ha	1
-菲律賓蔘議院	fei lv bin can yi yuan	1
+菲律賓參議院	fei lv bin can yi yuan	1
 菲律賓大學	fei lv bin da xue	1
 菲律賓短吻長尾鱈	fei lv bin duan wen zhang wei xue	1
 菲律賓隊	fei lv bin dui	1
@@ -458128,8 +458128,8 @@
 分不出	fen bu chu	1
 分不開	fen bu kai	1
 分佈表	fen bu biao	1
-分佈蔘數集成電路	fen bu can shu ji cheng dian lu	1
-分佈蔘數網絡	fen bu can shu wang luo	1
+分佈參數集成電路	fen bu can shu ji cheng dian lu	1
+分佈參數網絡	fen bu can shu wang luo	1
 分佈等待圖	fen bu deng dai tu	1
 分佈點	fen bu dian	1
 分佈電容	fen bu dian rong	1
@@ -469312,7 +469312,7 @@
 輻射保藏	fu she bao cang	1
 輻射表	fu she biao	1
 輻射採暖系統	fu she cai nuan xi tong	1
-輻射蔘數	fu she can shu	1
+輻射參數	fu she can shu	1
 輻射塵	fu she chen	1
 輻射的相干彈性散射	fu she de xiang gan tan xing san she	1
 輻射點	fu she dian	1
@@ -473386,7 +473386,7 @@
 複方石韋片	fu fang shi wei pian	1
 複方嗜酸乳桿菌片	fu fang shi suan ru gan jun pian	1
 複方手蔘丸	fu fang shou can wan	1
-複方手蔘益智膠囊	fu fang shou can yi zhi jiao nang	1
+複方手參益智膠囊	fu fang shou can yi zhi jiao nang	1
 複方雙花片	fu fang shuang hua pian	1
 複方水楊酸擦劑	fu fang shui yang suan ca ji	1
 複方水楊酸搽劑	fu fang shui yang suan cha ji	1
@@ -473875,7 +473875,7 @@
 復憶襄陽孟浩然	fu yi xiang yang meng hao ran	1
 複議案	fu yi an	1
 複議被申請人	fu yi bei shen qing ren	1
-複議蔘加人	fu yi can jia ren	1
+複議參加人	fu yi can jia ren	1
 複議法	fu yi fa	1
 複議範圍	fu yi fan wei	1
 複議前置	fu yi qian zhi	1
@@ -474202,8 +474202,8 @@
 副總編	fu zong bian	1
 副總編輯	fu zong bian ji	1
 副總裁兼	fu zong cai jian	1
-副總蔘謀	fu zong can mou	1
-副總蔘謀長	fu zong can mou zhang	1
+副總參謀	fu zong can mou	1
+副總參謀長	fu zong can mou zhang	1
 副總幹事	fu zong gan shi	1
 副總工程	fu zong gong cheng	1
 副總檢察長	fu zong jian cha zhang	1
@@ -480937,7 +480937,7 @@
 高材捷足	gao cai jie zu	1
 高彩	gao cai	1
 高彩霞	gao cai xia	1
-高蔘網	gao can wang	1
+高參網	gao can wang	1
 高殘留	gao can liu	1
 高倉	gao cang	1
 高倉健	gao cang jian	1
@@ -487674,7 +487674,7 @@
 各部門經濟	ge bu men jing ji	1
 各部位	ge bu wei	1
 各材質輔料	ge cai zhi fu liao	1
-各蔘賽隊	ge can sai dui	1
+各參賽隊	ge can sai dui	1
 各餐	ge can	1
 各層次	ge ceng ci	1
 各廠	ge chang	1
@@ -490729,7 +490729,7 @@
 公才	gong cai	1
 公才公望	gong cai gong wang	1
 公財	gong cai	1
-公蔘	gong can	1
+公參	gong can	1
 公慚卿卿慚長	gong can qing qing can zhang	1
 公倉	gong cang	1
 公曹	gong cao	1
@@ -491871,7 +491871,7 @@
 公種	gong zhong	1
 公冢	gong zhong	1
 公仲	gong zhong	1
-公眾蔘與	gong zhong can yu	1
+公眾參與	gong zhong can yu	1
 公眾服務	gong zhong fu wu	1
 公眾股	gong zhong gu	1
 公眾號	gong zhong hao	1
@@ -491955,7 +491955,7 @@
 功不成名不就	gong bu cheng ming bu jiu	1
 功不唐捐	gong bu tang juan	1
 功布	gong bu	1
-功蔘造化	gong can zao hua	1
+功參造化	gong can zao hua	1
 功曹	gong cao	1
 功常德鉅	gong chang de ju	1
 功臣自居	gong chen zi ju	1
@@ -495089,7 +495089,7 @@
 狗網	gou wang	1
 狗尾	gou wei	1
 狗尾巴	gou wei ba	1
-狗尾巴蔘	gou wei ba can	1
+狗尾巴參	gou wei ba can	1
 狗尾巴草	gou wei ba cao	1
 狗尾巴衚衕	gou wei ba hu tong	1
 狗尾貂續	gou wei diao xu	1
@@ -497401,7 +497401,7 @@
 古魔翼龍	gu mo yi long	1
 古墨	gu mo	1
 古木	gu mu	1
-古木蔘天	gu mu can tian	1
+古木參天	gu mu can tian	1
 古木蒼煙圖	gu mu cang yan tu	1
 古木怪石圖	gu mu guai shi tu	1
 古木蘭院石塔	gu mu lan yuan shi ta	1
@@ -498779,7 +498779,7 @@
 骨痛	gu tong	1
 骨痛熱	gu tong re	1
 骨痛藥酒	gu tong yao jiu	1
-骨頭蔘	gu tou can	1
+骨頭參	gu tou can	1
 骨頭骨腦	gu tou gu nao	1
 骨頭節兒	gu tou jie er	1
 骨頭裏	gu tou li	1
@@ -504815,7 +504815,7 @@
 慣狎	guan xia	1
 慣下	guan xia	1
 慣想	guan xiang	1
-慣性蔘考系	guan xing can kao xi	1
+慣性參考系	guan xing can kao xi	1
 慣性導航	guan xing dao hang	1
 慣性矩	guan xing ju	1
 慣性離心力	guan xing li xin li	1
@@ -506676,7 +506676,7 @@
 廣東隱勢瓢蟲	guang dong yin shi piao chong	1
 廣東纓口鰍	guang dong ying kou qiu	1
 廣東語	guang dong yu	1
-廣東芋蔘	guang dong yu can	1
+廣東芋參	guang dong yu can	1
 廣東月餅	guang dong yue bing	1
 廣東增城市新塘鎮	guang dong zeng cheng shi xin tang zhen	1
 廣東粘體蟲	guang dong zhan ti chong	1
@@ -507782,8 +507782,8 @@
 歸併到	gui bing dao	1
 歸併排序	gui bing pai xu	1
 歸併在	gui bing zai	1
-歸蔘	gui can	1
-歸蔘山藥豬腰	gui can shan yao zhu yao	1
+歸參	gui can	1
+歸參山藥豬腰	gui can shan yao zhu yao	1
 歸驂	gui can	1
 歸藏	gui cang	1
 歸藏氏	gui cang shi	1
@@ -509179,7 +509179,7 @@
 鬼擘口	gui bo kou	1
 鬼不覺	gui bu jue	1
 鬼簿	gui bu	1
-鬼蔘	gui can	1
+鬼參	gui can	1
 鬼藏	gui cang	1
 鬼藏元窟	gui cang yuan ku	1
 鬼藏智	gui cang zhi	1
@@ -510860,7 +510860,7 @@
 貴妃芋螺	gui fei yu luo	1
 跪安	gui an	1
 跪拜禮	gui bai li	1
-跪蔘	gui can	1
+跪參	gui can	1
 跪撐	gui cheng	1
 跪乘	gui cheng	1
 跪辭	gui ci	1
@@ -513374,7 +513374,7 @@
 國民報	guo min bao	1
 國民兵	guo min bing	1
 國民財富	guo min cai fu	1
-國民蔘政會	guo min can zheng hui	1
+國民參政會	guo min can zheng hui	1
 國民大會代表	guo min da hui dai biao	1
 國民待遇	guo min dai yu	1
 國民黨革命委員會	guo min dang ge ming wei yuan hui	1
@@ -513731,8 +513731,8 @@
 國務院安全生產督查組	guo wu yuan an quan sheng chan du cha zu	1
 國務院辦	guo wu yuan ban	1
 國務院辦公廳秘書局	guo wu yuan ban gong ting mi shu ju	1
-國務院蔘事	guo wu yuan can shi	1
-國務院蔘事室	guo wu yuan can shi shi	1
+國務院參事	guo wu yuan can shi	1
+國務院參事室	guo wu yuan can shi shi	1
 國務院殘工委	guo wu yuan can gong wei	1
 國務院殘疾人工作協調委員會	guo wu yuan can ji ren gong zuo xie tiao wei yuan hui	1
 國務院第五次全國人口普查領導小組	guo wu yuan di wu ci quan guo ren kou pu cha ling dao xiao zu	1
@@ -514157,7 +514157,7 @@
 虢叔	guo shu	1
 虢王鎮	guo wang zhen	1
 虢鎮	guo zhen	1
-虢州岑二十七長史蔘三十韻	guo zhou cen er shi qi zhang shi can san shi yun	1
+虢州岑二十七長史參三十韻	guo zhou cen er shi qi zhang shi can san shi yun	1
 馘截	guo jie	1
 果阿	guo a	1
 果愛	guo ai	1
@@ -516874,7 +516874,7 @@
 孩赤	hai chi	1
 孩蟲	hai chong	1
 孩的	hai de	1
-孩兒蔘	hai er can	1
+孩兒參	hai er can	1
 孩兒茶	hai er cha	1
 孩兒紅	hai er hong	1
 孩兒菊	hai er ju	1
@@ -519850,9 +519850,9 @@
 函數綁定	han shu bang ding	1
 函數編程	han shu bian cheng	1
 函數表達式	han shu biao da shi	1
-函數蔘數	han shu can shu	1
+函數參數	han shu can shu	1
 函數程序設計	han shu cheng xu she ji	1
-函數傳蔘	han shu chuan can	1
+函數傳參	han shu chuan can	1
 函數定義	han shu ding yi	1
 函數對象	han shu dui xiang	1
 函數返回	han shu fan hui	1
@@ -520114,7 +520114,7 @@
 韓國部隊湯	han guo bu dui tang	1
 韓國財政經濟部	han guo cai zheng jing ji bu	1
 韓國菜	han guo cai	1
-韓國蔘謀長聯席會議	han guo can mou zhang lian xi hui yi	1
+韓國參謀長聯席會議	han guo can mou zhang lian xi hui yi	1
 韓國產業資源部	han guo chan ye zi yuan bu	1
 韓國城	han guo cheng	1
 韓國廚美餐具	han guo chu mei can ju	1
@@ -522703,7 +522703,7 @@
 行部	hang bu	1
 行財	hang cai	1
 行菜	hang cai	1
-行蔘	hang can	1
+行參	hang can	1
 行藏	xing cang	1
 行藏用舍	xing cang yong she	1
 行藏終欲付何人	xing cang zhong yu fu he ren	1
@@ -523540,7 +523540,7 @@
 行政訴訟	xing zheng su song	1
 行政訴訟案件	xing zheng su song an jian	1
 行政訴訟裁定	xing zheng su song cai ding	1
-行政訴訟蔘加人	xing zheng su song can jia ren	1
+行政訴訟參加人	xing zheng su song can jia ren	1
 行政訴訟法學	xing zheng su song fa xue	1
 行政訴訟收費制度	xing zheng su song shou fei zhi du	1
 行政訴訟受案範圍	xing zheng su song shou an fan wei	1
@@ -523564,7 +523564,7 @@
 行政執法和司法人員知識產權讀本	xing zheng zhi fa he si fa ren yuan zhi shi chan quan du ben	1
 行政執法機關	xing zheng zhi fa ji guan	1
 行政執法類職位	xing zheng zhi fa lei zhi wei	1
-行政執法與行政審判蔘考	xing zheng zhi fa yu hang zheng shen pan can kao	1
+行政執法與行政審判參考	xing zheng zhi fa yu hang zheng shen pan can kao	1
 行政執行法	xing zheng zhi xing fa	1
 行政職能	xing zheng zhi neng	1
 行政職務	xing zheng zhi wu	1
@@ -524686,7 +524686,7 @@
 好採	hao cai	1
 好彩	hao cai	1
 好彩頭	hao cai tou	1
-好蔘謀	hao can mou	1
+好參謀	hao can mou	1
 好餐	hao can	1
 好餐得	hao can de	1
 好倉	hao cang	1
@@ -531921,7 +531921,7 @@
 黑布林鮮果汁	hei bu lin xian guo zhi	1
 黑布侖	hei bu lun	1
 黑菜	hei cai	1
-黑蔘	hei can	1
+黑參	hei can	1
 黑黲黲	hei can can	1
 黑蒼蒼	hei cang cang	1
 黑草蓆鐘螺	hei cao xi zhong luo	1
@@ -534634,7 +534634,7 @@
 橫步	heng bu	1
 橫埠鎮	heng bu zhen	1
 橫財就手	heng cai jiu shou	1
-橫蔘	heng can	1
+橫參	heng can	1
 橫草	heng cao	1
 橫草不動豎草不拿	heng cao bu dong shu cao bu na	1
 橫草不過	heng cao bu guo	1
@@ -536556,7 +536556,7 @@
 紅螺盞	hong luo zhan	1
 紅螺鎮村	hong luo zhen cun	1
 紅蠃	hong luo	1
-紅綠蔘差春晚	hong lv can cha chun wan	1
+紅綠參差春晚	hong lv can cha chun wan	1
 紅綠扶春上遠林	hong lv fu chun shang yuan lin	1
 紅綠藍	hong lv lan	1
 紅綠梅花圖	hong lv mei hua tu	1
@@ -544763,7 +544763,7 @@
 户部巷	hu bu xiang	1
 户部寨鄉	hu bu zhai xiang	1
 户曹	hu cao	1
-户曹蔘軍	hu cao can jun	1
+户曹參軍	hu cao can jun	1
 户曹尚書	hu cao shang shu	1
 户冊	hu ce	1
 户側	hu ce	1
@@ -551070,7 +551070,7 @@
 歡意	huan yi	1
 歡音	huan yin	1
 歡飲	huan yin	1
-歡迎蔘加	huan ying can jia	1
+歡迎參加	huan ying can jia	1
 歡迎垂詢	huan ying chui xun	1
 歡迎辭	huan ying ci	1
 歡迎到	huan ying dao	1
@@ -551426,7 +551426,7 @@
 環境變量設置	huan jing bian liang she zhi	1
 環境標誌	huan jing biao zhi	1
 環境部	huan jing bu	1
-環境蔘數	huan jing can shu	1
+環境參數	huan jing can shu	1
 環境搭建	huan jing da jian	1
 環境地理學	huan jing di li xue	1
 環境地球化學	huan jing di qiu hua xue	1
@@ -551521,7 +551521,7 @@
 環境噪聲污染防治法	huan jing zao sheng wu ran fang zhi fa	1
 環境整治	huan jing zheng zhi	1
 環境質量	huan jing zhi liang	1
-環境質量蔘數	huan jing zhi liang can shu	1
+環境質量參數	huan jing zhi liang can shu	1
 環境質量評價	huan jing zhi liang ping jia	1
 環境質量指數	huan jing zhi liang zhi shu	1
 環境質量綜合評價	huan jing zhi liang zong he ping jia	1
@@ -553788,7 +553788,7 @@
 黃彩	huang cai	1
 黃彩虹	huang cai hong	1
 黃菜	huang cai	1
-黃蔘	huang can	1
+黃參	huang can	1
 黃燦升	huang can sheng	1
 黃蒼蒼	huang cang cang	1
 黃草	huang cao	1
@@ -554863,7 +554863,7 @@
 黃金鉑金	huang jin bo jin	1
 黃金不富英雄漢	huang jin bu fu ying xiong han	1
 黃金埠鎮	huang jin bu zhen	1
-黃金蔘	huang jin can	1
+黃金參	huang jin can	1
 黃金蟬	huang jin chan	1
 黃金車	huang jin che	1
 黃金城	huang jin cheng	1
@@ -557872,7 +557872,7 @@
 灰漿桶	hui jiang tong	1
 灰角尖粉蝶	hui jiao jian fen die	1
 灰腳柳鶯	hui jiao liu ying	1
-灰揭囊皮蔘	hui jie nang pi can	1
+灰揭囊皮參	hui jie nang pi can	1
 灰劫	hui jie	1
 灰巾冠繡眼鳥	hui jin guan xiu yan niao	1
 灰巾鸚哥	hui jin ying ge	1
@@ -558032,7 +558032,7 @@
 灰舌迅刃	hui she xun ren	1
 灰舌馴獸者	hui she xun shou zhe	1
 灰舌戰士	hui she zhan shi	1
-灰蛇錨蔘	hui she mao can	1
+灰蛇錨參	hui she mao can	1
 灰身	hui shen	1
 灰身粉骨	hui shen fen gu	1
 灰身滅智	hui shen mie zhi	1
@@ -562006,7 +562006,7 @@
 婚姻登記制度	hun yin deng ji zhi du	1
 婚姻法規	hun yin fa gui	1
 婚姻法司法解釋及相關法律規範	hun yin fa si fa jie shi ji xiang guan fa lv gui fan	1
-婚姻法學蔘考資料	hun yin fa xue can kao zi liao	1
+婚姻法學參考資料	hun yin fa xue can kao zi liao	1
 婚姻觀	hun yin guan	1
 婚姻繼承糾紛	hun yin ji cheng jiu fen	1
 婚姻家庭	hun yin jia ting	1
@@ -564607,7 +564607,7 @@
 或不	huo bu	1
 或裁或審制度	huo cai huo shen zhi du	1
 或採	huo cai	1
-或蔘	huo can	1
+或參	huo can	1
 或曾	huo ceng	1
 或成	huo cheng	1
 或吃	huo chi	1
@@ -564996,7 +564996,7 @@
 獲渠	huo qu	1
 獲取版本號	huo qu ban ben hao	1
 獲取標籤	huo qu biao qian	1
-獲取蔘數	huo qu can shu	1
+獲取參數	huo qu can shu	1
 獲取當前時間	huo qu dang qian shi jian	1
 獲取過程	huo qu guo cheng	1
 獲取焦點	huo qu jiao dian	1
@@ -567859,7 +567859,7 @@
 基本保障	ji ben bao zhang	1
 基本被消化的魚	ji ben bei xiao hua de yu	1
 基本不變式	ji ben bu bian shi	1
-基本蔘數	ji ben can shu	1
+基本參數	ji ben can shu	1
 基本操作	ji ben cao zuo	1
 基本常識	ji ben chang shi	1
 基本成分	ji ben cheng fen	1
@@ -568834,7 +568834,7 @@
 稽拜	ji bai	1
 稽備	ji bei	1
 稽逋	ji bu	1
-稽蔘	ji can	1
+稽參	ji can	1
 稽查辦	ji cha ban	1
 稽查查察	ji cha cha cha	1
 稽查處	ji cha chu	1
@@ -572365,7 +572365,7 @@
 集資合建	ji zi he jian	1
 集資建房	ji zi jian fang	1
 集資款	ji zi kuan	1
-集總蔘數網絡	ji zong can shu wang luo	1
+集總參數網絡	ji zong can shu wang luo	1
 塉薄	ji bao	1
 塉滷	ji lu	1
 塉埆	ji que	1
@@ -573220,7 +573220,7 @@
 計財處	ji cai chu	1
 計財科	ji cai ke	1
 計財司	ji cai si	1
-計蔘	ji can	1
+計參	ji can	1
 計曹	ji cao	1
 計冊	ji ce	1
 計測	ji ce	1
@@ -574315,8 +574315,8 @@
 技術編碼	ji shu bian ma	1
 技術標準	ji shu biao zhun	1
 技術部長	ji shu bu zhang	1
-技術蔘考	ji shu can kao	1
-技術蔘數	ji shu can shu	1
+技術參考	ji shu can kao	1
+技術參數	ji shu can shu	1
 技術產品	ji shu chan pin	1
 技術產權	ji shu chan quan	1
 技術產業	ji shu chan ye	1
@@ -575986,7 +575986,7 @@
 薊中作	ji zhong zuo	1
 薊州	ji zhou	1
 霽風朗月	ji feng lang yue	1
-霽光浮瓦碧蔘差	ji guang fu wa bi can cha	1
+霽光浮瓦碧參差	ji guang fu wa bi can cha	1
 霽紅	ji hong	1
 霽虹	ji hong	1
 霽虹街道	ji hong jie dao	1
@@ -576907,7 +576907,7 @@
 加拿大杯	jia na da bei	1
 加拿大北電網絡公司	jia na da bei dian wang luo gong si	1
 加拿大布爾吉斯生物羣	jia na da bu er ji si sheng wu qun	1
-加拿大蔘議院	jia na da can yi yuan	1
+加拿大參議院	jia na da can yi yuan	1
 加拿大大學	jia na da da xue	1
 加拿大東方醫學院	jia na da dong fang yi xue yuan	1
 加拿大隊	jia na da dui	1
@@ -581664,7 +581664,7 @@
 尖吻顯齒海鯽	jian wen xian chi hai ji	1
 尖吻斜杜父魚	jian wen xie du fu yu	1
 尖細的牙齒	jian xi de ya chi	1
-尖細異賽瓜蔘	jian xi yi sai gua can	1
+尖細異賽瓜參	jian xi yi sai gua can	1
 尖下巴	jian xia ba	1
 尖纖	jian xian	1
 尖嘯匕首	jian xiao bi shou	1
@@ -583368,7 +583368,7 @@
 柬華理事總會	jian hua li shi zong hui	1
 柬寄	jian ji	1
 柬埔塞	jian pu sai	1
-柬埔寨蔘議院	jian pu zhai can yi yuan	1
+柬埔寨參議院	jian pu zhai can yi yuan	1
 柬埔寨隊	jian pu zhai dui	1
 柬埔寨縫葉鶯	jian pu zhai feng ye ying	1
 柬埔寨國民議會	jian pu zhai guo min yi hui	1
@@ -589182,7 +589182,7 @@
 將材	jiang cai	1
 將才	jiang cai	1
 將採	jiang cai	1
-將蔘	jiang can	1
+將參	jiang can	1
 將車	jiang che	1
 將臣	jiang chen	1
 將誠	jiang cheng	1
@@ -591239,7 +591239,7 @@
 交財	jiao cai	1
 交財字	jiao cai zi	1
 交彩	jiao cai	1
-交蔘	jiao can	1
+交參	jiao can	1
 交叉編譯	jiao cha bian yi	1
 交叉編譯環境	jiao cha bian yi huan jing	1
 交叉編譯器	jiao cha bian yi qi	1
@@ -593933,7 +593933,7 @@
 角酒	jiao jiu	1
 角菊頭蝠	jiao ju tou fu	1
 角距	jiao ju	1
-角距手蔘	jiao ju shou can	1
+角距手參	jiao ju shou can	1
 角亢	jiao kang	1
 角抗	jiao kang	1
 角坑	jiao keng	1
@@ -595562,7 +595562,7 @@
 教學版	jiao xue ban	1
 教學不倦	jiao xue bu juan	1
 教學部	jiao xue bu	1
-教學蔘考	jiao xue can kao	1
+教學參考	jiao xue can kao	1
 教學策略	jiao xue ce lue	1
 教學成果	jiao xue cheng guo	1
 教學單位	jiao xue dan wei	1
@@ -595644,7 +595644,7 @@
 教馴	jiao xun	1
 教言	jiao yan	1
 教研部	jiao yan bu	1
-教研蔘考	jiao yan can kao	1
+教研參考	jiao yan can kao	1
 教研成果	jiao yan cheng guo	1
 教研活動	jiao yan huo dong	1
 教研機構	jiao yan ji gou	1
@@ -596520,7 +596520,7 @@
 揭寶	jie bao	1
 揭碑	jie bei	1
 揭不開鍋蓋	jie bu kai guo gai	1
-揭蔘	jie can	1
+揭參	jie can	1
 揭車	jie che	1
 揭醜	jie chou	1
 揭出	jie chu	1
@@ -597118,7 +597118,7 @@
 節足動物	jie zu dong wu	1
 節族	jie zu	1
 訐愎	jie bi	1
-訐蔘	jie can	1
+訐參	jie can	1
 訐斥	jie chi	1
 訐辭	jie ci	1
 訐誕	jie dan	1
@@ -598802,7 +598802,7 @@
 解放軍駐港部隊	jie fang jun zhu gang bu dui	1
 解放軍裝甲兵工程學院	jie fang jun zhuang jia bing gong cheng xue yuan	1
 解放軍總	jie fang jun zong	1
-解放軍總蔘謀部	jie fang jun zong can mou bu	1
+解放軍總參謀部	jie fang jun zong can mou bu	1
 解放軍總後勤部	jie fang jun zong hou qin bu	1
 解放軍總醫院	jie fang jun zong yi yuan	1
 解放軍總政治部	jie fang jun zong zheng zhi bu	1
@@ -605691,7 +605691,7 @@
 進步巷	jin bu xiang	1
 進步性	jin bu xing	1
 進才中學	jin cai zhong xue	1
-進蔘	jin can	1
+進參	jin can	1
 進餐時間	jin can shi jian	1
 進藏	jin cang	1
 進艹	jin cao	1
@@ -608389,7 +608389,7 @@
 經別	jing bie	1
 經不	jing bu	1
 經採	jing cai	1
-經蔘	jing can	1
+經參	jing can	1
 經藏	jing cang	1
 經測算	jing ce suan	1
 經查明	jing cha ming	1
@@ -608566,8 +608566,8 @@
 經濟波動	jing ji bo dong	1
 經濟佈局	jing ji bu ju	1
 經濟部長	jing ji bu zhang	1
-經濟蔘考	jing ji can kao	1
-經濟蔘考報	jing ji can kao bao	1
+經濟參考	jing ji can kao	1
+經濟參考報	jing ji can kao bao	1
 經濟艙	jing ji cang	1
 經濟晨報	jing ji chen bao	1
 經濟成就	jing ji cheng jiu	1
@@ -608910,8 +608910,8 @@
 經人	jing ren	1
 經入	jing ru	1
 經三路	jing san lu	1
-經商蔘	jing shang can	1
-經商蔘處	jing shang can chu	1
+經商參	jing shang can	1
+經商參處	jing shang can chu	1
 經商處	jing shang chu	1
 經商户	jing shang hu	1
 經商在外	jing shang zai wai	1
@@ -609297,7 +609297,7 @@
 荊棘滿途	jing ji man tu	1
 荊棘鳥	jing ji niao	1
 荊棘塞途	jing ji sai tu	1
-荊棘上蔘天	jing ji shang can tian	1
+荊棘上參天	jing ji shang can tian	1
 荊棘術	jing ji shu	1
 荊棘銅駝	jing ji tong tuo	1
 荊棘圖庫	jing ji tu ku	1
@@ -609993,7 +609993,7 @@
 驚坐	jing zuo	1
 驚座	jing zuo	1
 晶胞	jing bao	1
-晶胞蔘數	jing bao can shu	1
+晶胞參數	jing bao can shu	1
 晶報	jing bao	1
 晶報訊	jing bao xun	1
 晶餅	jing bing	1
@@ -610616,7 +610616,7 @@
 精奇	jing qi	1
 精騎	jing qi	1
 精騎兵	jing qi bing	1
-精杞蔘膠囊	jing qi can jiao nang	1
+精杞參膠囊	jing qi can jiao nang	1
 精綺	jing qi	1
 精氣散	jing qi san	1
 精氣神兒	jing qi shen er	1
@@ -611440,7 +611440,7 @@
 景博	jing bo	1
 景不	jing bu	1
 景部	jing bu	1
-景蔘益氣顆粒	jing can yi qi ke li	1
+景參益氣顆粒	jing can yi qi ke li	1
 景差	jing cha	1
 景城花園	jing cheng hua yuan	1
 景程	jing cheng	1
@@ -611916,7 +611916,7 @@
 警省	jing sheng	1
 警士	jing shi	1
 警示標誌	jing shi biao zhi	1
-警示蔘考	jing shi can kao	1
+警示參考	jing shi can kao	1
 警示燈	jing shi deng	1
 警示膠帶	jing shi jiao dai	1
 警示教育	jing shi jiao yu	1
@@ -613620,7 +613620,7 @@
 勼合	jiu he	1
 糾白	jiu bai	1
 糾駁	jiu bo	1
-糾蔘	jiu can	1
+糾參	jiu can	1
 糾曹	jiu cao	1
 糾察人員	jiu cha ren yuan	1
 糾察線	jiu cha xian	1
@@ -613929,7 +613929,7 @@
 九彩鄉	jiu cai xiang	1
 九彩巷	jiu cai xiang	1
 九彩雲霓楚小雨	jiu cai yun ni chu xiao yu	1
-九蔘官	jiu can guan	1
+九參官	jiu can guan	1
 九倉	jiu cang	1
 九倉鎮	jiu cang zhen	1
 九蒼	jiu cang	1
@@ -614610,7 +614610,7 @@
 九日登梓州城	jiu ri deng zi zhou cheng	1
 九日懷襄陽	jiu ri huai xiang yang	1
 九日黃花酒	jiu ri huang hua jiu	1
-九日寄岑蔘	jiu ri ji cen can	1
+九日寄岑參	jiu ri ji cen can	1
 九日藍田崔氏莊	jiu ri lan tian cui shi zhuang	1
 九日藍田會飲	jiu ri lan tian hui yin	1
 九日龍山飲	jiu ri long shan yin	1
@@ -617721,7 +617721,7 @@
 局部變量	ju bu bian liang	1
 局部辨證	ju bu bian zheng	1
 局部表現模	ju bu biao xian mo	1
-局部蔘數	ju bu can shu	1
+局部參數	ju bu can shu	1
 局部存儲	ju bu cun chu	1
 局部代數	ju bu dai shu	1
 局部單連通	ju bu dan lian tong	1
@@ -621401,7 +621401,7 @@
 決不再	jue bu zai	1
 決不在	jue bu zai	1
 決策表	jue ce biao	1
-決策蔘考	jue ce can kao	1
+決策參考	jue ce can kao	1
 決策程序	jue ce cheng xu	1
 決策單調	jue ce dan diao	1
 決策單調性	jue ce dan diao xing	1
@@ -621681,7 +621681,7 @@
 絕對不能	jue dui bu neng	1
 絕對不能犯	jue dui bu neng fan	1
 絕對不應期	jue dui bu ying qi	1
-絕對蔘考系	jue dui can kao xi	1
+絕對參考系	jue dui can kao xi	1
 絕對成本説	jue dui cheng ben shuo	1
 絕對地	jue dui di	1
 絕對地址	jue dui di zhi	1
@@ -622466,7 +622466,7 @@
 軍都度假村	jun dou du jia cun	1
 軍都山	jun dou shan	1
 軍牘	jun du	1
-軍隊蔘加搶險救災條例	jun dui can jia qiang xian jiu zai tiao li	1
+軍隊參加搶險救災條例	jun dui can jia qiang xian jiu zai tiao li	1
 軍隊房地產開發管理暫行規定	jun dui fang di chan kai fa guan li zan xing gui ding	1
 軍隊文職人員	jun dui wen zhi ren yuan	1
 軍隊現代化	jun dui xian dai hua	1
@@ -623465,7 +623465,7 @@
 君住長江尾	jun zhu chang jiang wei	1
 君子愛財	jun zi ai cai	1
 君子報仇十年不晚	jun zi bao chou shi nian bu wan	1
-君子博學而日蔘省乎己	jun zi bo xue er ri can sheng hu ji	1
+君子博學而日參省乎己	jun zi bo xue er ri can sheng hu ji	1
 君子不奪人所好	jun zi bu duo ren suo hao	1
 君子不可小知	jun zi bu ke xiao zhi	1
 君子不入也	jun zi bu ru ye	1
@@ -623850,7 +623850,7 @@
 俊以	jun yi	1
 俊乂	jun yi	1
 俊異	jun yi	1
-俊逸鮑蔘軍	jun yi bao can jun	1
+俊逸鮑參軍	jun yi bao can jun	1
 俊音	jun yin	1
 俊英	jun ying	1
 俊穎	jun ying	1
@@ -628862,7 +628862,7 @@
 考布萊恩的腰帶	kao bu lai en de yao dai	1
 考布萊恩毒蛇形態	kao bu lai en du she xing tai	1
 考察報告	kao cha bao gao	1
-考察蔘觀	kao cha can guan	1
+考察參觀	kao cha can guan	1
 考察船	kao cha chuan	1
 考察點	kao cha dian	1
 考察費	kao cha fei	1
@@ -630960,11 +630960,11 @@
 可編程只讀存儲器	ke bian cheng zhi du cun chu qi	1
 可編輯	ke bian ji	1
 可變比特率	ke bian bi te lv	1
-可變蔘數	ke bian can shu	1
-可變蔘數函數	ke bian can shu han shu	1
-可變蔘數列表	ke bian can shu lie biao	1
-可變蔘數模板	ke bian can shu mo ban	1
-可變蔘數模型	ke bian can shu mo xing	1
+可變參數	ke bian can shu	1
+可變參數函數	ke bian can shu han shu	1
+可變參數列表	ke bian can shu lie biao	1
+可變參數模板	ke bian can shu mo ban	1
+可變參數模型	ke bian can shu mo xing	1
 可變電阻	ke bian dian zu	1
 可變分區	ke bian fen qu	1
 可變格	ke bian ge	1
@@ -630979,7 +630979,7 @@
 可變性	ke bian xing	1
 可變硬	ke bian ying	1
 可變閾邏輯	ke bian yu luo ji	1
-可變長蔘數	ke bian chang can shu	1
+可變長參數	ke bian chang can shu	1
 可變轉錄	ke bian zhuan lu	1
 可變字符串	ke bian zi fu chuan	1
 可變字長	ke bian zi chang	1
@@ -631176,7 +631176,7 @@
 可攻	ke gong	1
 可攻可守	ke gong ke shou	1
 可攻克	ke gong ke	1
-可供蔘考	ke gong can kao	1
+可供參考	ke gong can kao	1
 可供使用	ke gong shi yong	1
 可供性	ke gong xing	1
 可供執行	ke gong zhi xing	1
@@ -638287,7 +638287,7 @@
 藍鬍子	lan hu zi	1
 藍户口	lan hu kou	1
 藍花	lan hua	1
-藍花蔘	lan hua can	1
+藍花參	lan hua can	1
 藍花花	lan hua hua	1
 藍花楹	lan hua ying	1
 藍寰之旅	lan huan zhi lv	1
@@ -642367,17 +642367,17 @@
 類型安全	lei xing an quan	1
 類型變量	lei xing bian liang	1
 類型擦除	lei xing ca chu	1
-類型蔘數	lei xing can shu	1
-類型蔘數列表	lei xing can shu lie biao	1
+類型參數	lei xing can shu	1
+類型參數列表	lei xing can shu lie biao	1
 類型化	lei xing hua	1
 類型論	lei xing lun	1
 類型區	lei xing qu	1
-類型實蔘	lei xing shi can	1
+類型實參	lei xing shi can	1
 類型圖	lei xing tu	1
 類型推斷	lei xing tui duan	1
 類型推理	lei xing tui li	1
 類型系統	lei xing xi tong	1
-類型形蔘	lei xing xing can	1
+類型形參	lei xing xing can	1
 類型學	lei xing xue	1
 類型域	lei xing yu	1
 類型約束	lei xing yue shu	1
@@ -652535,7 +652535,7 @@
 鷯哥	liao ge	1
 釕銱	liao diao	1
 釕銱兒	liao diao er	1
-蓼蔘膠囊	liao can jiao nang	1
+蓼參膠囊	liao can jiao nang	1
 蓼蟲忘辛	liao chong wang xin	1
 蓼大青葉	liao da qing ye	1
 蓼堤鎮	liao di zhen	1
@@ -653226,7 +653226,7 @@
 鄰婦哭征夫	lin fu ku zheng fu	1
 鄰國之民不加少	lin guo zhi min bu jia shao	1
 鄰紅唇擬麗盲蝽	lin hong chun ni li mang chun	1
-鄰基蔘與	lin ji can yu	1
+鄰基參與	lin ji can yu	1
 鄰家女孩	lin jia nv hai	1
 鄰家女孩初長成	lin jia nv hai chu zhang cheng	1
 鄰家少婦	lin jia shao fu	1
@@ -653804,7 +653804,7 @@
 林默涵	lin mo han	1
 林某	lin mou	1
 林木採伐權	lin mu cai fa quan	1
-林木蔘天	lin mu can tian	1
+林木參天	lin mu can tian	1
 林木承包合同	lin mu cheng bao he tong	1
 林木斗篷	lin mu dou peng	1
 林木分化	lin mu fen hua	1
@@ -658161,7 +658161,7 @@
 流態化	liu tai hua	1
 流塘村	liu tang cun	1
 流體比重	liu ti bi zhong	1
-流體蔘數	liu ti can shu	1
+流體參數	liu ti can shu	1
 流體動力	liu ti dong li	1
 流體管	liu ti guan	1
 流體靜力	liu ti jing li	1
@@ -661125,18 +661125,18 @@
 龍爪功抱殘式註解殘頁	long zhao gong bao can shi zhu jie can ye	1
 龍爪功抱殘式註解斷篇	long zhao gong bao can shi zhu jie duan pian	1
 龍爪功抱殘式註解絕章	long zhao gong bao can shi zhu jie jue zhang	1
-龍爪功捕風式蔘悟殘頁	long zhao gong bu feng shi can wu can ye	1
-龍爪功捕風式蔘悟斷篇	long zhao gong bu feng shi can wu duan pian	1
-龍爪功捕風式蔘悟絕章	long zhao gong bu feng shi can wu jue zhang	1
+龍爪功捕風式參悟殘頁	long zhao gong bu feng shi can wu can ye	1
+龍爪功捕風式參悟斷篇	long zhao gong bu feng shi can wu duan pian	1
+龍爪功捕風式參悟絕章	long zhao gong bu feng shi can wu jue zhang	1
 龍爪功捕風式詳解殘頁	long zhao gong bu feng shi xiang jie can ye	1
 龍爪功捕風式詳解斷篇	long zhao gong bu feng shi xiang jie duan pian	1
 龍爪功捕風式穴位圖殘頁	long zhao gong bu feng shi xue wei tu can ye	1
 龍爪功捕風式穴位圖斷篇	long zhao gong bu feng shi xue wei tu duan pian	1
 龍爪功捕風式真傳殘頁	long zhao gong bu feng shi zhen chuan can ye	1
 龍爪功捕風式真傳斷篇	long zhao gong bu feng shi zhen chuan duan pian	1
-龍爪功守缺式蔘悟殘頁	long zhao gong shou que shi can wu can ye	1
-龍爪功守缺式蔘悟斷篇	long zhao gong shou que shi can wu duan pian	1
-龍爪功守缺式蔘悟絕章	long zhao gong shou que shi can wu jue zhang	1
+龍爪功守缺式參悟殘頁	long zhao gong shou que shi can wu can ye	1
+龍爪功守缺式參悟斷篇	long zhao gong shou que shi can wu duan pian	1
+龍爪功守缺式參悟絕章	long zhao gong shou que shi can wu jue zhang	1
 龍爪功守缺式秘訣殘頁	long zhao gong shou que shi mi jue can ye	1
 龍爪功守缺式秘訣斷篇	long zhao gong shou que shi mi jue duan pian	1
 龍爪功守缺式穴位圖殘頁	long zhao gong shou que shi xue wei tu can ye	1
@@ -665534,17 +665534,17 @@
 羅漢棍法橫掃六合註釋殘頁	luo han gun fa heng sao liu he zhu shi can ye	1
 羅漢棍法橫掃六合註釋斷篇	luo han gun fa heng sao liu he zhu shi duan pian	1
 羅漢棍法橫掃六合註釋絕章	luo han gun fa heng sao liu he zhu shi jue zhang	1
-羅漢棍法普渡四方蔘悟殘頁	luo han gun fa pu du si fang can wu can ye	1
-羅漢棍法普渡四方蔘悟斷篇	luo han gun fa pu du si fang can wu duan pian	1
-羅漢棍法普渡四方蔘悟絕章	luo han gun fa pu du si fang can wu jue zhang	1
+羅漢棍法普渡四方參悟殘頁	luo han gun fa pu du si fang can wu can ye	1
+羅漢棍法普渡四方參悟斷篇	luo han gun fa pu du si fang can wu duan pian	1
+羅漢棍法普渡四方參悟絕章	luo han gun fa pu du si fang can wu jue zhang	1
 羅漢棍法普渡四方詳解殘頁	luo han gun fa pu du si fang xiang jie can ye	1
 羅漢棍法普渡四方詳解斷篇	luo han gun fa pu du si fang xiang jie duan pian	1
 羅漢棍法普渡四方詳解絕章	luo han gun fa pu du si fang xiang jie jue zhang	1
 羅漢棍法普渡四方穴位圖殘頁	luo han gun fa pu du si fang xue wei tu can ye	1
 羅漢棍法普渡四方穴位圖斷篇	luo han gun fa pu du si fang xue wei tu duan pian	1
-羅漢棍法韋陀獻杵蔘悟殘頁	luo han gun fa wei tuo xian chu can wu can ye	1
-羅漢棍法韋陀獻杵蔘悟斷篇	luo han gun fa wei tuo xian chu can wu duan pian	1
-羅漢棍法韋陀獻杵蔘悟絕章	luo han gun fa wei tuo xian chu can wu jue zhang	1
+羅漢棍法韋陀獻杵參悟殘頁	luo han gun fa wei tuo xian chu can wu can ye	1
+羅漢棍法韋陀獻杵參悟斷篇	luo han gun fa wei tuo xian chu can wu duan pian	1
+羅漢棍法韋陀獻杵參悟絕章	luo han gun fa wei tuo xian chu can wu jue zhang	1
 羅漢棍法韋陀獻杵秘訣殘頁	luo han gun fa wei tuo xian chu mi jue can ye	1
 羅漢棍法韋陀獻杵秘訣斷篇	luo han gun fa wei tuo xian chu mi jue duan pian	1
 羅漢棍法韋陀獻杵秘訣絕章	luo han gun fa wei tuo xian chu mi jue jue zhang	1
@@ -666882,7 +666882,7 @@
 裸體照片	luo ti zhao pian	1
 裸圖	luo tu	1
 裸吻單長尾鱈	luo wen dan zhang wei xue	1
-裸五角瓜蔘	luo wu jiao gua can	1
+裸五角瓜參	luo wu jiao gua can	1
 裸舞	luo wu	1
 裸戲	luo xi	1
 裸細胞	luo xi bao	1
@@ -668556,7 +668556,7 @@
 率達	lv da	1
 率達到	lv da dao	1
 率的	lv de	1
-率隊蔘加	lv dui can jia	1
+率隊參加	lv dui can jia	1
 率而成章	lv er cheng zhang	1
 率爾	lv er	1
 率爾操觚	lv er cao gu	1
@@ -668584,7 +668584,7 @@
 率土宅心	lv tu zhai xin	1
 率土之濱	lv tu zhi bin	1
 率團	lv tuan	1
-率團蔘加	lv tuan can jia	1
+率團參加	lv tuan can jia	1
 率為	lv wei	1
 率先垂範	lv xian chui fan	1
 率先基本實現現代化	lv xian ji ben shi xian xian dai hua	1
@@ -673153,7 +673153,7 @@
 螞蟻河鄉	ma yi he xiang	1
 螞蟻啃骨	ma yi ken gu	1
 螞蟻上樹	ma yi shang shu	1
-螞蟻雙蔘通痹丸	ma yi shuang can tong bi wan	1
+螞蟻雙參通痹丸	ma yi shuang can tong bi wan	1
 螞蟻紋	ma yi wen	1
 螞蟻窩	ma yi wo	1
 螞蟻巷	ma yi xiang	1
@@ -675548,7 +675548,7 @@
 毛不拉孔兑	mao bu la kong dui	1
 毛布	mao bu	1
 毛布卷	mao bu juan	1
-毛蔘管盤蟲	mao can guan pan chong	1
+毛參管盤蟲	mao can guan pan chong	1
 毛藏鄉	mao cang xiang	1
 毛糙仿銀杏蟹	mao cao fang yin xing xie	1
 毛草	mao cao	1
@@ -677676,7 +677676,7 @@
 梅花扳手	mei hua ban shou	1
 梅花碑	mei hua bei	1
 梅花表	mei hua biao	1
-梅花蔘	mei hua can	1
+梅花參	mei hua can	1
 梅花餐	mei hua can	1
 梅花翅嬌鶲	mei hua chi jiao weng	1
 梅花村街道	mei hua cun jie dao	1
@@ -678565,7 +678565,7 @@
 每分鐘衰變	mei fen zhong shuai bian	1
 每封	mei feng	1
 每封信	mei feng xin	1
-每逢佳處輒蔘禪	mei feng jia chu zhe can chan	1
+每逢佳處輒參禪	mei feng jia chu zhe can chan	1
 每逢例假日	mei feng li jia ri	1
 每付	mei fu	1
 每副	mei fu	1
@@ -678773,8 +678773,8 @@
 美部會	mei bu hui	1
 美才	mei cai	1
 美材	mei cai	1
-美蔘議院	mei can yi yuan	1
-美蔘院	mei can yuan	1
+美參議院	mei can yi yuan	1
+美參院	mei can yuan	1
 美查	mei cha	1
 美嫦	mei chang	1
 美晨	mei chen	1
@@ -678914,10 +678914,10 @@
 美國布魯馬士提夫	mei guo bu lu ma shi ti fu	1
 美國財政部	mei guo cai zheng bu	1
 美國菜	mei guo cai	1
-美國蔘謀長聯席會議	mei guo can mou zhang lian xi hui yi	1
-美國蔘議院	mei guo can yi yuan	1
-美國蔘議院外交委員會	mei guo can yi yuan wai jiao wei yuan hui	1
-美國蔘院	mei guo can yuan	1
+美國參謀長聯席會議	mei guo can mou zhang lian xi hui yi	1
+美國參議院	mei guo can yi yuan	1
+美國參議院外交委員會	mei guo can yi yuan wai jiao wei yuan hui	1
+美國參院	mei guo can yuan	1
 美國傳統基金會	mei guo chuan tong ji jin hui	1
 美國大都會博物館	mei guo da dou hui bo wu guan	1
 美國大都會人壽保險公司	mei guo da dou hui ren shou bao xian gong si	1
@@ -678975,7 +678975,7 @@
 美國硅谷	mei guo gui gu	1
 美國國防	mei guo guo fang	1
 美國國防部	mei guo guo fang bu	1
-美國國會蔘議院	mei guo guo hui can yi yuan	1
+美國國會參議院	mei guo guo hui can yi yuan	1
 美國國會大廈	mei guo guo hui da sha	1
 美國國會眾議院	mei guo guo hui zhong yi yuan	1
 美國國際	mei guo guo ji	1
@@ -680655,8 +680655,8 @@
 門主	men zhu	1
 門莊鄉	men zhuang xiang	1
 門孜康	men zi kang	1
-捫蔘歷井	men can li jing	1
-捫蔘歷井仰脅息	men can li jing yang xie xi	1
+捫參歷井	men can li jing	1
+捫參歷井仰脅息	men can li jing yang xie xi	1
 捫蝨而談	men shi er tan	1
 捫蝨而言	men shi er yan	1
 捫心	men xin	1
@@ -684865,7 +684865,7 @@
 民事審判技能	min shi shen pan ji neng	1
 民事審判簡易程序	min shi shen pan jian yi cheng xu	1
 民事審判手冊	min shi shen pan shou ce	1
-民事審判指導與蔘考	min shi shen pan zhi dao yu can kao	1
+民事審判指導與參考	min shi shen pan zhi dao yu can kao	1
 民事授權委託書	min shi shou quan wei tuo shu	1
 民事訴訟案例精析	min shi su song an li jing xi	1
 民事訴訟程序改革報告	min shi su song cheng xu gai ge bao gao	1
@@ -687315,7 +687315,7 @@
 模型變換	mo xing bian huan	1
 模型表示	mo xing biao shi	1
 模型材料	mo xing cai liao	1
-模型蔘數提取	mo xing can shu ti qu	1
+模型參數提取	mo xing can shu ti qu	1
 模型車	mo xing che	1
 模型船	mo xing chuan	1
 模型定性推理	mo xing ding xing tui li	1
@@ -687627,7 +687627,7 @@
 摩氏光體鮠	mo shi guang ti wei	1
 摩氏紅尾鴝	mo shi hong wei qu	1
 摩氏花蜜鳥	mo shi hua mi niao	1
-摩氏淵遊蔘	mo shi yuan you can	1
+摩氏淵遊參	mo shi yuan you can	1
 摩仕	mo shi	1
 摩斯	mo si	1
 摩斯電碼	mo si dian ma	1
@@ -689920,7 +689920,7 @@
 默然不語	mo ran bu yu	1
 默認按鈕	mo ren an niu	1
 默認編碼	mo ren bian ma	1
-默認蔘數	mo ren can shu	1
+默認參數	mo ren can shu	1
 默認大小	mo ren da xiao	1
 默認方法	mo ren fang fa	1
 默認分類	mo ren fen lei	1
@@ -691882,7 +691882,7 @@
 暮景暮年	mu jing mu nian	1
 暮景桑榆	mu jing sang yu	1
 暮境	mu jing	1
-暮禮晨蔘	mu li chen can	1
+暮禮晨參	mu li chen can	1
 暮量化	mu liang hua	1
 暮齡	mu ling	1
 暮美根寄蠅	mu mei gen ji ying	1
@@ -695280,7 +695280,7 @@
 能不能知道	neng bu neng zhi dao	1
 能不憶江南	neng bu yi jiang nan	1
 能採	neng cai	1
-能蔘	neng can	1
+能參	neng can	1
 能操	neng cao	1
 能測	neng ce	1
 能產	neng chan	1
@@ -696871,7 +696871,7 @@
 鳥爪擬帽貝	niao zhao ni mao bei	1
 鳥爪指環蟲	niao zhao zhi huan chong	1
 鳥之詩	niao zhi shi	1
-鳥中之曾蔘	niao zhong zhi ceng can	1
+鳥中之曾參	niao zhong zhi ceng can	1
 鳥蛛	niao zhu	1
 鳥跩	niao zhuai	1
 鳥囀	niao zhuan	1
@@ -697936,7 +697936,7 @@
 牛屎	niu shi	1
 牛市口	niu shi kou	1
 牛市口街道	niu shi kou jie dao	1
-牛手蔘	niu shou can	1
+牛手參	niu shou can	1
 牛首杜父魚	niu shou du fu yu	1
 牛首前肛鰻	niu shou qian gang man	1
 牛首山	niu shou shan	1
@@ -701323,7 +701323,7 @@
 派遣制櫃員	pai qian zhi gui yuan	1
 派遣制合同工	pai qian zhi he tong gong	1
 派屈克	pai qu ke	1
-派人蔘加	pai ren can jia	1
+派人參加	pai ren can jia	1
 派人去請	pai ren qu qing	1
 派瑞	pai rui	1
 派瑞恩	pai rui en	1
@@ -701351,7 +701351,7 @@
 派提亞	pai ti ya	1
 派調	pai tiao	1
 派團	pai tuan	1
-派團蔘加	pai tuan can jia	1
+派團參加	pai tuan can jia	1
 派瓦	pai wa	1
 派完	pai wan	1
 派位	pai wei	1
@@ -701367,7 +701367,7 @@
 派遺	pai yi	1
 派因	pai yin	1
 派有	pai you	1
-派員蔘加	pai yuan can jia	1
+派員參加	pai yuan can jia	1
 派在	pai zai	1
 派鎮	pai zhen	1
 派駐所	pai zhu suo	1
@@ -702038,7 +702038,7 @@
 盤信鎮	pan xin zhen	1
 盤形	pan xing	1
 盤形古杯動物	pan xing gu bei dong wu	1
-盤形辛那蔘	pan xing xin na can	1
+盤形辛那參	pan xing xin na can	1
 盤旋曲折	pan xuan qu zhe	1
 盤牙	pan ya	1
 盤牙背叛者	pan ya bei pan zhe	1
@@ -703143,7 +703143,7 @@
 沛公謂張良曰	pei gong wei zhang liang yue	1
 沛公欲王關中	pei gong yu wang guan zhong	1
 沛公則置車騎	pei gong ze zhi che qi	1
-沛公之蔘乘樊噲者也	pei gong zhi can cheng fan kuai zhe ye	1
+沛公之參乘樊噲者也	pei gong zhi can cheng fan kuai zhe ye	1
 沛公左司馬曹無傷使人言於項羽曰	pei gong zuo si ma cao wu shang shi ren yan yu xiang yu yue	1
 沛國	pei guo	1
 沛郡	pei jun	1
@@ -703371,7 +703371,7 @@
 配制飼料	pei zhi si liao	1
 配置安裝	pei zhi an zhuang	1
 配置標識	pei zhi biao shi	1
-配置蔘數	pei zhi can shu	1
+配置參數	pei zhi can shu	1
 配置單	pei zhi dan	1
 配置管理工具	pei zhi guan li gong ju	1
 配置規格	pei zhi gui ge	1
@@ -703581,7 +703581,7 @@
 彭埠	peng bu	1
 彭埠鎮	peng bu zhen	1
 彭才年	peng cai nian	1
-彭蔘將	peng can jiang	1
+彭參將	peng can jiang	1
 彭燦紅	peng can hong	1
 彭場	peng chang	1
 彭場鎮	peng chang zhen	1
@@ -704238,7 +704238,7 @@
 碰在	peng zai	1
 碰鐘	peng zhong	1
 碰珠	peng zhu	1
-碰撞蔘量	peng zhuang can liang	1
+碰撞參量	peng zhuang can liang	1
 碰撞猝滅	peng zhuang cu mie	1
 碰撞概率方法	peng zhuang gai lv fang fa	1
 碰撞活化	peng zhuang huo hua	1
@@ -711013,11 +711013,11 @@
 祁致中	qi zhi zhong	1
 祁州	qi zhou	1
 祁州鎮	qi zhou zhen	1
-芪蔘補血口服液	qi can bu xue kou fu ye	1
-芪蔘蟲草酒	qi can chong cao jiu	1
-芪蔘膠囊	qi can jiao nang	1
-芪蔘通絡膠囊	qi can tong luo jiao nang	1
-芪蔘益氣滴丸	qi can yi qi di wan	1
+芪參補血口服液	qi can bu xue kou fu ye	1
+芪參蟲草酒	qi can chong cao jiu	1
+芪參膠囊	qi can jiao nang	1
+芪參通絡膠囊	qi can tong luo jiao nang	1
+芪參益氣滴丸	qi can yi qi di wan	1
 芪斛楂顆粒	qi hu zha ke li	1
 芪膠升白膠囊	qi jiao sheng bai jiao nang	1
 芪藶強心膠囊	qi li qiang xin jiao nang	1
@@ -718217,7 +718217,7 @@
 青泥窪橋	qing ni wa qiao	1
 青泥窪橋街道	qing ni wa qiao jie dao	1
 青泥鎮	qing ni zhen	1
-青年蔘考	qing nian can kao	1
+青年參考	qing nian can kao	1
 青年城	qing nian cheng	1
 青年創業	qing nian chuang ye	1
 青年村鄉	qing nian cun xiang	1
@@ -719631,7 +719631,7 @@
 清池街道	qing chi jie dao	1
 清池鎮	qing chi zhen	1
 清初三家	qing chu san jia	1
-清除蔘考線	qing chu can kao xian	1
+清除參考線	qing chu can kao xian	1
 清除出黨	qing chu chu dang	1
 清除浮動	qing chu fu dong	1
 清除緩存	qing chu huan cun	1
@@ -721667,7 +721667,7 @@
 請不動	qing bu dong	1
 請不起	qing bu qi	1
 請不要用	qing bu yao yong	1
-請蔘考	qing can kao	1
+請參考	qing can kao	1
 請查看	qing cha kan	1
 請嘗試	qing chang shi	1
 請出	qing chu	1
@@ -721795,8 +721795,8 @@
 請請	qing qing	1
 請求	qing qiu	1
 請求報文	qing qiu bao wen	1
-請求蔘數	qing qiu can shu	1
-請求蔘數表	qing qiu can shu biao	1
+請求參數	qing qiu can shu	1
+請求參數表	qing qiu can shu biao	1
 請求超時	qing qiu chao shi	1
 請求處理	qing qiu chu li	1
 請求分頁	qing qiu fen ye	1
@@ -724691,7 +724691,7 @@
 全安鎮	quan an zhen	1
 全不產	quan bu chan	1
 全才皇后	quan cai huang hou	1
-全蔘	quan can	1
+全參	quan can	1
 全草	quan cao	1
 全程定量接種	quan cheng ding liang jie zhong	1
 全蟲	quan chong	1
@@ -725253,7 +725253,7 @@
 缺少的山楂	que shao de shan zha	1
 缺少美	que shao mei	1
 缺什麼	que shen me	1
-缺省蔘數	que sheng can shu	1
+缺省參數	que sheng can shu	1
 缺省路由	que sheng lu you	1
 缺失率	que shi lv	1
 缺失損失	que shi sun shi	1
@@ -727138,7 +727138,7 @@
 人蔘莖葉皂苷膠囊	ren can jing ye zao gan jiao nang	1
 人蔘莖葉皂苷片	ren can jing ye zao gan pian	1
 人蔘莖葉總皂苷	ren can jing ye zong zao gan	1
-人蔘考	ren can kao	1
+人參考	ren can kao	1
 人蔘理中湯	ren can li zhong tang	1
 人蔘蓮子茶	ren can lian zi cha	1
 人蔘鹿茸丸	ren can lu rong wan	1
@@ -727839,7 +727839,7 @@
 日本本田公司	ri ben ben tian gong si	1
 日本部隊	ri ben bu dui	1
 日本菜葉蜂	ri ben cai ye feng	1
-日本蔘議院	ri ben can yi yuan	1
+日本參議院	ri ben can yi yuan	1
 日本餐	ri ben can	1
 日本側齒葉蜂	ri ben ce chi ye feng	1
 日本叉尾海燕	ri ben cha wei hai yan	1
@@ -728113,7 +728113,7 @@
 日本紋白蝶	ri ben wen bai die	1
 日本無尾貓	ri ben wu wei mao	1
 日本五棘鯛	ri ben wu ji diao	1
-日本五角瓜蔘	ri ben wu jiao gua can	1
+日本五角瓜參	ri ben wu jiao gua can	1
 日本希蛛	ri ben xi zhu	1
 日本犀鱈	ri ben xi xue	1
 日本溪樹蛙	ri ben xi shu wa	1
@@ -728863,7 +728863,7 @@
 日月不得不行	ri yue bu de bu xing	1
 日月不居	ri yue bu ju	1
 日月不同光	ri yue bu tong guang	1
-日月蔘辰	ri yue can chen	1
+日月參辰	ri yue can chen	1
 日月藏族鄉	ri yue zang zu xiang	1
 日月蹉跎	ri yue cuo tuo	1
 日月光明散	ri yue guang ming san	1
@@ -729065,8 +729065,8 @@
 戎族	rong zu	1
 肜肜	rong rong	1
 茸安鄉	rong an xiang	1
-茸蔘補腎膠囊	rong can bu shen jiao nang	1
-茸蔘益腎膠囊	rong can yi shen jiao nang	1
+茸參補腎膠囊	rong can bu shen jiao nang	1
+茸參益腎膠囊	rong can yi shen jiao nang	1
 茸城論壇	rong cheng lun tan	1
 茸地益腎膠囊	rong di yi shen jiao nang	1
 茸附養真湯	rong fu yang zhen tang	1
@@ -729466,7 +729466,7 @@
 溶江鄉	rong jiang xiang	1
 溶江鎮	rong jiang zhen	1
 溶解的顱骨	rong jie de lu gu	1
-溶解度蔘數	rong jie du can shu	1
+溶解度參數	rong jie du can shu	1
 溶解度曲線	rong jie du qu xian	1
 溶解護甲	rong jie hu jia	1
 溶解擴散	rong jie kuo san	1
@@ -730021,7 +730021,7 @@
 肉孢子蟲屬	rou bao zi chong shu	1
 肉薄骨並	rou bao gu bing	1
 肉菜市場	rou cai shi chang	1
-肉蔘	rou can	1
+肉參	rou can	1
 肉叉	rou cha	1
 肉顫心驚	rou chan xin jing	1
 肉腸	rou chang	1
@@ -734592,8 +734592,8 @@
 掃雪機	sao xue ji	1
 掃葉樓	sao ye lou	1
 掃葉腿法	sao ye tui fa	1
-掃葉腿法迴風掃葉蔘悟殘頁	sao ye tui fa hui feng sao ye can wu can ye	1
-掃葉腿法迴風掃葉蔘悟斷篇	sao ye tui fa hui feng sao ye can wu duan pian	1
+掃葉腿法迴風掃葉參悟殘頁	sao ye tui fa hui feng sao ye can wu can ye	1
+掃葉腿法迴風掃葉參悟斷篇	sao ye tui fa hui feng sao ye can wu duan pian	1
 掃葉腿法迴風掃葉註解殘頁	sao ye tui fa hui feng sao ye zhu jie can ye	1
 掃葉腿法迴風掃葉註解斷篇	sao ye tui fa hui feng sao ye zhu jie duan pian	1
 掃一掃	sao yi sao	1
@@ -735042,7 +735042,7 @@
 森博格	sen bo ge	1
 森布	sen bu	1
 森布魯	sen bu lu	1
-森蔘	sen can	1
+森參	sen can	1
 森沉	sen chen	1
 森川	sen chuan	1
 森茨伯里	sen ci bo li	1
@@ -739154,7 +739154,7 @@
 韶州師範	shao zhou shi fan	1
 韶狀磨牙	shao zhuang mo ya	1
 少拜寺鎮	shao bai si zhen	1
-少不服蔘	shao bu fu can	1
+少不服參	shao bu fu can	1
 少帝	shao di	1
 少獨行	shao du xing	1
 少獨知音絕	shao du zhi yin jue	1
@@ -745485,7 +745485,7 @@
 生殺與奪	sheng sha yu duo	1
 生殺之權	sheng sha zhi quan	1
 生曬	sheng shai	1
-生曬蔘	sheng shai can	1
+生曬參	sheng shai can	1
 生山	sheng shan	1
 生善	sheng shan	1
 生燒筋尾舌	sheng shao jin wei she	1
@@ -750231,7 +750231,7 @@
 時濟	shi ji	1
 時濟鄉	shi ji xiang	1
 時家店	shi jia dian	1
-時價蔘考	shi jia can kao	1
+時價參考	shi jia can kao	1
 時間愛你	shi jian ai ni	1
 時間比	shi jian bi	1
 時間比較	shi jian bi jiao	1
@@ -753751,8 +753751,8 @@
 手部護理	shou bu hu li	1
 手部火箭發射器	shou bu huo jian fa she qi	1
 手部清潔	shou bu qing jie	1
-手蔘	shou can	1
-手蔘腎寶膠囊	shou can shen bao jiao nang	1
+手參	shou can	1
+手參腎寶膠囊	shou can shen bao jiao nang	1
 手剎	shou cha	1
 手顫	shou chan	1
 手抄報	shou chao bao	1
@@ -754363,7 +754363,7 @@
 手在	shou zai	1
 手澤	shou ze	1
 手澤之遺	shou ze zhi yi	1
-手掌蔘	shou zhang can	1
+手掌參	shou zhang can	1
 手掌後臂間穴	shou zhang hou bi jian xue	1
 手掌機	shou zhang ji	1
 手掌心	shou zhang xin	1
@@ -757849,7 +757849,7 @@
 數字字符集	shu zi zi fu ji	1
 數宗	shu zong	1
 數組遍歷	shu zu bian li	1
-數組蔘數	shu zu can shu	1
+數組參數	shu zu can shu	1
 數組操作	shu zu cao zuo	1
 數組查找	shu zu cha zhao	1
 數組初始化	shu zu chu shi hua	1
@@ -758147,7 +758147,7 @@
 雙才鎮	shuang cai zhen	1
 雙彩鄉	shuang cai xiang	1
 雙菜炒紅豆年糕	shuang cai chao hong dou nian gao	1
-雙蔘安神糖漿	shuang can an shen tang jiang	1
+雙參安神糖漿	shuang can an shen tang jiang	1
 雙槽水槽安裝	shuang cao shui cao an zhuang	1
 雙槽鄉	shuang cao xiang	1
 雙層牀和高架牀	shuang ceng chuang he gao jia chuang	1
@@ -764720,7 +764720,7 @@
 四棗火燒	si zao huo shao	1
 四珍小白菜	si zhen xiao bai cai	1
 四診八綱	si zhen ba gang	1
-四診合蔘	si zhen he can	1
+四診合參	si zhen he can	1
 四正斷佛陣	si zheng duan fo zhen	1
 四症神方	si zheng shen fang	1
 四之氣	si zhi qi	1
@@ -765602,7 +765602,7 @@
 聳膊成山	song bo cheng shan	1
 聳出	song chu	1
 聳動視聽	song dong shi ting	1
-聳幹會蔘天	song gan hui can tian	1
+聳幹會參天	song gan hui can tian	1
 聳壑昂霄	song he ang xiao	1
 聳壑凌霄	song he ling xiao	1
 聳肩曲背	song jian qu bei	1
@@ -766272,7 +766272,7 @@
 送子	song zi	1
 送子觀音	song zi guan yin	1
 送子天王圖	song zi tian wang tu	1
-送梓州高蔘軍還京	song zi zhou gao can jun hai jing	1
+送梓州高參軍還京	song zi zhou gao can jun hai jing	1
 送梓州李使君	song zi zhou li shi jun	1
 送縱宇一郎東行	song zong yu yi lang dong hang	1
 送族弟凝至晏堌	song zu di ning zhi yan gu	1
@@ -766503,7 +766503,7 @@
 蘇堡鄉	su bao xiang	1
 蘇堡鎮	su bao zhen	1
 蘇北灌溉總渠	su bei guan gai zong qu	1
-蘇北臨時蔘政會	su bei lin shi can zheng hui	1
+蘇北臨時參政會	su bei lin shi can zheng hui	1
 蘇比	su bi	1
 蘇比克灣	su bi ke wan	1
 蘇必利爾	su bi li er	1
@@ -767481,8 +767481,8 @@
 訴訟保險制度	su song bao xian zhi du	1
 訴訟標的	su song biao di	1
 訴訟標的額	su song biao di e	1
-訴訟蔘加人	su song can jia ren	1
-訴訟蔘與人	su song can yu ren	1
+訴訟參加人	su song can jia ren	1
+訴訟參與人	su song can yu ren	1
 訴訟常識	su song chang shi	1
 訴訟承擔	su song cheng dan	1
 訴訟代理	su song dai li	1
@@ -770681,7 +770681,7 @@
 鎖的	suo de	1
 鎖店	suo dian	1
 鎖釘	suo ding	1
-鎖定蔘考線	suo ding can kao xian	1
+鎖定參考線	suo ding can kao xian	1
 鎖定放大器	suo ding fang da qi	1
 鎖定鋼板	suo ding gang ban	1
 鎖定工具欄	suo ding gong ju lan	1
@@ -775432,7 +775432,7 @@
 討論案件	tao lun an jian	1
 討論版	tao lun ban	1
 討論到	tao lun dao	1
-討論會蔘	tao lun hui can	1
+討論會參	tao lun hui can	1
 討論課	tao lun ke	1
 討論區	tao lun qu	1
 討論式	tao lun shi	1
@@ -776436,7 +776436,7 @@
 特長指蛛	te chang zhi zhu	1
 特徵編碼	te zheng bian ma	1
 特徵標的級	te zheng biao di ji	1
-特徵蔘數	te zheng can shu	1
+特徵參數	te zheng can shu	1
 特徵抽取	te zheng chou qu	1
 特徵詞	te zheng ci	1
 特徵點	te zheng dian	1
@@ -781960,7 +781960,7 @@
 通貴鄉	tong gui xiang	1
 通國	tong guo	1
 通過表演	tong guo biao yan	1
-通過蔘觀	tong guo can guan	1
+通過參觀	tong guo can guan	1
 通過黑暗之門	tong guo hei an zhi men	1
 通過會議	tong guo hui yi	1
 通過教育	tong guo jiao yu	1
@@ -783246,7 +783246,7 @@
 童便	tong bian	1
 童兵	tong bing	1
 童不復	tong bu fu	1
-童蔘	tong can	1
+童參	tong can	1
 童車配件	tong che pei jian	1
 童車童牀	tong che tong chuang	1
 童崇德	tong chong de	1
@@ -784337,7 +784337,7 @@
 投資報告	tou zi bao gao	1
 投資部	tou zi bu	1
 投資部長	tou zi bu zhang	1
-投資蔘考	tou zi can kao	1
+投資參考	tou zi can kao	1
 投資程序	tou zi cheng xu	1
 投資創業	tou zi chuang ye	1
 投資促進	tou zi cu jin	1
@@ -796193,7 +796193,7 @@
 維蘇威火山	wei su wei huo shan	1
 維索	wei suo	1
 維他	wei ta	1
-維他蔘顆粒	wei ta can ke li	1
+維他參顆粒	wei ta can ke li	1
 維他麥	wei ta mai	1
 維他命水	wei ta ming shui	1
 維他命丸	wei ta ming wan	1
@@ -796722,7 +796722,7 @@
 未便	wei bian	1
 未病	wei bing	1
 未卜見故鄉	wei bu jian gu xiang	1
-未蔘戰的	wei can zhan de	1
+未參戰的	wei can zhan de	1
 未曾得米棄官歸	wei ceng de mi qi guan gui	1
 未曾見過	wei ceng jian guo	1
 未曾講	wei ceng jiang	1
@@ -799516,7 +799516,7 @@
 文慶	wen qing	1
 文窮	wen qiong	1
 文瓊	wen qiong	1
-文楸方罫花蔘差	wen qiu fang gua hua can cha	1
+文楸方罫花參差	wen qiu fang gua hua can cha	1
 文求堂	wen qiu tang	1
 文裘	wen qiu	1
 文渠鄉	wen qu xiang	1
@@ -802902,8 +802902,8 @@
 無才日衰老	wu cai ri shuai lao	1
 無才無華	wu cai wu hua	1
 無彩色	wu cai se	1
-無蔘構造函數	wu can gou zao han shu	1
-無蔘函數	wu can han shu	1
+無參構造函數	wu can gou zao han shu	1
+無參函數	wu can han shu	1
 無殘留	wu can liu	1
 無草洞	wu cao dong	1
 無惻隱之心	wu ce yin zhi xin	1
@@ -807456,7 +807456,7 @@
 物是人非事事休	wu shi ren fei shi shi xiu	1
 物孰不資焉	wu shu bu zi yan	1
 物態	wu tai	1
-物態蔘量	wu tai can liang	1
+物態參量	wu tai can liang	1
 物態方程	wu tai fang cheng	1
 物探隊	wu tan dui	1
 物探局	wu tan ju	1
@@ -808984,8 +808984,8 @@
 西河公主	xi he gong zhu	1
 西河溝	xi he gou	1
 西河劍器	xi he jian qi	1
-西河劍器江海凝光蔘悟殘頁	xi he jian qi jiang hai ning guang can wu can ye	1
-西河劍器江海凝光蔘悟斷篇	xi he jian qi jiang hai ning guang can wu duan pian	1
+西河劍器江海凝光參悟殘頁	xi he jian qi jiang hai ning guang can wu can ye	1
+西河劍器江海凝光參悟斷篇	xi he jian qi jiang hai ning guang can wu duan pian	1
 西河劍器江海凝光秘訣殘頁	xi he jian qi jiang hai ning guang mi jue can ye	1
 西河劍器江海凝光秘訣斷篇	xi he jian qi jiang hai ning guang mi jue duan pian	1
 西河劍器江海凝光真傳殘頁	xi he jian qi jiang hai ning guang zhen chuan can ye	1
@@ -812798,7 +812798,7 @@
 系統部	xi tong bu	1
 系統部署	xi tong bu shu	1
 系統菜單	xi tong cai dan	1
-系統蔘數	xi tong can shu	1
+系統參數	xi tong can shu	1
 系統操作	xi tong cao zuo	1
 系統測試	xi tong ce shi	1
 系統測試方式	xi tong ce shi fang shi	1
@@ -818614,7 +818614,7 @@
 詳文	xiang wen	1
 詳問	xiang wen	1
 詳悉	xiang xi	1
-詳細蔘數	xiang xi can shu	1
+詳細參數	xiang xi can shu	1
 詳細地址	xiang xi de zhi	1
 詳細規劃	xiang xi gui hua	1
 詳細教程	xiang xi jiao cheng	1
@@ -823264,7 +823264,7 @@
 諧振箱	xie zhen xiang	1
 諧振子	xie zhen zi	1
 攜伴	xie ban	1
-攜伴蔘加	xie ban can jia	1
+攜伴參加	xie ban can jia	1
 攜備	xie bei	1
 攜成	xie cheng	1
 攜程	xie cheng	1
@@ -823762,7 +823762,7 @@
 謝靖	xie jing	1
 謝靜宜	xie jing yi	1
 謝娟	xie juan	1
-謝絕蔘觀	xie jue can guan	1
+謝絕參觀	xie jue can guan	1
 謝絕來訪	xie jue lai fang	1
 謝軍	xie jun	1
 謝君豪	xie jun hao	1
@@ -824120,7 +824120,7 @@
 蟹鰲織紋螺	xie ao zhi wen luo	1
 蟹八件	xie ba jian	1
 蟹棒	xie bang	1
-蟹蔘蝦餃	xie can xia jiao	1
+蟹參蝦餃	xie can xia jiao	1
 蟹茺蟹亂	xie chong xie luan	1
 蟹醋	xie cu	1
 蟹島	xie dao	1
@@ -825746,7 +825746,7 @@
 新編經濟法概論	xin bian jing ji fa gai lun	1
 新編軍隊法律服務手冊	xin bian jun dui fa lv fu wu shou ce	1
 新編勞動爭議仲裁案例	xin bian lao dong zheng yi zhong cai an li	1
-新編六法蔘照法令判解全書	xin bian liu fa can zhao fa ling pan jie quan shu	1
+新編六法參照法令判解全書	xin bian liu fa can zhao fa ling pan jie quan shu	1
 新編企業經營法小全書	xin bian qi ye jing ying fa xiao quan shu	1
 新編司法文書範本	xin bian si fa wen shu fan ben	1
 新編司法文書教程	xin bian si fa wen shu jiao cheng	1
@@ -829598,7 +829598,7 @@
 形變而有生	xing bian er you sheng	1
 形帛畫	xing bo hua	1
 形不成	xing bu cheng	1
-形蔘	xing can	1
+形參	xing can	1
 形槽	xing cao	1
 形察色	xing cha se	1
 形成層	xing cheng ceng	1
@@ -829654,7 +829654,7 @@
 形聲字	xing sheng zi	1
 形勝	xing sheng	1
 形石	xing shi	1
-形式蔘數	xing shi can shu	1
+形式參數	xing shi can shu	1
 形式方法	xing shi fang fa	1
 形式各異	xing shi ge yi	1
 形式規則	xing shi gui ze	1
@@ -829812,7 +829812,7 @@
 興安鎮	xing an zhen	1
 興霸	xing ba	1
 興財	xing cai	1
-興蔘鎮	xing can zhen	1
+興參鎮	xing can zhen	1
 興城街道	xing cheng jie dao	1
 興城路街道	xing cheng lu jie dao	1
 興村鄉	xing cun xiang	1
@@ -830369,7 +830369,7 @@
 性能保證	xing neng bao zheng	1
 性能比	xing neng bi	1
 性能比較	xing neng bi jiao	1
-性能蔘數	xing neng can shu	1
+性能參數	xing neng can shu	1
 性能測量	xing neng ce liang	1
 性能測試	xing neng ce shi	1
 性能測試方面	xing neng ce shi fang mian	1
@@ -832020,7 +832020,7 @@
 虛報註冊資本罪	xu bao zhu ce zi ben zui	1
 虛表	xu biao	1
 虛步躡太清	xu bu nie tai qing	1
-虛蔘數	xu can shu	1
+虛參數	xu can shu	1
 虛詞詭説	xu ci gui shuo	1
 虛辭濫調	xu ci lan tiao	1
 虛存機制	xu cun ji zhi	1
@@ -835539,8 +835539,8 @@
 雪菜油渣黃魚面	xue cai you zha huang yu mian	1
 雪菜汁汆肉螺	xue cai zhi cuan rou luo	1
 雪菜豬肉煎餃	xue cai zhu rou jian jiao	1
-雪蔘	xue can	1
-雪蔘包	xue can bao	1
+雪參	xue can	1
+雪參包	xue can bao	1
 雪操冰心	xue cao bing xin	1
 雪層	xue ceng	1
 雪讒詩贈友人	xue chan shi zeng you ren	1
@@ -835617,7 +835617,7 @@
 雪夫	xue fu	1
 雪夫氏	xue fu shi	1
 雪夫斯基	xue fu si ji	1
-雪膚花貌蔘差是	xue fu hua mao can cha shi	1
+雪膚花貌參差是	xue fu hua mao can cha shi	1
 雪膚萊	xue fu lai	1
 雪弗蘭	xue fu lan	1
 雪復	xue fu	1
@@ -839342,7 +839342,7 @@
 延安鎮	yan an zhen	1
 延安中路街道	yan an zhong lu jie dao	1
 延安中益會所	yan an zhong yi hui suo	1
-延蔘健胃膠囊	yan can jian wei jiao nang	1
+延參健胃膠囊	yan can jian wei jiao nang	1
 延城	yan cheng	1
 延川鎮	yan chuan zhen	1
 延篤	yan du	1
@@ -839406,7 +839406,7 @@
 閆莊鎮	yan zhuang zhen	1
 嚴安	yan an	1
 嚴本	yan ben	1
-嚴蔘	yan can	1
+嚴參	yan can	1
 嚴道鎮	yan dao zhen	1
 嚴店鄉	yan dian xiang	1
 嚴關鎮	yan guan zhen	1
@@ -841905,7 +841905,7 @@
 宴桃源	yan tao yuan	1
 宴無好宴	yan wu hao yan	1
 宴瑤池	yan yao chi	1
-宴鄭蔘卿山池	yan zheng can qing shan chi	1
+宴鄭參卿山池	yan zheng can qing shan chi	1
 驗布	yan bu	1
 驗布機	yan bu ji	1
 驗鈔筆	yan chao bi	1
@@ -843755,7 +843755,7 @@
 楊埠鎮	yang bu zhen	1
 楊才壽	yang cai shou	1
 楊采妮	yang cai ni	1
-楊蔘軍	yang can jun	1
+楊參軍	yang can jun	1
 楊曹	yang cao	1
 楊汊湖	yang cha hu	1
 楊汊湖小區	yang cha hu xiao qu	1
@@ -846556,7 +846556,7 @@
 搖嘴掉舌	yao zui diao she	1
 徭役地租	yao yi di zu	1
 遙不	yao bu	1
-遙蔘	yao can	1
+遙參	yao can	1
 遙測地震儀	yao ce di zhen yi	1
 遙測計	yao ce ji	1
 遙測技術	yao ce ji shu	1
@@ -855887,7 +855887,7 @@
 隱士商人	yin shi shang ren	1
 隱式	yin shi	1
 隱式並行性	yin shi bing xing xing	1
-隱式蔘數	yin shi can shu	1
+隱式參數	yin shi can shu	1
 隱式差分法	yin shi cha fen fa	1
 隱式動畫	yin shi dong hua	1
 隱式類型轉換	yin shi lei xing zhuan huan	1
@@ -858097,7 +858097,7 @@
 郢城鎮	ying cheng zhen	1
 郢都	ying dou	1
 郢匠揮斤	ying jiang hui jin	1
-郢路更蔘差	ying lu geng can cha	1
+郢路更參差	ying lu geng can cha	1
 郢門秋懷	ying men qiu huai	1
 郢人	ying ren	1
 郢人堊慢其鼻端若蠅翼	ying ren e man qi bi duan ruo ying yi	1
@@ -858353,7 +858353,7 @@
 影響度	ying xiang du	1
 影響面	ying xiang mian	1
 影響性訴訟	ying xiang xing su song	1
-影象蔘數	ying xiang can shu	1
+影象參數	ying xiang can shu	1
 影象地圖	ying xiang di tu	1
 影象分辨率	ying xiang fen bian lv	1
 影象灰度	ying xiang hui du	1
@@ -858881,7 +858881,7 @@
 硬紙板	ying zhi ban	1
 硬紙殼	ying zhi ke	1
 硬紙匣	ying zhi xia	1
-硬指蔘	ying zhi can	1
+硬指參	ying zhi can	1
 硬質合金廠	ying zhi he jin chang	1
 硬質小麥	ying zhi xiao mai	1
 硬腫	ying zhong	1
@@ -862360,8 +862360,8 @@
 有采	you cai	1
 有彩	you cai	1
 有彩色	you cai se	1
-有蔘	you can	1
-有蔘函數	you can han shu	1
+有參	you can	1
+有參函數	you can han shu	1
 有殘	you can	1
 有草名含羞	you cao ming han xiu	1
 有策不敢犯龍鱗	you ce bu gan fan long lin	1
@@ -865840,15 +865840,15 @@
 羽林軍	yu lin jun	1
 羽林騎	yu lin qi	1
 羽林槍法	yu lin qiang fa	1
-羽林槍法穿雲蔘悟斷篇	yu lin qiang fa chuan yun can wu duan pian	1
-羽林槍法穿雲蔘悟絕章	yu lin qiang fa chuan yun can wu jue zhang	1
+羽林槍法穿雲參悟斷篇	yu lin qiang fa chuan yun can wu duan pian	1
+羽林槍法穿雲參悟絕章	yu lin qiang fa chuan yun can wu jue zhang	1
 羽林槍法穿雲秘訣殘頁	yu lin qiang fa chuan yun mi jue can ye	1
 羽林槍法穿雲秘訣斷篇	yu lin qiang fa chuan yun mi jue duan pian	1
 羽林槍法穿雲詳解殘頁	yu lin qiang fa chuan yun xiang jie can ye	1
 羽林槍法穿雲詳解斷篇	yu lin qiang fa chuan yun xiang jie duan pian	1
 羽林槍法穿雲穴位圖殘頁	yu lin qiang fa chuan yun xue wei tu can ye	1
-羽林槍法龍牙蔘悟殘頁	yu lin qiang fa long ya can wu can ye	1
-羽林槍法龍牙蔘悟斷篇	yu lin qiang fa long ya can wu duan pian	1
+羽林槍法龍牙參悟殘頁	yu lin qiang fa long ya can wu can ye	1
+羽林槍法龍牙參悟斷篇	yu lin qiang fa long ya can wu duan pian	1
 羽林槍法龍牙秘訣殘頁	yu lin qiang fa long ya mi jue can ye	1
 羽林槍法龍牙秘訣斷篇	yu lin qiang fa long ya mi jue duan pian	1
 羽林槍法龍牙詳解殘頁	yu lin qiang fa long ya xiang jie can ye	1
@@ -867689,7 +867689,7 @@
 馭妖	yu yao	1
 馭者	yu zhe	1
 芋包	yu bao	1
-芋蔘目	yu can mu	1
+芋參目	yu can mu	1
 芋蛋面	yu dan mian	1
 芋兒雞火鍋	yu er ji huo guo	1
 芋兒燒雞	yu er shao ji	1
@@ -869996,23 +869996,23 @@
 猿臂	yuan bi	1
 猿飛佐助	yuan fei zuo zhu	1
 猿公劍法	yuan gong jian fa	1
-猿公劍法劍靈寰宇蔘悟殘頁	yuan gong jian fa jian ling huan yu can wu can ye	1
-猿公劍法劍靈寰宇蔘悟斷篇	yuan gong jian fa jian ling huan yu can wu duan pian	1
-猿公劍法劍靈寰宇蔘悟絕章	yuan gong jian fa jian ling huan yu can wu jue zhang	1
+猿公劍法劍靈寰宇參悟殘頁	yuan gong jian fa jian ling huan yu can wu can ye	1
+猿公劍法劍靈寰宇參悟斷篇	yuan gong jian fa jian ling huan yu can wu duan pian	1
+猿公劍法劍靈寰宇參悟絕章	yuan gong jian fa jian ling huan yu can wu jue zhang	1
 猿公劍法劍靈寰宇穴位圖殘頁	yuan gong jian fa jian ling huan yu xue wei tu can ye	1
 猿公劍法劍靈寰宇穴位圖斷篇	yuan gong jian fa jian ling huan yu xue wei tu duan pian	1
 猿公劍法劍靈寰宇真傳殘頁	yuan gong jian fa jian ling huan yu zhen chuan can ye	1
 猿公劍法劍靈寰宇註解殘頁	yuan gong jian fa jian ling huan yu zhu jie can ye	1
 猿公劍法劍靈寰宇註解斷篇	yuan gong jian fa jian ling huan yu zhu jie duan pian	1
-猿公劍法劍氣長江蔘悟殘頁	yuan gong jian fa jian qi chang jiang can wu can ye	1
+猿公劍法劍氣長江參悟殘頁	yuan gong jian fa jian qi chang jiang can wu can ye	1
 猿公劍法劍氣長江秘訣殘頁	yuan gong jian fa jian qi chang jiang mi jue can ye	1
 猿公劍法劍氣長江秘訣斷篇	yuan gong jian fa jian qi chang jiang mi jue duan pian	1
 猿公劍法劍氣長江穴位圖殘頁	yuan gong jian fa jian qi chang jiang xue wei tu can ye	1
 猿公劍法劍氣長江穴位圖斷篇	yuan gong jian fa jian qi chang jiang xue wei tu duan pian	1
 猿公劍法劍氣長江註解殘頁	yuan gong jian fa jian qi chang jiang zhu jie can ye	1
 猿公劍法劍氣長江註解斷篇	yuan gong jian fa jian qi chang jiang zhu jie duan pian	1
-猿公劍法劍主天地蔘悟殘頁	yuan gong jian fa jian zhu tian di can wu can ye	1
-猿公劍法劍主天地蔘悟斷篇	yuan gong jian fa jian zhu tian di can wu duan pian	1
+猿公劍法劍主天地參悟殘頁	yuan gong jian fa jian zhu tian di can wu can ye	1
+猿公劍法劍主天地參悟斷篇	yuan gong jian fa jian zhu tian di can wu duan pian	1
 猿公劍法劍主天地人偶圖殘頁	yuan gong jian fa jian zhu tian di ren ou tu can ye	1
 猿公劍法劍主天地真傳殘頁	yuan gong jian fa jian zhu tian di zhen chuan can ye	1
 猿公劍法劍主天地真傳斷篇	yuan gong jian fa jian zhu tian di zhen chuan duan pian	1
@@ -870313,7 +870313,7 @@
 遠帆	yuan fan	1
 遠藩	yuan fan	1
 遠範	yuan fan	1
-遠方蔘考站	yuan fang can kao zhan	1
+遠方參考站	yuan fang can kao zhan	1
 遠方出版社	yuan fang chu ban she	1
 遠方的請託	yuan fang de qing tuo	1
 遠方浮龍	yuan fang fu long	1
@@ -871412,7 +871412,7 @@
 月露為知音	yue lu wei zhi yin	1
 月露之體	yue lu zhi ti	1
 月輪杖	yue lun zhang	1
-月落蔘橫	yue luo can heng	1
+月落參橫	yue luo can heng	1
 月落錦屏虛	yue luo jin ping xu	1
 月落烏啼	yue luo wu ti	1
 月落烏啼霜滿天	yue luo wu ti shuang man tian	1
@@ -871426,7 +871426,7 @@
 月矛	yue mao	1
 月貌	yue mao	1
 月貌花容	yue mao hua rong	1
-月沒蔘橫	yue mei can heng	1
+月沒參橫	yue mei can heng	1
 月眉村	yue mei cun	1
 月眉飛劍	yue mei fei jian	1
 月門	yue men	1
@@ -871437,7 +871437,7 @@
 月面環形山	yue mian huan xing shan	1
 月面學	yue mian xue	1
 月杪	yue miao	1
-月明船笛蔘差起	yue ming chuan di can cha qi	1
+月明船笛參差起	yue ming chuan di can cha qi	1
 月明村	yue ming cun	1
 月明多被雲妨	yue ming duo bei yun fang	1
 月明風清	yue ming feng qing	1
@@ -871477,7 +871477,7 @@
 月期	yue qi	1
 月起	yue qi	1
 月千一夜	yue qian yi ye	1
-月前秋聽玉蔘差	yue qian qiu ting yu can cha	1
+月前秋聽玉參差	yue qian qiu ting yu can cha	1
 月錢	yue qian	1
 月傾	yue qing	1
 月傾天下	yue qing tian xia	1
@@ -874572,7 +874572,7 @@
 棗豹紋蠹蛾	zao bao wen du e	1
 棗北牛	zao bei niu	1
 棗步曲	zao bu qu	1
-棗蔘合劑	zao can he ji	1
+棗參合劑	zao can he ji	1
 棗茶	zao cha	1
 棗村鄉	zao cun xiang	1
 棗兒	zao er	1
@@ -875509,7 +875509,7 @@
 贈別徐侃	zeng bie xu kan	1
 贈別鄭判官	zeng bie zheng pan guan	1
 贈賓貢	zeng bin gong	1
-贈蔘寥子	zeng can liao zi	1
+贈參寥子	zeng can liao zi	1
 贈常侍御	zeng chang shi yu	1
 贈陳二補闕	zeng chen er bu que	1
 贈陳商	zeng chen shang	1
@@ -876825,7 +876825,7 @@
 粘網膠	zhan wang jiao	1
 粘温係數	zhan wen xi shu	1
 粘細胞	zhan xi bao	1
-粘細錨蔘	zhan xi mao can	1
+粘細錨參	zhan xi mao can	1
 粘性輻射塵	zhan xing fu she chen	1
 粘性力	zhan xing li	1
 粘性聯軸節	zhan xing lian zhou jie	1
@@ -880565,7 +880565,7 @@
 長尾巖巨蜥	zhang wei yan ju xi	1
 長尾雁蕩鳥	zhang wei yan dang niao	1
 長尾耀鮎	zhang wei yao nian	1
-長尾異賽瓜蔘	zhang wei yi sai gua can	1
+長尾異賽瓜參	zhang wei yi sai gua can	1
 長尾異飾肛螽	zhang wei yi shi gang zhong	1
 長尾玉米卷管螺	zhang wei yu mi juan guan luo	1
 長尾猿	zhang wei yuan	1
@@ -883869,7 +883869,7 @@
 褶頰蟲目	zhe jia chong mu	1
 褶頰蟲亞目	zhe jia chong ya mu	1
 褶襉	zhe jian	1
-褶錨蔘	zhe mao can	1
+褶錨參	zhe mao can	1
 褶玫瑰水母	zhe mei gui shui mu	1
 褶曲	zhe qu	1
 褶裙	zhe qun	1
@@ -888531,7 +888531,7 @@
 證這	zheng zhe	1
 證治安全局	zheng zhi an quan ju	1
 證治寶鑑	zheng zhi bao jian	1
-證治合蔘	zheng zhi he can	1
+證治合參	zheng zhi he can	1
 證治匯補	zheng zhi hui bu	1
 證治準繩	zheng zhi zhun sheng	1
 鄭哀公	zheng ai gong	1
@@ -889489,7 +889489,7 @@
 政制事務局	zheng zhi shi wu ju	1
 政治波動	zheng zhi bo dong	1
 政治博弈	zheng zhi bo yi	1
-政治蔘與權	zheng zhi can yu quan	1
+政治參與權	zheng zhi can yu quan	1
 政治成本	zheng zhi cheng ben	1
 政治處	zheng zhi chu	1
 政治大學	zheng zhi da xue	1
@@ -891395,7 +891395,7 @@
 直下	zhi xia	1
 直下龍巖上杭	zhi xia long yan shang hang	1
 直弦	zhi xian	1
-直線蔘謀制	zhi xian can mou zhi	1
+直線參謀制	zhi xian can mou zhi	1
 直線傳播	zhi xian chuan bo	1
 直線導軌	zhi xian dao gui	1
 直線度	zhi xian du	1
@@ -892663,7 +892663,7 @@
 指謫	zhi zhe	1
 指這	zhi zhe	1
 指針變量	zhi zhen bian liang	1
-指針蔘數	zhi zhen can shu	1
+指針參數	zhi zhen can shu	1
 指針常量	zhi zhen chang liang	1
 指針傳遞	zhi zhen chuan di	1
 指針的指針	zhi zhen de zhi zhen	1
@@ -892701,7 +892701,7 @@
 枳實半夏丸	zhi shi ban xia wan	1
 枳實半夏瀉心湯	zhi shi ban xia xie xin tang	1
 枳實檳榔丸	zhi shi bin lang wan	1
-枳實蔘樸湯	zhi shi can pu tang	1
+枳實參樸湯	zhi shi can pu tang	1
 枳實大黃承氣湯	zhi shi da huang cheng qi tang	1
 枳實導滯丸	zhi shi dao zhi wan	1
 枳實二陳湯	zhi shi er chen tang	1
@@ -894588,7 +894588,7 @@
 中管	zhong guan	1
 中國版畫	zhong guo ban hua	1
 中國版刻圖錄	zhong guo ban ke tu lu	1
-中國蔘戰	zhong guo can zhan	1
+中國參戰	zhong guo can zhan	1
 中國傳統風箏	zhong guo chuan tong feng zheng	1
 中國傳統玩具	zhong guo chuan tong wan ju	1
 中國傳統中醫藥網	zhong guo chuan tong zhong yi yao wang	1
@@ -899684,7 +899684,7 @@
 珠澤	zhu ze	1
 珠珍	zhu zhen	1
 珠柱	zhu zhu	1
-珠子蔘	zhu zi can	1
+珠子參	zhu zi can	1
 珠子河	zhu zi he	1
 株高	zhu gao	1
 株行試驗	zhu hang shi yan	1
@@ -900020,7 +900020,7 @@
 豬皮晶	zhu pi jing	1
 豬皮蘿蔔	zhu pi luo bo	1
 豬脾棗米粥	zhu pi zao mi zhou	1
-豬婆蔘	zhu po can	1
+豬婆參	zhu po can	1
 豬婆龍	zhu po long	1
 豬羣	zhu qun	1
 豬肉餅	zhu rou bing	1
@@ -900324,7 +900324,7 @@
 竹江鄉	zhu jiang xiang	1
 竹漿	zhu jiang	1
 竹膠板	zhu jiao ban	1
-竹節蔘	zhu jie can	1
+竹節參	zhu jie can	1
 竹節蟲	zhu jie chong	1
 竹節糕	zhu jie gao	1
 竹節雞盅	zhu jie ji zhong	1
@@ -903178,7 +903178,7 @@
 撞個滿懷	zhuang ge man huai	1
 撞鬼	zhuang gui	1
 撞過	zhuang guo	1
-撞擊蔘數	zhuang ji can shu	1
+撞擊參數	zhuang ji can shu	1
 撞擊到	zhuang ji dao	1
 撞擊力	zhuang ji li	1
 撞擊器	zhuang ji qi	1
@@ -903940,7 +903940,7 @@
 酌辦	zhuo ban	1
 酌處	zhuo chu	1
 酌定不起訴	zhuo ding bu qi su	1
-酌古蔘今	zhuo gu can jin	1
+酌古參今	zhuo gu can jin	1
 酌古沿今	zhuo gu yan jin	1
 酌古御今	zhuo gu yu jin	1
 酌古斟今	zhuo gu zhen jin	1
@@ -904673,7 +904673,7 @@
 紫菜薹	zi cai tai	1
 紫菜湯	zi cai tang	1
 紫菜頭	zi cai tou	1
-紫蔘	zi can	1
+紫參	zi can	1
 紫倉鼠	zi cang shu	1
 紫草	zi cao	1
 紫草粉	zi cao fen	1
@@ -904928,7 +904928,7 @@
 紫陸寄居蟹	zi lu ji ju xie	1
 紫鹿	zi lu	1
 紫露	zi lu	1
-紫輪蔘	zi lun can	1
+紫輪參	zi lun can	1
 紫羅	zi luo	1
 紫羅蘭城堡結界	zi luo lan cheng bao jie jie	1
 紫羅蘭的約定	zi luo lan de yue ding	1
@@ -907511,15 +907511,15 @@
 總裁室	zong cai shi	1
 總裁我要離婚	zong cai wo yao li hun	1
 總裁之借腹生子	zong cai zhi jie fu sheng zi	1
-總蔘兵種部	zong can bing zhong bu	1
-總蔘測繪局	zong can ce hui ju	1
-總蔘測繪局社區	zong can ce hui ju she qu	1
-總蔘黨委	zong can dang wei	1
-總蔘管理局	zong can guan li ju	1
-總蔘軍事學院	zong can jun shi xue yuan	1
-總蔘謀	zong can mou	1
-總蔘氣象局社區	zong can qi xiang ju she qu	1
-總蔘作戰部	zong can zuo zhan bu	1
+總參兵種部	zong can bing zhong bu	1
+總參測繪局	zong can ce hui ju	1
+總參測繪局社區	zong can ce hui ju she qu	1
+總參黨委	zong can dang wei	1
+總參管理局	zong can guan li ju	1
+總參軍事學院	zong can jun shi xue yuan	1
+總參謀	zong can mou	1
+總參氣象局社區	zong can qi xiang ju she qu	1
+總參作戰部	zong can zuo zhan bu	1
 總倉庫	zong cang ku	1
 總冊	zong ce	1
 總產值達	zong chan zhi da	1
@@ -908906,7 +908906,7 @@
 組地址	zu di zhi	1
 組雕	zu diao	1
 組都	zu dou	1
-組隊蔘加	zu dui can jia	1
+組隊參加	zu dui can jia	1
 組隊打怪	zu dui da guai	1
 組隊賽	zu dui sai	1
 組對	zu dui	1
@@ -909400,7 +909400,7 @@
 鑽勁	zuan jin	1
 鑽井泵	zuan jing beng	1
 鑽井泵功率	zuan jing beng gong lv	1
-鑽井蔘數傳感裝置	zuan jing can shu chuan gan zhuang zhi	1
+鑽井參數傳感裝置	zuan jing can shu chuan gan zhuang zhi	1
 鑽井船監控攝象機	zuan jing chuan jian kong she xiang ji	1
 鑽井隊	zuan jing dui	1
 鑽井鋼絲繩	zuan jing gang si sheng	1
@@ -909410,7 +909410,7 @@
 鑽井機	zuan jing ji	1
 鑽井進尺	zuan jing jin chi	1
 鑽井井口裝置	zuan jing jing kou zhuang zhi	1
-鑽井可控蔘數	zuan jing ke kong can shu	1
+鑽井可控參數	zuan jing ke kong can shu	1
 鑽井理論	zuan jing li lun	1
 鑽井設計	zuan jing she ji	1
 鑽井數據處理	zuan jing shu ju chu li	1
@@ -911139,7 +911139,7 @@
 蚌線	bang xian	1
 蚌線的	bang xian de	1
 保測變換	bao ce bian huan	1
-保持定向蔘數變換	bao chi ding xiang can shu bian huan	1
+保持定向參數變換	bao chi ding xiang can shu bian huan	1
 保持定向同構	bao chi ding xiang tong gou	1
 保持定向自同構	bao chi ding xiang zi tong gou	1
 保存	bao cun	1
@@ -911240,7 +911240,7 @@
 本沼空間	ben zhao kong jian	1
 本質邊界條件	ben zhi bian jie tiao jian	1
 本質不可判定性	ben zhi bu ke pan ding xing	1
-本質蔘數	ben zhi can shu	1
+本質參數	ben zhi can shu	1
 本質策略	ben zhi ce lue	1
 本質點	ben zhi dian	1
 本質開拓	ben zhi kai tuo	1
@@ -911343,7 +911343,7 @@
 閉值域定理	bi zhi yu ding li	1
 閉子羣	bi zi qun	1
 辨別	bian bie	1
-變蔘數元件	bian can shu yuan jian	1
+變參數元件	bian can shu yuan jian	1
 變差	bian cha	1
 變差範圍	bian cha fan wei	1
 變差係數	bian cha xi shu	1
@@ -911750,37 +911750,37 @@
 補子模	bu zi mo	1
 擦除	ca chu	1
 擦去	ca qu	1
-蔘變數	can bian shu	1
+參變數	can bian shu	1
 殘差和	can cha he	1
-蔘考橢球	can kao tuo qiu	1
-蔘模空間	can mo kong jian	1
-蔘數	can shu	1
+參考橢球	can kao tuo qiu	1
+參模空間	can mo kong jian	1
+參數	can shu	1
 殘數	can shu	1
-蔘數變換	can shu bian huan	1
-蔘數表示	can shu biao shi	1
-蔘數簇	can shu cu	1
-蔘數的估計	can shu de gu ji	1
+參數變換	can shu bian huan	1
+參數表示	can shu biao shi	1
+參數簇	can shu cu	1
+參數的估計	can shu de gu ji	1
 殘數定理	can shu ding li	1
-蔘數方程	can shu fang cheng	1
-蔘數估計	can shu gu ji	1
-蔘數規劃	can shu gui hua	1
-蔘數化法	can shu hua fa	1
-蔘數積分	can shu ji fen	1
+參數方程	can shu fang cheng	1
+參數估計	can shu gu ji	1
+參數規劃	can shu gui hua	1
+參數化法	can shu hua fa	1
+參數積分	can shu ji fen	1
 殘數計算	can shu ji suan	1
-蔘數假設	can shu jia she	1
-蔘數檢驗	can shu jian yan	1
-蔘數空間	can shu kong jian	1
-蔘數曲率	can shu qu lv	1
-蔘數曲面	can shu qu mian	1
-蔘數曲線	can shu qu xian	1
-蔘數羣	can shu qun	1
-蔘數學	can shu xue	1
-蔘數最優化	can shu zui you hua	1
-蔘數最優解	can shu zui you jie	1
+參數假設	can shu jia she	1
+參數檢驗	can shu jian yan	1
+參數空間	can shu kong jian	1
+參數曲率	can shu qu lv	1
+參數曲面	can shu qu mian	1
+參數曲線	can shu qu xian	1
+參數羣	can shu qun	1
+參數學	can shu xue	1
+參數最優化	can shu zui you hua	1
+參數最優解	can shu zui you jie	1
 操纂	cao zuan	1
 操作	cao zuo	1
 測不準原理	ce bu zhun yuan li	1
-測地蔘數	ce di can shu	1
+測地參數	ce di can shu	1
 測地距	ce di ju	1
 測地撓率	ce di nao lv	1
 測地偏差	ce di pian cha	1
@@ -911977,7 +911977,7 @@
 乘數寄存器	cheng shu ji cun qi	1
 成雙樣本	cheng shuang yang ben	1
 程序	cheng xu	1
-程序蔘數	cheng xu can shu	1
+程序參數	cheng xu can shu	1
 程序帶	cheng xu dai	1
 程序的模	cheng xu de mo	1
 程序寄存器	cheng xu ji cun qi	1
@@ -911989,7 +911989,7 @@
 程序文檔	cheng xu wen dang	1
 赤道半徑	chi dao ban jing	1
 赤道座標	chi dao zuo biao	1
-尺度蔘數	chi du can shu	1
+尺度參數	chi du can shu	1
 持久時間	chi jiu shi jian	1
 充分不必要條件	chong fen bu bi yao tiao jian	1
 充分條件	chong fen tiao jian	1
@@ -912306,7 +912306,7 @@
 單邊導數	dan bian dao shu	1
 單變量級數	dan bian liang ji shu	1
 單步法	dan bu fa	1
-單蔘數的	dan can shu de	1
+單參數的	dan can shu de	1
 單側的	dan ce de	1
 單側極限	dan ce ji xian	1
 單側檢驗	dan ce jian yan	1
@@ -912573,8 +912573,8 @@
 等式約束	deng shi yue shu	1
 等位面	deng wei mian	1
 等位線	deng wei xian	1
-等温蔘數	deng wen can shu	1
-等温蔘數曲線	deng wen can shu qu xian	1
+等温參數	deng wen can shu	1
+等温參數曲線	deng wen can shu qu xian	1
 等温漸近曲面	deng wen jian jin qu mian	1
 等温曲面	deng wen qu mian	1
 等温曲線系	deng wen qu xian xi	1
@@ -912588,7 +912588,7 @@
 等值命題	deng zhi ming ti	1
 等值線	deng zhi xian	1
 等周不等式	deng zhou bu deng shi	1
-等周蔘數	deng zhou can shu	1
+等周參數	deng zhou can shu	1
 等周的	deng zhou de	1
 等軸雙曲線	deng zhou shuang qu xian	1
 等周問題	deng zhou wen ti	1
@@ -913089,7 +913089,7 @@
 多項展開式	duo xiang zhan kai shi	1
 多葉的	duo ye de	1
 多葉函數	duo ye han shu	1
-多餘蔘數	duo yu can shu	1
+多餘參數	duo yu can shu	1
 多餘方程	duo yu fang cheng	1
 多元方差分析	duo yuan fang cha fen xi	1
 多元分佈	duo yuan fen bu	1
@@ -913397,7 +913397,7 @@
 仿緊空間	fang jin kong jian	1
 方括弧	fang kuo hu	1
 仿射變換	fang she bian huan	1
-仿射蔘數	fang she can shu	1
+仿射參數	fang she can shu	1
 仿射長度	fang she chang du	1
 仿射簇	fang she cu	1
 仿射代數集	fang she dai shu ji	1
@@ -913425,7 +913425,7 @@
 方位角	fang wei jiao	1
 方位角的	fang wei jiao de	1
 方向	fang xiang	1
-方向蔘數	fang xiang can shu	1
+方向參數	fang xiang can shu	1
 方向場	fang xiang chang	1
 方向導數	fang xiang dao shu	1
 方向檢頌序	fang xiang jian song xu	1
@@ -913444,10 +913444,10 @@
 非標準模型	fei biao zhun mo xing	1
 非標準數	fei biao zhun shu	1
 斐波那契數	fei bo na qi shu	1
-非蔘數法	fei can shu fa	1
-非蔘數估計	fei can shu gu ji	1
-非蔘數檢定	fei can shu jian ding	1
-非蔘數置信區域	fei can shu zhi xin qu yu	1
+非參數法	fei can shu fa	1
+非參數估計	fei can shu gu ji	1
+非參數檢定	fei can shu jian ding	1
+非參數置信區域	fei can shu zhi xin qu yu	1
 非代表抽樣	fei dai biao chou yang	1
 非低振動	fei di zhen dong	1
 非斷言定義	fei duan yan ding yi	1
@@ -913584,7 +913584,7 @@
 非正則雙有理變換	fei zheng ze shuang you li bian huan	1
 非正則性	fei zheng ze xing	1
 非正則因子類	fei zheng ze yin zi lei	1
-非中心蔘數	fei zhong xin can shu	1
+非中心參數	fei zhong xin can shu	1
 非中心分佈	fei zhong xin fen bu	1
 非重貞	fei zhong zhen	1
 非週期的	fei zhou qi de	1
@@ -913595,8 +913595,8 @@
 非自反半序集	fei zi fan ban xu ji	1
 非自反關係	fei zi fan guan xi	1
 分佈	fen bu	1
-分佈蔘數	fen bu can shu	1
-分佈蔘數系統	fen bu can shu xi tong	1
+分佈參數	fen bu can shu	1
+分佈參數系統	fen bu can shu xi tong	1
 分佈常數	fen bu chang shu	1
 分佈導數	fen bu dao shu	1
 分步法	fen bu fa	1
@@ -914396,7 +914396,7 @@
 衡消法	heng xiao fa	1
 橫座標	heng zuo biao	1
 橫座標軸	heng zuo biao zhou	1
-宏觀蔘數	hong guan can shu	1
+宏觀參數	hong guan can shu	1
 宏觀統計學	hong guan tong ji xue	1
 後承	hou cheng	1
 厚的	hou de	1
@@ -914519,7 +914519,7 @@
 混合偏導數	hun he pian dao shu	1
 混合羣	hun he qun	1
 混合圖形	hun he tu xing	1
-混合微分蔘數	hun he wei fen can shu	1
+混合微分參數	hun he wei fen can shu	1
 混合問題	hun he wen ti	1
 混合相伴式	hun he xiang ban shi	1
 混合型	hun he xing	1
@@ -914880,7 +914880,7 @@
 集值映射	ji zhi ying she	1
 極值元素	ji zhi yuan su	1
 集中	ji zhong	1
-集中蔘數系統	ji zhong can shu xi tong	1
+集中參數系統	ji zhong can shu xi tong	1
 極軸	ji zhou	1
 集族	ji zu	1
 極座標	ji zuo biao	1
@@ -915330,12 +915330,12 @@
 局部貝蒂羣	ju bu bei di qun	1
 局部閉集	ju bu bi ji	1
 局部波萊爾集	ju bu bo lai er ji	1
-局部蔘數	ju bu can shu	1
+局部參數	ju bu can shu	1
 局部常數層	ju bu chang shu ceng	1
 局部常值函數	ju bu chang zhi han shu	1
 局部次數	ju bu ci shu	1
 局部單值化	ju bu dan zhi hua	1
-局部單值化蔘數	ju bu dan zhi hua can shu	1
+局部單值化參數	ju bu dan zhi hua can shu	1
 局部道路連通空間	ju bu dao lu lian tong kong jian	1
 局部弧連通空間	ju bu hu lian tong kong jian	1
 局部弧連通性	ju bu hu lian tong xing	1
@@ -917401,7 +917401,7 @@
 曲線的	qu xian de	1
 曲線的閉路	qu xian de bi lu	1
 曲線的長	qu xian de chang	1
-曲線的單蔘數族	qu xian de dan can shu zu	1
+曲線的單參數族	qu xian de dan can shu zu	1
 曲線的二重點	qu xian de er chong dian	1
 曲線的分枝	qu xian de fen zhi	1
 曲線的漸近線	qu xian de jian jin xian	1
@@ -917526,7 +917526,7 @@
 人工變量	ren gong bian liang	1
 人工變量法	ren gong bian liang fa	1
 人口統計	ren kou tong ji	1
-任意蔘數	ren yi can shu	1
+任意參數	ren yi can shu	1
 任意常數	ren yi chang shu	1
 任意抽樣	ren yi chou yang	1
 任意的	ren yi de	1
@@ -917826,7 +917826,7 @@
 商域	shang yu	1
 上中心列	shang zhong xin lie	1
 射表示	she biao shi	1
-攝動蔘數	she dong can shu	1
+攝動參數	she dong can shu	1
 攝動法	she dong fa	1
 攝動函數	she dong han shu	1
 攝動理論	she dong li lun	1
@@ -917847,7 +917847,7 @@
 射影變換	she ying bian huan	1
 射影變形	she ying bian xing	1
 射影表示	she ying biao shi	1
-射影蔘數	she ying can shu	1
+射影參數	she ying can shu	1
 射影產生	she ying chan sheng	1
 射影簇	she ying cu	1
 射影代數簇	she ying dai shu cu	1
@@ -918383,7 +918383,7 @@
 四重點	si zhong dian	1
 似中線	si zhong xian	1
 鬆弛變量	song chi bian liang	1
-鬆弛蔘數	song chi can shu	1
+鬆弛參數	song chi can shu	1
 鬆弛法	song chi fa	1
 鬆弛分解	song chi fen jie	1
 送定理	song ding li	1
@@ -919098,7 +919098,7 @@
 萬有係數公式	wan you xi shu gong shi	1
 萬有域	wan you yu	1
 完整	wan zheng	1
-完整蔘考系	wan zheng can kao xi	1
+完整參考系	wan zheng can kao xi	1
 完整羣	wan zheng qun	1
 完整系	wan zheng xi	1
 網格大小	wang ge da xiao	1
@@ -919140,7 +919140,7 @@
 維爾斯特拉斯預備定理	wei er si te la si yu bei ding li	1
 偽範數	wei fan shu	1
 微分	wei fen	1
-微分蔘數	wei fen can shu	1
+微分參數	wei fen can shu	1
 微分代數	wei fen dai shu	1
 微分電路	wei fen dian lu	1
 微分定理	wei fen ding li	1
@@ -919257,7 +919257,7 @@
 偽張量	wei zhang liang	1
 位值	wei zhi	1
 位置	wei zhi	1
-位置蔘數	wei zhi can shu	1
+位置參數	wei zhi can shu	1
 位置對策	wei zhi dui ce	1
 位置函數	wei zhi han shu	1
 位置記數法	wei zhi ji shu fa	1
@@ -920710,7 +920710,7 @@
 語義判定問題	yu yi pan ding wen ti	1
 語義學	yu yi xue	1
 餘因子	yu yin zi	1
-預置蔘數	yu zhi can shu	1
+預置參數	yu zhi can shu	1
 餘子集	yu zi ji	1
 圓擺	yuan bai	1
 圓變換	yuan bian huan	1
@@ -920846,7 +920846,7 @@
 運算元素	yun suan yuan su	1
 允許	yun xu	1
 在閉對象	zai bi dui xiang	1
-再蔘量化	zai can liang hua	1
+再參量化	zai can liang hua	1
 再次	zai ci	1
 載荷	zai he	1
 載荷曲線	zai he qu xian	1
@@ -921148,7 +921148,7 @@
 正則變換	zheng ze bian huan	1
 正則波萊爾測度	zheng ze bo lai er ce du	1
 正則不動點	zheng ze bu dong dian	1
-正則蔘數表示	zheng ze can shu biao shi	1
+正則參數表示	zheng ze can shu biao shi	1
 正則測度	zheng ze ce du	1
 正則層	zheng ze ceng	1
 正則簇	zheng ze cu	1
@@ -921366,7 +921366,7 @@
 炙子	zhi zi	1
 執自同構	zhi zi tong gou	1
 重倍集	zhong bei ji	1
-種布蔘數	zhong bu can shu	1
+種布參數	zhong bu can shu	1
 中垂線	zhong chui xian	1
 重點	zhong dian	1
 中點	zhong dian	1
@@ -921742,7 +921742,7 @@
 總平均	zong ping jun	1
 總曲率	zong qu lv	1
 總體	zong ti	1
-總體蔘數	zong ti can shu	1
+總體參數	zong ti can shu	1
 總體均值	zong ti jun zhi	1
 總體遺傳學	zong ti yi chuan xue	1
 縱向軸	zong xiang zhou	1
@@ -922563,8 +922563,8 @@
 博弈論	bo yi lun	1
 不等式的解集	bu deng shi de jie ji	1
 不確定性	bu que ding xing	1
-蔘數估計	can shu gu ji	1
-蔘數規劃	can shu gui hua	1
+參數估計	can shu gu ji	1
+參數規劃	can shu gui hua	1
 測度與積分	ce du yu ji fen	1
 插空法	cha kong fa	1
 插值法與逼近論	cha zhi fa yu bi jin lun	1
@@ -922629,7 +922629,7 @@
 方差分析	fang cha fen xi	1
 仿射	fang she	1
 非標準分析	fei biao zhun fen xi	1
-非蔘數統計	fei can shu tong ji	1
+非參數統計	fei can shu tong ji	1
 非負整數	fei fu zheng shu	1
 非結合環	fei jie he huan	1
 費馬最後定理	fei ma zui hou ding li	1
@@ -923038,7 +923038,7 @@
 半不變量	ban bu bian liang	1
 半不變式	ban bu bian shi	1
 半不變外微分	ban bu bian wai wei fen	1
-半蔘數模型	ban can shu mo xing	1
+半參數模型	ban can shu mo xing	1
 半長軸	ban chang zhou	1
 半純量積	ban chun liang ji	1
 半單	ban dan	1
@@ -923353,7 +923353,7 @@
 本質邊界條件	ben zhi bian jie tiao jian	1
 本質不可判定性	ben zhi bu ke pan ding xing	1
 本質不振盪	ben zhi bu zhen dang	1
-本質蔘數	ben zhi can shu	1
+本質參數	ben zhi can shu	1
 本質策略	ben zhi ce lue	1
 本質單同態	ben zhi dan tong tai	1
 本質點	ben zhi dian	1
@@ -923494,7 +923494,7 @@
 邊邊邊定理	bian bian bian ding li	1
 辨別	bian bie	1
 變步長	bian bu chang	1
-變蔘數元件	bian can shu yuan jian	1
+變參數元件	bian can shu yuan jian	1
 變差	bian cha	1
 變差範圍	bian cha fan wei	1
 變差係數	bian cha xi shu	1
@@ -924071,43 +924071,43 @@
 擦除	ca chu	1
 擦去	ca qu	1
 猜想	cai xiang	1
-蔘變數	can bian shu	1
+參變數	can bian shu	1
 殘差	can cha	1
 殘差和	can cha he	1
 殘差平方和	can cha ping fang he	1
 殘差圖	can cha tu	1
-蔘考橢球	can kao tuo qiu	1
-蔘考幀	can kao zhen	1
-蔘模空間	can mo kong jian	1
+參考橢球	can kao tuo qiu	1
+參考幀	can kao zhen	1
+參模空間	can mo kong jian	1
 殘譜	can pu	1
-蔘數	can shu	1
+參數	can shu	1
 殘數	can shu	1
-蔘數變換	can shu bian huan	1
-蔘數表示	can shu biao shi	1
-蔘數簇	can shu cu	1
+參數變換	can shu bian huan	1
+參數表示	can shu biao shi	1
+參數簇	can shu cu	1
 殘數定理	can shu ding li	1
-蔘數方程	can shu fang cheng	1
-蔘數估計	can shu gu ji	1
-蔘數規劃	can shu gui hua	1
-蔘數化法	can shu hua fa	1
-蔘數積分	can shu ji fen	1
+參數方程	can shu fang cheng	1
+參數估計	can shu gu ji	1
+參數規劃	can shu gui hua	1
+參數化法	can shu hua fa	1
+參數積分	can shu ji fen	1
 殘數計算	can shu ji suan	1
-蔘數假設	can shu jia she	1
-蔘數檢驗	can shu jian yan	1
-蔘數空間	can shu kong jian	1
-蔘數模型	can shu mo xing	1
-蔘數曲率	can shu qu lv	1
-蔘數曲面	can shu qu mian	1
-蔘數曲線	can shu qu xian	1
-蔘數羣	can shu qun	1
-蔘數線性規劃	can shu xian xing gui hua	1
-蔘數學	can shu xue	1
-蔘數最優化	can shu zui you hua	1
-蔘數最優解	can shu zui you jie	1
-蔘預者	can yu zhe	1
+參數假設	can shu jia she	1
+參數檢驗	can shu jian yan	1
+參數空間	can shu kong jian	1
+參數模型	can shu mo xing	1
+參數曲率	can shu qu lv	1
+參數曲面	can shu qu mian	1
+參數曲線	can shu qu xian	1
+參數羣	can shu qun	1
+參數線性規劃	can shu xian xing gui hua	1
+參數學	can shu xue	1
+參數最優化	can shu zui you hua	1
+參數最優解	can shu zui you jie	1
+參預者	can yu zhe	1
 操作	cao zuo	1
 測不準原理	ce bu zhun yuan li	1
-測地蔘數	ce di can shu	1
+測地參數	ce di can shu	1
 測地距	ce di ju	1
 測地流	ce di liu	1
 測地撓率	ce di nao lv	1
@@ -924414,7 +924414,7 @@
 乘性約化	cheng xing yue hua	1
 乘性子集	cheng xing zi ji	1
 程序	cheng xu	1
-程序蔘數	cheng xu can shu	1
+程序參數	cheng xu can shu	1
 程序帶	cheng xu dai	1
 程序檢驗	cheng xu jian yan	1
 程序庫	cheng xu ku	1
@@ -924423,7 +924423,7 @@
 承載單形	cheng zai dan xing	1
 赤道半徑	chi dao ban jing	1
 赤道座標	chi dao zuo biao	1
-尺度蔘數	chi du can shu	1
+尺度參數	chi du can shu	1
 尺規作圖法	chi gui zuo tu fa	1
 持久時間	chi jiu shi jian	1
 斥性不動點	chi xing bu dong dian	1
@@ -924917,10 +924917,10 @@
 單變量系統	dan bian liang xi tong	1
 單步迭代	dan bu die dai	1
 單步法	dan bu fa	1
-單蔘數變換羣	dan can shu bian huan qun	1
-單蔘數測地線族	dan can shu ce di xian zu	1
-單蔘數乘法子羣	dan can shu cheng fa zi qun	1
-單蔘數子羣	dan can shu zi qun	1
+單參數變換羣	dan can shu bian huan qun	1
+單參數測地線族	dan can shu ce di xian zu	1
+單參數乘法子羣	dan can shu cheng fa zi qun	1
+單參數子羣	dan can shu zi qun	1
 單側逼近	dan ce bi jin	1
 單側極限	dan ce ji xian	1
 單側檢驗	dan ce jian yan	1
@@ -925192,7 +925192,7 @@
 等變化映射	deng bian hua ying she	1
 等邊三角形	deng bian san jiao xing	1
 等邊錐面	deng bian zhui mian	1
-等蔘超曲面	deng can chao qu mian	1
+等參超曲面	deng can chao qu mian	1
 等差級數	deng cha ji shu	1
 等差數列	deng cha shu lie	1
 等待服務系統	deng dai fu wu xi tong	1
@@ -925268,7 +925268,7 @@
 等式約束	deng shi yue shu	1
 等位面	deng wei mian	1
 等位線	deng wei xian	1
-等温蔘數	deng wen can shu	1
+等温參數	deng wen can shu	1
 等温曲面	deng wen qu mian	1
 等温曲線系	deng wen qu xian xi	1
 等温線	deng wen xian	1
@@ -925282,7 +925282,7 @@
 等值命題	deng zhi ming ti	1
 等值線	deng zhi xian	1
 等周不等式	deng zhou bu deng shi	1
-等周蔘數	deng zhou can shu	1
+等周參數	deng zhou can shu	1
 等軸雙曲線	deng zhou shuang qu xian	1
 等周問題	deng zhou wen ti	1
 等周形	deng zhou xing	1
@@ -925904,7 +925904,7 @@
 多邊形	duo bian xing	1
 多步法	duo bu fa	1
 多步方法	duo bu fang fa	1
-多蔘數過程	duo can shu guo cheng	1
+多參數過程	duo can shu guo cheng	1
 多層方法	duo ceng fang fa	1
 多層格式	duo ceng ge shi	1
 多層化	duo ceng hua	1
@@ -926038,7 +926038,7 @@
 多一可歸約性	duo yi ke gui yue xing	1
 多伊林正規形	duo yi lin zheng gui xing	1
 多用户信道	duo yong hu xin dao	1
-多餘蔘數	duo yu can shu	1
+多餘參數	duo yu can shu	1
 多餘方程	duo yu fang cheng	1
 多餘信息	duo yu xin xi	1
 多元	duo yuan	1
@@ -926247,7 +926247,7 @@
 二值時間序列	er zhi shi jian xu lie	1
 二重點	er zhong dian	1
 法貝爾	fa bei er	1
-罰蔘數	fa can shu	1
+罰參數	fa can shu	1
 法叢	fa cong	1
 發點	fa dian	1
 法都引理	fa dou yin li	1
@@ -926477,7 +926477,7 @@
 仿射包	fang she bao	1
 仿射變換	fang she bian huan	1
 仿射變換羣	fang she bian huan qun	1
-仿射蔘數	fang she can shu	1
+仿射參數	fang she can shu	1
 仿射長度	fang she chang du	1
 仿射超平面	fang she chao ping mian	1
 仿射簇	fang she cu	1
@@ -926523,7 +926523,7 @@
 方位角	fang wei jiao	1
 方向	fang xiang	1
 方向比	fang xiang bi	1
-方向蔘數	fang xiang can shu	1
+方向參數	fang xiang can shu	1
 方向場	fang xiang chang	1
 方向導數	fang xiang dao shu	1
 方向檢頌序	fang xiang jian song xu	1
@@ -926551,14 +926551,14 @@
 非標準數	fei biao zhun shu	1
 斐波那契法	fei bo na qi fa	1
 斐波那契搜索	fei bo na qi sou suo	1
-非蔘數法	fei can shu fa	1
-非蔘數方法	fei can shu fang fa	1
-非蔘數估計	fei can shu gu ji	1
-非蔘數迴歸	fei can shu hui gui	1
-非蔘數檢定	fei can shu jian ding	1
-非蔘數檢驗	fei can shu jian yan	1
-非蔘數統計	fei can shu tong ji	1
-非蔘數置信區域	fei can shu zhi xin qu yu	1
+非參數法	fei can shu fa	1
+非參數方法	fei can shu fang fa	1
+非參數估計	fei can shu gu ji	1
+非參數迴歸	fei can shu hui gui	1
+非參數檢定	fei can shu jian ding	1
+非參數檢驗	fei can shu jian yan	1
+非參數統計	fei can shu tong ji	1
+非參數置信區域	fei can shu zhi xin qu yu	1
 非常返狀態	fei chang fan zhuang tai	1
 非代表抽樣	fei dai biao chou yang	1
 非低振動	fei di zhen dong	1
@@ -926786,7 +926786,7 @@
 非自治微分方程組	fei zi zhi wei fen fang cheng zu	1
 分比	fen bi	1
 分佈	fen bu	1
-分佈蔘數	fen bu can shu	1
+分佈參數	fen bu can shu	1
 分佈常數	fen bu chang shu	1
 分佈導數	fen bu dao shu	1
 分步法	fen bu fa	1
@@ -928018,7 +928018,7 @@
 橫子空間	heng zi kong jian	1
 橫座標	heng zuo biao	1
 橫座標軸	heng zuo biao zhou	1
-宏觀蔘數	hong guan can shu	1
+宏觀參數	hong guan can shu	1
 紅黑劃分	hong hei hua fen	1
 後承	hou cheng	1
 厚度	hou du	1
@@ -928200,7 +928200,7 @@
 混合同餘方法	hun he tong yu fang fa	1
 混合圖形	hun he tu xing	1
 混合外代數	hun he wai dai shu	1
-混合微分蔘數	hun he wei fen can shu	1
+混合微分參數	hun he wei fen can shu	1
 混合問題	hun he wen ti	1
 混合線性模型	hun he xian xing mo xing	1
 混合相伴式	hun he xiang ban shi	1
@@ -928707,11 +928707,11 @@
 極值元素	ji zhi yuan su	1
 集值增生算子	ji zhi zeng sheng suan zi	1
 集中	ji zhong	1
-集中蔘數系統	ji zhong can shu xi tong	1
+集中參數系統	ji zhong can shu xi tong	1
 集中函數	ji zhong han shu	1
 集中控制	ji zhong kong zhi	1
 極軸	ji zhou	1
-集總蔘數系統	ji zong can shu xi tong	1
+集總參數系統	ji zong can shu xi tong	1
 集族	ji zu	1
 極座標	ji zuo biao	1
 極座標圖	ji zuo biao tu	1
@@ -929357,7 +929357,7 @@
 局部遍歷定理	ju bu bian li ding li	1
 局部表現模	ju bu biao xian mo	1
 局部波萊爾集	ju bu bo lai er ji	1
-局部蔘數	ju bu can shu	1
+局部參數	ju bu can shu	1
 局部常數層	ju bu chang shu ceng	1
 局部常值函數	ju bu chang zhi han shu	1
 局部次理想	ju bu ci li xiang	1
@@ -929365,7 +929365,7 @@
 局部代數	ju bu dai shu	1
 局部單連通	ju bu dan lian tong	1
 局部單值化	ju bu dan zhi hua	1
-局部單值化蔘數	ju bu dan zhi hua can shu	1
+局部單值化參數	ju bu dan zhi hua can shu	1
 局部道路連通空間	ju bu dao lu lian tong kong jian	1
 局部高	ju bu gao	1
 局部弧連通	ju bu hu lian tong	1
@@ -929699,7 +929699,7 @@
 可比拓撲	ke bi tuo pu	1
 可閉線性算子	ke bi xian xing suan zi	1
 可比一致性	ke bi yi zhi xing	1
-可變蔘數模型	ke bian can shu mo xing	1
+可變參數模型	ke bian can shu mo xing	1
 可變地址	ke bian di zhi	1
 可辨識性	ke bian shi xing	1
 可變網距	ke bian wang ju	1
@@ -930691,7 +930691,7 @@
 零半羣	ling ban qun	1
 零變換	ling bian huan	1
 零表示	ling biao shi	1
-嶺蔘數	ling can shu	1
+嶺參數	ling can shu	1
 零測度	ling ce du	1
 零測度集	ling ce du ji	1
 零常返狀態	ling chang fan zhuang tai	1
@@ -930970,7 +930970,7 @@
 媒體	mei ti	1
 梅性	mei xing	1
 沒影直線	mei ying zhi xian	1
-門限蔘數	men xian can shu	1
+門限參數	men xian can shu	1
 門限函數	men xian han shu	1
 門限檢測	men xian jian ce	1
 門限譯碼	men xian yi ma	1
@@ -931172,7 +931172,7 @@
 末項	mo xiang	1
 模型	mo xing	1
 模型辨識	mo xing bian shi	1
-模型蔘考適應系統	mo xing can kao shi ying xi tong	1
+模型參考適應系統	mo xing can kao shi ying xi tong	1
 模型降階法	mo xing jiang jie fa	1
 模型理論	mo xing li lun	1
 模型鏈	mo xing lian	1
@@ -932587,7 +932587,7 @@
 人工基	ren gong ji	1
 人零和對策	ren ling he dui ce	1
 人為步	ren wei bu	1
-任意蔘數	ren yi can shu	1
+任意參數	ren yi can shu	1
 任意常數	ren yi chang shu	1
 任意抽樣	ren yi chou yang	1
 任意項級數	ren yi xiang ji shu	1
@@ -933009,7 +933009,7 @@
 紹德爾估計	shao de er gu ji	1
 紹德爾基	shao de er ji	1
 射表示	she biao shi	1
-攝動蔘數	she dong can shu	1
+攝動參數	she dong can shu	1
 攝動法	she dong fa	1
 攝動函數	she dong han shu	1
 攝動理論	she dong li lun	1
@@ -933038,7 +933038,7 @@
 射影標架	she ying biao jia	1
 射影表示	she ying biao shi	1
 射影不變量	she ying bu bian liang	1
-射影蔘數	she ying can shu	1
+射影參數	she ying can shu	1
 射影產生	she ying chan sheng	1
 射影超平面	she ying chao ping mian	1
 射影簇	she ying cu	1
@@ -933781,7 +933781,7 @@
 似中線	si zhong xian	1
 鬆弛變量	song chi bian liang	1
 鬆弛表	song chi biao	1
-鬆弛蔘數	song chi can shu	1
+鬆弛參數	song chi can shu	1
 鬆弛層	song chi ceng	1
 鬆弛法	song chi fa	1
 鬆弛分解	song chi fen jie	1
@@ -934052,7 +934052,7 @@
 特鎮量	te zhen liang	1
 特貞羣	te zhen qun	1
 特徵	te zheng	1
-特徵蔘數	te zheng can shu	1
+特徵參數	te zheng can shu	1
 特徵超平面	te zheng chao ping mian	1
 特徵超曲面	te zheng chao qu mian	1
 特徵乘數	te zheng cheng shu	1
@@ -934810,7 +934810,7 @@
 萬有泰希米勒空間	wan you tai xi mi le kong jian	1
 萬有域	wan you yu	1
 完整	wan zheng	1
-完整蔘考系	wan zheng can kao xi	1
+完整參考系	wan zheng can kao xi	1
 完整羣	wan zheng qun	1
 完整系	wan zheng xi	1
 網格	wang ge	1
@@ -934878,7 +934878,7 @@
 微分	wei fen	1
 微分包含	wei fen bao han	1
 微分不變式	wei fen bu bian shi	1
-微分蔘數	wei fen can shu	1
+微分參數	wei fen can shu	1
 微分層	wei fen ceng	1
 微分代數	wei fen dai shu	1
 微分電路	wei fen dian lu	1
@@ -935046,7 +935046,7 @@
 偽張量	wei zhang liang	1
 位值	wei zhi	1
 位置	wei zhi	1
-位置蔘數	wei zhi can shu	1
+位置參數	wei zhi can shu	1
 位置對策	wei zhi dui ce	1
 位置函數	wei zhi han shu	1
 位置記數法	wei zhi ji shu fa	1
@@ -935109,7 +935109,7 @@
 無邊廖	wu bian liao	1
 五邊形	wu bian xing	1
 無標號圖	wu biao hao tu	1
-無蔘數懲罰法	wu can shu cheng fa fa	1
+無參數懲罰法	wu can shu cheng fa fa	1
 誤差	wu cha	1
 無差別	wu cha bie	1
 無差別區域	wu cha bie qu yu	1
@@ -935807,7 +935807,7 @@
 相座標	xiang zuo biao	1
 小波變換	xiao bo bian huan	1
 小波分析	xiao bo fen xi	1
-小蔘數法	xiao can shu fa	1
+小參數法	xiao can shu fa	1
 消除	xiao chu	1
 小除數	xiao chu shu	1
 小詞	xiao ci	1
@@ -936001,7 +936001,7 @@
 行運算	xing yun suan	1
 行正交性	xing zheng jiao xing	1
 形狀	xing zhuang	1
-形狀蔘數	xing zhuang can shu	1
+形狀參數	xing zhuang can shu	1
 形狀理論	xing zhuang li lun	1
 形狀算子	xing zhuang suan zi	1
 匈牙利法	xiong ya li fa	1
@@ -936218,7 +936218,7 @@
 亞正規算子	ya zheng gui suan zi	1
 啞指標	ya zhi biao	1
 延遲	yan chi	1
-延遲蔘數	yan chi can shu	1
+延遲參數	yan chi can shu	1
 延遲時間	yan chi shi jian	1
 嚴格凹函數	yan ge ao han shu	1
 嚴格保序性	yan ge bao xu xing	1
@@ -936647,7 +936647,7 @@
 有點復形	you dian fu xing	1
 有點集	you dian ji	1
 有點旋量	you dian xuan liang	1
-右端蔘數問題	you duan can shu wen ti	1
+右端參數問題	you duan can shu wen ti	1
 右端點	you duan dian	1
 右方半開區間	you fang ban kai qu jian	1
 右方導數	you fang dao shu	1
@@ -937090,7 +937090,7 @@
 餘正二次型	yu zheng er ci xing	1
 餘正規層	yu zheng gui ceng	1
 閾值	yu zhi	1
-預置蔘數	yu zhi can shu	1
+預置參數	yu zhi can shu	1
 閾值譯碼	yu zhi yi ma	1
 餘子集	yu zi ji	1
 餘子矩陣	yu zi ju zhen	1
@@ -937267,7 +937267,7 @@
 允許失真	yun xu shi zhen	1
 雜交有限元法	za jiao you xian yuan fa	1
 在閉對象	zai bi dui xiang	1
-再蔘量化	zai can liang hua	1
+再參量化	zai can liang hua	1
 再抽樣	zai chou yang	1
 再次	zai ci	1
 載荷	zai he	1
@@ -937691,13 +937691,13 @@
 正則表示	zheng ze biao shi	1
 正則波萊爾測度	zheng ze bo lai er ce du	1
 正則不動點	zheng ze bu dong dian	1
-正則蔘數表示	zheng ze can shu biao shi	1
-正則蔘數系	zheng ze can shu xi	1
+正則參數表示	zheng ze can shu biao shi	1
+正則參數系	zheng ze can shu xi	1
 正則測度	zheng ze ce du	1
 正則層	zheng ze ceng	1
 正則簇	zheng ze cu	1
 正則代數曲面	zheng ze dai shu qu mian	1
-正則單蔘數子羣	zheng ze dan can shu zi qun	1
+正則單參數子羣	zheng ze dan can shu zi qun	1
 正則點	zheng ze dian	1
 正則點系	zheng ze dian xi	1
 正則二次空間	zheng ze er ci kong jian	1
@@ -937969,7 +937969,7 @@
 執自同構	zhi zi tong gou	1
 重倍集	zhong bei ji	1
 重邊	zhong bian	1
-種布蔘數	zhong bu can shu	1
+種布參數	zhong bu can shu	1
 中程數	zhong cheng shu	1
 中垂線	zhong chui xian	1
 重點	zhong dian	1
@@ -938491,7 +938491,7 @@
 總平均	zong ping jun	1
 總曲率	zong qu lv	1
 總體	zong ti	1
-總體蔘數	zong ti can shu	1
+總體參數	zong ti can shu	1
 總體分佈	zong ti fen bu	1
 總體分佈族	zong ti fen bu zu	1
 總體極大值	zong ti ji da zhi	1
@@ -938509,7 +938509,7 @@
 阻礙閉上鍊	zu ai bi shang lian	1
 阻礙集	zu ai ji	1
 阻礙類	zu ai lei	1
-族蔘數	zu can shu	1
+族參數	zu can shu	1
 組成	zu cheng	1
 組分	zu fen	1
 組分圖	zu fen tu	1
@@ -939086,8 +939086,8 @@
 比特信令	bi te xin ling	1
 畢業設計禮包	bi ye she ji li bao	1
 比值控制	bi zhi kong zhi	1
-變蔘	bian can	1
-變蔘函數	bian can han shu	1
+變參	bian can	1
+變參函數	bian can han shu	1
 變長編碼	bian chang bian ma	1
 編程	bian cheng	1
 編程語言	bian cheng yu yan	1
@@ -939157,7 +939157,7 @@
 邊沿觸發	bian yan chu fa	1
 變異	bian yi	1
 編譯	bian yi	1
-編譯蔘數	bian yi can shu	1
+編譯參數	bian yi can shu	1
 編譯程序	bian yi cheng xu	1
 編譯類型	bian yi lei xing	1
 編譯器	bian yi qi	1
@@ -939429,26 +939429,26 @@
 採樣噪聲	cai yang zao sheng	1
 採樣週期	cai yang zhou qi	1
 殘錯率	can cuo lv	1
-蔘考	can kao	1
-蔘考電源	can kao dian yuan	1
-蔘考監控	can kao jian kong	1
-蔘考碼	can kao ma	1
-蔘考幀	can kao zhen	1
+參考	can kao	1
+參考電源	can kao dian yuan	1
+參考監控	can kao jian kong	1
+參考碼	can kao ma	1
+參考幀	can kao zhen	1
 殘留數據	can liu shu ju	1
-蔘數	can shu	1
-蔘數測試	can shu ce shi	1
-蔘數傳遞	can shu chuan di	1
-蔘數估計	can shu gu ji	1
-蔘數故障	can shu gu zhang	1
-蔘數化類型	can shu hua lei xing	1
-蔘數化設計	can shu hua she ji	1
-蔘數幾何	can shu ji he	1
-蔘數空間	can shu kong jian	1
-蔘數曲面擬合	can shu qu mian ni he	1
-蔘數信息	can shu xin xi	1
-蔘數約束	can shu yue shu	1
-蔘與者	can yu zhe	1
-蔘照完整性	can zhao wan zheng xing	1
+參數	can shu	1
+參數測試	can shu ce shi	1
+參數傳遞	can shu chuan di	1
+參數估計	can shu gu ji	1
+參數故障	can shu gu zhang	1
+參數化類型	can shu hua lei xing	1
+參數化設計	can shu hua she ji	1
+參數幾何	can shu ji he	1
+參數空間	can shu kong jian	1
+參數曲面擬合	can shu qu mian ni he	1
+參數信息	can shu xin xi	1
+參數約束	can shu yue shu	1
+參與者	can yu zhe	1
+參照完整性	can zhao wan zheng xing	1
 草稿質量	cao gao zhi liang	1
 槽排序	cao pai xu	1
 操縱桿	cao zong gan	1
@@ -939927,7 +939927,7 @@
 串行鼠標	chuan xing shu biao	1
 穿越序列	chuan yue xu lie	1
 傳值	chuan zhi	1
-傳值蔘數	chuan zhi can shu	1
+傳值參數	chuan zhi can shu	1
 創建對象	chuang jian dui xiang	1
 創建目錄	chuang jian mu lu	1
 創建日期	chuang jian ri qi	1
@@ -940920,7 +940920,7 @@
 二分圖	er fen tu	1
 二級高速緩存	er ji gao su huan cun	1
 二級密鑰	er ji mi yue	1
-二階蔘數連續	er jie can shu lian xu	1
+二階參數連續	er jie can shu lian xu	1
 二階幾何連續	er jie ji he lian xu	1
 二階邏輯	er jie luo ji	1
 二階述詞	er jie shu ci	1
@@ -941009,7 +941009,7 @@
 泛型類	fan xing lei	1
 泛型類型	fan xing lei xing	1
 泛型類型變量	fan xing lei xing bian liang	1
-泛型類型蔘數	fan xing lei xing can shu	1
+泛型類型參數	fan xing lei xing can shu	1
 泛型類型定義	fan xing lei xing ding yi	1
 反序列化	fan xu lie hua	1
 翻譯程序	fan yi cheng xu	1
@@ -943155,7 +943155,7 @@
 可視語言	ke shi yu yan	1
 客體	ke ti	1
 課題分享	ke ti fen xiang	1
-可替換蔘數	ke ti huan can shu	1
+可替換參數	ke ti huan can shu	1
 課題小組	ke ti xiao zu	1
 可調度性	ke tiao du xing	1
 可調整視頻	ke tiao zheng shi pin	1
@@ -943339,8 +943339,8 @@
 類型	lei xing	1
 類型安全	lei xing an quan	1
 類型變量	lei xing bian liang	1
-類型蔘數	lei xing can shu	1
-類型蔘數列表	lei xing can shu lie biao	1
+類型參數	lei xing can shu	1
+類型參數列表	lei xing can shu lie biao	1
 類型論	lei xing lun	1
 類型系統	lei xing xi tong	1
 類型域	lei xing yu	1
@@ -944328,7 +944328,7 @@
 情報檢索語言	qing bao jian suo yu yan	1
 情報科學	qing bao ke xue	1
 清除	qing chu	1
-清除蔘考線	qing chu can kao xian	1
+清除參考線	qing chu can kao xian	1
 清除忽略列表	qing chu hu lue lie biao	1
 清除剪輯板	qing chu jian ji ban	1
 清除歷史記錄	qing chu li shi ji lu	1
@@ -944351,7 +944351,7 @@
 情況	qing kuang	1
 情況語句	qing kuang yu ju	1
 請求	qing qiu	1
-請求蔘數表	qing qiu can shu biao	1
+請求參數表	qing qiu can shu biao	1
 請求處理	qing qiu chu li	1
 請求分時處理	qing qiu fen shi chu li	1
 請求分頁	qing qiu fen ye	1
@@ -945106,13 +945106,13 @@
 剩餘串排列	sheng yu chuan pai lie	1
 聲韻學音位學	sheng yun xue yin wei xue	1
 時變布爾函數	shi bian bu er han shu	1
-時變蔘數	shi bian can shu	1
+時變參數	shi bian can shu	1
 識別	shi bie	1
 識別文本	shi bie wen ben	1
 識別型	shi bie xing	1
 示波器	shi bo qi	1
-實蔘	shi can	1
-視蔘考點	shi can kao dian	1
+實參	shi can	1
+視參考點	shi can kao dian	1
 時槽	shi cao	1
 時槽間隔	shi cao jian ge	1
 視差梯度	shi cha ti du	1
@@ -945307,7 +945307,7 @@
 適應性維護	shi ying xing wei hu	1
 適應學習	shi ying xue xi	1
 適應子波	shi ying zi bo	1
-使用蔘數控制	shi yong can shu kong zhi	1
+使用參數控制	shi yong can shu kong zhi	1
 實用程序	shi yong cheng xu	1
 實用程序包	shi yong cheng xu bao	1
 實用功能	shi yong gong neng	1
@@ -945841,7 +945841,7 @@
 鎖步操作	suo bu cao zuo	1
 鎖存器	suo cun qi	1
 鎖定	suo ding	1
-鎖定蔘考線	suo ding can kao xian	1
+鎖定參考線	suo ding can kao xian	1
 鎖定工具欄	suo ding gong ju lan	1
 鎖定瀏覽器	suo ding liu lan qi	1
 鎖定切片	suo ding qie pian	1
@@ -946345,7 +946345,7 @@
 網絡	wang luo	1
 網絡安全	wang luo an quan	1
 網絡部分	wang luo bu fen	1
-網絡蔘數控制	wang luo can shu kong zhi	1
+網絡參數控制	wang luo can shu kong zhi	1
 網絡操作系統	wang luo cao zuo xi tong	1
 網絡層	wang luo ceng	1
 網絡帶寬	wang luo dai kuan	1
@@ -946634,8 +946634,8 @@
 文章生成	wen zhang sheng cheng	1
 文字打印	wen zi da yin	1
 五筆字型部分	wu bi zi xing bu fen	1
-無蔘構造函數	wu can gou zao han shu	1
-無蔘函數	wu can han shu	1
+無參構造函數	wu can gou zao han shu	1
+無參函數	wu can han shu	1
 誤差	wu cha	1
 無差錯	wu cha cuo	1
 誤差估計	wu cha gu ji	1
@@ -947217,7 +947217,7 @@
 心智信息傳送	xin zhi xin xi chuan song	1
 心智狀態	xin zhi zhuang tai	1
 行八位	xing ba wei	1
-形蔘	xing can	1
+形參	xing can	1
 行程編碼	xing cheng bian ma	1
 行程長度	xing cheng chang du	1
 行程長度編碼	xing cheng chang du bian ma	1
@@ -947286,7 +947286,7 @@
 嗅探	xiu tan	1
 嗅探器	xiu tan qi	1
 虛表	xu biao	1
-虛蔘數	xu can shu	1
+虛參數	xu can shu	1
 虛存操作系統	xu cun cao zuo xi tong	1
 虛存策略	xu cun ce lue	1
 虛存機制	xu cun ji zhi	1
@@ -947607,7 +947607,7 @@
 異構主體	yi gou zhu ti	1
 易管理性	yi guan li xing	1
 異或門	yi huo men	1
-一階蔘數連續	yi jie can shu lian xu	1
+一階參數連續	yi jie can shu lian xu	1
 一階矩	yi jie ju	1
 一階理論	yi jie li lun	1
 一階邏輯	yi jie luo ji	1
@@ -947828,7 +947828,7 @@
 用例數目	yong li shu mu	1
 擁塞控制	yong se kong zhi	1
 遊標	you biao	1
-有蔘函數	you can han shu	1
+有參函數	you can han shu	1
 又稱	you cheng	1
 遊程編碼	you cheng bian ma	1
 有道桌面詞典	you dao zhuo mian ci dian	1
@@ -948362,7 +948362,7 @@
 置表頭行數	zhi biao tou hang shu	1
 置表頭列數	zhi biao tou lie shu	1
 置標語言	zhi biao yu yan	1
-值蔘	zhi can	1
+值參	zhi can	1
 指稱語義	zhi cheng yu yi	1
 支持程序	zhi chi cheng xu	1
 支持過程	zhi chi guo cheng	1
@@ -948809,7 +948809,7 @@
 子插件板	zi cha jian ban	1
 字長	zi chang	1
 子程序	zi cheng xu	1
-子程序蔘數	zi cheng xu can shu	1
+子程序參數	zi cheng xu can shu	1
 子程序指針	zi cheng xu zhi zhen	1
 子池隊列	zi chi dui lie	1
 字處理	zi chu li	1

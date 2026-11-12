@@ -3831,7 +3831,7 @@
 功臣: gōng chén
 功虧一簣: gōng kuī yī kuì
 功課: gōng kè
-功過蔘半: gōng guò cān bàn
+功過參半: gōng guò cān bàn
 加侖: jiā lún
 加倍: jiā bèi
 加值網路: jiā zhí wǎng lù
@@ -16435,7 +16435,7 @@
 毀約: huǐ yuē
 毀謗: huǐ bàng
 毀譽: huǐ yù
-毀譽蔘半: huǐ yù cān bàn
+毀譽參半: huǐ yù cān bàn
 毅力: yì lì
 毅然: yì rán
 毅然決然: yì rán jué rán
@@ -20311,7 +20311,7 @@
 疏離感: shū lí gǎn
 疏鬆: shū sōng
 疑似: yí sì
-疑信蔘半: yí xìn cān bàn
+疑信參半: yí xìn cān bàn
 疑問: yí wèn
 疑團: yí tuán
 疑心: yí xīn
@@ -29063,7 +29063,7 @@
 違禁品: wéi jìn pǐn
 違章建築: wéi zhāng jiàn zhú
 違紀: wéi jì
-違紀蔘選: wéi jì cān xuǎn
+違紀參選: wéi jì cān xuǎn
 違約: wéi yuē
 違約交割: wéi yuē jiāo gē
 違背: wéi bèi
