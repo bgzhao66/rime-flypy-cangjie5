@@ -9,7 +9,7 @@ patch:
     translators/+:
       - table_translator@latex_input
     filters/+:
-      - lua_filter@show_quanpin
+      - lua_filter@show_bopomofo
       - simplifier
 
   recognizer/patterns/latex_input: "^\\\\[a-zA-Z^_]+$"
