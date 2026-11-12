@@ -686,6 +686,7 @@ import_tables:
 鮁	baenf	0
 癹	baeno	3
 𥎱	baeo	0
+钹	baeop	0
 𢠭	baep	0
 抜	baeq	1
 拔	baeqi	1817
@@ -1592,7 +1593,8 @@ import_tables:
 肸	bijbca	0
 貏	bijbh	2
 脾	bijbha	0
-䁹	bijbu	0
+睥	bijbu	3
+䁹	bijbua	0
 鏎	bijc	2
 錍	bijch	0
 鐴	bijcs	1
@@ -2467,6 +2469,7 @@ import_tables:
 𩷚	bodnf	0
 餑	bodoia	0
 侼	bodoj	1
+悖	bodpj	0
 挬	bodq	1
 㩭	bodqh	0
 哱	bodrj	0
@@ -4192,6 +4195,7 @@ import_tables:
 踤	cujr	0
 卒	cujy	7
 簇	cuk	279
+数	cukf	0
 簇	cukhy	279
 瘯	cukk	6
 䃚	cukm	0
@@ -7124,6 +7128,7 @@ import_tables:
 庉	dyuip	0
 砘	dyum	6
 碷	dyumr	1
+饨	dyun	0
 钝	dyuo	238
 伅	dyuop	11
 𠎻	dyuoy	0
@@ -7458,7 +7463,8 @@ import_tables:
 痾	eerk	0
 猗	eerkh	0
 疴	eerkm	0
-蛤	eerl	0
+蚵	eerl	0
+蛤	eerli	0
 硆	eerm	1
 𡅡	eermg	0
 噩	eermga	88
@@ -9577,6 +9583,7 @@ import_tables:
 𧿩	gelrm	0
 𨞛	gelt	0
 鸽	gem	244
+翮	gemmb	0
 鸽	gemor	244
 𦑜	gemt	0
 割	gen	1548
@@ -9774,6 +9781,7 @@ import_tables:
 𦣍	ggkbt	0
 梗	ggkdm	417
 浭	ggkem	4
+粳	ggkfd	0
 埂	ggkg	53
 㹴	ggkkh	0
 㾘	ggkkm	0
@@ -11056,7 +11064,8 @@ import_tables:
 𠪑	gvimg	0
 𩳝	gvimr	0
 隗	gvin	0
-傀	gvio	0
+会	gvio	0
+傀	gvioh	0
 騩	gvis	1
 𩉝	gvit	0
 𩌃	gvitj	0
@@ -11202,6 +11211,7 @@ import_tables:
 䯄	gxb	3
 冎	gxbb	1
 㶽	gxbf	1
+蜗	gxbl	0
 䯄	gxbnm	3
 𠈥	gxbo	0
 惴	gxbp	0
@@ -11736,6 +11746,7 @@ import_tables:
 𩠚	hdotu	0
 絯	hdov	3
 亥	hdoy	166
+颏	hdoyo	0
 𥩲	hdoyt	0
 𨒨	hdoyy	0
 𢩸	hdq	0
@@ -12320,6 +12331,7 @@ import_tables:
 虷	hjjlia	1
 闬	hjjls	3
 𠦊	hjjmi	0
+干	hjjmja	3
 厈	hjjmm	1
 矸	hjjmra	0
 圅	hjjni	1
@@ -12450,6 +12462,7 @@ import_tables:
 焓	hjrfo	28
 𧹣	hjrg	0
 馠	hjrh	1
+和	hjrhd	0
 筨	hjrho	1
 𢇞	hjrir	0
 蛿	hjrl	1
@@ -12779,7 +12792,8 @@ import_tables:
 蠖	hoel	7
 䨥	hoem	0
 𩆀	hoemb	0
-隻	hoeo	0
+矱	hoeo	0
+隻	hoeog	0
 镬	hoeop	61
 㦜	hoep	0
 耯	hoeq	1
@@ -12831,6 +12845,8 @@ import_tables:
 䄀	hoiif	0
 䰥	hoiim	0
 𨌝	hoijj	0
+午	hoj	0
+午	hojo	0
 获	hok	3832
 获	hokt	3832
 漷	hol	6
@@ -15000,6 +15016,7 @@ import_tables:
 澈	ieke	264
 䒆	iekh	0
 徹	iekho	0
+辙	iekk	0
 撤	iekq	1564
 𨅊	iekrm	0
 聅	ieks	1
@@ -17047,6 +17064,7 @@ import_tables:
 歘	ixo	0
 欻	ixof	2
 歘	ixoff	0
+抓	ixoq	0
 春	iy	5270
 椿	iya	117
 暙	iyaa	3
@@ -17147,6 +17165,7 @@ import_tables:
 𡗥	iyuk	0
 䣨	iyum	0
 䣩	iyumw	0
+屯	iyup	0
 莼	iyut	30
 䓐	iyutk	0
 芚	iyutp	0
@@ -18066,6 +18085,7 @@ import_tables:
 叽	jinr	325
 𠷌	jinrb	0
 𧾾	jinrm	0
+吃	jinro	0
 𡁪	jinrw	0
 蓟	jint	115
 𦮯	jintb	0
@@ -18329,6 +18349,7 @@ import_tables:
 鼱	jkbh	3
 𪂴	jkbhf	0
 箐	jkbhq	0
+请	jkbiv	0
 𧚫	jkbl	0
 蜻	jkbli	0
 青	jkbq	0
@@ -19561,6 +19582,7 @@ import_tables:
 𡽱	jpguja	0
 刧	jph	2
 刧	jphgi	2
+姊	jphvl	0
 蛶	jpi	2
 鉣	jpic	2
 𤁢	jpief	0
@@ -19598,6 +19620,7 @@ import_tables:
 节	jpl	5180
 骱	jplb	6
 鎅	jplcw	0
+栉	jpldta	0
 楐	jpldw	1
 㸅	jplf	0
 堺	jplg	13
@@ -19714,6 +19737,7 @@ import_tables:
 掶	jpoq	1
 𢪍	jpoqf	0
 𢫐	jpoqfa	0
+撷	jpoqg	0
 捷	jpoqj	853
 㨗	jpoqy	0
 踕	jpor	1
@@ -20405,6 +20429,7 @@ import_tables:
 夬	jtkd	1
 㭈	jtkdd	0
 決	jtked	0
+炔	jtkf	0
 赽	jtkg	6
 鴃	jtkhf	0
 诀	jtki	356
@@ -21064,6 +21089,7 @@ import_tables:
 圿	jxlg	1
 𡊠	jxlgw	0
 𪐓	jxlhe	0
+舺	jxlhy	0
 郏	jxlk	23
 郟	jxlkoa	0
 䘥	jxllw	0
@@ -21222,6 +21248,7 @@ import_tables:
 㖥	jydr	0
 菌	jydt	1153
 𦇘	jydvf	0
+囷	jydw	0
 俊	jye	2411
 晙	jyea	2
 皲	jyeb	6
@@ -22048,6 +22075,7 @@ import_tables:
 凷	kkgu	1
 侩	kki	85
 脍	kkib	27
+桧	kkid	0
 浍	kkieo	17
 塊	kkigh	0
 狯	kkik	4
@@ -22071,6 +22099,7 @@ import_tables:
 郐	kkloi	11
 𨛖	kkly	0
 蒯	kkn	56
+刽	kkno	0
 蒯	kknt	56
 𠜐	kkny	0
 圦	kko	1
@@ -22623,6 +22652,7 @@ import_tables:
 鄈	kvln	1
 𤆂	kvm	0
 𤆂	kvmfm	0
+归	kvml	0
 刲	kvn	4
 刲	kvngg	4
 溃	kvo	193
@@ -23097,6 +23127,7 @@ import_tables:
 𤌎	lbfm	0
 懔	lbfp	15
 䕲	lbft	0
+禀	lbfy	0
 蔺	lbg	103
 閵	lbga	0
 𤂶	lbgea	0
@@ -23452,6 +23483,7 @@ import_tables:
 𥖪	leem	0
 𩐾	leey	0
 𤨙	lei	0
+埒	leigb	0
 𤨙	leit	0
 𤟓	lek	0
 𤟓	lekt	0
@@ -23486,6 +23518,8 @@ import_tables:
 嘞	lesrt	0
 艻	lest	1
 勒	lestj	3036
+垃	let	0
+垃	letgy	0
 韷	leu	1
 韷	leuy	1
 啉	lf	0
@@ -23512,6 +23546,8 @@ import_tables:
 𨈓	lgf	0
 𨈓	lgfhh	0
 冷	lgiim	6138
+怔	lgm	0
+怔	lgmpm	0
 楞	lgs	508
 𥈮	lgsb	0
 楞	lgsd	508
@@ -24221,7 +24257,8 @@ import_tables:
 䶘	lityu	0
 礼	liu	2289
 𣮉	liud	0
-睝	liuh	1
+牦	liuh	2
+睝	liuhh	1
 𨛫	liuhha	0
 𨝟	liuhk	0
 礼	liuifa	2289
@@ -26399,6 +26436,7 @@ import_tables:
 𪈜	lvfv	0
 累	lvfwv	0
 㠥	lvg	0
+垒	lvgi	0
 㠥	lvguw	0
 壘	lvgw	0
 捋	lvi	169
@@ -26504,6 +26542,7 @@ import_tables:
 樓	lvvdl	0
 㭚	lvvdo	0
 漊	lvvel	0
+娄	lvvfd	0
 軁	lvvhh	0
 簍	lvvhl	0
 𥰠	lvvhy	0
@@ -27136,6 +27175,7 @@ import_tables:
 皿	mbtb	75
 笽	mbth	0
 黾	mbu	19
+渑	mbuera	0
 𥜐	mbuif	0
 僶	mbuo	4
 𠊟	mbuor	0
@@ -28052,6 +28092,7 @@ import_tables:
 𧱼	mjbm	0
 慲	mjbp	3
 蹣	mjbr	0
+蹒	mjbrm	0
 鬗	mjbs	1
 䒥	mjbt	0
 幕	mjbta	0
@@ -29027,6 +29068,7 @@ import_tables:
 蝞	mwul	1
 瑂	mwum	2
 𠪃	mwuma	0
+瑁	mwumg	0
 䜸	mwumt	0
 睂	mwuol	1
 镅	mwuop	5
@@ -29051,6 +29093,8 @@ import_tables:
 黣	mwyw	1
 䍙	mwywl	0
 某	mz	12624
+冇	mzb	0
+冇	mzbk	0
 鍪	mzc	8
 䥐	mzcn	0
 鍪	mzcnk	8
@@ -29347,6 +29391,7 @@ import_tables:
 𧳀	ncubh	0
 鐃	ncucg	0
 橈	ncud	0
+桡	ncudj	0
 澆	ncue	0
 𤋫	ncuf	0
 𣭺	ncuhv	0
@@ -29769,6 +29814,7 @@ import_tables:
 𫐐	niukq	1
 蜺	niul	2
 䘽	niulh	0
+儿	niulu	0
 霓	nium	147
 𤦤	niumg	0
 鲵	niun	23
@@ -30561,6 +30607,7 @@ import_tables:
 硸	ntjm	1
 婩	ntjv	0
 疟	ntm	61
+谑	ntmi	0
 瘧	ntmk	0
 疟	ntmks	61
 虐	ntmy	745
@@ -30762,6 +30809,8 @@ import_tables:
 哦	ooir	25585
 噢	ook	7270
 噢	ookr	7270
+呵	oor	0
+呵	oorr	0
 偶	ou	24865
 藕	oub	501
 腢	oubb	1
@@ -30958,6 +31007,7 @@ import_tables:
 拼	pbj	2301
 琕	pbjm	1
 拼	pbjqy	2301
+苹	pbjt	15
 颦	pbjy	90
 顰	pbjyc	0
 𨏞	pbjyca	0
@@ -32572,6 +32622,7 @@ import_tables:
 柸	pwmd	1
 𩎜	pwmdq	0
 𥹂	pwmf	0
+坯	pwmg	0
 怌	pwmp	1
 抷	pwmq	0
 呸	pwmr	417
@@ -32949,6 +33000,7 @@ import_tables:
 掑	qicq	25
 䫔	qicqk	0
 唭	qicr	6
+只	qicrc	0
 踑	qicrm	1
 呮	qicrr	1
 𠴩	qicrt	0
@@ -33541,6 +33593,7 @@ import_tables:
 甠	qkmah	1
 胜	qkmbh	0
 涇	qkme	0
+烃	qkmf	0
 輕	qkmjj	0
 轻	qkmkq	5271
 硜	qkmmr	0
@@ -33856,6 +33909,7 @@ import_tables:
 千	qmjh	5221
 兛	qmjj	0
 𧘜	qmjlh	0
+干	qmjm	516
 幵	qmjmj	0
 瓩	qmjmn	0
 阡	qmjn	37
@@ -35007,6 +35061,7 @@ import_tables:
 𤿋	qthde	0
 䟩	qti	0
 汋	qtie	0
+怯	qtip	0
 䟩	qtir	0
 芍	qtit	0
 缺	qtk	3994
@@ -35544,6 +35599,7 @@ import_tables:
 𦪛	rcuhy	0
 蟯	rcul	0
 襓	rculg	0
+蛲	rculi	0
 隢	rcun	1
 饶	rcunv	737
 饒	rcuo	0
@@ -36556,6 +36612,7 @@ import_tables:
 嫂	sce	453
 𣔱	sced	0
 䑹	sceh	0
+艘	scehy	0
 㥰	scep	0
 𢜶	scepj	0
 𪍻	scer	0
@@ -36667,6 +36724,7 @@ import_tables:
 𧈈	sedy	0
 雭	see	1
 鎩	seec	0
+圾	seeg	0
 雭	seem	1
 𦐅	sees	0
 㮦	sef	0
@@ -36875,6 +36933,7 @@ import_tables:
 雉	sigok	0
 𦇲	sigvf	0
 儩	sih	4
+赐	sihb	0
 𣽷	siheb	1
 瀃	siheba	0
 儩	sihoba	4
@@ -37576,6 +37635,7 @@ import_tables:
 捽	sujqy	0
 𠻜	sujry	0
 𠐍	suk	0
+数	sukf	0
 𫂙	sukh	0
 𠐍	sukol	0
 𦌉	sukw	0
@@ -38109,6 +38169,7 @@ import_tables:
 闼	takl	28
 𠉂	tako	0
 挞	takq	54
+跶	takr	0
 达	taky	0
 𣥷	tal	0
 𣥷	talym	0
@@ -39429,7 +39490,8 @@ import_tables:
 𦊊	tmkw	0
 畋	tmkwo	13
 䚶	tmky	0
-䵺	tml	0
+腼	tml	0
+腼	tmlbm	0
 𡒧	tmlga	0
 䵺	tmlgb	0
 𠂈	tmlv	0
@@ -39981,7 +40043,7 @@ import_tables:
 團	triwj	0
 䜝	triy	0
 鷻	trk	1
-鷻	trkh	1
+鷻	trkhf	1
 痪	trkkn	0
 敦	trky	0
 𤱝	trm	0
@@ -40880,6 +40942,8 @@ import_tables:
 酾	udbm	4
 𨢦	udc	0
 𨢦	udcm	0
+杀	udd	0
+杀	uddk	0
 摋	ude	0
 𣻑	udee	0
 𩴇	udeh	0
@@ -40984,6 +41048,7 @@ import_tables:
 懾	uejps	0
 挕	uejq	1
 攝	uejqs	0
+叶	uejrj	0
 聶	uejs	0
 輋	uejuk	0
 𪨶	uejuka	2
@@ -42394,6 +42459,7 @@ import_tables:
 𨽉	uuanl	0
 咰	uuar	0
 薯	uuat	142
+𫉄	uuati	0
 𦶕	uuatl	0
 𧄔	uuato	0
 藷	uuaty	0
@@ -43377,6 +43443,7 @@ import_tables:
 輙	veej	2
 砓	veem	2
 陬	veen	0
+慑	veep	0
 遮	vef	683
 𣇧	vefab	0
 樜	vefd	1
@@ -44362,6 +44429,7 @@ import_tables:
 恃	viip	0
 𢰙	viiq	0
 抵	viiqh	0
+蛰	viiqi	0
 执	viiqk	845
 跱	viirm	2
 䟡	viirma	0
@@ -44457,10 +44525,11 @@ import_tables:
 淽	vimet	2
 址	vimg	252
 埴	vimgj	8
-凪	vimh	8
+征	vimh	86
 稙	vimhd	4
 秪	vimhda	2
 𥮖	vimhj	0
+凪	vimhn	8
 徝	vimho	1
 氐	vimhp	0
 犆	vimhq	2
@@ -44563,6 +44632,7 @@ import_tables:
 紩	viovf	4
 妷	viovh	0
 𨖋	vioy	0
+迟	vioys	0
 纸	vip	3631
 昵	vipas	0
 䏯	vipbg	0
@@ -44686,6 +44756,8 @@ import_tables:
 䣽	viwor	0
 𦭮	viwt	0
 站	vj	13656
+暂	vja	0
+暂	vjak	0
 𢅺	vjb	0
 𢅺	vjbl	0
 譧	vjc	1
@@ -45490,6 +45562,7 @@ import_tables:
 鯺	vuanf	1
 𢥃	vuap	0
 著	vuat	3225
+𫉄	vuati	2
 𩋵	vuatj	0
 藸	vuatm	2
 藷	vuaty	0
@@ -45705,6 +45778,7 @@ import_tables:
 𧉞	vunli	0
 䘢	vunlj	0
 𩶂	vunnf	0
+粥	vunnfa	0
 予	vunni	0
 佇	vunoj	0
 䍆	vunou	0
@@ -45769,7 +45843,8 @@ import_tables:
 搊	vuuq	0
 𠷅	vuur	0
 騶	vuus	0
-茁	vuut	0
+着	vuut	0
+茁	vuutu	0
 𪚹	vuuy	0
 兪	vuv	0
 兪	vuvo	0
@@ -45921,6 +45996,7 @@ import_tables:
 凖	vyj	7
 準	vyje	0
 凖	vyjig	7
+隼	vyjo	0
 敦	vyk	0
 敦	vyky	0
 甽	vyl	2
@@ -46694,7 +46770,7 @@ import_tables:
 𩅦	wjjmb	0
 夘	wjl	71
 鄤	wjla	3
-夘	wjln	71
+夘	wjlni	71
 𨞼	wjlt	0
 㘤	wjlwe	0
 湾	wjn	1427
@@ -46765,6 +46841,7 @@ import_tables:
 椀	wjud	70
 梚	wjudn	1
 涴	wjue	1
+浣	wjuej	0
 烷	wjuf	98
 埦	wjugj	1
 皖	wjuha	288
@@ -47005,15 +47082,16 @@ import_tables:
 呉	wucr	4
 𩓦	wucsu	0
 䫓	wucyr	0
-橆	wud	7
+于	wud	23
 杅	wuddm	0
 𣟒	wuddt	0
 汙	wudem	0
 𢋹	wudiy	0
 窏	wudj	2
+于	wudmd	23
 𥒀	wudmra	0
 弙	wudn	1
-橆	wudot	7
+橆	wudo	7
 𢜮	wudp	0
 扜	wudq	0
 趶	wudrm	2
@@ -48153,6 +48231,7 @@ import_tables:
 釐	xigjk	0
 壐	xigm	1
 䙵	xigmw	0
+厘	xigmwa	0
 𩛹	xigoia	0
 咥	xigrm	2
 䧿	xigt	0
@@ -48501,6 +48580,7 @@ import_tables:
 觽	xisnb	1
 𢗴	xisp	0
 㩗	xisq	0
+携	xisqo	0
 𧿝	xisrm	0
 㕧	xisrs	0
 羲	xist	103
@@ -48854,6 +48934,7 @@ import_tables:
 𨀘	xlqrma	0
 䔗	xlqti	0
 𦎈	xlqtq	0
+羊	xlqtqa	0
 𡹷	xlqun	0
 㟄	xlqut	0
 絴	xlqv	1
@@ -49256,6 +49337,7 @@ import_tables:
 揱	xmqf	0
 䉳	xmqh	0
 廯	xmqin	2
+癣	xmqkn	0
 𧕇	xmqli	0
 𩆵	xmqmb	0
 鮮	xmqnf	0
@@ -49503,6 +49585,7 @@ import_tables:
 蟂	xndl	0
 𧱐	xndmo	0
 硣	xndmr	1
+酵	xndmw	0
 侾	xndo	1
 枭	xndp	150
 𢭦	xndq	0
@@ -50586,6 +50669,8 @@ import_tables:
 𧘮	xsv	0
 𧘮	xsvy	0
 学	xt	28891
+褶	xta	0
+褶	xtal	0
 瀥	xtb	1
 𣎛	xtbbn	0
 瞲	xtbbu	0
@@ -51290,6 +51375,7 @@ import_tables:
 𥁆	xxtmh	0
 硖	xxtmr	14
 侠	xxtoka	869
+挟	xxtq	0
 嗑	xxtrg	0
 峡	xxtuk	346
 𡈮	xxtw	0
@@ -51397,6 +51483,7 @@ import_tables:
 䗼	xyfl	0
 醺	xyfm	19
 孫	xyfn	0
+孙	xyfnd	0
 鶽	xyfoj	0
 𪀽	xyfp	0
 嚑	xyfr	1
@@ -51423,8 +51510,9 @@ import_tables:
 𤛧	xyihq	0
 𥳍	xyihs	0
 攳	xyij	3
-畃	xyil	1
+𫊻	xyil	4
 蟳	xyili	0
+畃	xyill	1
 璕	xyim	3
 鲟	xyin	33
 鱘	xyinf	0
@@ -52062,6 +52150,7 @@ import_tables:
 𥌺	ycbbu	0
 鑰	ycbco	0
 㵸	ycbe	0
+淆	ycbek	0
 瀹	ycbeo	0
 肴	ycbk	61
 𢅹	ycbl	0
@@ -52079,6 +52168,7 @@ import_tables:
 𩑴	yccvi	0
 薬	ycd	10
 𤄶	ycdet	0
+乐	ycdhv	0
 𢺇	ycdq	0
 𠹑	ycdrh	0
 藥	ycdt	0
@@ -52134,6 +52224,7 @@ import_tables:
 箹	ycihv	0
 𩳔	ycijd	0
 吆	ycirv	82
+哟	ycirva	0
 𦔷	ycisj	0
 葯	ycit	0
 药	ycitv	7960
@@ -52357,6 +52448,8 @@ import_tables:
 舀	ycx	129
 舀	ycxbh	129
 𦥝	ycxh	0
+崖	yd	0
+崖	ydgu	0
 也	ye	404389
 揞	yea	0
 揞	yeaq	0
@@ -52482,7 +52575,8 @@ import_tables:
 𨽀	yekn	0
 掖	yekq	81
 㩎	yekqa	0
-擫	yekqm	0
+𢬍	yekqm	2
+擫	yekqma	0
 咽	yekr	70
 嚈	yekrm	1
 𨂒	yekrma	0
@@ -52500,6 +52594,7 @@ import_tables:
 𨉅	yelhh	0
 鄓	yelhk	1
 𥯘	yelhs	0
+琊	yelmg	0
 邪	yelmh	10
 靨	yelmk	0
 𢀘	yelml	0
@@ -53441,6 +53536,7 @@ import_tables:
 䗷	yipli	0
 䘝	yiplia	0
 𧊣	yiplib	0
+曳	yiplw	0
 𤤺	yipmg	0
 醷	yipmw	2
 䣧	yipmwa	0
@@ -56902,6 +56998,8 @@ import_tables:
 驵	zhm	10
 驵	zhmn	10
 駔	zhms	0
+臜	zho	0
+臜	zhob	0
 𢍿	zhp	0
 𢍿	zhpv	0
 牂	zhq	6
@@ -57054,6 +57152,7 @@ import_tables:
 䣎	zilvw	0
 𨚖	zily	0
 𨝳	zilyc	0
+齐	zilyk	0
 茊	zim	1
 𩐍	zimt	0
 茊	zimto	1
@@ -57879,6 +57978,8 @@ import_tables:
 捽	zyjqy	0
 奠	zyk	0
 奠	zykt	0
+圳	zyl	0
+圳	zylg	0
 𠟃	zyn	0
 𤮐	zynt	0
 𠟃	zynti	0
@@ -57927,6 +58028,7 @@ import_tables:
 𨝮	zzlsd	0
 郰	zzlsj	2
 驺	zzm	25
+诌	zzmi	0
 驺	zzmn	25
 㔌	zzn	0
 㔌	zzns	0
@@ -57937,6 +58039,7 @@ import_tables:
 鯐	zzon	0
 𩼦	zzonf	0
 𨽁	zzonl	0
+骤	zzonm	0
 䠫	zzor	0
 齺	zzu	2
 䅳	zzuhd	0
